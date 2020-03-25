@@ -26,11 +26,13 @@ cooking and the kitchen.
 
 It doesn't teach, it's not a collection of recipes, and it doesn't just describe.
 
-Instead , it analyses, considers things from multiple perspectives. It might explain why it is we now do things the way we do, or
+Instead, it analyses, considers things from multiple perspectives. It might explain why it is we now do things the way we do, or
 even describe bad ways of doing things, or obscure alternatives.
 
-It's something we might read at our leisure, away from the kitchen itself, when we want to think about cooking at a higher level, and
-to understand more about the subject.
+It deepens our knowledge and makes it richer, even if it isn't knowledge we can actually apply in any practical sense - but it doesn't need to be, in order to be valuable.
+
+It's something we might read at our leisure, away from the kitchen itself, when we want
+to think about cooking at a higher level, and to understand more about the subject.
 
 
 How to write good explanation

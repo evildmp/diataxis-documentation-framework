@@ -76,7 +76,7 @@ One of the biggest headaches that documentation maintainers have to deal with is
 
 This structure resolves those questions by making clear distinctions and separations. They make documentation that is easier to write and maintain, that’s easier to use and to find one's way around in.
 
-The documentation doesn’t write itself - but it’s now possible to write it without alsohaving to wrestle with poor fit, or unclear scope or doubt about what should be included or what style to adopt. It becomes much clearer what to write, how to write it, and where to put it.
+The documentation doesn’t write itself - but it’s now possible to write it without also having to wrestle with poor fit, or unclear scope or doubt about what should be included or what style to adopt. It becomes much clearer what to write, how to write it, and where to put it.
 
 It serves users better, because for all the different phases in the cycle of their interaction with the software they will find the right kind of documentation, that serves the needs of that moment.
 
