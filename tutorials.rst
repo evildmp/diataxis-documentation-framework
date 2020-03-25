@@ -31,7 +31,9 @@ Consider an analogy of teaching a child to cook.
 *Through* the things the child does, it will learn important things about cooking. It will learn what it is like to be in the kitchen, to use the utensils, to handle the food.
 
 
-This is because using **software, like cooking, is a matter of craft**. It’s knowledge - but it is *practical* knowledge, not *theoretical* knowledge. When we learn a new craft or skill, we always begin learning it by doing.
+This is because using **software, like cooking, is a matter of craft**. It’s knowledge - but it is *practical* knowledge, not *theoretical* knowledge.
+
+When we learn a new craft or skill, we always begin learning it by doing.
 
 
 How to write good tutorials

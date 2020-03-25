@@ -69,11 +69,15 @@ In fact, it’s extremely hard to maintain good documentation that doesn’t imp
 Once you understand the structure, it becomes a very useful tool for analysing existing documentation, and understanding what needs to be done to improve it.
 
 
-What about project (rather than product) documentation?
--------------------------------------------------------
+Making documentation work
+-------------------------
 
-You may well ask: where do things like changelogs, contribution policies, and other information about the project fit into this scheme? The answer is that they do not - because they are, strictly speaking, project documentation rather than documentation of the producr itself,
+One of the biggest headaches that documentation maintainers have to deal with is not having a clear picture of what they should be doing. They write and rewrite, but find it hard to make it fit together in satisfactory ways.
 
-They can simply be kept in appropriately-named sections alongside the other material - as long as they are not mixed up *in* it.
+This structure resolves those questions by making clear distinctions and separations. They make documentation that is easier to write and maintain, that’s easier to use and to find one's way around in.
 
-With that in mind, let's explore each of the four key functions.
+The documentation doesn’t write itself - but it’s now possible to write it without alsohaving to wrestle with poor fit, or unclear scope or doubt about what should be included or what style to adopt. It becomes much clearer what to write, how to write it, and where to put it.
+
+It serves users better, because for all the different phases in the cycle of their interaction with the software they will find the right kind of documentation, that serves the needs of that moment.
+
+Writing documentation that explicitly and distinctly addresses each of the four quadrants helps the software attract and keep more users, who will use it more effectively - and that is one of the things the creators of software want most of all.
