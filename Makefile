@@ -29,13 +29,13 @@ clean:
 	-rm -rf _build/*
 
 run:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" . -a _build/html --host 0.0.0.0 --port $(PORT)
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" . -b dirhtml -a _build/html --host 0.0.0.0 --port $(PORT)
 
 test:
 	. $(VENV); $(SPHINXBUILD) -b html . _build/html
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b html . _build/html
+	. $(VENV); $(SPHINXBUILD) -b dirhtml . _build/html
 
 spelling:
 	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) . _build/spelling
