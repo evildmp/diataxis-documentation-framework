@@ -1,0 +1,6 @@
+/*env*/
+_build
+.DS_Store
+__pycache__
+.idea/
+_templates/

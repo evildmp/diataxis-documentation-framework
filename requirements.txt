@@ -1,0 +1,6 @@
+divio-docs-theme
+pyenchant
+sphinx
+sphinx-autobuild
+sphinx_rtd_theme
+sphinxcontrib-spelling
