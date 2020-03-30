@@ -28,7 +28,7 @@ This system is a way to make your documentation better, not by working harder at
 The 'secret'
 ~~~~~~~~~~~~
 
-It's not really a secret: documentation needs to include and be structured around its **four different functions**: *tutorials*, *how-to guides*, *technical reference* and *explanation*. Each of them **requires a distinct mode of writing**. People working with software need these four different kinds of documentation at different times, in different circumstances - so software usually needs them all.
+It's not actually a secret and it certainly shouldn't be: documentation needs to include and be structured around its **four different functions**: *tutorials*, *how-to guides*, *technical reference* and *explanation*. Each of them **requires a distinct mode of writing**. People working with software need these four different kinds of documentation at different times, in different circumstances - so software usually needs them all, and they should all be integrated into your documentation.
 
 And documentation needs to be explicitly structured around them, and they all must be kept separate and distinct from each other.
 
@@ -37,10 +37,10 @@ And documentation needs to be explicitly structured around them, and they all mu
    :header-rows: 1
 
    * - \
-     - Tutorials
-     - How-to guides
-     - Reference
-     - Explanation
+     - :ref:`Tutorials <tutorials>`
+     - :ref:`How-to guides <how-to>`
+     - :ref:`Reference <reference>`
+     - :ref:`Explanation <explanation>`
    * - *oriented to*
      - learning
      - a goal
@@ -62,21 +62,33 @@ And documentation needs to be explicitly structured around them, and they all mu
      - a reference encyclopaedia article
      - an article on culinary social history
 
-This division makes it obvious to both author and reader what information goes where. It tells the author how to write, and what to write, and where to write it. It saves the author from wasting a great deal of time trying to wrestle the information they want to impart into a shape that makes sense, because **each of these kinds of documentation has only one job**.
+This division makes it obvious to both author and reader what material, and what *kind* of material, goes where. It tells the
+author **how to write**, and **what to write**, and **where to write it**. It saves the author from wasting a great deal of time
+trying to wrestle the information they want to impart into a shape that makes sense, because **each of these kinds of
+documentation has only one job**.
 
 In fact, it’s extremely hard to maintain good documentation that doesn’t implicitly or explicitly recognise the quadrants of this scheme. The demands of each kind are different from those of the others, so **any attempt at documentation that fails to maintain this structure suffers**, as it’s pulled in different directions at once.
 
 Once you understand the structure, it becomes a very useful tool for analysing existing documentation, and understanding what needs to be done to improve it.
 
+In the following sections, each of these four parts is dealt with in detail.
+
 
 Making documentation work
 -------------------------
+
+For authors
+~~~~~~~~~~~
 
 One of the biggest headaches that documentation maintainers have to deal with is not having a clear picture of what they should be doing. They write and rewrite, but find it hard to make it fit together in satisfactory ways.
 
 This structure resolves those questions by making clear distinctions and separations. They make documentation that is easier to write and maintain, that’s easier to use and to find one's way around in.
 
 The documentation doesn’t write itself - but it’s now possible to write it without also having to wrestle with poor fit, or unclear scope or doubt about what should be included or what style to adopt. It becomes much clearer what to write, how to write it, and where to put it.
+
+
+For readers
+~~~~~~~~~~~
 
 It serves users better, because for all the different phases in the cycle of their interaction with the software they will find the right kind of documentation, that serves the needs of that moment.
 

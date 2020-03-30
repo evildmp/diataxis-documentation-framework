@@ -1,3 +1,5 @@
+.. _tutorials:
+
 Tutorials
 =========
 
@@ -13,7 +15,14 @@ The important thing is that having done the tutorial, the learner is in a positi
 
 Most software projects have really bad - or non-existent - tutorials. Tutorials are what will turn your learners into users. **A bad or missing tutorial will prevent your project from acquiring new users.**
 
-Good tutorials are very difficult to write. They need to be useful for the beginner, easy to follow, meaningful and extremely robust.
+Of the sections describing the four kinds of documentation, this is by far the longest - that's because tutorials are the most
+misunderstood and most difficult to do well. The best way of teaching is to have a teacher present, interacting with the
+student. That's rarely possible, and our written tutorials will be at best a far-from-perfect substitute. That's all the more
+reason to pay special attention to them.
+
+Tutorials need to be useful for the beginner, easy to follow, meaningful and extremely robust, and kept up-to-date. You might
+well find that writing and maintaining your tutorials can occupy as much time and energy as the the other three parts put
+together.
 
 
 Analogy from cooking
