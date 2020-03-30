@@ -51,6 +51,17 @@ except ModuleNotFoundError:
 else:
     html_theme = 'divio_docs_theme'
     html_theme_path = [divio_docs_theme.get_html_theme_path()]
+    html_theme_options = {
+        'show_cloud_banner': True,
+        'cloud_banner_markup': """
+            <div class="divio-cloud">
+                <span class="divio-cloud-caption">Cloud management by Divio</span>
+                <p>If you like our attitude to documentation, you'll love the way we do cloud management.</p>
+                <a class="btn-neutral divio-cloud-btn" target="_blank" href="https://goo.gl/nHv16j">Talk to us</a>
+            </div>
+        """,
+    }
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
@@ -58,3 +69,5 @@ else:
 html_static_path = ['_static']
 
 master_doc = 'index'
+
+
