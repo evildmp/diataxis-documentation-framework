@@ -11,7 +11,7 @@ Explanations can equally well be described as *discussions*; they are discursive
 
 This section of documentation is rarely explicitly created, and instead, snippets of explanation are scattered amongst other sections. Sometimes, the section exists, but has a name such as *Background* or *Other notes* or *Key topics* - these names are not always useful.
 
-Discussions are less easy to create than it might seem - things that are straightforward to explain when you have the starting-point of someone’s question are less easy when you have a blank page and and have to write down something about it.
+Discussions are less easy to create than it might seem - things that are straightforward to explain when you have the starting-point of someone’s question are less easy when you have a blank page and have to write down something about it.
 
 A topic isn’t defined by a specific task you want to achieve, like a how-to guide, or what you want the user to learn, like a tutorial. It’s not defined by a piece of the machinery, like reference material. It’s defined by what **you** think is a reasonable area to try to cover at one time, so the division of topics for discussion can sometimes be a little arbitrary.
 
@@ -23,7 +23,7 @@ Analogy from cooking
    :align: right
    :width: 379
 
-Think about a work that discusses food and cooking in the context of history, science and technology. It's *about*
+Think about a work that discusses food and cooking in the context of history, science, and technology. It's *about*
 cooking and the kitchen.
 
 It doesn't teach, it's not a collection of recipes, and it doesn't just describe.
@@ -37,7 +37,7 @@ It's something we might read at our leisure, away from the kitchen itself, when 
 to think about cooking at a higher level, and to understand more about the subject.
 
 
-How to write good explanation
+How to write a good explanation
 ----------------------------------
 
 Provide context
@@ -51,7 +51,7 @@ They can also explain *why* things are so - design decisions, historical reasons
 Discuss alternatives and opinions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Explanation can consider alternatives**, or multiple different approaches to the same question. For example, in an article on Django deployment, it would be appropriate to consider and evaluate different web server options,
+**Explanations can consider alternatives**, or multiple different approaches to the same question. For example, in an article on Django deployment, it would be appropriate to consider and evaluate different web server options,
 
 Discussions can even consider and weigh up contrary *opinions* - for example, whether test modules should be in a package directory, or not.
 
@@ -59,4 +59,4 @@ Discussions can even consider and weigh up contrary *opinions* - for example, wh
 Don't instruct, or provide technical reference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Eplanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical describe. These functions of documentation are already taken care of in other sections.
+**Explanations should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user on how to do something. Nor should it provide technical describe. These functions of documentation are already taken care of in other sections.
