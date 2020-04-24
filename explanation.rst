@@ -59,4 +59,4 @@ Discussions can even consider and weigh up contrary *opinions* - for example, wh
 Don't instruct, or provide technical reference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Eplanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical describe. These functions of documentation are already taken care of in other sections.
+**Eplanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical descriptions. These functions of documentation are already taken care of in other sections.
