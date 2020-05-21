@@ -9,7 +9,7 @@ Reference guides have one job only: to describe. They are code-determined, becau
 
 Reference material is **information-oriented**.
 
-By all means technical reference can contain examples to illustrate usage, but it should not attempt to explain basic concepts, or how to achieve achieve common tasks.
+By all means technical reference can contain examples to illustrate usage, but it should not attempt to explain basic concepts, or how to achieve common tasks.
 
 Reference material should be **austere and to the point**.
 
