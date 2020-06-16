@@ -59,7 +59,7 @@ And documentation needs to be explicitly structured around them, and they all mu
    * - *analogy*
      - teaching a small child how to cook
      - a recipe in a cookery book
-     - a reference encyclopaedia article
+     - a reference encyclopedia article
      - an article on culinary social history
 
 This division makes it obvious to both author and reader what material, and what *kind* of material, goes where. It tells the
