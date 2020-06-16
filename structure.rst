@@ -44,7 +44,7 @@ Good examples of the scheme in substantial projects include:
 
 * the `Divio Developer Handbook <https://docs.divio.com>`_
 * `Django's documentation <https://docs.djangoproject.com/en/3.0/#how-the-documentation-is-organized>`_
-* `django CMS's documentation <http://docs.django-cms.org>`_
+* `Django CMS's documentation <http://docs.django-cms.org>`_
 
 It's possible to use the system even in very minimal documentation, for example `CoReport (an open-source COVID-19 reporting
 project) <https://docs.coreport.ch>`_. Here, applying the system creates a framework for future documentation, helping ensure that
