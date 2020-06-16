@@ -9,7 +9,7 @@ They are **understanding-oriented**.
 
 Explanations can equally well be described as *discussions*; they are discursive in nature. They are a chance for the documentation to relax and step back from the software, taking a wider view, illuminating it from a higher level or even from different perspectives. You might imagine a discussion document being read at leisure, rather than over the code.
 
-This section of documentation is rarely explicitly created, and instead, snippets of explanation are scattered amongst other sections. Sometimes, the section exists, but has a name such as *Background* or *Other notes* or *Key topics* - these names are not always useful.
+This section of documentation is rarely explicitly created, and instead, snippets of explanation are scattered among other sections. Sometimes, the section exists, but has a name such as *Background* or *Other notes* or *Key topics* - these names are not always useful.
 
 Discussions are less easy to create than it might seem - things that are straightforward to explain when you have the starting-point of someone’s question are less easy when you have a blank page and and have to write down something about it.
 
@@ -43,7 +43,7 @@ How to write good explanation
 Provide context
 ~~~~~~~~~~~~~~~
 
-**Explanations are the place for background and context** - for example, *Web forms and how they are handled in Django*, or *Search in django CMS*.
+**Explanations are the place for background and context** - for example, *Web forms and how they are handled in Django*, or *Search in Django CMS*.
 
 They can also explain *why* things are so - design decisions, historical reasons, technical constraints.
 
@@ -51,7 +51,7 @@ They can also explain *why* things are so - design decisions, historical reasons
 Discuss alternatives and opinions
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Explanation can consider alternatives**, or multiple different approaches to the same question. For example, in an article on Django deployment, it would be appropriate to consider and evaluate different web server options,
+**Explanations can consider alternatives**, or multiple different approaches to the same question. For example, in an article on Django deployment, it would be appropriate to consider and evaluate different web server options,
 
 Discussions can even consider and weigh up contrary *opinions* - for example, whether test modules should be in a package directory, or not.
 
@@ -59,4 +59,4 @@ Discussions can even consider and weigh up contrary *opinions* - for example, wh
 Don't instruct, or provide technical reference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Eplanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical describe. These functions of documentation are already taken care of in other sections.
+**Explanations should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical describe. These functions of documentation are already taken care of in other sections.
