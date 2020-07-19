@@ -18,7 +18,7 @@ The problem it solves
 It doesn’t matter how good your product is, because **if its documentation is not good enough, people will not use it**. Even if  they have to use it because they have no choice, without good documentation, they won’t use it effectively or the way
 you’d like them to.
 
-Nearly everyone understands this. Nearly everyone knows that that they need good documentation, and **most people try to create good documentation**. And **most people fail**.
+Nearly everyone understands this. Nearly everyone knows that they need good documentation, and **most people try to create good documentation**. And **most people fail**.
 
 Usually, it’s not because they don’t try hard enough. Usually, it’s because they are not doing it the right way.
 

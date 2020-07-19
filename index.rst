@@ -1,5 +1,21 @@
+.. raw:: html
+
+    <style>
+        .quote {font-size: x-large; font-style: italic; margin: 3em 0 .5em 10%;}
+        .attribution {margin: 0 0 3em 10%; font-size: large}
+    </style>
+
+
 The documentation system
 ================================================
+
+.. rst-class:: quote
+
+  "The Grand Unified Theory of Documentation"
+
+.. rst-class:: attribution
+
+  \- David Laing
 
 There is a secret that needs to be understood in order to write good software documentation: there isn’t one
 thing called *documentation*, there are four.

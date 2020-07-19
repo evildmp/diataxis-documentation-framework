@@ -55,9 +55,10 @@ else:
         'show_cloud_banner': True,
         'cloud_banner_markup': """
             <div class="divio-cloud">
-                <span class="divio-cloud-caption">Cloud management by Divio</span>
-                <p>If you like our attitude to documentation, you'll love the way we do cloud management.</p>
-                <a class="btn-neutral divio-cloud-btn" target="_blank" href="https://goo.gl/nHv16j">Talk to us</a>
+                <span class="divio-cloud-caption">Cloud deployment by Divio</span>
+                <iframe src="https://player.vimeo.com/video/435660924" width="226" height="141" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                <p>There's a better, faster, easier way to develop, deploy and manage web applications.</p>
+                <a class="btn-neutral divio-cloud-btn" target="_blank" href="https://www.divio.com">Find out more at Divio</a>
             </div>
         """,
     }

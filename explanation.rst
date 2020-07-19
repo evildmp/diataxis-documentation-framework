@@ -11,7 +11,7 @@ Explanations can equally well be described as *discussions*; they are discursive
 
 This section of documentation is rarely explicitly created, and instead, snippets of explanation are scattered amongst other sections. Sometimes, the section exists, but has a name such as *Background* or *Other notes* or *Key topics* - these names are not always useful.
 
-Discussions are less easy to create than it might seem - things that are straightforward to explain when you have the starting-point of someone’s question are less easy when you have a blank page and and have to write down something about it.
+Discussions are less easy to create than it might seem - things that are straightforward to explain when you have the starting-point of someone’s question are less easy when you have a blank page and have to write down something about it.
 
 A topic isn’t defined by a specific task you want to achieve, like a how-to guide, or what you want the user to learn, like a tutorial. It’s not defined by a piece of the machinery, like reference material. It’s defined by what **you** think is a reasonable area to try to cover at one time, so the division of topics for discussion can sometimes be a little arbitrary.
 
@@ -37,7 +37,7 @@ It's something we might read at our leisure, away from the kitchen itself, when 
 to think about cooking at a higher level, and to understand more about the subject.
 
 
-How to write good explanation
+How to write a good explanation
 ----------------------------------
 
 Provide context
@@ -59,4 +59,4 @@ Discussions can even consider and weigh up contrary *opinions* - for example, wh
 Don't instruct, or provide technical reference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Eplanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical descriptions. These functions of documentation are already taken care of in other sections.
+**Explanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical description. These functions of documentation are already taken care of in other sections.
