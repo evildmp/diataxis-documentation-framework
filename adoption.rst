@@ -19,6 +19,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Lisk <https://lisk.io>`_
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
+* `PDFminer.six <https://pdfminersix.readthedocs.io>`_
 * `PostgREST <http://postgrest.org>`_
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * Tesla Motors (internal)
@@ -28,7 +29,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 
 
 Other mentions and references of interest
------------------------------------
+-----------------------------------------
 
 * `Django Axes proposal <https://github.com/jazzband/django-axes/issues/410>`_
 * `GitLab <https://docs.gitlab.com/ee/development/documentation/styleguide.html#no-special-types>`_, `GitLab's Data
