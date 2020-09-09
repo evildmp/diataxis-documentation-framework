@@ -15,7 +15,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
-* IBM for `StrongLoop/LoopBack <loopback.io/doc/en/lb4>`_
+* IBM for `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_
 * `Lisk <https://lisk.io>`_
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
