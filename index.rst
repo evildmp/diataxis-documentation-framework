@@ -11,7 +11,7 @@ The documentation system
 
 .. rst-class:: quote
 
-  "The Grand Unified Theory of Documentation"
+  The Grand Unified Theory of Documentation
 
 .. rst-class:: attribution
 
@@ -41,6 +41,8 @@ to be a secret, though they shouldn’t be.
 If you can put these principles into practice, **it will make your documentation better and your project, product
 or team more successful** - that’s a promise.
 
+:ref:`The system is widely adopted <adoption>` for large and small, open and proprietary documentation projects.
+
 
 .. toctree::
    :maxdepth: 0
@@ -52,6 +54,7 @@ or team more successful** - that’s a promise.
    reference
    explanation
    structure
+   adoption
 
 
 Video presentation
