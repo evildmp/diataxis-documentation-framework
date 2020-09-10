@@ -14,6 +14,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library
 * `Cloudflare Workers docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_ (related article, `New and
   improved Workers Docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_)
+* `Divio <https://docs.divio.com/>`_
 * `Django <https://docs.djangoproject.com/en/dev/#how-the-documentation-is-organized>`_
 * `django CMS <https://docs.django-cms.org>`_
 * Ericsson (internal)
