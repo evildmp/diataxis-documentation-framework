@@ -6,8 +6,12 @@ Who is using the system?
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
-* `BrachioGraph, the cheapest, simplest pen-plotter <https://www.brachiograph.art>`_
+* `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
+* `BeeWare <https://beeware.org>`_, the write-once-deploy-anywhere project, for `Toga <https://toga.readthedocs.io>`_,
+  `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
+  <https://rubicon-objc.readthedocs.io>`_.
 * Bosch (internal)
+* `Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library
 * `Cloudflare Workers docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_ (related article, `New and
   improved Workers Docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_)
 * `Django <https://docs.djangoproject.com/en/dev/#how-the-documentation-is-organized>`_
@@ -15,7 +19,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
-* IBM for `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_
+* `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `Lisk <https://lisk.io>`_
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
@@ -23,7 +27,6 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `PostgREST <http://postgrest.org>`_
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * Tesla Motors (internal)
-* `TYPO3 <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingContent/Index.html>`_
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * Zalando (internal)
 
@@ -41,3 +44,4 @@ Other mentions and references of interest
   <https://lab.kb.nl/about-us/blog/documentation>`_
 * `Tutorials in Jenkins user documentation
   <https://www.jenkins.io/blog/2017/11/27/tutorials-in-the-jenkins-user-documentation/>`_
+* `TYPO3 <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-us/WritingContent/Index.html>`_
