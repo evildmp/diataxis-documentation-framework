@@ -1,4 +1,4 @@
-divio-docs-theme==0.0.21
+divio-docs-theme
 pyenchant
 sphinx
 sphinx-autobuild
