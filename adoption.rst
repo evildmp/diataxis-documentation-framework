@@ -17,11 +17,15 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Divio <https://docs.divio.com/>`_
 * `Django <https://docs.djangoproject.com/en/dev/#how-the-documentation-is-organized>`_
 * `django CMS <https://docs.django-cms.org>`_
+* `edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset Optimisation
 * Ericsson (internal)
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `Lisk <https://lisk.io>`_
+* `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
+* `NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library for computing Nash equilibria
+* `nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing students' assignments in Jupyter Notebooks
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
 * `PDFminer.six <https://pdfminersix.readthedocs.io>`_
