@@ -3,6 +3,11 @@
 Who is using the system?
 ========================
 
+..  sidebar:: Not listed here?
+
+    If you're using the system, or are in the process of adopting it, please let us know if you'd like to be
+    listed here.
+
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
