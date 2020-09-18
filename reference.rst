@@ -67,3 +67,21 @@ Be accurate
 
 **These descriptions must be accurate and kept up-to-date.** Any discrepancy between the machinery and your description of it will inevitably lead a user astray.
 
+
+Example from Divio's documentation
+----------------------------------
+
+Have a look at `an example from our technical reference section <https://docs.divio.com/en/latest/reference/divio-cli>`_.
+
+.. image:: /images/django-reference-example.png
+   :alt: 'Django reference example'
+   :align: right
+   :width: 379
+
+This is a typical reference guide (in this case, for our Divio CLI).
+
+Description is all this article does, setting out in a complete and accurate form the functions, commands and options
+of the tool.
+
+It's hardly a friendly or engaging read, but its purpose is to make looking up information about functionality as swift
+and distraction-free as possible.

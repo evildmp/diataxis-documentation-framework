@@ -60,3 +60,25 @@ Don't instruct, or provide technical reference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Explanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical description. These functions of documentation are already taken care of in other sections.
+
+
+Example from Divio's documentation
+----------------------------------
+
+Have a look at `our explanation section <https://docs.divio.com/en/latest/reference/divio-cli>`_ (titled "Background" -
+the name is not important as long as the purpose is clear).
+
+.. image:: /images/divio-explanation-example.png
+   :alt: 'Django explanation example'
+   :align: right
+   :width: 379
+
+These articles don’t teach anything. They don’t tell the user what to do. They aren’t reference guides. They just
+discuss particular topics. The user doesn’t *need* to know about (for example) caching or CDN or how we manage
+environment variables in order to use the platform or achieve any particular task, but the time is likely to come when
+someone's experience and use of the platform will be improved by having a clearer, better, deeper understanding of
+those things.
+
+These articles provide the bigger picture, the context. Users are human beings; maybe they don’t strictly need to know
+why we do a certain thing a certain way, but knowing it might well provide them with a kind of satisfaction and comfort
+that makes them a happier user of the product.

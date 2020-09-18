@@ -79,3 +79,20 @@ Name guides well
 ~~~~~~~~~~~~~~~~
 
 **The title of a how-to document should tell the user exactly what it does.** *How to create a class-based view* is a good title. *Creating a class-based view* or worse, *Class-based views*, are not.
+
+
+Example from Divio's documentation
+----------------------------------
+
+Have a look at `our how-to guides <https://docs.divio.com/en/latest/how-to>`_.
+
+.. image:: /images/django-how-to-example.png
+   :alt: 'Django how-to example'
+   :align: right
+   :width: 379
+
+Each one of these is an answer to a question, or problem: *how do I...?* Each title can clearly be preceded by the
+words “How to”. Each one is a recipe, that takes you through the steps required to complete a specific task.
+
+Although both the tutorials and the how-to guides serve the needs of the user, the tutorials are led by the author who
+knows what the user needs to know, while the how-to guides are led by the user who asks the questions.

@@ -111,3 +111,21 @@ Focus only on the steps the user needs to take
 
 **Your tutorial needs to be focused on the task in hand.** Maybe the command you’re introducing has many other options, or maybe there are different ways to access a certain API. It doesn’t matter: right now, your learner does not need to know about those in order to make progress.
 
+
+Example from Divio's documentation
+----------------------------------
+
+Have a look at `our tutorials <https://docs.divio.com/en/latest/introduction>`_.
+
+.. image:: /images/django-tutorial-example.png
+   :alt: 'Django tutorial example'
+   :align: right
+   :width: 379
+
+In particular, see the tutorial for Django. The promise that the tutorial makes is: if you have the basic knowledge
+required to follow this tutorial, and you follow its directions, you will end up with with a working Django web
+application, complete with Postgres database, S3 media storage, and so on. In order to work as a tutorial, it has to
+fulfil that promise.
+
+Note that it doesn’t tell you what you will *learn*, just what you will *do*. The learning comes out of that doing. The
+tutorial takes full responsibility for what you will do and the order in which you will do it.
