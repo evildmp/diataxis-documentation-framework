@@ -36,6 +36,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `PDFminer.six <https://pdfminersix.readthedocs.io>`_
 * `PostgREST <http://postgrest.org>`_
 * `PIconnect <https://piconnect.readthedocs.io>`_
+* `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * Zalando (internal)
