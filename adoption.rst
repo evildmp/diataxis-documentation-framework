@@ -43,6 +43,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_
 * Zalando (internal)
+* Gorgonia <https://gorgonia.org>, Documentation website of Gorgonia, a library to facilitate deep-learning in Go
 
 
 Other mentions and references of interest
