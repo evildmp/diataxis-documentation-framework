@@ -65,7 +65,7 @@ Don't instruct, or provide technical reference
 Example from Divio's documentation
 ----------------------------------
 
-Have a look at `our explanation section <https://docs.divio.com/en/latest/reference/divio-cli>`_ (titled "Background" -
+Have a look at `our explanation section <https://docs.divio.com/en/latest/background/>`_ (titled "Background" -
 the name is not important as long as the purpose is clear).
 
 .. image:: /images/divio-explanation-example.png
