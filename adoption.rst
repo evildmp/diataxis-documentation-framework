@@ -26,6 +26,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
+* `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `Lisk <https://lisk.io>`_
 * `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
