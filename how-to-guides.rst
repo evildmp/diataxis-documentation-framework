@@ -40,7 +40,7 @@ How to write good how-to guides
 Provide a series of steps
 ~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**How-to guides must contain a list of steps, that need to be followed in order** (just like tutorials to). You don’t have to start at the very beginning, just at a reasonable starting point. How-to guides should be reliable, but they don’t need to have the cast-iron repeatability of a tutorial.
+**How-to guides must contain a list of steps, that need to be followed in order** (just like tutorials do). You don’t have to start at the very beginning, just at a reasonable starting point. How-to guides should be reliable, but they don’t need to have the cast-iron repeatability of a tutorial.
 
 
 Focus on results
