@@ -23,6 +23,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Django <https://docs.djangoproject.com/en/dev/#how-the-documentation-is-organized>`_
 * `django CMS <https://docs.django-cms.org>`_
 * `edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset Optimisation
+* `Encore <https://encore.dev/docs>`_, a framework for rapid backend development
 * Ericsson (internal)
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
