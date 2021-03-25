@@ -38,6 +38,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
+* `Wechaty <https://wechaty.js.org/docs/>`_
 * Zalando (internal)
 
 
