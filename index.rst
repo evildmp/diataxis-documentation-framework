@@ -21,8 +21,8 @@ Diátaxis - a documentation authoring framework
 
     From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, "across", and *taxis*, "arrangement".
 
-Diátaxis aims to solve the problem of structure in technical documentation, by providing a systematic approach to
-understanding the needs of documentation users in their cycle of interaction with a product.
+The Diátaxis framework aims to solve the problem of structure in technical documentation, by providing a systematic
+approach to understanding the needs of documentation users in their cycle of interaction with a product.
 
 =============
 
