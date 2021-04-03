@@ -3,11 +3,12 @@
 Reference guides
 =================
 
-Reference guides are *technical descriptions of the machinery* and how to operate it.
+..  rubric:: Reference guides are **technical descriptions** of the machinery and how to operate it. Reference material
+    is **information-oriented**.
+
+===========
 
 Reference guides have one job only: to describe. They are code-determined, because ultimately that's what they describe: key classes, functions, APIs, and so they should list things like functions, fields, attributes and methods, and set out how to use them.
-
-Reference material is **information-oriented**.
 
 By all means technical reference can contain examples to illustrate usage, but it should not attempt to explain basic concepts, or how to achieve common tasks.
 
@@ -18,6 +19,8 @@ Note that description **does** include basic description of how to use the machi
 For some developers, reference guides are the only kind of documentation they can imagine. They already understand their software, they know how to use it. All they can imagine that other people might need is technical information about it.
 
 Reference material tends to be written well. It can even - to some extent - be generated automatically, but this is never sufficient on its own.
+
+===============
 
 Analogy from cooking
 --------------------
@@ -38,6 +41,13 @@ basic facts, such as *ginger is a member of the family that includes turmeric an
 This is also where you'd expect to be alerted about potential problems, such as: *ginger is known to provoke heartburn in some
 individuals* or: *ginger may interfere with the effects of anticoagulants, such as warfarin or aspirin*.
 
+===============
+
+..  sidebar:: Style and form
+
+    * austere and uncompromising
+    * neutrality, objectivity, factuality
+    * structured according to the structure of the machinery itself
 
 How to write good reference guides
 ----------------------------------
@@ -67,6 +77,7 @@ Be accurate
 
 **These descriptions must be accurate and kept up-to-date.** Any discrepancy between the machinery and your description of it will inevitably lead a user astray.
 
+==============
 
 Example from Divio's documentation
 ----------------------------------

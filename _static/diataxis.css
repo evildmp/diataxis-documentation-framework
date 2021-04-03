@@ -1,0 +1,56 @@
+h1 {
+  font-size: 32px;
+  font-weight: 600;
+  line-height: 48px;
+  margin-top: 60px;
+  margin-bottom: 30px;
+}
+
+h2 {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+h3 {
+  font-size: 20px;
+  line-height: 28px;
+}
+
+h4,
+h5,
+h6 {
+  font-size: 18px;
+  line-height: 25px;
+}
+
+.embed-responsive {
+  position: relative;
+  width: 100%;
+}
+  .embed-responsive:before {
+    display: block;
+    content: "";
+  }
+  .embed-responsive-item,
+  .embed-responsive iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+  }
+
+.embed-responsive-16by9::before {
+    padding-top: 56.25%;
+}
+
+.embed-responsive-4by3::before {
+    padding-top: 75%;
+}
+
+article .sidebar {width: 35%; border-color: #FF9300;}
+article p.sidebar-title {background: #FF9300;}
+article ul {margin-left: .5em;}
+
+
+hr.docutils {background-color: #FF9300;}

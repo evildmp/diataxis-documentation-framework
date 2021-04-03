@@ -32,6 +32,9 @@ It's not actually a secret and it certainly shouldn't be: documentation needs to
 
 And documentation needs to be explicitly structured around them, and they all must be kept separate and distinct from each other.
 
+================
+
+
 .. list-table::
    :widths: 16 21 21 21 21
    :header-rows: 1
@@ -67,11 +70,15 @@ author **how to write**, and **what to write**, and **where to write it**. It sa
 trying to wrestle the information they want to impart into a shape that makes sense, because **each of these kinds of
 documentation has only one job**.
 
+================
+
 In fact, it’s extremely hard to maintain good documentation that doesn’t implicitly or explicitly recognise the quadrants of this scheme. The demands of each kind are different from those of the others, so **any attempt at documentation that fails to maintain this structure suffers**, as it’s pulled in different directions at once.
 
 Once you understand the structure, it becomes a very useful tool for analysing existing documentation, and understanding what needs to be done to improve it.
 
 In the following sections, each of these four parts is dealt with in detail.
+
+================
 
 
 Making documentation work

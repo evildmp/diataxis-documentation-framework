@@ -3,9 +3,12 @@
 Explanation
 =================
 
-Explanation, or discussions, *clarify and illuminate a particular topic*. They broaden the documentation’s coverage of a topic.
+..  rubric:: Explanation are **discussions** that clarify and illuminate a particular topic. Explanation is
+    **understanding-oriented**.
 
-They are **understanding-oriented**.
+===========
+
+Explanations broaden the documentation’s coverage of a topic.
 
 Explanations can equally well be described as *discussions*; they are discursive in nature. They are a chance for the documentation to relax and step back from the software, taking a wider view, illuminating it from a higher level or even from different perspectives. You might imagine a discussion document being read at leisure, rather than over the code.
 
@@ -36,9 +39,17 @@ It deepens our knowledge and makes it richer, even if it isn't knowledge we can 
 It's something we might read at our leisure, away from the kitchen itself, when we want
 to think about cooking at a higher level, and to understand more about the subject.
 
+==============
 
 How to write a good explanation
 ----------------------------------
+
+..  sidebar:: Things to discuss
+
+    * the bigger picture
+    * history
+    * choices, alternatives, possibilities
+    * why: reasons and justifications
 
 Provide context
 ~~~~~~~~~~~~~~~
@@ -61,6 +72,7 @@ Don't instruct, or provide technical reference
 
 **Explanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical description. These functions of documentation are already taken care of in other sections.
 
+==============
 
 Example from Divio's documentation
 ----------------------------------

@@ -33,12 +33,10 @@ Given these overlaps, it's not surprising that the different kinds of documentat
 .. image:: /images/collapse.png
    :alt: 'collapse of the documentation structure'
 
+================
 
 Adoption of the system
 -----------------------
-
-
-Though it's rare to find it clear examples of it used fully, a great deal of documentation recognises, in different ways, each of these four functions.
 
 Good examples of the scheme in substantial projects include:
 
@@ -63,6 +61,8 @@ are studying* side of the system, so it's natural to include them in a workshop.
 In each case though, however minimal or even incomplete, the system is respected and the clear distinction between sections and
 their purposes will benefit the author and user right away, and help guide the expansion of the material as it develops in the
 future.
+
+================
 
 
 About the analysis and its application

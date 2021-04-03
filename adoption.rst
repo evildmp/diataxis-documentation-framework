@@ -1,7 +1,7 @@
 ..  _adoption:
 
-Who is using the system?
-========================
+Adoption of the Diátaxis framework
+=============================================
 
 ..  sidebar:: Not listed here?
 
@@ -28,6 +28,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `Lisk <https://lisk.io>`_
+* `Livepeer <https://livepeer.org>`_
 * `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
 * `NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library for computing Nash equilibria
 * `nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing students' assignments in Jupyter Notebooks

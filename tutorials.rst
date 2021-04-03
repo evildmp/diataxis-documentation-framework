@@ -3,9 +3,13 @@
 Tutorials
 =========
 
-Tutorials are *lessons* that take the reader by the hand through a series of steps to complete a project of some kind. They are what your project needs in order to show a beginner that they can achieve something with it.
+..  rubric:: Tutorials are **lessons** that take the reader by the hand through a series of steps to complete a project of some kind. Tutorials are **learning-oriented**.
 
-They are wholly **learning-oriented**, and specifically, they are oriented towards *learning how* rather than *learning that*.
+===========
+
+Tutorials are what your project needs in order to show a beginner that they can achieve something with it.
+
+They are wholly learning-oriented, and specifically, they are oriented towards *learning how* rather than *learning that*.
 
 **You are the teacher**, and you are **responsible** for what the student will do. Under **your** instruction, the student will execute a series of actions to achieve some **end**.
 
@@ -24,6 +28,7 @@ Tutorials need to be useful for the beginner, easy to follow, meaningful and ext
 well find that writing and maintaining your tutorials can occupy as much time and energy as the the other three parts put
 together.
 
+===============
 
 Analogy from cooking
 --------------------
@@ -44,9 +49,18 @@ This is because using **software, like cooking, is a matter of craft**. It’s k
 
 When we learn a new craft or skill, we always begin learning it by doing.
 
+=================
 
 How to write good tutorials
 ---------------------------
+
+..  sidebar:: Anti-pedagogical temptations
+
+    * abstraction, generalisation
+    * explanation
+    * choices
+    * information
+
 
 Allow the user to learn by doing
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -110,6 +124,8 @@ Focus only on the steps the user needs to take
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Your tutorial needs to be focused on the task in hand.** Maybe the command you’re introducing has many other options, or maybe there are different ways to access a certain API. It doesn’t matter: right now, your learner does not need to know about those in order to make progress.
+
+=================
 
 
 Example from Divio's documentation

@@ -6,7 +6,7 @@
     </style>
 
 
-The documentation system
+Diátaxis - a documentation authoring framework
 ================================================
 
 .. rst-class:: quote
@@ -17,31 +17,44 @@ The documentation system
 
   \- David Laing
 
-There is a secret that needs to be understood in order to write good software documentation: there isn’t one
-thing called *documentation*, there are four.
+..  sidebar:: *Diátaxis*
 
-They are: *tutorials*, *how-to guides*, *technical reference* and *explanation*. They represent four different
-purposes or functions, and require four different approaches to their creation. Understanding the implications of
-this will help improve most documentation - often immensely.
+    From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, "across", and *taxis*, "arrangement".
 
+Diátaxis aims to solve the problem of structure in technical documentation, by providing a systematic approach to
+understanding the needs of documentation users in their cycle of interaction with a product.
 
-About the system
-----------------
+=============
+
+The framework identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
+**explanation** - each of which answers to a different user need, fulfils a different purpose and requires a different
+approach to its creation.
 
 .. image:: /images/overview.png
    :alt: 'overview of the documentation system'
 
+In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
+of this will help improve most documentation - often immensely.
 
-The documentation system outlined here is a simple, comprehensive and nearly universally-applicable scheme. It
-is proven in practice across a wide variety of fields and applications.
 
-There are some very simple principles that govern documentation that are very rarely if ever spelled out. They seem
-to be a secret, though they shouldn’t be.
+Diátaxis promises to make documentation and projects better, and the teams that work with them more successful.
 
-If you can put these principles into practice, **it will make your documentation better and your project, product
-or team more successful** - that’s a promise.
+====================
 
-:ref:`The system is widely adopted <adoption>` for large and small, open and proprietary documentation projects.
+
+Light-weight and easily adopted
+-----------------------------------
+
+The framework is light-weight, easy to understand and straightforward to apply. It doesn't impose implementation
+constraints.
+
+Complete and comprehensive
+----------------------------
+
+Diátaxis provides a comprehensive and nearly universally-applicable scheme, that has been :ref:`proven in practice
+across a wide variety of fields and applications <adoption>`. These include large and small, and open and proprietary
+documentation projects.
+
 
 
 .. toctree::
@@ -64,4 +77,6 @@ If you'd prefer to watch a video covering this topic, here is it (courtesy of Py
 
 ..  raw:: html
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/t4vKPhjcMZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t4vKPhjcMZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>

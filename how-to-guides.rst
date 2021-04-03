@@ -3,11 +3,12 @@
 How-to guides
 =============
 
-How-to guides take the reader through the steps required to solve a real-world problem.
+..  rubric:: How-to guides are **directions** that take the reader through the steps required to solve a real-world 
+    problem. How-to guides are **goal-oriented**.
 
-They are recipes, directions to achieve a specific end - for example: *how to create a web form*; *how to plot a three-dimensional data-set*; *how to enable LDAP authentication*.
+===========
 
-They are wholly **goal-oriented**.
+How-to guides are recipes, directions to achieve a specific end - for example: *how to create a web form*; *how to plot a three-dimensional data-set*; *how to enable LDAP authentication*.
 
 **How-to guides are wholly distinct from tutorials** and must not be confused with them:
 
@@ -18,6 +19,7 @@ In a how-to guide, you can assume some knowledge and understanding. You can assu
 
 Unlike tutorials, how-to guides in software documentation tend to be done fairly well. They’re also fun and easy to write.
 
+================
 
 Analogy from cooking
 --------------------
@@ -33,9 +35,17 @@ A recipe has a clear, defined end. It addresses a specific question. It shows so
 Someone who has never cooked before can't be expected to follow a recipe with success, so a recipe is not a substitute for a cooking lesson. At the same time, someone who reads a recipe would be irritated to find that it tries to teach basics that they know already,
 or contains irrelevant discussion of the ingredients.
 
+=================
 
 How to write good how-to guides
 -------------------------------
+
+..  sidebar:: How-to characteristics
+
+    * imperative
+    * “to achieve this, do that”
+    * action and only action
+    * no digression, explanation, teaching
 
 Provide a series of steps
 ~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -80,6 +90,7 @@ Name guides well
 
 **The title of a how-to document should tell the user exactly what it does.** *How to create a class-based view* is a good title. *Creating a class-based view* or worse, *Class-based views*, are not.
 
+================
 
 Example from Divio's documentation
 ----------------------------------
