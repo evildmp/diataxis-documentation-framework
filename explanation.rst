@@ -3,7 +3,7 @@
 Explanation
 =================
 
-..  rubric:: Explanation are **discussions** that clarify and illuminate a particular topic. Explanation is
+..  rubric:: Explanation is **discussion** that clarifies and illuminates a particular topic. Explanation is
     **understanding-oriented**.
 
 ===========
