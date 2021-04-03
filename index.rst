@@ -6,8 +6,15 @@
     </style>
 
 
-Diátaxis - a documentation authoring framework
-================================================
+Diátaxis Framework
+========================================================
+
+..  rubric:: A systematic framework for technical documentation authoring.
+
+The Diátaxis framework aims to solve the problem of structure in technical documentation. It adopts a systematic
+approach to understanding the needs of documentation users in their cycle of interaction with a product.
+
+=============
 
 .. rst-class:: quote
 
@@ -17,17 +24,17 @@ Diátaxis - a documentation authoring framework
 
   \- David Laing
 
+
+=============
+
 ..  sidebar:: *Diátaxis*
 
     From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, "across", and *taxis*, "arrangement".
 
-The Diátaxis framework aims to solve the problem of structure in technical documentation, by providing a systematic
-approach to understanding the needs of documentation users in their cycle of interaction with a product.
-
-=============
-
 The framework identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
-**explanation** - each of which answers to a different user need, fulfils a different purpose and requires a different
+**explanation**.
+
+Each of these modes answers to a different user need, fulfils a different purpose and requires a different
 approach to its creation.
 
 .. image:: /images/overview.png
