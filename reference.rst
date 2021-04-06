@@ -10,6 +10,11 @@ Reference guides
 
 Reference guides have one job only: to describe. They are code-determined, because ultimately that's what they describe: key classes, functions, APIs, and so they should list things like functions, fields, attributes and methods, and set out how to use them.
 
+.. image:: /images/overview-reference.png
+   :alt: 'Reference - information oriented, theoretical knowledge, that serves our work'
+   :align: right
+   :width: 50%
+
 By all means technical reference can contain examples to illustrate usage, but it should not attempt to explain basic concepts, or how to achieve common tasks.
 
 Reference material should be **austere and to the point**.
@@ -76,6 +81,18 @@ Be accurate
 ~~~~~~~~~~~
 
 **These descriptions must be accurate and kept up-to-date.** Any discrepancy between the machinery and your description of it will inevitably lead a user astray.
+
+==============
+
+The language of reference guides
+--------------------------------
+
+*X is an example of y. W needs to be initialised using z. This option does that.*
+    State facts about the machinery and its behaviour.
+*Sub-commands are: a, b, c, d, e, f.*
+    List commands, options, operations, features, flags, limitations, error messages, etc.
+*You must use a. You must not apply b unless c. Never d.*
+    Provide warnings where appropriate.
 
 ==============
 

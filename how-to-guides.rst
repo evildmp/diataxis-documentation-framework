@@ -3,12 +3,17 @@
 How-to guides
 =============
 
-..  rubric:: How-to guides are **directions** that take the reader through the steps required to solve a real-world 
+..  rubric:: How-to guides are **directions** that take the reader through the steps required to solve a real-world
     problem. How-to guides are **goal-oriented**.
 
 ===========
 
 How-to guides are recipes, directions to achieve a specific end - for example: *how to create a web form*; *how to plot a three-dimensional data-set*; *how to enable LDAP authentication*.
+
+.. image:: /images/overview-how-to.png
+   :alt: 'How-to guides - task oriented, practical steps, that serve our work'
+   :align: right
+   :width: 50%
 
 **How-to guides are wholly distinct from tutorials** and must not be confused with them:
 
@@ -42,8 +47,8 @@ How to write good how-to guides
 
 ..  sidebar:: How-to characteristics
 
-    * imperative
-    * “to achieve this, do that”
+    * focused on tasks or problems
+    * assume the user knows what they want to achieve
     * action and only action
     * no digression, explanation, teaching
 
@@ -89,6 +94,18 @@ Name guides well
 ~~~~~~~~~~~~~~~~
 
 **The title of a how-to document should tell the user exactly what it does.** *How to create a class-based view* is a good title. *Creating a class-based view* or worse, *Class-based views*, are not.
+
+==============
+
+The language of how-to guides
+-----------------------------
+
+*This guide shows you how to...*
+    Describe clearly the problem or task that the guide shows the user how to solve.
+*If you want x, do y. To achieve w, do z.*
+    Use conditional imperatives.
+*Refer to the x reference guide for a full list of options.*
+    Don't pollute your practical how-to guide with every possible thing the user might do related to x.
 
 ================
 

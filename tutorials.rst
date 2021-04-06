@@ -11,6 +11,11 @@ Tutorials are what your project needs in order to show a beginner that they can 
 
 They are wholly learning-oriented, and specifically, they are oriented towards *learning how* rather than *learning that*.
 
+.. image:: /images/overview-tutorials.png
+   :alt: 'Tutorials - learning oriented, practical steps, that serve our study'
+   :align: right
+   :width: 50%
+
 **You are the teacher**, and you are **responsible** for what the student will do. Under **your** instruction, the student will execute a series of actions to achieve some **end**.
 
 The end and the actions are up to you, but deciding what they should be can be hard work. The end has to be *meaningful*, but also *achievable* for a complete beginner.
@@ -24,9 +29,9 @@ misunderstood and most difficult to do well. The best way of teaching is to have
 student. That's rarely possible, and our written tutorials will be at best a far-from-perfect substitute. That's all the more
 reason to pay special attention to them.
 
-Tutorials need to be useful for the beginner, easy to follow, meaningful and extremely robust, and kept up-to-date. You might
-well find that writing and maintaining your tutorials can occupy as much time and energy as the the other three parts put
-together.
+Tutorials need to be useful for the beginner, easy to follow, meaningful and extremely robust, and kept up-to-date. You
+might well find that writing and maintaining your tutorials can occupy as much time and energy as the the other three
+parts put together.
 
 ===============
 
@@ -125,8 +130,25 @@ Focus only on the steps the user needs to take
 
 **Your tutorial needs to be focused on the task in hand.** Maybe the command you’re introducing has many other options, or maybe there are different ways to access a certain API. It doesn’t matter: right now, your learner does not need to know about those in order to make progress.
 
-=================
+==============
 
+The language of tutorials
+-------------------------
+
+*In this tutorial, you will...*
+    Describe what the learner will accomplish (note - not: "you will learn...").
+*First, do x. Now, do y. Now that you have done y, do z.*
+    No room for ambiguity or doubt.
+*We must always do x before we do y because... (see Explanation for more details).*
+    Provide minimal explanation of actions in the most basic language possible. Link to more detailed explanation.
+*The output should look something like this...*
+    Give your learner clear expectations.
+*Notice that... Remember that...*
+    Give your learner plenty of clues to help confirm they are on the right track and orient themselves.
+*You have built a secure, three-layer hylomorphic stasis engine...*
+    Describe (and admire, in a mild way) what your learner has accomplished (note - not: "you have learned...")
+
+=================
 
 Example from Divio's documentation
 ----------------------------------
