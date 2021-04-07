@@ -1,3 +1,10 @@
+.. meta::
+   :description:
+       The Diátaxis framework solves the problem of structure in technical documentation, making it easier to
+       create, maintain and use.
+   :keywords: documentation, four, kinds
+
+
 .. raw:: html
 
     <style>
@@ -34,7 +41,7 @@ approach to understanding the needs of documentation users in their cycle of int
 The framework identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
 **explanation**.
 
-Each of these modes answers to a different user need, fulfils a different purpose and requires a different
+Each of these modes (or types) answers to a different user need, fulfils a different purpose and requires a different
 approach to its creation.
 
 .. image:: /images/overview.png
