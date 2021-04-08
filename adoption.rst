@@ -28,8 +28,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
-* `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
-* `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
+* `Gorgonia <https://gorgonia.org>`_, a deep learning library for Go
 * `Lisk <https://lisk.io>`_
 * `Livepeer <https://livepeer.org>`_
 * `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
@@ -40,12 +39,14 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `PDFminer.six <https://pdfminersix.readthedocs.io>`_
 * `PostgREST <http://postgrest.org>`_
 * `PIconnect <https://piconnect.readthedocs.io>`_
+* `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
+* `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
+* `TerminusDB <https://terminusdb.com/docs/terminusdb>`_
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_
 * Zalando (internal)
-* Gorgonia <https://gorgonia.org>, Documentation website of Gorgonia, a library to facilitate deep-learning in Go
 
 
 Other mentions and references of interest

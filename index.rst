@@ -5,14 +5,6 @@
    :keywords: documentation, four, kinds
 
 
-.. raw:: html
-
-    <style>
-        .quote {font-size: x-large; font-style: italic; margin: 3em 0 .5em 10%;}
-        .attribution {margin: 0 0 3em 10%; font-size: large}
-    </style>
-
-
 Diátaxis Framework
 ========================================================
 
@@ -55,6 +47,18 @@ Diátaxis promises to make documentation and projects better, and the teams that
 
 ====================
 
+..  rst-class:: quote
+
+    While redesigning the `Cloudflare developer docs <https://developers.cloudflare.com>`_, this content framework
+    became our north star for information architecture. When we weren’t sure where a new piece of content should fit
+    in, we’d consult the framework. Our documentation is now clearer than it’s ever been, both for readers and
+    contributors.
+
+.. rst-class:: attribution
+
+  \- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)
+
+====================
 
 Light-weight and easily adopted
 -----------------------------------
