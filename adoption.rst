@@ -43,7 +43,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
-* `Wechaty <https://wechaty.js.org/docs/>`_
+* `Wechaty <https://wechaty.js.org/docs/>`_: A Conversational RPA SDK for Chatbot Makers
 * Zalando (internal)
 * Gorgonia <https://gorgonia.org>, Documentation website of Gorgonia, a library to facilitate deep-learning in Go
 
