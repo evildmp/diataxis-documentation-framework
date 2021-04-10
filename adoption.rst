@@ -1,3 +1,9 @@
+.. meta::
+   :description:
+       Adopted by IBM LoopBack, Cloudflare and dozens of other products and projects, the Diátaxis framework provides a
+       lightweight and flexible architecture for technical documentaion.
+   :keywords: documentation, four, kinds
+
 ..  _adoption:
 
 Adoption of the Diátaxis framework
