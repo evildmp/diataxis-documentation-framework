@@ -42,7 +42,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
-* `TerminusDB <https://terminusdb.com/docs/terminusdb>`_
+* `TerminusDB <https://terminusdb.com/docs/>`_
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_
