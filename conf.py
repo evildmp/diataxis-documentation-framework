@@ -52,6 +52,10 @@ html_theme_options = {
         "color-background-secondary": "#fff",
         "color-sidebar-background-border": "none",
     },
+    "dark_css_variables": {
+        "color-background-secondary": "#000",
+    }
+
 }
 html_static_path = ['_static']
 html_logo = "diataxis-white-416.png"
