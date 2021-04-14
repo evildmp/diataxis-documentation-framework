@@ -38,6 +38,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Lisk <https://lisk.io>`_
 * `Livepeer <https://livepeer.org>`_
 * `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
+* `mosromgr <https://mosromgr.readthedocs.io>`_, a Python library for managing TV and radio running orders, from `BBC News Labs <https://bbcnewslabs.co.uk/>`_
 * `NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library for computing Nash equilibria
 * `nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing students' assignments in Jupyter Notebooks
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
