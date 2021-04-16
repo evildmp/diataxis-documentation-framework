@@ -37,6 +37,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Gorgonia <https://gorgonia.org>`_, a deep learning library for Go
 * `Lisk <https://lisk.io>`_
 * `Livepeer <https://livepeer.org>`_
+* `LootLocker <https://docs.lootlocker.io>`_, a backend for independent games development
 * `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
 * `NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library for computing Nash equilibria
 * `nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing students' assignments in Jupyter Notebooks
