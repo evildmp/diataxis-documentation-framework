@@ -1,7 +1,7 @@
 .. _reference:
 
-Reference guides
-=================
+About reference
+======================
 
 ..  rubric:: Reference guides are **technical descriptions** of the machinery and how to operate it. Reference material
     is **information-oriented**.

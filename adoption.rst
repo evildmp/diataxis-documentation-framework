@@ -6,7 +6,7 @@
 
 ..  _adoption:
 
-Adoption of the Diátaxis framework
+Adoption of the framework
 =============================================
 
 ..  sidebar:: Not listed here?

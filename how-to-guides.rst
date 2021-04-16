@@ -1,7 +1,7 @@
 .. _how-to:
 
-How-to guides
-=============
+About how-to guides
+===================
 
 ..  rubric:: How-to guides are **directions** that take the reader through the steps required to solve a real-world
     problem. How-to guides are **goal-oriented**.

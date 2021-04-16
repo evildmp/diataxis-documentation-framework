@@ -1,6 +1,6 @@
 .. _explanation:
 
-Explanation
+About explanation
 =================
 
 ..  rubric:: Explanation is **discussion** that clarifies and illuminates a particular topic. Explanation is

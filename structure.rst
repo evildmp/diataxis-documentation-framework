@@ -6,7 +6,7 @@
     </style>
 
 
-About the structure
+The structure
 ===================
 
 Why isn't this obvious?
