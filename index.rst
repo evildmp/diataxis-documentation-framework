@@ -78,7 +78,9 @@ documentation projects.
 .. toctree::
    :maxdepth: 0
    :hidden:
+   :titlesonly:
 
+   Home <self>
    introduction
    tutorials
    how-to-guides
