@@ -36,7 +36,7 @@ templates_path = ['_templates']
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env']
+exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env', 'venv']
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -70,3 +70,11 @@ html_css_files = [
 master_doc = 'index'
 
 html_favicon = "favicon.png"
+
+# -- Options for internationalization ----------------------------------------
+
+# According official guide
+# https://docs.readthedocs.io/en/stable/guides/manage-translations.html
+
+gettext_uuid = True
+gettext_compact = False

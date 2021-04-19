@@ -1,0 +1,263 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../introduction.rst:10 5d275717c1ca4563b7056ce2544b66f9
+msgid "Introduction"
+msgstr ""
+
+#: ../../introduction.rst:13 b812b49edb544263a1edcab8ed983d3d
+msgid "The problem and the solution"
+msgstr ""
+
+#: ../../introduction.rst:16 a827233c3f524fd5a3758122081437e0
+msgid "The problem it solves"
+msgstr ""
+
+#: ../../introduction.rst:18 40eadc22c74849938afeb56b67530601
+msgid ""
+"It doesn’t matter how good your product is, because **if its "
+"documentation is not good enough, people will not use it**. Even if  they"
+" have to use it because they have no choice, without good documentation, "
+"they won’t use it effectively or the way you’d like them to."
+msgstr ""
+
+#: ../../introduction.rst:21 6fbb11c37425418dbb85f3931b4a7396
+msgid ""
+"Nearly everyone understands this. Nearly everyone knows that they need "
+"good documentation, and **most people try to create good documentation**."
+" And **most people fail**."
+msgstr ""
+
+#: ../../introduction.rst:23 b73090018f6644e5919b0236c284c7da
+msgid ""
+"Usually, it’s not because they don’t try hard enough. Usually, it’s "
+"because they are not doing it the right way."
+msgstr ""
+
+#: ../../introduction.rst:25 719431e9f10a4f0dada6a238f13b85c0
+msgid ""
+"This system is a way to make your documentation better, not by working "
+"harder at it, but by doing it the right way. **The right way is the "
+"easier way** - easier to write, and easier to maintain."
+msgstr ""
+
+#: ../../introduction.rst:29 53684c3da98f4f9ba16539272dd94bef
+msgid "The 'secret'"
+msgstr ""
+
+#: ../../introduction.rst:31 b4713c34e0ef4f0594cdec4233aed6d3
+msgid ""
+"It's not actually a secret and it certainly shouldn't be: documentation "
+"needs to include and be structured around its **four different "
+"functions**: *tutorials*, *how-to guides*, *technical reference* and "
+"*explanation*. Each of them **requires a distinct mode of writing**. "
+"People working with software need these four different kinds of "
+"documentation at different times, in different circumstances - so "
+"software usually needs them all, and they should all be integrated into "
+"your documentation."
+msgstr ""
+
+#: ../../introduction.rst:33 0d5282426b524b2b9a7d426ddb41d356
+msgid ""
+"And documentation needs to be explicitly structured around them, and they"
+" all must be kept separate and distinct from each other."
+msgstr ""
+
+#: ../../introduction.rst:42 a1e3482eb66447b08b71d7e3a0900691
+msgid "\\"
+msgstr ""
+
+#: ../../introduction.rst:43 46397dd4e4d34d1c9b52f07d9c301321
+msgid ":ref:`Tutorials <tutorials>`"
+msgstr ""
+
+#: ../../introduction.rst:44 6eed94c51433444a919c0ea32492bed6
+msgid ":ref:`How-to guides <how-to>`"
+msgstr ""
+
+#: ../../introduction.rst:45 8a9b40e16d894fcea9630cb45c6f4b9c
+msgid ":ref:`Reference <reference>`"
+msgstr ""
+
+#: ../../introduction.rst:46 506331d1b11147879ac562a9d29f2a43
+msgid ":ref:`Explanation <explanation>`"
+msgstr ""
+
+#: ../../introduction.rst:47 0216bad56246429881712c42507ca7c0
+msgid "*oriented to*"
+msgstr ""
+
+#: ../../introduction.rst:48 bce3440835184eb5b5cc6eb492900c97
+msgid "learning"
+msgstr ""
+
+#: ../../introduction.rst:49 831cf4c5dd4d44cea3347d3b34ea49b1
+msgid "a goal"
+msgstr ""
+
+#: ../../introduction.rst:50 b832e1d7133e467cb60e343ed183273f
+msgid "information"
+msgstr ""
+
+#: ../../introduction.rst:51 150dde8cb48f48559751ee2985cb7e02
+msgid "understanding"
+msgstr ""
+
+#: ../../introduction.rst:52 0600f6a3bfbd4c74bd65db76a7593a24
+msgid "*must*"
+msgstr ""
+
+#: ../../introduction.rst:53 f8fd4cfa2bab492784fa29ab787a02fd
+msgid "allow the newcomer to get started"
+msgstr ""
+
+#: ../../introduction.rst:54 82b01574d4c945eea8173077c85d7b9d
+msgid "show how to solve a specific problem"
+msgstr ""
+
+#: ../../introduction.rst:55 34854317736344e5ac975d6aea50d35c
+msgid "describe the machinery"
+msgstr ""
+
+#: ../../introduction.rst:56 6614e1cb3b3545b38370ff43de097064
+msgid "explain"
+msgstr ""
+
+#: ../../introduction.rst:57 4365ad6678134f9f8e26c908622866c0
+msgid "*its form*"
+msgstr ""
+
+#: ../../introduction.rst:58 3ed86c11d1734745b3987335c11fc21f
+msgid "a lesson"
+msgstr ""
+
+#: ../../introduction.rst:59 88dc97a3e434430dbc6dd69e0f217252
+msgid "a series of steps"
+msgstr ""
+
+#: ../../introduction.rst:60 a58946191860417889d63d1b39c486c0
+msgid "dry description"
+msgstr ""
+
+#: ../../introduction.rst:61 27c15250d91e423dac0b220f09323f0d
+msgid "discursive explanation"
+msgstr ""
+
+#: ../../introduction.rst:62 bfab7a8bb78f4e3399d8a7b59fb2b866
+msgid "*analogy*"
+msgstr ""
+
+#: ../../introduction.rst:63 486b9628507344eb91701f92c6acbb48
+msgid "teaching a small child how to cook"
+msgstr ""
+
+#: ../../introduction.rst:64 316c551c03c740d8b8f47c837fa495a6
+msgid "a recipe in a cookery book"
+msgstr ""
+
+#: ../../introduction.rst:65 932c077b47e2475682acd725a49371e0
+msgid "a reference encyclopaedia article"
+msgstr ""
+
+#: ../../introduction.rst:66 2dfdfa7e3db54656a9de191bda554398
+msgid "an article on culinary social history"
+msgstr ""
+
+#: ../../introduction.rst:68 d91eff690cc6431b9fb604b5e46aa538
+msgid ""
+"This division makes it obvious to both author and reader what material, "
+"and what *kind* of material, goes where. It tells the author **how to "
+"write**, and **what to write**, and **where to write it**. It saves the "
+"author from wasting a great deal of time trying to wrestle the "
+"information they want to impart into a shape that makes sense, because "
+"**each of these kinds of documentation has only one job**."
+msgstr ""
+
+#: ../../introduction.rst:75 cde43ac3475144099f3f196becde2615
+msgid ""
+"In fact, it’s extremely hard to maintain good documentation that doesn’t "
+"implicitly or explicitly recognise the quadrants of this scheme. The "
+"demands of each kind are different from those of the others, so **any "
+"attempt at documentation that fails to maintain this structure suffers**,"
+" as it’s pulled in different directions at once."
+msgstr ""
+
+#: ../../introduction.rst:77 4ffca9f5d12242e9816044158f0454d0
+msgid ""
+"Once you understand the structure, it becomes a very useful tool for "
+"analysing existing documentation, and understanding what needs to be done"
+" to improve it."
+msgstr ""
+
+#: ../../introduction.rst:79 5ab0c75af7534d77bc0f85e3de11a901
+msgid ""
+"In the following sections, each of these four parts is dealt with in "
+"detail."
+msgstr ""
+
+#: ../../introduction.rst:85 5eb401fc24514bbf88e12a9818544812
+msgid "Making documentation work"
+msgstr ""
+
+#: ../../introduction.rst:88 7f03b9f038504166b849b66eb45e8491
+msgid "For authors"
+msgstr ""
+
+#: ../../introduction.rst:90 9ea92352c8784e16b37fc09b0c94b4aa
+msgid ""
+"One of the biggest headaches that documentation maintainers have to deal "
+"with is not having a clear picture of what they should be doing. They "
+"write and rewrite, but find it hard to make it fit together in "
+"satisfactory ways."
+msgstr ""
+
+#: ../../introduction.rst:92 b315ab4e02514c34810465a198f9202e
+msgid ""
+"This structure resolves those questions by making clear distinctions and "
+"separations. They make documentation that is easier to write and "
+"maintain, that’s easier to use and to find one's way around in."
+msgstr ""
+
+#: ../../introduction.rst:94 6a69e62138854cffb123e73488fd90f5
+msgid ""
+"The documentation doesn’t write itself - but it’s now possible to write "
+"it without also having to wrestle with poor fit, or unclear scope or "
+"doubt about what should be included or what style to adopt. It becomes "
+"much clearer what to write, how to write it, and where to put it."
+msgstr ""
+
+#: ../../introduction.rst:98 389e9ef10fce4559b5d7e85df2aa7b92
+msgid "For readers"
+msgstr ""
+
+#: ../../introduction.rst:100 29dfb76e5e304f059059b500e44329ff
+msgid ""
+"It serves users better, because for all the different phases in the cycle"
+" of their interaction with the software they will find the right kind of "
+"documentation, that serves the needs of that moment."
+msgstr ""
+
+#: ../../introduction.rst:102 0a22e771b39f42438c643646ef8d1c27
+msgid ""
+"Writing documentation that explicitly and distinctly addresses each of "
+"the four quadrants helps the software attract and keep more users, who "
+"will use it more effectively - and that is one of the things the creators"
+" of software want most of all."
+msgstr ""
+

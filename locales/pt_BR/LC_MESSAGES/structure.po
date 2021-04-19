@@ -1,0 +1,166 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../structure.rst:10 395cb4389a0d4544b0be530e0aceb08a
+msgid "The structure"
+msgstr ""
+
+#: ../../structure.rst:13 6082091546e4413cae12e94274e4aab7
+msgid "Why isn't this obvious?"
+msgstr ""
+
+#: ../../structure.rst:15 78708428a75548a59f3cdcb34cafb949
+msgid ""
+"This structure is clear, and it works, but there is a reason why it's not"
+" so obvious, and that is the way the characteristics of each quadrant of "
+"the documentation overlap with those of its neighbours in the scheme."
+msgstr ""
+
+#: ../../structure.rst:20 3188c09a459c4ee5a31bab40a457f0cc
+msgid "Each of the quadrants is similar to its two neighbours:"
+msgstr ""
+
+#: ../../structure.rst:22 035b4d2280ea444299087f7f25c4054e
+msgid ""
+"*tutorials and how-to guides* are both concerned with **describing "
+"practical steps**"
+msgstr ""
+
+#: ../../structure.rst:23 1f395f68a63645ea81bd90cdb60da6cd
+msgid ""
+"*how-to guides and technical reference* are both **what we need when we "
+"are at work, coding**"
+msgstr ""
+
+#: ../../structure.rst:24 15e9dab97c8b4673b353e4060fb42a1e
+msgid ""
+"*reference guides and explanation* are both concerned with **theoretical "
+"knowledge**"
+msgstr ""
+
+#: ../../structure.rst:25 c77fa646b6c54476b80f8b4e3867f61c
+msgid ""
+"*tutorials and explanation* are both **most useful when we are "
+"studying**, rather than actually working"
+msgstr ""
+
+#: ../../structure.rst:29 802dccf770e741c7a5e6935fecc40827
+msgid "The tendency to collapse"
+msgstr ""
+
+#: ../../structure.rst:31 f222481161fd48c29fbd61ead6cb8e1d
+msgid ""
+"Given these overlaps, it's not surprising that the different kinds of "
+"documentation become confused and mixed in with each other. In fact, "
+"there is a natural gravitational pull of these distinct types of "
+"documentation to each other, and it is hard to resist. Its effect is to "
+"collapse the structure, and that is why so much documentation looks like "
+"this:"
+msgstr ""
+
+#: ../../structure.rst:39 4b443f5ee4324e20bf60751fe1c5b198
+msgid "Adoption of the system"
+msgstr ""
+
+#: ../../structure.rst:41 bf5e8522efc94f4f988c2906edee6b7a
+msgid "Good examples of the scheme in substantial projects include:"
+msgstr ""
+
+#: ../../structure.rst:43 688809644ea24a96aaee70a985ebe442
+msgid "the `Divio Developer Handbook <https://docs.divio.com>`_"
+msgstr ""
+
+#: ../../structure.rst:44 ba65eb23fa78426fa2cad0ee3df2fe44
+msgid ""
+"`Django's documentation <https://docs.djangoproject.com/en/3.0/#how-the-"
+"documentation-is-organized>`_"
+msgstr ""
+
+#: ../../structure.rst:45 4b646b4b366742519805c85765e90a13
+msgid "`django CMS's documentation <http://docs.django-cms.org>`_"
+msgstr ""
+
+#: ../../structure.rst:47 889c8cc43a734b2aab5a902218633b7c
+msgid ""
+"It's possible to use the system even in very minimal documentation, for "
+"example `CoReport (an open-source COVID-19 reporting project) "
+"<https://docs.coreport.ch>`_. Here, applying the system creates a "
+"framework for future documentation, helping ensure that new material will"
+" conform."
+msgstr ""
+
+#: ../../structure.rst:51 6348fc7e79de4011bba00b660f97334e
+msgid ""
+"Sometimes the documentation is so minimal that not all quadrants are "
+"ready to be represented, as in the case of `Getting started with Java and"
+" Spring-boot <https://github.com/flavours/getting-started-with-spring-"
+"boot/blob/master/README.md>`_, which includes only a tutorial, how-to and"
+" reference material."
+msgstr ""
+
+#: ../../structure.rst:55 544c3282cb3d4306bc358b1c4b495194
+msgid ""
+"`But I never wanted to do DevOps! <https://workshop.no-"
+"devops.work/en/latest/explanation/index.html>`_ is the written material "
+"that accompanies a popular workshop. The documentation strictly separate "
+"the `tutorial <https://workshop.no-devops.work/en/latest/the-"
+"workshop/index.html>`_, the steps learners are to follow, from the "
+"*explanation* (`Further reading <https://workshop.no-"
+"devops.work/en/latest/explanation/index.html>`_). Both belong to the "
+"*most useful when we are studying* side of the system, so it's natural to"
+" include them in a workshop."
+msgstr ""
+
+#: ../../structure.rst:61 7725eae5c4e94c8b96555b69739eeb6b
+msgid ""
+"In each case though, however minimal or even incomplete, the system is "
+"respected and the clear distinction between sections and their purposes "
+"will benefit the author and user right away, and help guide the expansion"
+" of the material as it develops in the future."
+msgstr ""
+
+#: ../../structure.rst:69 ae0d2a7b864b42408f17de5fd65f1c5f
+msgid "About the analysis and its application"
+msgstr ""
+
+#: ../../structure.rst:71 a275a51a3e2d468fa314f79e5bbd78be
+msgid ""
+"The analysis of documentation in this article is based on several years "
+"of experience writing and maintaining documentation, and much time spent "
+"considering how to improve it."
+msgstr ""
+
+#: ../../structure.rst:73 bb98112d883348dfa7ecd21bd67af111
+msgid ""
+"It’s also based on sound principles that come from a variety of "
+"disciplines. For example, its conception of tutorials has a pedagogical "
+"basis; it posits a tutor and a learner, and considers using software to "
+"be a craft in which abstract understanding of general principles follows "
+"from concrete steps that deal with particulars."
+msgstr ""
+
+#: ../../structure.rst:75 3c248c7496964b6f87c78a57738c103e
+msgid ""
+"The system is presented regularly at talks and interactive workshops. The"
+" analysis has been applied to numerous projects, including large internal"
+" documentation sets, and has repeatedly procured benefits of usability "
+"and maintainability, across a very wide range of technical subject "
+"matter."
+msgstr ""
+
