@@ -1,0 +1,39 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# SeuPedro <sh.pedro.dev@gmail.com>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../README.rst:4 f6f4b7b8e0934815a89b2753213133b2
+msgid "The documentation system"
+msgstr "O sistema de documentação"
+
+#: ../../README.rst:6 11bd1a25a955485a817877fbefdf21b6
+msgid ""
+"A comprehensive and practical system that can help maintainers of product"
+" documentation."
+msgstr ""
+"Um sistema prático e compreensivo que pode ajudar mantenedores de documentação"
+" de produto"
+
+#: ../../README.rst:8 b0597666e31a4ea199af1f604640edeb
+msgid "Published at https://diataxis.fr"
+msgstr "Publicado em https://diataxis.fr"
+
+#: ../../README.rst:10 e7c566cb3fa048e5b0ee468cc7dbb2b7
+msgid "Author: Daniele Procida"
+msgstr "Autora: Daniele Procida"
+

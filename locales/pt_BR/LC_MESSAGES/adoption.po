@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../adoption.rst:1 07acaa79c7e04864af68ee4e7987cd1c
+msgid ""
+"Adopted by IBM LoopBack, Cloudflare and dozens of other products and "
+"projects, the Diátaxis framework provides a lightweight and flexible "
+"architecture for technical documentaion."
+msgstr ""
+
+#: ../../adoption.rst:1 b59c47c94bc5483d9b0cc735185835d2
+msgid "documentation, four, kinds"
+msgstr ""
+
+#: ../../adoption.rst:10 124a8963b3124a04b26c78ac077b0b2f
+msgid "Adoption of the framework"
+msgstr ""
+
+#: 3cb3e785dbe4496d8cbe16c7511e60a8
+msgid "Not listed here?"
+msgstr ""
+
+#: ../../adoption.rst:14 9949cb6a41b142c9907de68afc0778fb
+msgid ""
+"If you're using the system, or are in the process of adopting it, please "
+"let us know if you'd like to be listed here."
+msgstr ""
+
+#: ../../adoption.rst:17 94475663390c42d6b8a9955ac3d3f0df
+msgid ""
+"This is an incomplete list of projects, products and organisations that "
+"have adopted the system in their own bodies of documentation. In some "
+"cases the adoption remains partial or is still a work in progress."
+msgstr ""
+
+#: ../../adoption.rst:20 65a40b25037b4f5ab2007ada7e464cfb
+msgid ""
+"`BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest "
+"pen-plotter"
+msgstr ""
+
+#: ../../adoption.rst:21 6fcfb0f24cd7492cbe9d3c98d8a65fcf
+msgid ""
+"`BeeWare <https://beeware.org>`_, the write-once-deploy-anywhere project,"
+" for `Toga <https://toga.readthedocs.io>`_, `Briefcase "
+"<https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-"
+"objc.readthedocs.io>`_ and `Rubicon Java <https://rubicon-"
+"objc.readthedocs.io>`_."
+msgstr ""
+
+#: ../../adoption.rst:24 76ec5d5ef72749b1bdefa0ed97bc0591
+msgid "Bosch (internal)"
+msgstr ""
+
+#: ../../adoption.rst:25 d1f48794d77a4d759f2d3b5447facfe4
+msgid "`Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library"
+msgstr ""
+
+#: ../../adoption.rst:26 cf5d0a8c679844d0a5a522d19ec8279e
+msgid ""
+"`Cloudflare Workers docs <https://blog.cloudflare.com/new-and-improved-"
+"workers-docs/>`_ (related article, `New and improved Workers Docs "
+"<https://blog.cloudflare.com/new-and-improved-workers-docs/>`_)"
+msgstr ""
+
+#: ../../adoption.rst:28 de8a57090db84e1fb56473e44e4810d4
+msgid "`corrux <https://corrux.io/>`_ (internal)"
+msgstr ""
+
+#: ../../adoption.rst:29 971418744f894c4d985b7a407c5aa60a
+msgid "`Divio <https://docs.divio.com/>`_"
+msgstr ""
+
+#: ../../adoption.rst:30 646db1bf5d104bef96eb0678210d08c4
+msgid ""
+"`Django <https://docs.djangoproject.com/en/dev/#how-the-documentation-is-"
+"organized>`_"
+msgstr ""
+
+#: ../../adoption.rst:31 c37cd1679c3f4515a4e0a26347f9ac1e
+msgid "`django CMS <https://docs.django-cms.org>`_"
+msgstr ""
+
+#: ../../adoption.rst:32 01ecd5b51bdd400fbb926240016b3aa1
+msgid ""
+"`edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset "
+"Optimisation"
+msgstr ""
+
+#: ../../adoption.rst:33 e0f8b3e004e44bc6956544dc32dbcd25
+msgid ""
+"`Encore <https://encore.dev/docs>`_, a framework for rapid backend "
+"development"
+msgstr ""
+
+#: ../../adoption.rst:34 f843e0e631be40d984653d7bc7f25aa3
+msgid "Ericsson (internal)"
+msgstr ""
+
+#: ../../adoption.rst:35 bb100f1c15154ab4940d1ed313e42b67
+msgid ""
+"`Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, "
+"`How to Author Gensim Documentation "
+"<https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_"
+msgstr ""
+
+#: ../../adoption.rst:37 18f4ec4df0654e4d82b9d9bffc681265
+msgid "`Gorgonia <https://gorgonia.org>`_, a deep learning library for Go"
+msgstr ""
+
+#: ../../adoption.rst:38 0a69f97fb67848fea6984f7c1dbebed4
+msgid "`Lisk <https://lisk.io>`_"
+msgstr ""
+
+#: ../../adoption.rst:39 b82c12b087244873afefee028c0c6219
+msgid "`Livepeer <https://livepeer.org>`_"
+msgstr ""
+
+#: ../../adoption.rst:40 9ccd38e70b144fb9b4e03cb2c4e3f7b3
+msgid ""
+"`LootLocker <https://docs.lootlocker.io>`_, a backend for independent "
+"games development"
+msgstr ""
+
+#: ../../adoption.rst:41 80c70f0ee55e4439b053baa498b85316
+msgid ""
+"`Matching <https://matching.readthedocs.io>`_, a games theory resource "
+"allocation library"
+msgstr ""
+
+#: ../../adoption.rst:42 9f41ab3a70a949d7b37472820b5f9478
+msgid ""
+"`mosromgr <https://mosromgr.readthedocs.io>`_, a Python library for "
+"managing TV and radio running orders, from `BBC News Labs "
+"<https://bbcnewslabs.co.uk/>`_"
+msgstr ""
+
+#: ../../adoption.rst:43 6ee6f29ea4a5498e91dd43244b78bb4d
+msgid ""
+"`NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library "
+"for computing Nash equilibria"
+msgstr ""
+
+#: ../../adoption.rst:44 9187651f0ce241819716d5ac056237ed
+msgid ""
+"`nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing "
+"students' assignments in Jupyter Notebooks"
+msgstr ""
+
+#: ../../adoption.rst:45 3d649162ff434fe5905d88011d75adcf
+msgid ""
+"`NumPy <https://numpy.org/devdocs/>`_, the scientific Python library "
+"(related article, `Documentation as a way to build Community "
+"<http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-"
+"community/>`_)"
+msgstr ""
+
+#: ../../adoption.rst:47 06c13e7e27904051a931787d255f4f3d
+msgid "`PDFminer.six <https://pdfminersix.readthedocs.io>`_"
+msgstr ""
+
+#: ../../adoption.rst:48 c73e12b1349746a3b44eb3c3d1283261
+msgid "`PostgREST <http://postgrest.org>`_"
+msgstr ""
+
+#: ../../adoption.rst:49 0de031facbe04515926ae681683b83c4
+msgid "`PIconnect <https://piconnect.readthedocs.io>`_"
+msgstr ""
+
+#: ../../adoption.rst:50 0a2b9b52a4074302a051cc3f8ef58258
+msgid ""
+"`Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed "
+"for the modern web"
+msgstr ""
+
+#: ../../adoption.rst:51 1e1f17931790480e9940db796a3dbc88
+msgid "`Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search"
+msgstr ""
+
+#: ../../adoption.rst:52 0f6fdf28f7824ed1b08b8f69f92dd394
+msgid "`StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM"
+msgstr ""
+
+#: ../../adoption.rst:53 df91eb88ee094219a15ff7a3154a44d8
+msgid "`TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_"
+msgstr ""
+
+#: ../../adoption.rst:54 153979f0ca1f4db094d5be51b81daa00
+msgid "Tesla Motors (internal)"
+msgstr ""
+
+#: ../../adoption.rst:55 4dab6d1ad694427fb637a13780f8887e
+msgid "`WebAccess/DMP <https://docs.wadmp.com>`_"
+msgstr ""
+
+#: ../../adoption.rst:56 73b707ac7e8a4874b790eaeff8fdbe68
+msgid ""
+"`Wechaty <https://wechaty.js.org/docs/>`_: A Conversational RPA SDK for "
+"Chatbot Makers"
+msgstr ""
+
+#: ../../adoption.rst:57 c690b236a0f447588c633f06aa28f2f0
+msgid "Zalando (internal)"
+msgstr ""
+
+#: ../../adoption.rst:61 848e5e7246d743ba9eedf7a06d84908e
+msgid "Other mentions and references of interest"
+msgstr ""
+
+#: ../../adoption.rst:63 b2c39bbac21b4e5c83e521ba40a7d5c7
+msgid ""
+"`Django Axes proposal <https://github.com/jazzband/django-"
+"axes/issues/410>`_"
+msgstr ""
+
+#: ../../adoption.rst:64 3e54f775dd5c413d8166d770959e6cc3
+msgid ""
+"`GitLab "
+"<https://docs.gitlab.com/ee/development/documentation/styleguide.html#no-"
+"special-types>`_, `GitLab's Data Team documentation guide "
+"<https://about.gitlab.com/handbook/business-ops/data-team/documentation"
+"/#documentation-types>`_"
+msgstr ""
+
+#: ../../adoption.rst:67 230822b2d61f4984b3835fa90b9d7528
+msgid ""
+"`Julia language proposal "
+"<https://github.com/JuliaLang/julia/pull/33936#issuecomment-606966229>`_"
+msgstr ""
+
+#: ../../adoption.rst:68 c8dafe0d17ff4e2a91bbb14c6c502212
+msgid ""
+"`Why You Should Document Your Work As a Data Scientist "
+"<https://towardsdatascience.com/why-you-should-document-your-work-as-a"
+"-data-scientist-a265af8a373>`_"
+msgstr ""
+
+#: ../../adoption.rst:69 e2630261a64b4744b2af16d11b62732e
+msgid ""
+"`Koninglijke Biblioteek (National Library of the Netherlands) research "
+"software lab <https://lab.kb.nl/about-us/blog/documentation>`_"
+msgstr ""
+
+#: ../../adoption.rst:71 8abe63fbc86049d085f911265e2a1e1d
+msgid ""
+"`Tutorials in Jenkins user documentation "
+"<https://www.jenkins.io/blog/2017/11/27/tutorials-in-the-jenkins-user-"
+"documentation/>`_"
+msgstr ""
+
+#: ../../adoption.rst:73 bc7445c2ba88490291a1aefd20ef68ee
+msgid ""
+"`TYPO3 <https://docs.typo3.org/m/typo3/docs-how-to-document/master/en-"
+"us/WritingContent/Index.html>`_"
+msgstr ""
+

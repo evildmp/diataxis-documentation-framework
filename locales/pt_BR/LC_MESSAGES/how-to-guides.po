@@ -1,0 +1,262 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../how-to-guides.rst:4 10a14d93cd464b9cbd59ef1a4871beb7
+msgid "About how-to guides"
+msgstr ""
+
+#: ../../how-to-guides.rst:8 af68aee6bdb14856acc4862183de4c2f
+msgid ""
+"How-to guides are **directions** that take the reader through the steps "
+"required to solve a real-world problem. How-to guides are **goal-"
+"oriented**."
+msgstr ""
+
+#: ../../how-to-guides.rst:11 3dd622072bcf48d29f4436cea607a1c1
+msgid ""
+"How-to guides are recipes, directions to achieve a specific end - for "
+"example: *how to create a web form*; *how to plot a three-dimensional "
+"data-set*; *how to enable LDAP authentication*."
+msgstr ""
+
+#: ../../how-to-guides.rst:18 f42c4b43aae64b02a24488a1fa1f26aa
+msgid ""
+"**How-to guides are wholly distinct from tutorials** and must not be "
+"confused with them:"
+msgstr ""
+
+#: ../../how-to-guides.rst:20 5234a0d3080548b99d29a5e271ec8fbb
+msgid "A tutorial is what you decide a beginner needs to know."
+msgstr ""
+
+#: ../../how-to-guides.rst:21 7f61e606d8294bd7ac7acf7a11d99055
+msgid ""
+"A how-to guide is an answer to a question that only a user with some "
+"experience could even formulate."
+msgstr ""
+
+#: ../../how-to-guides.rst:23 442b2b0894ba443cbc1d5c04729301da
+msgid ""
+"In a how-to guide, you can assume some knowledge and understanding. You "
+"can assume that the user already knows how to do basic things and use "
+"basic tools."
+msgstr ""
+
+#: ../../how-to-guides.rst:25 b2c037f236a945d88ba39fef25c1772c
+msgid ""
+"Unlike tutorials, how-to guides in software documentation tend to be done"
+" fairly well. They’re also fun and easy to write."
+msgstr ""
+
+#: ../../how-to-guides.rst:30 b15b3d399bd24ec0a96bbc2fc8f3b46d
+msgid "Analogy from cooking"
+msgstr ""
+
+#: ../../how-to-guides.rst:36 57d74d5a400c44eb8b805ae88cb9518b
+msgid "Think about a recipe, for preparing something to eat."
+msgstr ""
+
+#: ../../how-to-guides.rst:38 9ee9e85933164bf8b09e724307083d09
+msgid ""
+"A recipe has a clear, defined end. It addresses a specific question. It "
+"shows someone - who can be assumed to have some basic knowledge already -"
+" how to achieve something."
+msgstr ""
+
+#: ../../how-to-guides.rst:40 41bb9d35f3f24ba8893640bfdaa66984
+msgid ""
+"Someone who has never cooked before can't be expected to follow a recipe "
+"with success, so a recipe is not a substitute for a cooking lesson. At "
+"the same time, someone who reads a recipe would be irritated to find that"
+" it tries to teach basics that they know already, or contains irrelevant "
+"discussion of the ingredients."
+msgstr ""
+
+#: ../../how-to-guides.rst:46 965851d3e9614e0782c5ba37a44bf1c4
+msgid "How to write good how-to guides"
+msgstr ""
+
+#: ../../how-to-guides.rst:50 e1fd423598bf44d6baf16c2d655eddd0
+msgid "focused on tasks or problems"
+msgstr ""
+
+#: ../../how-to-guides.rst:51 71d9db0ef8dc4413965e87bdcd2355c0
+msgid "assume the user knows what they want to achieve"
+msgstr ""
+
+#: ../../how-to-guides.rst:52 c015dc3960054ed69f2ed39b1816df38
+msgid "action and only action"
+msgstr ""
+
+#: ../../how-to-guides.rst:53 1a71ed3b36ab487c8379c1ebe196f18b
+msgid "no digression, explanation, teaching"
+msgstr ""
+
+#: ../../how-to-guides.rst:56 f6e39a51b01e41b7b814a7ce6f930cba
+msgid "Provide a series of steps"
+msgstr ""
+
+#: ../../how-to-guides.rst:58 8651601a76dd4d6498b624dfd088902d
+msgid ""
+"**How-to guides must contain a list of steps, that need to be followed in"
+" order** (just like tutorials do). You don’t have to start at the very "
+"beginning, just at a reasonable starting point. How-to guides should be "
+"reliable, but they don’t need to have the cast-iron repeatability of a "
+"tutorial."
+msgstr ""
+
+#: ../../how-to-guides.rst:62 f68767aa47fb4970b8d9c1a96627eed2
+msgid "Focus on results"
+msgstr ""
+
+#: ../../how-to-guides.rst:64 63e333645ca84bc586d0515e43f7ebaf
+msgid ""
+"**How-to guides must focus on achieving a practical goal.** Anything else"
+" is a distraction. As in tutorials, detailed explanations are out of "
+"place here."
+msgstr ""
+
+#: ../../how-to-guides.rst:68 dc6a53ae78ab49b0a639f90bafd9be7f
+msgid "Solve a particular problem"
+msgstr ""
+
+#: ../../how-to-guides.rst:70 1341da78b1394d9aac44f2d6bbfbb5ef
+msgid ""
+"**A how-to guide must address a specific question or problem**: *How do I"
+" …?*"
+msgstr ""
+
+#: ../../how-to-guides.rst:72 35d5d22f21734830aa5686832ec403e4
+msgid ""
+"This is one way in which how-to guides are distinct from tutorials: when "
+"it comes to a how-to guide, the reader can be assumed to know *what* they"
+" should achieve, but don’t yet know *how* - whereas in the tutorial, "
+"*you* are responsible for deciding what things the reader needs to know "
+"about."
+msgstr ""
+
+#: ../../how-to-guides.rst:76 a0590f0c31c148a0a947bbf9608b5638
+msgid "Don't explain concepts"
+msgstr ""
+
+#: ../../how-to-guides.rst:78 475331119fab4b21ae7589696d152e11
+msgid ""
+"**A how-to guide should not explain things.** It’s not the place for "
+"discussions of that kind; they will simply get in the way of the action. "
+"If explanations are important, link to them."
+msgstr ""
+
+#: ../../how-to-guides.rst:82 d98fff99978d4f339390bd89f74140a1
+msgid "Allow for some flexibility"
+msgstr ""
+
+#: ../../how-to-guides.rst:84 9ed204ad0f9a4b7e9c33e2cbc765b346
+msgid ""
+"**A how-to guide should allow for slightly different ways of doing the "
+"same thing.** It needs just enough flexibility in it that the user can "
+"see how it will apply to slightly different examples from the one you "
+"describe, or understand how to adapt it to a slightly different system or"
+" configuration from the one you’re assuming. Don’t be so specific that "
+"the guide is useless for anything except the exact purpose you have in "
+"mind."
+msgstr ""
+
+#: ../../how-to-guides.rst:88 f0613f24a76749e595d7ffb2744ad187
+msgid "Leave things out"
+msgstr ""
+
+#: ../../how-to-guides.rst:90 3a0ae3f3f3ce44b3b6d7e1dcf8e8a20c
+msgid ""
+"**Practical usability is more valuable than completeness.** Tutorials "
+"need to be complete, end-to-end guides; how-to guides do not. They can "
+"start and end where it seems appropriate to you. They don’t need to "
+"mention everything that there is to mention either, just because it is "
+"related to the topic. A bloated how-to guide doesn’t help the user get "
+"speedily to their solution."
+msgstr ""
+
+#: ../../how-to-guides.rst:94 528a4193ab7d46c6b94e3ef560f7fbf7
+msgid "Name guides well"
+msgstr ""
+
+#: ../../how-to-guides.rst:96 f736688f33e04f33aec94561e40802e7
+msgid ""
+"**The title of a how-to document should tell the user exactly what it "
+"does.** *How to create a class-based view* is a good title. *Creating a "
+"class-based view* or worse, *Class-based views*, are not."
+msgstr ""
+
+#: ../../how-to-guides.rst:101 b2cb95431d1e4ae2b8f625edba42481c
+msgid "The language of how-to guides"
+msgstr ""
+
+#: ../../how-to-guides.rst:103 217bd89f38e449afa6c45452835eaab3
+msgid "*This guide shows you how to...*"
+msgstr ""
+
+#: ../../how-to-guides.rst:104 30f400d9d5dd4627a1e4d3e82cd4598f
+msgid ""
+"Describe clearly the problem or task that the guide shows the user how to"
+" solve."
+msgstr ""
+
+#: ../../how-to-guides.rst:105 8f5617072f7b41dd9c6c1828be8bef12
+msgid "*If you want x, do y. To achieve w, do z.*"
+msgstr ""
+
+#: ../../how-to-guides.rst:106 27d289b096414738a49d6d3cb495272f
+msgid "Use conditional imperatives."
+msgstr ""
+
+#: ../../how-to-guides.rst:108 50f24ccdc8494b11a4f223d5cf38cf69
+msgid "*Refer to the x reference guide for a full list of options.*"
+msgstr ""
+
+#: ../../how-to-guides.rst:108 939ac270a0ed4e9594e0300eab914473
+msgid ""
+"Don't pollute your practical how-to guide with every possible thing the "
+"user might do related to x."
+msgstr ""
+
+#: ../../how-to-guides.rst:113 4ad5b71430c7402a8b27b7384b12b8c4
+msgid "Example from Divio's documentation"
+msgstr ""
+
+#: ../../how-to-guides.rst:115 ed09ed1708d744a58d7eccd72332ed07
+msgid ""
+"Have a look at `our how-to guides <https://docs.divio.com/en/latest/how-"
+"to>`_."
+msgstr ""
+
+#: ../../how-to-guides.rst:122 5d86b6ee09cd4ff9bec49165112c839e
+msgid ""
+"Each one of these is an answer to a question, or problem: *how do I...?* "
+"Each title can clearly be preceded by the words “How to”. Each one is a "
+"recipe, that takes you through the steps required to complete a specific "
+"task."
+msgstr ""
+
+#: ../../how-to-guides.rst:125 fb0319cfc5a34942aeab7f8a5a53dd74
+msgid ""
+"Although both the tutorials and the how-to guides serve the needs of the "
+"user, the tutorials are led by the author who knows what the user needs "
+"to know, while the how-to guides are led by the user who asks the "
+"questions."
+msgstr ""
+

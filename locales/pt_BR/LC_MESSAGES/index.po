@@ -1,0 +1,138 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../index.rst:78
+msgid "Home"
+msgstr ""
+
+#: ../../index.rst:1 5d4dc298cecf461880770574228c213c
+msgid ""
+"The Diátaxis framework solves the problem of structure in technical "
+"documentation, making it easier to create, maintain and use."
+msgstr ""
+
+#: ../../index.rst:1 6507c55426a04475951babe7e253a8f7
+msgid "documentation, four, kinds"
+msgstr ""
+
+#: ../../index.rst:9 b826969db88244f7a8a9d0836e666091
+msgid "Diátaxis Framework"
+msgstr ""
+
+#: ../../index.rst:12 e934190d8445400f96e55a5b976af2a8
+msgid "A systematic framework for technical documentation authoring."
+msgstr ""
+
+#: ../../index.rst:13 19cb053aa5b2468aa7ef9af3b15cd0be
+msgid ""
+"The Diátaxis framework aims to solve the problem of structure in "
+"technical documentation. It adopts a systematic approach to understanding"
+" the needs of documentation users in their cycle of interaction with a "
+"product."
+msgstr ""
+
+#: ../../index.rst:20 0ca4e182ca474dd09273a5a17fc5d10c
+msgid "The Grand Unified Theory of Documentation"
+msgstr ""
+
+#: ../../index.rst:24 df6a3d7722b94bdc8b8bada0672fd09d
+msgid "\\- David Laing"
+msgstr ""
+
+#: 7ad5baed5652434e9be1be98f092c858
+msgid "*Diátaxis*"
+msgstr ""
+
+#: ../../index.rst:31 3211aa56714543fcacf80cde25671c59
+msgid ""
+"From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, \"across\", and *taxis*, "
+"\"arrangement\"."
+msgstr ""
+
+#: ../../index.rst:33 537737026d7e445ab645c54103db2225
+msgid ""
+"The framework identifies four modes of documentation - **tutorials**, "
+"**how-to guides**, **technical reference** and **explanation**."
+msgstr ""
+
+#: ../../index.rst:36 cec90d3849eb4cf18d185672af49342e
+msgid ""
+"Each of these modes (or types) answers to a different user need, fulfils "
+"a different purpose and requires a different approach to its creation."
+msgstr ""
+
+#: ../../index.rst:42 f04f1ccf4221449e9ee630988a31830d
+msgid ""
+"In other words, what we call *documentation* is fundamentally not one "
+"thing, but four. Understanding the implications of this will help improve"
+" most documentation - often immensely."
+msgstr ""
+
+#: ../../index.rst:46 d8155a4fe0f54456860e7854a55b182a
+msgid ""
+"Diátaxis promises to make documentation and projects better, and the "
+"teams that work with them more successful."
+msgstr ""
+
+#: ../../index.rst:52 d65e055aa0f2477683047e0cef6b462d
+msgid ""
+"While redesigning the `Cloudflare developer docs "
+"<https://developers.cloudflare.com>`_, this content framework became our "
+"north star for information architecture. When we weren’t sure where a new"
+" piece of content should fit in, we’d consult the framework. Our "
+"documentation is now clearer than it’s ever been, both for readers and "
+"contributors."
+msgstr ""
+
+#: ../../index.rst:59 fb33b7b8253b4d5fa22f090b1f429167
+msgid "\\- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)"
+msgstr ""
+
+#: ../../index.rst:64 b60bf7c948fd47fc94ca4686b0336a6c
+msgid "Light-weight and easily adopted"
+msgstr ""
+
+#: ../../index.rst:66 b39e8b3023ee4ae5a4eafc938a61c716
+msgid ""
+"The framework is light-weight, easy to understand and straightforward to "
+"apply. It doesn't impose implementation constraints."
+msgstr ""
+
+#: ../../index.rst:70 5e7eec8eecbe4490bc7c0d3ff4109bea
+msgid "Complete and comprehensive"
+msgstr ""
+
+#: ../../index.rst:72 90b67ace26b940ce82ccc12c04b9a28e
+msgid ""
+"Diátaxis provides a comprehensive and nearly universally-applicable "
+"scheme, that has been :ref:`proven in practice across a wide variety of "
+"fields and applications <adoption>`. These include large and small, and "
+"open and proprietary documentation projects."
+msgstr ""
+
+#: ../../index.rst:94 8289b2e94ef04fc3826bb9b43092f452
+msgid "Video presentation"
+msgstr ""
+
+#: ../../index.rst:96 8db615563288493a9b6585b760345572
+msgid ""
+"If you'd prefer to watch a video covering this topic, here is it "
+"(courtesy of PyCon Australia 2017)."
+msgstr ""
+

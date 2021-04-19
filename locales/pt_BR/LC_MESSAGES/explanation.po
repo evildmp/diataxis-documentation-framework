@@ -1,0 +1,250 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../explanation.rst:4 8607b0adbc6e49a2a2e4cc4700ab85cd
+msgid "About explanation"
+msgstr ""
+
+#: ../../explanation.rst:8 bee5b73fbfb24ddea0c9dd9b20913a29
+msgid ""
+"Explanation is **discussion** that clarifies and illuminates a particular"
+" topic. Explanation is **understanding-oriented**."
+msgstr ""
+
+#: ../../explanation.rst:11 5f3685ab984e4b508c585f99b9985953
+msgid "Explanations broaden the documentation’s coverage of a topic."
+msgstr ""
+
+#: ../../explanation.rst:13 2f409f15df924a4ba4ca2bcc9fdf5f4a
+msgid ""
+"Explanations can equally well be described as *discussions*; they are "
+"discursive in nature. They are a chance for the documentation to relax "
+"and step back from the software, taking a wider view, illuminating it "
+"from a higher level or even from different perspectives. You might "
+"imagine a discussion document being read at leisure, rather than over the"
+" code."
+msgstr ""
+
+#: ../../explanation.rst:20 0ff000a1993749ccba67b401ed6dc796
+msgid ""
+"This section of documentation is rarely explicitly created, and instead, "
+"snippets of explanation are scattered amongst other sections. Sometimes, "
+"the section exists, but has a name such as *Background* or *Other notes* "
+"or *Key topics* - these names are not always useful."
+msgstr ""
+
+#: ../../explanation.rst:22 637227b03e3146888da33db76ad240c0
+msgid ""
+"Explanation is less easy to create than it might seem - things that are "
+"straightforward to explain when you have the starting-point of someone’s "
+"question are less easy when you have a blank page and have to write down "
+"something about it."
+msgstr ""
+
+#: ../../explanation.rst:24 5c660edcd4b244529af4bc73eef4b07c
+msgid ""
+"A topic isn’t defined by a specific task you want to achieve, like a how-"
+"to guide, or what you want the user to learn, like a tutorial. It’s not "
+"defined by a piece of the machinery, like reference material. It’s "
+"defined by what **you** think is a reasonable area to try to cover at one"
+" time, so the division of topics for discussion can sometimes be a little"
+" arbitrary."
+msgstr ""
+
+#: ../../explanation.rst:29 b538c1bfda3e41c68e8ebb3642729ee9
+msgid "Analogy from cooking"
+msgstr ""
+
+#: ../../explanation.rst:36 1f133d9c887541a5865715ada18ee8a2
+msgid ""
+"Think about a work that discusses food and cooking in the context of "
+"history, science and technology. It's *about* cooking and the kitchen."
+msgstr ""
+
+#: ../../explanation.rst:39 bf838bbd8e994720b68225069671fcae
+msgid ""
+"It doesn't teach, it's not a collection of recipes, and it doesn't just "
+"describe."
+msgstr ""
+
+#: ../../explanation.rst:41 83ba447031074007bcba5f111022d1a2
+msgid ""
+"Instead, it analyses, considers things from multiple perspectives. It "
+"might explain why it is we now do things the way we do, or even describe "
+"bad ways of doing things, or obscure alternatives."
+msgstr ""
+
+#: ../../explanation.rst:44 c32018253eb649c89f8b8fcacf256204
+msgid ""
+"It deepens our knowledge and makes it richer, even if it isn't knowledge "
+"we can actually apply in any practical sense - but it doesn't need to be,"
+" in order to be valuable."
+msgstr ""
+
+#: ../../explanation.rst:46 9ed344f090ec4e639e20a7414fa9d7a7
+msgid ""
+"It's something we might read at our leisure, away from the kitchen "
+"itself, when we want to think about cooking at a higher level, and to "
+"understand more about the subject."
+msgstr ""
+
+#: ../../explanation.rst:52 e960f9602f6a402a87f23f50a1273f6f
+msgid "How to write a good explanation"
+msgstr ""
+
+#: ../../explanation.rst:56 16f8637506a946c5b04928f680ec8dcc
+msgid "the bigger picture"
+msgstr ""
+
+#: ../../explanation.rst:57 3f286f1efb1c44dab91dcf75bb88f41d
+msgid "history"
+msgstr ""
+
+#: ../../explanation.rst:58 f3f99f836fb048839a430586b8c149be
+msgid "choices, alternatives, possibilities"
+msgstr ""
+
+#: ../../explanation.rst:59 2f1dbb945c6f4b31b70a3cb02732b7a1
+msgid "why: reasons and justifications"
+msgstr ""
+
+#: ../../explanation.rst:62 21feac9f04a84fba9dfbc2c9559b4b90
+msgid "Provide context"
+msgstr ""
+
+#: ../../explanation.rst:64 7caf0734f9184d81b52772c1d63c555f
+msgid ""
+"**Explanations are the place for background and context** - for example, "
+"*Web forms and how they are handled in Django*, or *Search in django "
+"CMS*."
+msgstr ""
+
+#: ../../explanation.rst:66 3c6688306eeb4aa6b3c9531ebe973d29
+msgid ""
+"They can also explain *why* things are so - design decisions, historical "
+"reasons, technical constraints."
+msgstr ""
+
+#: ../../explanation.rst:70 032e4b97802f44f89d1a38058d8162e3
+msgid "Discuss alternatives and opinions"
+msgstr ""
+
+#: ../../explanation.rst:72 27d4e11fe1e1457cb0d63010e22297cb
+msgid ""
+"**Explanation can consider alternatives**, or multiple different "
+"approaches to the same question. For example, in an article on Django "
+"deployment, it would be appropriate to consider and evaluate different "
+"web server options,"
+msgstr ""
+
+#: ../../explanation.rst:74 2f2091c86360444ca30403662fb9ee5a
+msgid ""
+"Discussions can even consider and weigh up contrary *opinions* - for "
+"example, whether test modules should be in a package directory, or not."
+msgstr ""
+
+#: ../../explanation.rst:78 088ce4d257f7487d849e1d4f27b172b3
+msgid "Don't instruct, or provide technical reference"
+msgstr ""
+
+#: ../../explanation.rst:80 dceb0aaaa1b64bdba694da108abcd6d1
+msgid ""
+"**Explanation should do things that the other parts of the documentation "
+"do not.** It’s not the place of an explanation to instruct the user in "
+"how to do something. Nor should it provide technical description. These "
+"functions of documentation are already taken care of in other sections."
+msgstr ""
+
+#: ../../explanation.rst:85 4f01f0b9190f4260b45ac92785f5d410
+msgid "The language of explanation"
+msgstr ""
+
+#: ../../explanation.rst:87 b907c3ea7f524db8a032080795c11dbb
+msgid "*The reason for x is because historically, y...*"
+msgstr ""
+
+#: ../../explanation.rst:88 24785388a25245feb71cb4de6c987c34
+msgid "Explain."
+msgstr ""
+
+#: ../../explanation.rst:89 4ab3dce5190b418da2a4771ef55b67ef
+msgid "*W is better than z, because...*"
+msgstr ""
+
+#: ../../explanation.rst:90 337ec1c02d8946b4a0dd734c6b92e3aa
+msgid "Offer judgements and even opinions where appropriate.."
+msgstr ""
+
+#: ../../explanation.rst:91 1a4f9fe4098d4482845408710a4f29af
+msgid "*An x in system y is analogous to a w in system z. However...*"
+msgstr ""
+
+#: ../../explanation.rst:92 4cd5400147fc46c3a0fd5ccc9a1d7272
+msgid "Provide context that helps the reader."
+msgstr ""
+
+#: ../../explanation.rst:93 dc0adcef6cc64f8bbf86df6b71344a4f
+msgid "*Some users prefer w (because z). This can be a good approach, but...*"
+msgstr ""
+
+#: ../../explanation.rst:94 faec3637cd454a02b0c0edca0b669047
+msgid "Weigh up alternatives."
+msgstr ""
+
+#: ../../explanation.rst:96 5463962930464a52adc9c3709b14223b
+msgid "*An x interacts with a y as follows:...*"
+msgstr ""
+
+#: ../../explanation.rst:96 e2beceaa5bd743be8e602b83f76b0580
+msgid ""
+"Unfold the machinery's internal secrets, to help understand why something"
+" does what it does."
+msgstr ""
+
+#: ../../explanation.rst:101 27cd38717154499296199cb629f7958e
+msgid "Example from Divio's documentation"
+msgstr ""
+
+#: ../../explanation.rst:103 9db7029a9a0047c09734557f9166ecb1
+msgid ""
+"Have a look at `our explanation section "
+"<https://docs.divio.com/en/latest/reference/divio-cli>`_ (titled "
+"\"Background\" - the name is not important as long as the purpose is "
+"clear)."
+msgstr ""
+
+#: ../../explanation.rst:111 2c0bfb05d9cc4e15a5b40ab808a92ffc
+msgid ""
+"These articles don’t teach anything. They don’t tell the user what to do."
+" They aren’t reference guides. They just discuss particular topics. The "
+"user doesn’t *need* to know about (for example) caching or CDN or how we "
+"manage environment variables in order to use the platform or achieve any "
+"particular task, but the time is likely to come when someone's experience"
+" and use of the platform will be improved by having a clearer, better, "
+"deeper understanding of those things."
+msgstr ""
+
+#: ../../explanation.rst:117 e5ae9614c6fc4a6f8521bb912c5d2e60
+msgid ""
+"These articles provide the bigger picture, the context. Users are human "
+"beings; maybe they don’t strictly need to know why we do a certain thing "
+"a certain way, but knowing it might well provide them with a kind of "
+"satisfaction and comfort that makes them a happier user of the product."
+msgstr ""
+

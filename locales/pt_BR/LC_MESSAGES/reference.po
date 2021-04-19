@@ -1,0 +1,236 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2017-2021, Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-18 20:02-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.9.0\n"
+
+#: ../../reference.rst:4 9dbf9891809946de9f2d7126b1331398
+msgid "About reference"
+msgstr ""
+
+#: ../../reference.rst:8 c60988a1192940ff9a5f525ed4d86da2
+msgid ""
+"Reference guides are **technical descriptions** of the machinery and how "
+"to operate it. Reference material is **information-oriented**."
+msgstr ""
+
+#: ../../reference.rst:11 408f6e9f52064f6db45ae34d3e3b7979
+msgid ""
+"Reference guides have one job only: to describe. They are code-"
+"determined, because ultimately that's what they describe: key classes, "
+"functions, APIs, and so they should list things like functions, fields, "
+"attributes and methods, and set out how to use them."
+msgstr ""
+
+#: ../../reference.rst:18 c168e9cfa2dd4e62bdc67af30f9a5141
+msgid ""
+"By all means technical reference can contain examples to illustrate "
+"usage, but it should not attempt to explain basic concepts, or how to "
+"achieve common tasks."
+msgstr ""
+
+#: ../../reference.rst:20 b78fd7ab67f24c07a6eac058a3ab08b0
+msgid "Reference material should be **austere and to the point**."
+msgstr ""
+
+#: ../../reference.rst:22 f089b278824646979aa806c779b9e3f3
+msgid ""
+"Note that description **does** include basic description of how to use "
+"the machinery - how to instantiate a particular class, or invoke a "
+"certain method, for example, or precautions that must be taken when "
+"passing something to a function. However this is simply part of its "
+"function as technical reference, and emphatically **not** to be confused "
+"with a how-to guide - *describing correct usage of software* (technical "
+"reference) is not the same as *showing how to use it to achieve a certain"
+" end* (how-to documentation)."
+msgstr ""
+
+#: ../../reference.rst:24 57a2921080a744a58f78c329fd464df7
+msgid ""
+"For some developers, reference guides are the only kind of documentation "
+"they can imagine. They already understand their software, they know how "
+"to use it. All they can imagine that other people might need is technical"
+" information about it."
+msgstr ""
+
+#: ../../reference.rst:26 f1b61751d9b54fd9a15a8d16ad8c7ba5
+msgid ""
+"Reference material tends to be written well. It can even - to some extent"
+" - be generated automatically, but this is never sufficient on its own."
+msgstr ""
+
+#: ../../reference.rst:31 e5894d70d840491ba620d8f2309d8b79
+msgid "Analogy from cooking"
+msgstr ""
+
+#: ../../reference.rst:39 b7f9678e9a0d4f6fa8eb885b1de346c5
+msgid "Consider an encyclopaedia article about an ingredient, say ginger."
+msgstr ""
+
+#: ../../reference.rst:41 aee8e9615bb74ba2a429f4155093ab20
+msgid ""
+"When you look up *ginger* in a reference work, what you want is "
+"*information* about the ingredient - information describing its "
+"provenance, its behaviour, its chemical constituents, how it can be "
+"cooked."
+msgstr ""
+
+#: ../../reference.rst:43 1041c8bc1761453a88b0f9390200d792
+msgid ""
+"You expect that whatever ingredient you look up, the information will be "
+"presented in a similar way. And you expect to be informed of basic facts,"
+" such as *ginger is a member of the family that includes turmeric and "
+"cardamom*."
+msgstr ""
+
+#: ../../reference.rst:46 6396172b776341b78c9c3a6e69752fce
+msgid ""
+"This is also where you'd expect to be alerted about potential problems, "
+"such as: *ginger is known to provoke heartburn in some individuals* or: "
+"*ginger may interfere with the effects of anticoagulants, such as "
+"warfarin or aspirin*."
+msgstr ""
+
+#: ../../reference.rst:53 c09a1e111a9f43cbbafb730644810975
+msgid "austere and uncompromising"
+msgstr ""
+
+#: ../../reference.rst:54 43f04fabae88405c8740570cfe9fb6ed
+msgid "neutrality, objectivity, factuality"
+msgstr ""
+
+#: ../../reference.rst:55 901de1a2b5f244e4af08c17ee0b73062
+msgid "structured according to the structure of the machinery itself"
+msgstr ""
+
+#: ../../reference.rst:58 0249e88dfc714391b06dc85256bda5dc
+msgid "How to write good reference guides"
+msgstr ""
+
+#: ../../reference.rst:61 a81664e6b620485e94d2217100f11b7b
+msgid "Structure the documentation around the code"
+msgstr ""
+
+#: ../../reference.rst:63 78fdf30cdb414e1b8cddebaaacc44535
+msgid ""
+"**Give reference documentation the same structure as the codebase**, so "
+"that the user can navigate both the code and the documentation for it at "
+"the same time. This will also help the maintainers see where reference "
+"documentation is missing or needs to be updated."
+msgstr ""
+
+#: ../../reference.rst:67 89ff7fae4a21416fac3094797dfd5644
+msgid "Be consistent"
+msgstr ""
+
+#: ../../reference.rst:69 aad6e5a0310d46a8a3dcb5fbb4ec48d5
+msgid ""
+"**In reference guides, structure, tone, format must all be consistent** -"
+" as consistent as those of an encyclopaedia or dictionary."
+msgstr ""
+
+#: ../../reference.rst:73 0e2fbbb959e0455794302a2788c4dde3
+msgid "Do nothing but describe"
+msgstr ""
+
+#: ../../reference.rst:75 a1d3f694648648d09b1bae2e128ae379
+msgid ""
+"**The only job of technical reference is to describe**, as clearly and "
+"completely as possible. Anything else (explanation, discussion, "
+"instruction, speculation, opinion) is not only a distraction, but will "
+"make it harder to use and maintain. Provide examples to illustrate the "
+"description when appropriate."
+msgstr ""
+
+#: ../../reference.rst:77 b0673a55cc96483b9f6870cd66e00e02
+msgid ""
+"Avoid the temptation to use reference material to instruct in how to "
+"achieve things, beyond the basic scope of using the software, and don’t "
+"allow explanations of concepts or discussions of topics to develop. "
+"Instead, link to how-to guides, explanation and introductory tutorials as"
+" appropriate."
+msgstr ""
+
+#: ../../reference.rst:81 0a4dca9e3ca54c7f8d107456bbf97d14
+msgid "Be accurate"
+msgstr ""
+
+#: ../../reference.rst:83 e2a1d71e946f475693be27a2f6947884
+msgid ""
+"**These descriptions must be accurate and kept up-to-date.** Any "
+"discrepancy between the machinery and your description of it will "
+"inevitably lead a user astray."
+msgstr ""
+
+#: ../../reference.rst:88 d26c517421174007b7a4ce4925611c55
+msgid "The language of reference guides"
+msgstr ""
+
+#: ../../reference.rst:90 1e7f1680a63b425fae445812745e4bbf
+msgid ""
+"*X is an example of y. W needs to be initialised using z. This option "
+"does that.*"
+msgstr ""
+
+#: ../../reference.rst:91 e781917a9f3f48afa91aebd18cd40bec
+msgid "State facts about the machinery and its behaviour."
+msgstr ""
+
+#: ../../reference.rst:92 d1f1a93b4fb9497e88af5fd1a72c1d53
+msgid "*Sub-commands are: a, b, c, d, e, f.*"
+msgstr ""
+
+#: ../../reference.rst:93 a23db9d4aa6341468c61112a782a10f3
+msgid ""
+"List commands, options, operations, features, flags, limitations, error "
+"messages, etc."
+msgstr ""
+
+#: ../../reference.rst:95 53897478d2db45bd9929c36a35f5e736
+msgid "*You must use a. You must not apply b unless c. Never d.*"
+msgstr ""
+
+#: ../../reference.rst:95 2bf39ccc8d38478b9ec162f2ebc8a267
+msgid "Provide warnings where appropriate."
+msgstr ""
+
+#: ../../reference.rst:100 9630c0b5bfc74b56b89d6f898098ffe7
+msgid "Example from Divio's documentation"
+msgstr ""
+
+#: ../../reference.rst:102 55510f5a91984482add4c52727eafd0b
+msgid ""
+"Have a look at `an example from our technical reference section "
+"<https://docs.divio.com/en/latest/reference/divio-cli>`_."
+msgstr ""
+
+#: ../../reference.rst:109 2b1db542e5b54d0f9ddb1ff132df3f87
+msgid "This is a typical reference guide (in this case, for our Divio CLI)."
+msgstr ""
+
+#: ../../reference.rst:111 bcb2793d0ad54ab9bc163ed16597def7
+msgid ""
+"Description is all this article does, setting out in a complete and "
+"accurate form the functions, commands and options of the tool."
+msgstr ""
+
+#: ../../reference.rst:114 831936de240a4666802123e4da25620f
+msgid ""
+"It's hardly a friendly or engaging read, but its purpose is to make "
+"looking up information about functionality as swift and distraction-free "
+"as possible."
+msgstr ""
+
