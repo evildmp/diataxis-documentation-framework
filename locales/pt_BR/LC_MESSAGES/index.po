@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
+# DIÁTAXIS FRAMEWORK. BRAZILIAN PORTUGUESE TRANSLATION.
 # Copyright (C) 2017-2021, Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# SeuPedro <sh.pedro.dev@gmail.com>, 2021.
 #
 #, fuzzy
 msgid ""
@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 20:02-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: SeuPedro <sh.pedro.dev@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -19,25 +19,27 @@ msgstr ""
 
 #: ../../index.rst:78
 msgid "Home"
-msgstr ""
+msgstr "Início"
 
 #: ../../index.rst:1 5d4dc298cecf461880770574228c213c
 msgid ""
 "The Diátaxis framework solves the problem of structure in technical "
 "documentation, making it easier to create, maintain and use."
 msgstr ""
+"O framework Diátaxis resolve o problema de como estrutuar documentação técnica, "
+"fazendo com que seja fácil de manter e de usar."
 
 #: ../../index.rst:1 6507c55426a04475951babe7e253a8f7
 msgid "documentation, four, kinds"
-msgstr ""
+msgstr "documentação, quatro, tipos"
 
 #: ../../index.rst:9 b826969db88244f7a8a9d0836e666091
 msgid "Diátaxis Framework"
-msgstr ""
+msgstr "Framework Diátaxis"
 
 #: ../../index.rst:12 e934190d8445400f96e55a5b976af2a8
 msgid "A systematic framework for technical documentation authoring."
-msgstr ""
+msgstr "Um framework sistemático para autoria de documentação técnica."
 
 #: ../../index.rst:13 19cb053aa5b2468aa7ef9af3b15cd0be
 msgid ""
@@ -46,10 +48,14 @@ msgid ""
 " the needs of documentation users in their cycle of interaction with a "
 "product."
 msgstr ""
+"O framework Diátaxis tem como objeto resolver o problema de estrutura em "
+"documentações técnicas. Ele adota uma abordagem sistemática para entender "
+"a necessidade da documentação dos usuários em seus ciclos de interação com um "
+"produto."
 
 #: ../../index.rst:20 0ca4e182ca474dd09273a5a17fc5d10c
 msgid "The Grand Unified Theory of Documentation"
-msgstr ""
+msgstr "A Grande Teoria Unificada sobre Documentação"
 
 #: ../../index.rst:24 df6a3d7722b94bdc8b8bada0672fd09d
 msgid "\\- David Laing"
@@ -64,18 +70,24 @@ msgid ""
 "From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, \"across\", and *taxis*, "
 "\"arrangement\"."
 msgstr ""
+"Do Grego Antigo δῐᾰ́τᾰξῐς - *dia*, \"através\", e *taxis*, "
+"\"arranjo\"."
 
 #: ../../index.rst:33 537737026d7e445ab645c54103db2225
 msgid ""
 "The framework identifies four modes of documentation - **tutorials**, "
 "**how-to guides**, **technical reference** and **explanation**."
 msgstr ""
+"O framework identifica quatro modos de documentação - **tutoriais**, "
+"**guias de como-fazer**, **referência técnica** e **explicação**"
 
 #: ../../index.rst:36 cec90d3849eb4cf18d185672af49342e
 msgid ""
 "Each of these modes (or types) answers to a different user need, fulfils "
 "a different purpose and requires a different approach to its creation."
 msgstr ""
+"Cada um desses modos (ou tipos) corresponde a uma necessidade diferente do usuário, preenche "
+"um propósito diferente e requer uma abordagem distinta para sua criação."
 
 #: ../../index.rst:42 f04f1ccf4221449e9ee630988a31830d
 msgid ""
@@ -83,12 +95,17 @@ msgid ""
 "thing, but four. Understanding the implications of this will help improve"
 " most documentation - often immensely."
 msgstr ""
+"Em outras palavras, o que nós chamamos *documentação* não é fundamentalmente uma "
+"coisa só, mas quatro. Compreender essas implicações vai ajudar a melhorar "
+"bastante a documentação - muitas vezes imensamente."
 
 #: ../../index.rst:46 d8155a4fe0f54456860e7854a55b182a
 msgid ""
 "Diátaxis promises to make documentation and projects better, and the "
 "teams that work with them more successful."
 msgstr ""
+"Diátaxis promete tornar documentação e projetos melhores, e os "
+"times com quem trabalham mais bem sucedidos."
 
 #: ../../index.rst:52 d65e055aa0f2477683047e0cef6b462d
 msgid ""
@@ -99,6 +116,13 @@ msgid ""
 "documentation is now clearer than it’s ever been, both for readers and "
 "contributors."
 msgstr ""
+"Quando estávamos redesenhando a `documentação para desenvolvedores da Clouflare "
+"<https://developers.cloudflare.com>`_, o conteúdo desse framework se tornou nosso "
+"norte para estruturar a informação. Quando nós não tínhamos certeza sobre aonde um novo "
+"pedaço de conteúdo deveria se encaixar, nós consultamos o framework. Agora nossa "
+"documentação está mais clara do que nunca, tanto para os leitores quando para os "
+"colaboradores."
+
 
 #: ../../index.rst:59 fb33b7b8253b4d5fa22f090b1f429167
 msgid "\\- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)"
@@ -106,17 +130,19 @@ msgstr ""
 
 #: ../../index.rst:64 b60bf7c948fd47fc94ca4686b0336a6c
 msgid "Light-weight and easily adopted"
-msgstr ""
+msgstr "Leve e de fácil adaptação"
 
 #: ../../index.rst:66 b39e8b3023ee4ae5a4eafc938a61c716
 msgid ""
 "The framework is light-weight, easy to understand and straightforward to "
 "apply. It doesn't impose implementation constraints."
 msgstr ""
+"O framework é leve, fácil de entender e simples de "
+"aplicar. Ele não impõe restrições de implementação."
 
 #: ../../index.rst:70 5e7eec8eecbe4490bc7c0d3ff4109bea
 msgid "Complete and comprehensive"
-msgstr ""
+msgstr "Completo e abrangente"
 
 #: ../../index.rst:72 90b67ace26b940ce82ccc12c04b9a28e
 msgid ""
@@ -125,14 +151,19 @@ msgid ""
 "fields and applications <adoption>`. These include large and small, and "
 "open and proprietary documentation projects."
 msgstr ""
+"Diátaxis fornece um esquema abrangente e quase que universalmente-aplicável, "
+"que tem sido :ref:`testado na prática através de uma grande variedade de "
+"adoção de aplicações e campos <adoption>`. Entre os quais inclui projetos de documentação grandes, pequenos, "
+"livres ou proprietários."
 
 #: ../../index.rst:94 8289b2e94ef04fc3826bb9b43092f452
 msgid "Video presentation"
-msgstr ""
+msgstr "Apresentação em vídeo"
 
 #: ../../index.rst:96 8db615563288493a9b6585b760345572
 msgid ""
 "If you'd prefer to watch a video covering this topic, here is it "
 "(courtesy of PyCon Australia 2017)."
 msgstr ""
-
+"Se preferir assistir a um video que explica sobre esse tópico, aqui está "
+"(cortesia de PyCon Australia 2017)."
