@@ -1,7 +1,7 @@
-# SOME DESCRIPTIVE TITLE.
+# DIÁTAXIS FRAMEWORK. BRAZILIAN PORTUGUESE TRANSLATION.
 # Copyright (C) 2017-2021, Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2021.
+# SeuPedro <sh.pedro.dev@gmail.com>, 2021.
 #
 #, fuzzy
 msgid ""
@@ -10,7 +10,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-04-18 20:02-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Last-Translator: SeuPedro <sh.pedro.dev@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -19,15 +19,15 @@ msgstr ""
 
 #: ../../introduction.rst:10 5d275717c1ca4563b7056ce2544b66f9
 msgid "Introduction"
-msgstr ""
+msgstr "Introdução"
 
 #: ../../introduction.rst:13 b812b49edb544263a1edcab8ed983d3d
 msgid "The problem and the solution"
-msgstr ""
+msgstr "O problema e a solução"
 
 #: ../../introduction.rst:16 a827233c3f524fd5a3758122081437e0
 msgid "The problem it solves"
-msgstr ""
+msgstr "O problema que resolve"
 
 #: ../../introduction.rst:18 40eadc22c74849938afeb56b67530601
 msgid ""
@@ -36,6 +36,10 @@ msgid ""
 " have to use it because they have no choice, without good documentation, "
 "they won’t use it effectively or the way you’d like them to."
 msgstr ""
+"Não importa o quão bom seja produto, **se a documentação "
+"dele não for boa o suficiente, as pessoas não vão usar**. Mesmo se elas "
+"sejam obrigadas a usar por não terem escolha, sem uma boa documentação, "
+"elas não vão usar de um modo efetivo ou do jeito que gostariam que fosse."
 
 #: ../../introduction.rst:21 6fbb11c37425418dbb85f3931b4a7396
 msgid ""
@@ -43,12 +47,17 @@ msgid ""
 "good documentation, and **most people try to create good documentation**."
 " And **most people fail**."
 msgstr ""
+"Quase todo mundo sabe isso. Quase todo mundo entende que precisa de "
+"uma boa documentação, e **a maioria das pessoas tentam criar uma boa documentação**. "
+"**Mas a grande parte falha**."
 
 #: ../../introduction.rst:23 b73090018f6644e5919b0236c284c7da
 msgid ""
 "Usually, it’s not because they don’t try hard enough. Usually, it’s "
 "because they are not doing it the right way."
 msgstr ""
+"Normalmente, não é por que não se esforçaram o bastante. Mas "
+"por que não estão fazendo da maneira correta."
 
 #: ../../introduction.rst:25 719431e9f10a4f0dada6a238f13b85c0
 msgid ""
@@ -56,10 +65,13 @@ msgid ""
 "harder at it, but by doing it the right way. **The right way is the "
 "easier way** - easier to write, and easier to maintain."
 msgstr ""
+"Esse sistema é uma forma de melhorar a documentação, não por trabalhar "
+"pegando pesado, mas por fazer da forma certa. **A forma certa é o jeito "
+"mais fácil** - fácil de escrever e fácil de manter."
 
 #: ../../introduction.rst:29 53684c3da98f4f9ba16539272dd94bef
 msgid "The 'secret'"
-msgstr ""
+msgstr "O  'segredo'"
 
 #: ../../introduction.rst:31 b4713c34e0ef4f0594cdec4233aed6d3
 msgid ""
@@ -72,12 +84,22 @@ msgid ""
 "software usually needs them all, and they should all be integrated into "
 "your documentation."
 msgstr ""
+"Na verdade, não é nenhum segredo e nem deveria ser: a documentação "
+"precisa incluir e ser estruturada em torno de **quatro pilares "
+"diferentes**: *tutoriais*, *guias de como-fazer*, *referência técnica* e "
+"*explanação*. Cada uma delas **requer uma forma distinta de escrever**. "
+"Pessoas que trabalham com programação precisam desses quatro tipos diferentes de "
+"documentação em diferentes momentos, e em diferentes circustâncias - e como "
+"na área de programação geralmente se precisa de todos os quatro pilares, todos eles precisam estar integrados na "
+"sua documentação."
 
 #: ../../introduction.rst:33 0d5282426b524b2b9a7d426ddb41d356
 msgid ""
 "And documentation needs to be explicitly structured around them, and they"
 " all must be kept separate and distinct from each other."
 msgstr ""
+"E a documentação precisa estar explicitamente organizada em torno desses quatro, e todos eles "
+"precisam ser mantidos separados e distintos uma dos outros."
 
 #: ../../introduction.rst:42 a1e3482eb66447b08b71d7e3a0900691
 msgid "\\"
@@ -85,99 +107,99 @@ msgstr ""
 
 #: ../../introduction.rst:43 46397dd4e4d34d1c9b52f07d9c301321
 msgid ":ref:`Tutorials <tutorials>`"
-msgstr ""
+msgstr ":ref:`Tutoriais <tutorials>`"
 
 #: ../../introduction.rst:44 6eed94c51433444a919c0ea32492bed6
 msgid ":ref:`How-to guides <how-to>`"
-msgstr ""
+msgstr ":ref:`Guias de como-fazer <how-to>`"
 
 #: ../../introduction.rst:45 8a9b40e16d894fcea9630cb45c6f4b9c
 msgid ":ref:`Reference <reference>`"
-msgstr ""
+msgstr ":ref:`Referência <reference>`"
 
 #: ../../introduction.rst:46 506331d1b11147879ac562a9d29f2a43
 msgid ":ref:`Explanation <explanation>`"
-msgstr ""
+msgstr ":ref:`Explanação <explanation>`"
 
 #: ../../introduction.rst:47 0216bad56246429881712c42507ca7c0
 msgid "*oriented to*"
-msgstr ""
+msgstr "*orientado a*"
 
 #: ../../introduction.rst:48 bce3440835184eb5b5cc6eb492900c97
 msgid "learning"
-msgstr ""
+msgstr "aprendizado"
 
 #: ../../introduction.rst:49 831cf4c5dd4d44cea3347d3b34ea49b1
 msgid "a goal"
-msgstr ""
+msgstr "um objetivo"
 
 #: ../../introduction.rst:50 b832e1d7133e467cb60e343ed183273f
 msgid "information"
-msgstr ""
+msgstr "informação"
 
 #: ../../introduction.rst:51 150dde8cb48f48559751ee2985cb7e02
 msgid "understanding"
-msgstr ""
+msgstr "entendimento"
 
 #: ../../introduction.rst:52 0600f6a3bfbd4c74bd65db76a7593a24
 msgid "*must*"
-msgstr ""
+msgstr "*deve*"
 
 #: ../../introduction.rst:53 f8fd4cfa2bab492784fa29ab787a02fd
 msgid "allow the newcomer to get started"
-msgstr ""
+msgstr "permite que o novato comece"
 
 #: ../../introduction.rst:54 82b01574d4c945eea8173077c85d7b9d
 msgid "show how to solve a specific problem"
-msgstr ""
+msgstr "mostra como resolver um problema específico"
 
 #: ../../introduction.rst:55 34854317736344e5ac975d6aea50d35c
 msgid "describe the machinery"
-msgstr ""
+msgstr "descreve o maquinário"
 
 #: ../../introduction.rst:56 6614e1cb3b3545b38370ff43de097064
 msgid "explain"
-msgstr ""
+msgstr "explica"
 
 #: ../../introduction.rst:57 4365ad6678134f9f8e26c908622866c0
 msgid "*its form*"
-msgstr ""
+msgstr "*de qual forma*"
 
 #: ../../introduction.rst:58 3ed86c11d1734745b3987335c11fc21f
 msgid "a lesson"
-msgstr ""
+msgstr "uma lição"
 
 #: ../../introduction.rst:59 88dc97a3e434430dbc6dd69e0f217252
 msgid "a series of steps"
-msgstr ""
+msgstr "uma série de passos"
 
 #: ../../introduction.rst:60 a58946191860417889d63d1b39c486c0
 msgid "dry description"
-msgstr ""
+msgstr "descrição direta"
 
 #: ../../introduction.rst:61 27c15250d91e423dac0b220f09323f0d
 msgid "discursive explanation"
-msgstr ""
+msgstr "explicação discursiva"
 
 #: ../../introduction.rst:62 bfab7a8bb78f4e3399d8a7b59fb2b866
 msgid "*analogy*"
-msgstr ""
+msgstr "*analogia*"
 
 #: ../../introduction.rst:63 486b9628507344eb91701f92c6acbb48
 msgid "teaching a small child how to cook"
-msgstr ""
+msgstr "ensinar uma criança a cozinhar"
 
 #: ../../introduction.rst:64 316c551c03c740d8b8f47c837fa495a6
 msgid "a recipe in a cookery book"
-msgstr ""
+msgstr "uma receita de um livro de receitas"
 
 #: ../../introduction.rst:65 932c077b47e2475682acd725a49371e0
 msgid "a reference encyclopaedia article"
-msgstr ""
+msgstr "uma referência de um artigo de enciclopédia"
 
 #: ../../introduction.rst:66 2dfdfa7e3db54656a9de191bda554398
 msgid "an article on culinary social history"
-msgstr ""
+msgstr "um artigo sobre história social de culinária"
 
 #: ../../introduction.rst:68 d91eff690cc6431b9fb604b5e46aa538
 msgid ""
@@ -188,6 +210,11 @@ msgid ""
 "information they want to impart into a shape that makes sense, because "
 "**each of these kinds of documentation has only one job**."
 msgstr ""
+"Essa divisão faz com que seja nítido para o autor e para o leitor qual, "
+"que *tipo*, e aonde o conteúdo vai. Mostra para o autor **o quê**, "
+"**onde** e **como escrever**. Isso evita que o autor "
+"perca muito tempo tentando transformar as informações que deseja transmitir "
+"em uma forma que faça sentido, porque **cada um desses tipos de documentação tem apenas uma tarefa**."
 
 #: ../../introduction.rst:75 cde43ac3475144099f3f196becde2615
 msgid ""
@@ -197,6 +224,11 @@ msgid ""
 "attempt at documentation that fails to maintain this structure suffers**,"
 " as it’s pulled in different directions at once."
 msgstr ""
+"Na verdade, é extremamente difícil manter uma boa documentação que não "
+"reconheça de forma implícita ou explicita os quadrantes desse esquema. As "
+"demandas de cada tipo são diferentes das outras, então **qualquer "
+"tentativa de documentação que falhe em manter essa estrutura sofre**, "
+"já que é puxado para diferentes direções ao mesmo tempo. "
 
 #: ../../introduction.rst:77 4ffca9f5d12242e9816044158f0454d0
 msgid ""
@@ -204,20 +236,25 @@ msgid ""
 "analysing existing documentation, and understanding what needs to be done"
 " to improve it."
 msgstr ""
+"Depois de entender essa estrutura, ela se torna uma ferramenta "
+"muito útil para analisar uma documentação existente e entender o que precisa ser feito "
+"para melhorá-la."
 
 #: ../../introduction.rst:79 5ab0c75af7534d77bc0f85e3de11a901
 msgid ""
 "In the following sections, each of these four parts is dealt with in "
 "detail."
 msgstr ""
+"Nas seções a seguir, cada uma dessas quatro partes é tratada em"
+"detalhe."
 
 #: ../../introduction.rst:85 5eb401fc24514bbf88e12a9818544812
 msgid "Making documentation work"
-msgstr ""
+msgstr "Fazendo a documentação funcionar"
 
 #: ../../introduction.rst:88 7f03b9f038504166b849b66eb45e8491
 msgid "For authors"
-msgstr ""
+msgstr "Para os autores"
 
 #: ../../introduction.rst:90 9ea92352c8784e16b37fc09b0c94b4aa
 msgid ""
@@ -226,6 +263,10 @@ msgid ""
 "write and rewrite, but find it hard to make it fit together in "
 "satisfactory ways."
 msgstr ""
+"Uma das maiores dores de cabeça com que os mantenedores de documentação tem que lidar "
+"é não ter uma imagem clara do que deveriam estar fazendo. Eles "
+"escrevem e reescrevem, mas acham difícil fazer com que tudo se encaixe de "
+"maneira satisfatória."
 
 #: ../../introduction.rst:92 b315ab4e02514c34810465a198f9202e
 msgid ""
@@ -233,6 +274,9 @@ msgid ""
 "separations. They make documentation that is easier to write and "
 "maintain, that’s easier to use and to find one's way around in."
 msgstr ""
+"Essa estrutura resolve essas questões, fazendo distinções e "
+"separações claras. Eles fazem com que a documentação seja mais fácil de escrever e "
+"de manter, e que seja mais fácil de usar e de se naveragar por ela."
 
 #: ../../introduction.rst:94 6a69e62138854cffb123e73488fd90f5
 msgid ""
@@ -241,10 +285,14 @@ msgid ""
 "doubt about what should be included or what style to adopt. It becomes "
 "much clearer what to write, how to write it, and where to put it."
 msgstr ""
+"A documentação não se escreve sozinha - mas agora é possível escrevê-la "
+"sem também ter que lutar contra um ajuste inadequado, um escopo pouco claro, "
+"uma dúvida sobre o que deve ser incluído ou que estilo adotar. Se torna "
+"muito mais claro o que escrever, como escrever e onde colocar as coisas."
 
 #: ../../introduction.rst:98 389e9ef10fce4559b5d7e85df2aa7b92
 msgid "For readers"
-msgstr ""
+msgstr "Para os leitores"
 
 #: ../../introduction.rst:100 29dfb76e5e304f059059b500e44329ff
 msgid ""
@@ -252,6 +300,9 @@ msgid ""
 " of their interaction with the software they will find the right kind of "
 "documentation, that serves the needs of that moment."
 msgstr ""
+"Atende melhor os usuários, pois para todas as diferentes fases do ciclo "
+"de sua interação com o software eles encontrarão o tipo de documentação certa, "
+"que atenda as necessidades daquele momento."
 
 #: ../../introduction.rst:102 0a22e771b39f42438c643646ef8d1c27
 msgid ""
@@ -260,4 +311,8 @@ msgid ""
 "will use it more effectively - and that is one of the things the creators"
 " of software want most of all."
 msgstr ""
+"Escrever uma documentação que trate de forma explícita e distinta cada um "
+"dos quatro quadrantes ajuda o software a atrair e manter mais usuários, que "
+"o usarão de forma mais eficaz - e isso é uma das coisas que os criadores "
+"de software mais desejam."
 
