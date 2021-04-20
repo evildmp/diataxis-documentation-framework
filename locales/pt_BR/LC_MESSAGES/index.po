@@ -50,12 +50,12 @@ msgid ""
 msgstr ""
 "O framework Diátaxis tem como objeto resolver o problema de estrutura em "
 "documentações técnicas. Ele adota uma abordagem sistemática para entender "
-"a necessidade da documentação dos usuários em seus ciclos de interação com um "
+"a necessidade dos usuários de documentação em seus ciclos de interação com um "
 "produto."
 
 #: ../../index.rst:20 0ca4e182ca474dd09273a5a17fc5d10c
 msgid "The Grand Unified Theory of Documentation"
-msgstr "A Grande Teoria Unificada sobre Documentação"
+msgstr "A Grande Teoria Unificada de Documentação"
 
 #: ../../index.rst:24 df6a3d7722b94bdc8b8bada0672fd09d
 msgid "\\- David Laing"
@@ -79,15 +79,15 @@ msgid ""
 "**how-to guides**, **technical reference** and **explanation**."
 msgstr ""
 "O framework identifica quatro modos de documentação - **tutoriais**, "
-"**guias de como-fazer**, **referência técnica** e **explicação**"
+"**guias de como-fazer**, **referência técnica** e **explanação**."
 
 #: ../../index.rst:36 cec90d3849eb4cf18d185672af49342e
 msgid ""
 "Each of these modes (or types) answers to a different user need, fulfils "
 "a different purpose and requires a different approach to its creation."
 msgstr ""
-"Cada um desses modos (ou tipos) corresponde a uma necessidade diferente do usuário, preenche "
-"um propósito diferente e requer uma abordagem distinta para sua criação."
+"Cada um desses modos (ou tipos) corresponde a uma necessidade diferente do usuário, cumpre "
+"uma finalidade diferente e requer uma abordagem diferente para sua criação."
 
 #: ../../index.rst:42 f04f1ccf4221449e9ee630988a31830d
 msgid ""
@@ -104,8 +104,8 @@ msgid ""
 "Diátaxis promises to make documentation and projects better, and the "
 "teams that work with them more successful."
 msgstr ""
-"Diátaxis promete tornar documentação e projetos melhores, e os "
-"times com quem trabalham mais bem sucedidos."
+"Diátaxis promete tornar documentação e projetos melhores, e as "
+"equipes com quem trabalham mais bem sucedidas."
 
 #: ../../index.rst:52 d65e055aa0f2477683047e0cef6b462d
 msgid ""
@@ -130,7 +130,7 @@ msgstr ""
 
 #: ../../index.rst:64 b60bf7c948fd47fc94ca4686b0336a6c
 msgid "Light-weight and easily adopted"
-msgstr "Leve e de fácil adaptação"
+msgstr "Leve e de fácil adoção"
 
 #: ../../index.rst:66 b39e8b3023ee4ae5a4eafc938a61c716
 msgid ""
@@ -151,10 +151,10 @@ msgid ""
 "fields and applications <adoption>`. These include large and small, and "
 "open and proprietary documentation projects."
 msgstr ""
-"Diátaxis fornece um esquema abrangente e quase que universalmente-aplicável, "
+"Diátaxis fornece um esquema abrangente e quase universalmente-aplicável, "
 "que tem sido :ref:`testado na prática através de uma grande variedade de "
 "adoção de aplicações e campos <adoption>`. Entre os quais inclui projetos de documentação grandes, pequenos, "
-"livres ou proprietários."
+"abertos ou proprietários."
 
 #: ../../index.rst:94 8289b2e94ef04fc3826bb9b43092f452
 msgid "Video presentation"
