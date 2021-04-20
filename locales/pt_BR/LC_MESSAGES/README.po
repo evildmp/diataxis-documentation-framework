@@ -35,5 +35,5 @@ msgstr "Publicado em https://diataxis.fr"
 
 #: ../../README.rst:10 e7c566cb3fa048e5b0ee468cc7dbb2b7
 msgid "Author: Daniele Procida"
-msgstr "Autora: Daniele Procida"
+msgstr "Autor: Daniele Procida"
 
