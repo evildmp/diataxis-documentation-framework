@@ -59,7 +59,7 @@ When we learn a new craft or skill, we always begin learning it by doing.
 How to write good tutorials
 ---------------------------
 
-..  sidebar:: Anti-pedagogical temptations
+..  sidebar:: Non-didactic temptations
 
     * abstraction, generalisation
     * explanation
