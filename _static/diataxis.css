@@ -23,22 +23,44 @@ h6 {
   line-height: 25px;
 }
 
+.floated {width: 100%; margin-bottom: .75rem; margin-left: .75rem;}
+
+@media only screen and (min-width: 768px) {
+  .column {
+    float: left;
+    width: 45%;
+    margin-right: 5%;
+    margin-bottom: 30px;
+
+    h2 {
+      margin-top: 0;
+    }
+  }
+
+  .floated {width: 50%; float: right;}
+
+}
+
+.clearfix {
+  clear: both;
+}
+
 .embed-responsive {
   position: relative;
   width: 100%;
 }
-  .embed-responsive:before {
-    display: block;
-    content: "";
-  }
-  .embed-responsive-item,
-  .embed-responsive iframe {
-    position: absolute;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-  }
+.embed-responsive:before {
+  display: block;
+  content: "";
+}
+.embed-responsive-item,
+.embed-responsive iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
 
 .embed-responsive-16by9::before {
     padding-top: 56.25%;
@@ -48,10 +70,9 @@ h6 {
     padding-top: 75%;
 }
 
-article .sidebar {width: 35%; border-color: #FF9300;}
+article .sidebar {width: 37%; border-color: #FF9300; margin-bottom: .5rem;}
 article p.sidebar-title {background: #FF9300;}
-article ul {margin-left: .5em;}
-
+article ul {margin-left: 1em;}
 
 hr.docutils {background-color: #FF9300;}
 
