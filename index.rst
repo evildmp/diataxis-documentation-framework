@@ -26,6 +26,9 @@ approach to understanding the needs of documentation users in their cycle of int
 
 =============
 
+Four modes of documentation
+----------------------------
+
 ..  sidebar:: *Diátaxis*
 
     From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, "across", and *taxis*, "arrangement".
@@ -36,12 +39,14 @@ The framework identifies four modes of documentation - **tutorials**, **how-to g
 Each of these modes (or types) answers to a different user need, fulfils a different purpose and requires a different
 approach to its creation.
 
-.. image:: /images/overview.png
-   :alt: 'overview of the documentation system'
+Technical documentation should be structured explicitly around these four types, and should keep them all separate and
+distinct from each other.
+
+.. image:: /images/diataxis.png
+   :alt: 'Diátaxis'
 
 In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
-of this will help improve most documentation - often immensely.
-
+of this, and how those four different things work, can help improve most documentation.
 
 Diátaxis promises to make documentation and projects better, and the teams that work with them more successful.
 
@@ -74,6 +79,16 @@ across a wide variety of fields and applications <adoption>`. These include larg
 documentation projects.
 
 
+Video presentation
+------------------
+
+Here is a video of a conference talk presenting the concepts encapsulated in Diátaxis, from PyCon Australia 2017.
+
+..  raw:: html
+
+    <div class="embed-responsive embed-responsive-16by9">
+        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t4vKPhjcMZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    </div>
 
 .. toctree::
    :maxdepth: 0
@@ -86,17 +101,4 @@ documentation projects.
    how-to-guides
    reference
    explanation
-   structure
    adoption
-
-
-Video presentation
-------------------
-
-If you'd prefer to watch a video covering this topic, here is it (courtesy of PyCon Australia 2017).
-
-..  raw:: html
-
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t4vKPhjcMZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>

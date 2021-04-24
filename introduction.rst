@@ -1,38 +1,58 @@
-.. raw:: html
+Structure in documentation
+==========================
 
-    <style>
-        table.docutils { width: 100%; table-layout: fixed;}
-        table.docutils th, table.docutils td { white-space: normal }
-    </style>
-
-
-Introduction
-============
-
-The problem and the solution
-------------------------------
-
-The problem it solves
-~~~~~~~~~~~~~~~~~~~~~
-
-It doesn’t matter how good your product is, because **if its documentation is not good enough, people will not use it**. Even if  they have to use it because they have no choice, without good documentation, they won’t use it effectively or the way
-you’d like them to.
-
-Nearly everyone understands this. Nearly everyone knows that they need good documentation, and **most people try to create good documentation**. And **most people fail**.
-
-Usually, it’s not because they don’t try hard enough. Usually, it’s because they are not doing it the right way.
-
-This system is a way to make your documentation better, not by working harder at it, but by doing it the right way. **The right way is the easier way** - easier to write, and easier to maintain.
+Diátaxis isn't just a system for structuring documentation, it's a framework for understanding it, guiding the
+work of documentation authors, and assessing the quality of documentation. However its most obvious implication
+is for documentation structure.
 
 
-The 'secret'
-~~~~~~~~~~~~
+The problem of structure
+--------------------------
 
-It's not actually a secret and it certainly shouldn't be: documentation needs to include and be structured around its **four different functions**: *tutorials*, *how-to guides*, *technical reference* and *explanation*. Each of them **requires a distinct mode of writing**. People working with software need these four different kinds of documentation at different times, in different circumstances - so software usually needs them all, and they should all be integrated into your documentation.
+Of all the problems that bedevil authors and maintainers of documentation, the problem of *structure* is one that
+accounts for a significant proportion of the grief they suffer. Multiple different documentation architectures exist
+that try to provide a solution to this problem. Any orderly attempt to organise documentation into clear content
+categories will help improve it (for authors as well as users).
 
-And documentation needs to be explicitly structured around them, and they all must be kept separate and distinct from each other.
+However, even when armed with a helpful structure, authors often find themselves needing to write particular
+documentation content that seems to falls outside the scheme it provides, or across its internal boundaries.
+
+The map
+--------
+
+Diátaxis aims to solve this problem by providing a scheme that prescribes documentation structure based on a systematic
+description and analysis of **user needs** (and not upon the characteristics of the product documentation is intended
+to serve, or around the different kinds of things that the documentation creator feels need to be said about the
+product).
+
+Diátaxis provides a *map* of distinct documentation types rather than a mere list, and specifies these types in such a
+way that the structure always naturally helps shape the content into an appropriate form.
+
+The result is documentation that is not only better, but takes less effort to create and maintain.
+
+
+Axes of knowledge
+--------------------------
+
+It's important to understand that Diátaxis is intended to apply to documentation pertaining to a *practical craft*, a
+*technical skill* - such as the use of a product. Successful exercise of any such craft or skill involves both
+theoretical grasp (knowledge and understanding), and an ability to apply that in practice, to work with the tools and
+materials of the craft.
+
+Diátaxis divides documentation across two axes of knowledge: *theory/practice*, and *acquisition/application*.
+
+Documentation therefore either *contains theoretical knowledge* or *describes practical actions*, and is concerned
+either with serving *our acquisition* or *our application* of knowledge. Hence the map, across which the four forms
+of documentation are laid out:
+
+.. image:: /images/diataxis.png
+   :alt: 'Diátaxis'
+
 
 ================
+
+Characteristics of documentation
+----------------------------------------------------
 
 
 .. list-table::
@@ -44,59 +64,95 @@ And documentation needs to be explicitly structured around them, and they all mu
      - :ref:`How-to guides <how-to>`
      - :ref:`Reference <reference>`
      - :ref:`Explanation <explanation>`
+   * - \
+     - introduce, educate, lead
+     - guide, demonstrate
+     - states, describes, informs
+     - explains, clarifies, discusses
+   * - *answers the question*
+     - "Can you teach me to...?"
+     - "How do I...?"
+     - "What is...?"
+     - "Why...?"
    * - *oriented to*
      - learning
-     - a goal
+     - tasks
      - information
      - understanding
-   * - *must*
-     - allow the newcomer to get started
-     - show how to solve a specific problem
-     - describe the machinery
-     - explain
-   * - *its form*
+   * - *purpose*
+     - to allow the newcomer to get started
+     - to show how to solve a specific problem
+     - to describe the machinery
+     - to explain
+   * - *form*
      - a lesson
      - a series of steps
      - dry description
      - discursive explanation
    * - *analogy*
-     - teaching a small child how to cook
+     - teaching a child how to cook
      - a recipe in a cookery book
      - a reference encyclopaedia article
      - an article on culinary social history
 
-This division makes it obvious to both author and reader what material, and what *kind* of material, goes where. It tells the
-author **how to write**, and **what to write**, and **where to write it**. It saves the author from wasting a great deal of time
-trying to wrestle the information they want to impart into a shape that makes sense, because **each of these kinds of
-documentation has only one job**.
+A clear advantage of organising material this way is that provides both clear *expectations* (to the reader) and
+*guidance* (to the author). It's clear what the purpose of any particular piece of content is, it specifies how it
+should be written and it shows where it should be placed.
 
-================
-
-In fact, it’s extremely hard to maintain good documentation that doesn’t implicitly or explicitly recognise the quadrants of this scheme. The demands of each kind are different from those of the others, so **any attempt at documentation that fails to maintain this structure suffers**, as it’s pulled in different directions at once.
-
-Once you understand the structure, it becomes a very useful tool for analysing existing documentation, and understanding what needs to be done to improve it.
-
-In the following sections, each of these four parts is dealt with in detail.
-
-================
+Each piece of content is of a kind that not only has one particular job to do, that job is also clearly distinguished
+from and contrasted with the other functions of documentation.
 
 
-Making documentation work
--------------------------
+Collapse of the structure
+--------------------------
 
-For authors
-~~~~~~~~~~~
+Most documentation systems and authors recognise at least some of these distinctions and try to observe them in
+practice. However, there is a kind of natural affinity between each of the different forms of documentation and its
+neighbours on the map, and a natural tendency to blur the distinctions (that can be seen repeatedly in examples of
+documentation).
 
-One of the biggest headaches that documentation maintainers have to deal with is not having a clear picture of what they should be doing. They write and rewrite, but find it hard to make it fit together in satisfactory ways.
+* *tutorials and how-to guides* both describe *practical steps*
+* *how-to guides and technical reference* are both concerned with the *application of knowledge*
+* *reference and explanation* both contain *theoretical knowledge*
+* *tutorials and explanation* are both concerned with the *acquistion of knowledge*
 
-This structure resolves those questions by making clear distinctions and separations. They make documentation that is easier to write and maintain, that’s easier to use and to find one's way around in.
+Allowing these distinctions to blur is what brings about structural problems. The most common is a complete or partial
+collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and
+reference material:
 
-The documentation doesn’t write itself - but it’s now possible to write it without also having to wrestle with poor fit, or unclear scope or doubt about what should be included or what style to adopt. It becomes much clearer what to write, how to write it, and where to put it.
+.. image:: /images/partial-collapse.png
+   :alt: 'Partial collapse'
 
+But sometimes, documentation actually looks like this:
 
-For readers
-~~~~~~~~~~~
+.. image:: /images/total-collapse.png
+   :alt: 'Total collapse'
 
-It serves users better, because for all the different phases in the cycle of their interaction with the software they will find the right kind of documentation, that serves the needs of that moment.
+-------------
 
-Writing documentation that explicitly and distinctly addresses each of the four quadrants helps the software attract and keep more users, who will use it more effectively - and that is one of the things the creators of software want most of all.
+The cycle of interaction
+--------------------------
+
+Diátaxis is intended to help documentation better serve users in their *cycle of interaction* with a product.
+
+This phrase should not be understood too literally. It is not the case that a user must encounter the different kinds
+of documentation in the order *tutorials* > *how-to guides* > *technical reference* > *explanation*. In practice,
+an actual user may enter the documentation anywhere in search of guidance on some particular subject, and what they
+want to read will change from moment to moment as they use your documentation.
+
+However, the idea of a cycle of documentation needs, that proceeds through different phases, is sound and corresponds
+to the way that people actually do become expert in a craft. There is a sense and meaning to this ordering.
+
+* *learning-oriented phase*: We begin by learning, and learning a skill means diving straight in to do it - under the
+  guidance of a teacher, if we're lucky
+* *task-oriented phase*: Next we want to put the skill to work.
+* *information-oriented phase*: As soon as our work calls upon knowledge that we don't already have in our head, it
+  requires us to consult technical reference.
+* *explanation-oriented phase*: Finally, away from the work, we reflect on our practice and knowledge to understand the
+  whole.
+
+And then it's back to the beginning, perhaps for a new thing to grasp, or to penetrate deeper.
+
+--------------------------
+
+The next four sections of the documentation discuss each of the four modes of documentation in detail, in turn.

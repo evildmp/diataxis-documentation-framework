@@ -8,45 +8,72 @@ About reference
 
 ===========
 
-Reference guides have one job only: to describe. They are code-determined, because ultimately that's what they describe: key classes, functions, APIs, and so they should list things like functions, fields, attributes and methods, and set out how to use them.
+..  image:: /images/overview-reference.png
+    :alt: 'Reference - information oriented, theoretical knowledge, that serves our work'
+    :class: floated
 
-.. image:: /images/overview-reference.png
-   :alt: 'Reference - information oriented, theoretical knowledge, that serves our work'
-   :align: right
-   :width: 50%
+The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
+way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
+material is led by the product it describes.
 
-By all means technical reference can contain examples to illustrate usage, but it should not attempt to explain basic concepts, or how to achieve common tasks.
+In the case of software, reference guides describe the software itself - APIs, classes, functions
+and so on - and how to use them.
 
-Reference material should be **austere and to the point**.
+Your users need reference material because they need truth and certainty - firm platforms on which to stand while
+they work. Good technical reference is essential to provide users with the confidence to do their work.
 
-Note that description **does** include basic description of how to use the machinery - how to instantiate a particular class, or invoke a certain method, for example, or precautions that must be taken when passing something to a function. However this is simply part of its function as technical reference, and emphatically **not** to be confused with a how-to guide - *describing correct usage of software* (technical reference) is not the same as *showing how to use it to achieve a certain end* (how-to documentation).
+-----------
 
-For some developers, reference guides are the only kind of documentation they can imagine. They already understand their software, they know how to use it. All they can imagine that other people might need is technical information about it.
+Reference as description
+---------------------------------
 
-Reference material tends to be written well. It can even - to some extent - be generated automatically, but this is never sufficient on its own.
+Reference material should be **austere and to the point**. One hardly *reads* reference material;
+one *consults* it.
+
+There should be no doubt or ambiguity in reference; it should be wholly authoritative.
+
+Reference material is like a map. A map tells you what you need to know about the territory,
+without having to go out and check the territory for yourself; a reference guide serves the same
+purpose for the product and its internal machinery.
+
+Although reference should not attempt to show how to perform tasks, it can and often needs to
+include a description of how something works or the correct way to use it.
+
+Some reference material (such as API documentation) can be generated automatically by the software
+it describes, which is a powerful way of ensuring that it remains faithfully accurate to the code. Unfortunately,
+there are too many software developers who think that this is all the documentation required.
+
 
 ===============
 
-Analogy from cooking
+Food and cooking
 --------------------
 
-.. image:: /images/ginger.jpg
-   :alt: 'a child cooking'
-   :align: right
-   :width: 379
+..  image:: /images/liquorice.png
+    :alt: "Wikipedia's entry for liquorice"
+    :class: floated
 
+Perhaps you might consult an encyclopaedia to read about an ingredient (for example, about
+liquorice).
 
-Consider an encyclopaedia article about an ingredient, say ginger.
+What you're seeking is information - accurate, up-to-date, comprehensive information. You may want
+to know about its properties, its chemical composition, how it interacts with other ingredients,
+what other ingredients or plants it is related to, what health implications it might have.
 
-When you look up *ginger* in a reference work, what you want is *information* about the ingredient - information describing its provenance, its behaviour, its chemical constituents, how it can be cooked.
+For example: *Liquorice is a flowering plant of the bean family Fabaceae*. Or: *Excessive
+consumption of liquorice may result in adverse effects*.
 
-You expect that whatever ingredient you look up, the information will be presented in a similar way. And you expect to be informed of
-basic facts, such as *ginger is a member of the family that includes turmeric and cardamom*.
+You'll expect to find information about these sorts of things presented in much the same way for
+each one.
 
-This is also where you'd expect to be alerted about potential problems, such as: *ginger is known to provoke heartburn in some
-individuals* or: *ginger may interfere with the effects of anticoagulants, such as warfarin or aspirin*.
+You will not on the other hand expect to find for example recipes, or suggestions on how to cook with
+it - it is not a function of an encyclopaedia article to tell you what to do.
 
 ===============
+
+
+Writing a good reference guide
+----------------------------------------
 
 ..  sidebar:: Style and form
 
@@ -54,28 +81,48 @@ individuals* or: *ginger may interfere with the effects of anticoagulants, such 
     * neutrality, objectivity, factuality
     * structured according to the structure of the machinery itself
 
-How to write good reference guides
-----------------------------------
-
-Structure the documentation around the code
+Respect the structure of the machinery
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Give reference documentation the same structure as the codebase**, so that the user can navigate both the code and the documentation for it at the same time. This will also help the maintainers see where reference documentation is missing or needs to be updated.
+The way a map corresponds to the territory it represents helps us use the former to find our way
+through the latter. It should be the same with documentation: **the structure of the documentation
+should mirror the structure of the product**, so that the user can work their way through them
+at the same time.
+
+In the case of code, this means arranging the sections of reference documentation to follow the
+architecture of the software, where possible.
+
+It doesn't mean forcing the documentation into an unnatural structure. What's important is the that logical, conceptual
+arrangement of and relations within the code should help make sense of the documentation.
 
 
 Be consistent
 ~~~~~~~~~~~~~
 
-**In reference guides, structure, tone, format must all be consistent** - as consistent as those of an encyclopaedia or dictionary.
+**Reference material benefits from consistency.** Be consistent, in structure, language,
+terminology, tone. There are many opportunities in writing to delight your readers with your
+extensive vocabulary and command of multiple styles, but reference material is definitely not
+one of them.
 
 
 Do nothing but describe
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-**The only job of technical reference is to describe**, as clearly and completely as possible. Anything else (explanation, discussion, instruction, speculation, opinion) is not only a distraction, but will make it harder to use and maintain. Provide examples to illustrate the description when appropriate.
+**Technical reference has one job: to describe**, and to do that clearly, accurately and
+comprehensively. Doing anything else - explaining, discussing, instructing, speculating -
+gets in the way of that job, and makes it harder for the reader to find the information they need.
 
-Avoid the temptation to use reference material to instruct in how to achieve things, beyond the basic scope of using the software, and don’t allow explanations of concepts or discussions of topics to develop. Instead, link to how-to guides, explanation and introductory tutorials as appropriate.
+It can be tempting to introduce instruction and explanation, simply because technical reference can
+seem too bare. Instead, link to how-to guides, explanation and introductory tutorials as
+appropriate.
 
+
+Provide examples
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Examples** are valuable ways of providing illustration that helps readers understand reference,
+without becoming distracted from the job of describing. For example, an example of usage of a
+command can be a succinct way of illustrating it and its context.
 
 Be accurate
 ~~~~~~~~~~~
@@ -93,23 +140,3 @@ The language of reference guides
     List commands, options, operations, features, flags, limitations, error messages, etc.
 *You must use a. You must not apply b unless c. Never d.*
     Provide warnings where appropriate.
-
-==============
-
-Example from Divio's documentation
-----------------------------------
-
-Have a look at `an example from our technical reference section <https://docs.divio.com/en/latest/reference/divio-cli>`_.
-
-.. image:: /images/django-reference-example.png
-   :alt: 'Django reference example'
-   :align: right
-   :width: 379
-
-This is a typical reference guide (in this case, for our Divio CLI).
-
-Description is all this article does, setting out in a complete and accurate form the functions, commands and options
-of the tool.
-
-It's hardly a friendly or engaging read, but its purpose is to make looking up information about functionality as swift
-and distraction-free as possible.
