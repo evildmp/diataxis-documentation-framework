@@ -70,3 +70,6 @@ html_css_files = [
 master_doc = 'index'
 
 html_favicon = "favicon.png"
+
+spelling_lang = tokenizer_lang = 'en_GB'
+
