@@ -102,3 +102,4 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di√
    reference
    explanation
    adoption
+   how-to-use-diataxis
