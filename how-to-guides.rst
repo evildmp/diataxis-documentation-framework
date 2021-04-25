@@ -66,15 +66,15 @@ real-world user, and share the same task-focused perspective that a developer ha
 Food and cooking
 --------------------
 
-..  image:: /images/recipe.jpg
+..  image:: /images/old-recipe.jpg
     :alt: 'a recipe'
     :class: floated
 
 Consider a recipe, an excellent model for a how-to guide. A recipe clearly defines what will be achieved by following
 it, and **addresses a specific question** (*How do I make...?* or *What can I make with...?*).
 
-It's not the responsibility of a recipe to *teach* you how to make something. Even if an experienced chef has made the
-exactly the same thing multiple times before, they will still follow a recipe - even if they *created* the recipe
+It's not the responsibility of a recipe to *teach* you how to make something. An professional chef who has made the
+exactly the same thing multiple times before may still follow a recipe - even if they *created* the recipe
 themselves - to ensure that they do it correctly.
 
 Even following a recipe **requires at least basic competence**. Someone who has never cooked before should not be

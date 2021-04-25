@@ -79,10 +79,11 @@ Analogy from cooking
     :alt: 'a child cooking'
     :class: floated
 
-In 1984 Harold McGee published *On food and cooking*. It doesn't teach how to cook anything. It doesn't contain recipes
-(except as historical examples) and it isn't a work of reference. Instead, it places food and cooking in the context of
-history, society, science and technology. It explains for example why we do what we do in the kitchen and how that has
-changed.
+In 1984 Harold McGee published *On food and cooking*.
+
+The book doesn't teach how to cook anything. It doesn't contain recipes (except as historical examples) and it isn't a
+work of reference. Instead, it places food and cooking in the context of history, society, science and technology. It
+explains for example why we do what we do in the kitchen and how that has changed.
 
 It considers its subject from multiple different perspectives, using them to illuminate it in different ways.
 
