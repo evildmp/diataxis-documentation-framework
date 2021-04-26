@@ -62,7 +62,7 @@ msgid ""
 "can be hard work. The end has to be *meaningful*, but also *achievable* "
 "for a complete beginner."
 msgstr ""
-"Quem define o fim e as ações é de você, mas decidir de que jeito elas devem ser "
+"Quem define o fim e as ações é você, mas decidir de que jeito elas devem ser "
 "pode ser um trabalho árduo. O final deve ser *significativo*, mas também *alcançável* "
 "para um completo iniciante."
 
@@ -72,7 +72,7 @@ msgid ""
 " position to make sense of the rest of the documentation, and the "
 "software itself."
 msgstr ""
-"O mais importante é que, após ter feito o tutorial, o aluno dever estar "
+"O mais importante é que, após ter feito o tutorial, o aluno deve estar "
 "em uma posição de entender o resto da documentação e o software por si próprio."
 
 #: ../../tutorials.rst:25 0c7597277c3e4738954bbfee6ba7d770
@@ -81,7 +81,7 @@ msgid ""
 "Tutorials are what will turn your learners into users. **A bad or missing"
 " tutorial will prevent your project from acquiring new users.**"
 msgstr ""
-"A maioria dos projetos de software tem tutoriais realmente ruins - ou inexistentes. "
+"A maioria dos projetos de software tem tutoriais que são ruins - ou inexistentes. "
 "Os tutoriais são o que vão transformar seus alunos em usuários. **Um tutorial ruim ou ausente "
 "impedirá que seu projeto adquira novos usuários**."
 
@@ -96,8 +96,8 @@ msgid ""
 msgstr ""
 "Das seções que descrevem os quatro tipos de documentação, esta é de longe a "
 "mais longa - isso porque os tutoriais são os mais mal compreendidos e os " 
-"mais difíceis de fazer bem. A melhor forma de ensinar é ter um professor "
-"presente, interagindo com o aluno. Mas isso raramente é possível, e nossos "
+"mais difíceis de fazer bem. A melhor forma de ensinar é tendo um professor "
+"presente, interagindo com o aluno. Mas como isso raramente é possível, os nossos "
 "tutoriais escritos serão, na melhor das hipóteses, um substituto que está longe de ser perfeito. "
 "Esse é mais um motivo para prestar atenção especial a eles."
 
@@ -137,7 +137,7 @@ msgid ""
 " cooking. It will learn what it is like to be in the kitchen, to use the "
 "utensils, to handle the food."
 msgstr ""
-"*Por meio* das coisas que a criança faz, ela aprenderá coisas importantes sobre "
+"*Por meio* das coisas que a criança faz, ela aprenderá importantes coisas sobre "
 "culinária. Vai aprender como é estar na cozinha, a usar os "
 "utensílios, a como manusear a comida."
 
@@ -147,8 +147,8 @@ msgid ""
 "It’s knowledge - but it is *practical* knowledge, not *theoretical* "
 "knowledge."
 msgstr ""
-"Isso ocorre porque **usar software, assim como cozinhar, é uma questão de artesanato.** " 
-"É conhecimento - mas é um conhecimento prático, não conhecimento teórico."
+"Isso ocorre porque **assim como cozinhar, usar software é uma questão de artesanato.** " 
+"É conhecimento - mas é um conhecimento prático e não teórico."
 
 #: ../../tutorials.rst:55 9bf83a2b618840dd85687ea31d61f506
 msgid "When we learn a new craft or skill, we always begin learning it by doing."
@@ -176,13 +176,13 @@ msgstr "informação"
 
 #: ../../tutorials.rst:71 9ac1d28a3b894ad5bedc023d85b47a1f
 msgid "Allow the user to learn by doing"
-msgstr "Permita ao usuário aprender fazendo - TODO: review below"
+msgstr "Permita que usuário aprenda fazendo"
 
 #: ../../tutorials.rst:73 fbd07a2f063d4d4ab476daab8e136418
 msgid ""
 "**In the beginning, we only learn anything by doing** - it’s how we learn"
 " to talk, or walk."
-msgstr "**No começo, nós só aprendemos fazendo** - é como nós aprendemos "
+msgstr "**No começo, todos nós só aprendemos fazendo** - e é assim que aprendemos "
 "a falar, ou andar."
 
 #: ../../tutorials.rst:75 de19e6ea600442c38a7599cefb0a81c8
@@ -199,7 +199,7 @@ msgstr ""
 
 #: ../../tutorials.rst:79 3e388ed9bc6a40fe99ee68a37d5e5afb
 msgid "Get the user started"
-msgstr "Fazendo o usuário começar"
+msgstr "Primeiros passos com o usuário"
 
 #: ../../tutorials.rst:81 9dc19abd6b99487eae0ea53f71fafc22
 msgid ""
@@ -209,10 +209,10 @@ msgid ""
 " ‘correct’ way - a tutorial for beginners is not the same thing as a "
 "manual for best practice."
 msgstr ""
-"É perfeitamente aceitável se seus primeiros passos de iniciante forem passos manuais de bebê. "
+"É perfeitamente aceitável se os primeiros passos do iniciante forem passos de bebê. "
 "Também é perfeitamente aceitável se o que você faz com que o iniciante "
 "não seja da mesma maneira que uma pessoa experiente faria, ou que até mesmo não seja "
-"da forma 'mais correta' - um tutorial para iniciantes não é a mesma coisa "
+"da forma 'mais correta possível' - um tutorial para iniciantes não é a mesma coisa "
 "que um manual das melhores práticas."
 
 #: ../../tutorials.rst:83 9fae19d3254a4da195d6575d8af29706
@@ -248,8 +248,8 @@ msgstr ""
 "Existem muitas coisas que contribuem para isso. Um tom amigável ajuda, "
 "assim como o uso consistente da linguagem e uma progressão lógica através do "
 "material. Mas o mais importante é que **o que você pede ao para o "
-"iniciante fazer deve funcionar**. O aluno precisa ver se as ações que você "
-"pede cumprem o resultado que você diz que terão."
+"iniciante fazer deve funcionar**. O aluno precisa ver que as ações que você "
+"pede cumpre o resultado que você diz que terão."
 
 #: ../../tutorials.rst:93 b547fb9ab10a428bbf99b8d072307374
 msgid ""
@@ -261,9 +261,9 @@ msgid ""
 msgstr ""
 "Se as ações do aluno produzirem um erro ou resultados inesperados, seu "
 "tutorial falhou - mesmo que a culpa não seja sua. Quando seus alunos estão "
-"pessoalmente com você, você pode ajuda-los; mas se eles estão lendo "
-"sua documentação por conta própria, você não pode - então você tem que evitar "
-"que isso aconteça com antecedência. Sem dúvida, é mais fácil falar do que fazer."
+"pessoalmente com você, você consegue ajuda-los; mas se eles estão lendo "
+"sua documentação por conta própria, não - então você precisa evitar "
+"que isso aconteça com antecedência. Sem dúvida, é mais fácil falar isso do que fazer."
 
 #: ../../tutorials.rst:97 3b2106b48b8647719e7ccbecc28e4a80
 msgid "Ensure the user sees results immediately"
@@ -277,9 +277,9 @@ msgid ""
 " The effect of every action should be visible and evident as soon as "
 "possible, and the connection to the action should be clear."
 msgstr ""
-"**Tudo o que o aluno faz deve realizar algo fácil de se entender, "
+"**Tudo o que o aluno faz deve ser fácil de entender, "
 "por menor que seja.** Se o seu aluno tem que fazer coisas estranhas e incompreensíveis "
-"por duas páginas antes mesmo de ver o resultado, isso é muito longo. "
+"por duas páginas antes mesmo de ver o resultado, isso é longo demais. "
 "O efeito de cada ação deve ser visível e evidente o mais rápido possível, "
 "e a conexão com a ação deve ser clara."
 
@@ -288,12 +288,12 @@ msgid ""
 "The conclusion of each section of a tutorial, or the tutorial as a whole,"
 " must be a meaningful accomplishment."
 msgstr ""
-"A conclusão de cada seção de um tutorial, ou de um tutorial inteiro "
+"A conclusão de uma seção ou de um tutorial inteiro "
 "deve ser uma realização significativa."
 
 #: ../../tutorials.rst:105 03c1c791dd444ea5b69719ce3734a8fd
 msgid "Make your tutorial repeatable"
-msgstr "Faça seu tutorial ser reprozível"
+msgstr "Seu tutorial deve ser reprozível"
 
 #: ../../tutorials.rst:107 eb65a3ed3e2a43188ab2172ee8b83e1a
 msgid ""
@@ -303,7 +303,7 @@ msgid ""
 " quite likely themselves to change in the meantime."
 msgstr ""
 "**Seu tutorial deve ser reproduzível de forma confiável**. Isso não é fácil de conseguir: "
-"chegarão pessoas com diferentes sistemas operacionais, níveis de experiência"
+"chegarão pessoas com diferentes sistemas operacionais, níveis de experiência "
 "e ferramentas ao seu tutorial. Além disso, qualquer software ou recurso que eles "
 "usem provavelmente sofrerão alterações nesse meio tempo."
 
@@ -316,7 +316,7 @@ msgid ""
 "Tutorials unfortunately need regular and detailed testing to make sure "
 "that they still work."
 msgstr ""
-"Infelizmente os tutoriais precisam de um regular e detalhado teste para se certificar "
+"Infelizmente os tutoriais precisam de um teste regular e detalhado para se certificar "
 "que as coisas funcionam."
 
 #: ../../tutorials.rst:115 c37595f98b154502b46a3bc857e4dd9d
@@ -340,8 +340,8 @@ msgid ""
 "chance to grasp the concrete is poor teaching."
 msgstr ""
 "A tentação de introduzir uma abstração é enorme; afinal, é como a maior "
-"parte da computação fuciona. Mas toda aprendizagem parto do particular e concreto "
-"para o geral e abstrato, e pedir ao aluno que aprecie os níveis de "
+"parte da computação fuciona. Mas toda aprendizagem parte do específico e concreto "
+"para o geral e abstrato, e pedir ao aluno que aprecie níveis de "
 "abstração antes mesmo de ter a chance de compreender o concreto é um ensino pobre."
 
 #: ../../tutorials.rst:123 af4e3d587c9a4e36bb3c64860df84809
@@ -390,7 +390,7 @@ msgid ""
 "Describe what the learner will accomplish (note - not: \"you will "
 "learn...\")."
 msgstr ""
-"Explique o que o aluno irá realizar (note - não diga: \"você vai ""
+"Explique o que o aluno irá realizar (note - não diga: \"você vai "
 "aprender...\")."
 
 #: ../../tutorials.rst:140 b4c6a1ef5c6b4d24807aa9f0979e3f76
@@ -440,7 +440,7 @@ msgstr ""
 
 #: ../../tutorials.rst:149 3747bee112f346a58bd85bf5b193cefb
 msgid "*You have built a secure, three-layer hylomorphic stasis engine...*"
-msgstr "*Você tem que construir um motor de tesla de três camadas seguro...*"
+msgstr "*Você tem que construir um motor de tesla seguro de três camadas...*"
 
 #: ../../tutorials.rst:149 0762a36bc26b49a6adb74652925f7cd9
 msgid ""
@@ -475,7 +475,7 @@ msgstr ""
 "faz é: se você tiver o conhecimento básico necessário para seguir este "
 "tutorial e seguir suas instruções, terá um aplicativo da Web Django "
 "funcional, completo com banco de dados Postgres, armazenamento de mídia S3 "
-"e assim por diante . Para funcionar como um tutorial, ele precisa cumprir "
+"e assim por diante. Para funcionar como um tutorial, ele precisa cumprir "
 "uma promessa."
 
 #: ../../tutorials.rst:168 bae53eb5313446e7b886685dac7039a5
