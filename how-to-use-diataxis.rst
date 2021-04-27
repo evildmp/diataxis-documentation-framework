@@ -87,3 +87,37 @@ And then go back to the beginning of the cycle.
 Working like this helps reduce the stress of one of the most paralysing and troublesome aspects of the
 documentation-writer's work: working out what to do. It keeps work flowing in the right direction, always towards the
 desired end, without having to expend energies on a plan.
+
+
+Allow your work to develop organically
+----------------------------------------
+
+..  figure:: /images/always-complete.jpg
+    :alt: ''
+
+    Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, reproduced with kind permission.
+
+Well-formed organic growth
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Well-formed organic growth that adapts to external conditions** is a good model for documentation. Organic growth
+takes place at the cellular level. The structure of the organism as a whole is guaranteed by the healthy development of
+cells, according to rules that appropriate to each kind of cell. It's not the other way round, that a structure is
+imposed on the organism, and to which smaller sub-structures conform.
+
+It's the same with documentation: by following the principles that Diátaxis provides, your documentation will
+attain a healthy structure, because its internal components themselves are well-formed - like a living organism, it
+will have built itself up from the inside-out, one cell at a time.
+
+Complete, not finished
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Consider a plant. As a living, growing organism, a plant is **never finished** - it can always develop further, move on
+to the next stage of growth and maturity. But, at every stage of its development, from seed to a fully-nature tree,
+it's **always complete** - there's never something missing from it. At any point, it is in a state that is appropriate
+to its stage of development.
+
+Similarly documentation is never finished, beause it always has to keep adapting and changing to the product and to
+users' needs, and can always be developed and improved further. However it can always be complete: useful to users,
+appropriate to its current stage of development, and in a healthy structural state and ready to go on to the next stage.
+
