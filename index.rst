@@ -59,7 +59,7 @@ Diátaxis promises to make documentation and projects better, and the teams that
     in, we’d consult the framework. Our documentation is now clearer than it’s ever been, both for readers and
     contributors.
 
-.. rst-class:: attribution
+..  rst-class:: attribution
 
   \- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)
 

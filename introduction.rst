@@ -5,6 +5,22 @@ Diátaxis isn't just a system for structuring documentation, it's a framework fo
 work of documentation authors, and assessing the quality of documentation. However its most obvious implication
 is for documentation structure.
 
+====================
+
+..  rst-class:: quote
+
+    At Gatsby we recently reorganized our open-source documentation, and the Diátaxis framework was our go-to resource
+    throughout the project. The four quadrants helped us prioritize the user’s goal for each type of documentation. By
+    restructuring our documentation around the Diátaxis framework, we made it easier for users to discover the
+    resources that they need when they need them.
+
+..  rst-class:: attribution
+
+  \- Megan Sullivan (`@meganesulli <https://twitter.com/meganesulli>`_)
+
+
+====================
+
 
 The problem of structure
 --------------------------
