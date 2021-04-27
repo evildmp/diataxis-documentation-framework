@@ -92,6 +92,9 @@ desired end, without having to expend energies on a plan.
 Allow your work to develop organically
 ----------------------------------------
 
+There's a strong urge to work in a cycle of planning and execution in order to work towards results. But it's not the
+only way, and there are often better ways when working with documentation.
+
 ..  figure:: /images/always-complete.jpg
     :alt: ''
 
