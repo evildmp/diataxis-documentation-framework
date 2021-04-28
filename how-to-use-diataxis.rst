@@ -103,10 +103,10 @@ only way, and there are often better ways when working with documentation.
 Well-formed organic growth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Well-formed organic growth that adapts to external conditions** is a good model for documentation. Organic growth
+A good model for documentation is **well-formed organic growth that adapts to external conditions**. Organic growth
 takes place at the cellular level. The structure of the organism as a whole is guaranteed by the healthy development of
-cells, according to rules that appropriate to each kind of cell. It's not the other way round, that a structure is
-imposed on the organism, and to which smaller sub-structures conform.
+cells, according to rules that are appropriate to each kind of cell. It's not the other way round, that a structure is
+imposed on the organism from above or outside. Good structure develops from within.
 
 It's the same with documentation: by following the principles that Diátaxis provides, your documentation will
 attain a healthy structure, because its internal components themselves are well-formed - like a living organism, it
@@ -116,11 +116,13 @@ Complete, not finished
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Consider a plant. As a living, growing organism, a plant is **never finished** - it can always develop further, move on
-to the next stage of growth and maturity. But, at every stage of its development, from seed to a fully-nature tree,
+to the next stage of growth and maturity. But, at every stage of its development, from seed to a fully-mature tree,
 it's **always complete** - there's never something missing from it. At any point, it is in a state that is appropriate
 to its stage of development.
 
-Similarly documentation is never finished, beause it always has to keep adapting and changing to the product and to
-users' needs, and can always be developed and improved further. However it can always be complete: useful to users,
-appropriate to its current stage of development, and in a healthy structural state and ready to go on to the next stage.
+Similarly, documentation is also never finished, beause it always has to keep adapting and changing to the product and
+to users' needs, and can always be developed and improved further.
+
+However it can always be complete: useful to users, appropriate to its current stage of development, and in a healthy
+structural state and ready to go on to the next stage.
 
