@@ -17,6 +17,8 @@ Who's using Diátaxis?
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
+* `BBC News Labs <https://bbcnewslabs.co.uk/>`_, e.g. for `mosromgr <https://mosromgr.readthedocs.io>`_, a Python
+  library for managing TV and radio running orders
 * `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
 * `BeeWare <https://beeware.org>`_, the write-once-deploy-anywhere project, for `Toga <https://toga.readthedocs.io>`_,
   `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
@@ -32,14 +34,17 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset Optimisation
 * `Encore <https://encore.dev/docs>`_, a framework for rapid backend development
 * Ericsson (internal)
+* `Gatsby <https://www.gatsbyjs.com/docs/>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
 * `Gorgonia <https://gorgonia.org>`_, a deep learning library for Go
+* `ING Bank <https://www.ing.com>`_, for open-source (e.g. `doing-cli <https://github.com/ing-bank/doing-cli>`_,
+  `Probatus <https://github.com/ing-bank/probatus>`_, `skorecard <https://github.com/timvink/skorecard>`_) and internal
+  tooling projects
 * `Lisk <https://lisk.io>`_
 * `Livepeer <https://livepeer.org>`_
 * `LootLocker <https://docs.lootlocker.io>`_, a backend for independent games development
 * `Matching <https://matching.readthedocs.io>`_, a games theory resource allocation library
-* `mosromgr <https://mosromgr.readthedocs.io>`_, a Python library for managing TV and radio running orders, from `BBC News Labs <https://bbcnewslabs.co.uk/>`_
 * `NashPy <https://nashpy.readthedocs.io>`_, a Python mathematical library for computing Nash equilibria
 * `nbchkr <https://nbchkr.readthedocs.io>`_, a system for assessing students' assignments in Jupyter Notebooks
 * `NumPy <https://numpy.org/devdocs/>`_, the scientific Python library (related article, `Documentation as a way to
