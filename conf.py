@@ -18,7 +18,7 @@
 # -- Project information -----------------------------------------------------
 
 html_title = full_title = project = 'Diátaxis'
-copyright = '2017-2021, Daniele Procida'
+# copyright = '2017-2021, Daniele Procida'
 author = 'Daniele Procida'
 
 
