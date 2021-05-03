@@ -47,7 +47,6 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env']
 html_theme = 'furo'
 html_theme_options = {
     "sidebar_hide_name": True,
-    # "announcement": "<em>diátaxis</em> - a documentation authoring framework",
     "light_css_variables": {
         "color-background-secondary": "#fff",
         "color-sidebar-background-border": "none",
@@ -55,7 +54,6 @@ html_theme_options = {
     "dark_css_variables": {
         "color-background-secondary": "#000",
     }
-
 }
 html_static_path = ['_static']
 html_logo = "diataxis-white-416.png"
