@@ -1,5 +1,11 @@
 {% extends "furo/page.html" %}
 
+  {% block site_meta %}
+  <meta name="author" content="Daniele Procida">
+  {{ super() }}
+  {% endblock %}
+
+
   {% block footer %}
   <div class="related-pages">
     {% if next -%}
@@ -54,4 +60,3 @@
     {%- endif %}
   </div>
   {% endblock footer %}
-</footer>

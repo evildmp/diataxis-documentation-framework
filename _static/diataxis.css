@@ -78,3 +78,10 @@ hr.docutils {background-color: #FF9300;}
 
 .quote {font-size: large; font-style: italic; margin: 3em 0 .5em 10%;}
 .attribution {margin: 0 0 3em 10%; font-size: large}
+
+
+div.sidebar-contact h2 {color: gray; font-size: 110%;}
+div.sidebar-contact ul {color: gray; font-size: 87.5%; list-style: none;}
+div.sidebar-contact li {padding-bottom: 1rem;}
+div.sidebar-contact a {text-decoration: none;}
+

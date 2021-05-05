@@ -60,6 +60,15 @@ html_logo = "diataxis-white-416.png"
 html_css_files = [
     'diataxis.css',
 ]
+html_sidebars = {"**": [
+"sidebar/scroll-start.html",
+"sidebar/brand.html",
+"sidebar/search.html",
+"sidebar/navigation.html",
+"sidebar/contact.html",
+"sidebar/ethical-ads.html",
+"sidebar/scroll-end.html",
+]}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
