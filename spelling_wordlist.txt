@@ -12,4 +12,8 @@ Laing
 frontend
 factuality
 endedness
-weren't
+weren
+doesn
+isn
+reorganized
+prioritize

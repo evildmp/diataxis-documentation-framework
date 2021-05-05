@@ -31,7 +31,7 @@ Don't worry about structure
 Although structure is key to documentation, **using Diátaxis means not spending energy trying to get its structure
 correct**.
 
-If you continue to follow the prompts that Diátaxis povides, eventually your documentation will assume the
+If you continue to follow the prompts that Diátaxis provides, eventually your documentation will assume the
 Diátaxis structure - but it will have assumed that shape *because* it has been improved. It's not the other way round,
 that the structure must be imposed upon documentation to improve it.
 
@@ -120,7 +120,7 @@ to the next stage of growth and maturity. But, at every stage of its development
 it's **always complete** - there's never something missing from it. At any point, it is in a state that is appropriate
 to its stage of development.
 
-Similarly, documentation is also never finished, beause it always has to keep adapting and changing to the product and
+Similarly, documentation is also never finished, because it always has to keep adapting and changing to the product and
 to users' needs, and can always be developed and improved further.
 
 However it can always be complete: useful to users, appropriate to its current stage of development, and in a healthy
