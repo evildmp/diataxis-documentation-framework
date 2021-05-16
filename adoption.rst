@@ -58,6 +58,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
+* `websockets <https://websockets.readthedocs.io>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_: A Conversational RPA SDK for Chatbot Makers
 * Zalando (internal)
 
