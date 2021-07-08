@@ -73,7 +73,7 @@ Food and cooking
 Consider a recipe, an excellent model for a how-to guide. A recipe clearly defines what will be achieved by following
 it, and **addresses a specific question** (*How do I make...?* or *What can I make with...?*).
 
-It's not the responsibility of a recipe to *teach* you how to make something. An professional chef who has made the
+It's not the responsibility of a recipe to *teach* you how to make something. A professional chef who has made the
 exactly the same thing multiple times before may still follow a recipe - even if they *created* the recipe
 themselves - to ensure that they do it correctly.
 

@@ -141,7 +141,7 @@ Don't try to teach
 Allow the user to learn. **In the beginning, we only learn anything by doing** - it’s how we learn to talk, or walk.
 
 Give your learner things to do, through which they can learn. Only your pupil can learn. Sadly, however much you desire
-it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so they can
+it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can
 learn.
 
 As you lead the pupil through the steps you have devised, have them use the tools and perform the operations they’ll
