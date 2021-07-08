@@ -96,7 +96,7 @@ Food and cooking
 Perhaps you have had the experience of teaching a child to cook, in which case you'll have encountered most of the main
 demands imposed by a tutorial.
 
-As you probably realised, if you didn't know it already: the important thing in this this experience isn't *what* you
+As you probably realised, if you didn't know it already: the important thing in this experience isn't *what* you
 teach the child to cook. The only thing that really matters is that the child should enjoy the experience of working in
 the kitchen with you, and gains **confidence**, and wants to do it again.
 
