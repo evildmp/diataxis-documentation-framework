@@ -125,7 +125,7 @@ Talk *about* the subject
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
 Explanation guides are *about* a topic in the sense that they are *around* it. Even the names of your explanation
-guides should reflect this; you should should be able to place an implicit (or even explicit) *about* in front of each
+guides should reflect this; you should be able to place an implicit (or even explicit) *about* in front of each
 title. For example: *About user authentication*, or *About database connection policies*.
 
 
