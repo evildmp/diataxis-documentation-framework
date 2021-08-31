@@ -34,6 +34,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset Optimisation
 * `Encore <https://encore.dev/docs>`_, a framework for rapid backend development
 * Ericsson (internal)
+* Google's `Fuschia operarating system <https://fuchsia.dev/>`_ 
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
