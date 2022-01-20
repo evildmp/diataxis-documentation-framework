@@ -1,5 +1,3 @@
-:orphan:
-
 The documentation system
 ========================
 
