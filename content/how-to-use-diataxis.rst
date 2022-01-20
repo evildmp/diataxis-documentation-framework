@@ -95,7 +95,7 @@ Allow your work to develop organically
 There's a strong urge to work in a cycle of planning and execution in order to work towards results. But it's not the
 only way, and there are often better ways when working with documentation.
 
-..  figure:: /images/always-complete.jpg
+..  figure:: images/always-complete.jpg
     :alt: ''
 
     Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, reproduced with kind permission.

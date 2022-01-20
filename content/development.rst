@@ -19,3 +19,6 @@ Feedback, questions etc:
   `Discussions <https://github.com/evildmp/diataxis-documentation-framework/discussions>`_
 
 * Send me a message via the `Write the Docs Slack group <https://www.writethedocs.org/slack/>`_
+
+
+This documentation is published under a 

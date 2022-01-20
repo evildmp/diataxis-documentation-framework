@@ -8,7 +8,7 @@ About reference
 
 ===========
 
-..  image:: /images/overview-reference.png
+..  image:: images/overview-reference.png
     :alt: 'Reference - information oriented, theoretical knowledge, that serves our work'
     :class: floated
 
@@ -49,7 +49,7 @@ there are too many software developers who think that this is all the documentat
 Food and cooking
 --------------------
 
-..  image:: /images/liquorice.png
+..  image:: images/liquorice.png
     :alt: "Wikipedia's entry for liquorice"
     :class: floated
 

@@ -42,8 +42,13 @@ approach to its creation.
 Technical documentation should be structured explicitly around these four types, and should keep them all separate and
 distinct from each other.
 
-.. image:: /images/diataxis.png
+.. image:: images/diataxis.png
    :alt: 'Di√°taxis'
+
+.. admonition:: This is a warning
+
+   warning warning
+
 
 In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
 of this, and how those four different things work, can help improve most documentation.
@@ -103,4 +108,5 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di√
    explanation
    adoption
    how-to-use-diataxis
+   application
    Development <development>

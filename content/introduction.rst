@@ -61,7 +61,7 @@ Documentation therefore either *contains theoretical knowledge* or *describes pr
 either with serving *our acquisition* or *our application* of knowledge. Hence the map, across which the four forms
 of documentation are laid out:
 
-.. image:: /images/diataxis.png
+.. image:: images/diataxis.png
    :alt: 'Diátaxis'
 
 
@@ -136,12 +136,12 @@ Allowing these distinctions to blur is what brings about structural problems. Th
 collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and
 reference material:
 
-.. image:: /images/partial-collapse.png
+.. image:: images/partial-collapse.png
    :alt: 'Partial collapse'
 
 But sometimes, documentation actually looks like this:
 
-.. image:: /images/total-collapse.png
+.. image:: images/total-collapse.png
    :alt: 'Total collapse'
 
 -------------

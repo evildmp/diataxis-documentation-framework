@@ -8,7 +8,7 @@ About explanation
 
 ===========
 
-..  image:: /images/overview-explanation.png
+..  image:: images/overview-explanation.png
     :alt: 'Explanation - understanding oriented, theoretical knowledge, that serves our study'
     :class: floated
 
@@ -75,7 +75,7 @@ simply have to draw some lines that mark out a reasonable area and be satisfied 
 Analogy from cooking
 --------------------
 
-..  image:: /images/mcgee.jpg
+..  image:: images/mcgee.jpg
     :alt: 'a child cooking'
     :class: floated
 

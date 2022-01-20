@@ -8,7 +8,7 @@ About how-to guides
 
 ===========
 
-..  image:: /images/overview-how-to.png
+..  image:: images/overview-how-to.png
     :alt: 'How-to guides - task oriented, practical steps, that serve our work'
     :class: floated
 
@@ -66,7 +66,7 @@ real-world user, and share the same task-focused perspective that a developer ha
 Food and cooking
 --------------------
 
-..  image:: /images/old-recipe.jpg
+..  image:: images/old-recipe.jpg
     :alt: 'a recipe'
     :class: floated
 

@@ -44,6 +44,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+html_theme_path = ['.']
 html_theme = 'furo'
 html_theme_options = {
     "sidebar_hide_name": True,
@@ -74,9 +75,10 @@ html_sidebars = {"**": [
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 
-master_doc = 'index'
+root_doc = 'content/index'
 
 html_favicon = "favicon.png"
 
 spelling_lang = tokenizer_lang = 'en_GB'
 
+html_title = "My title"

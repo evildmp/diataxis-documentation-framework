@@ -7,7 +7,7 @@ About tutorials
 
 ===========
 
-..  image:: /images/overview-tutorials.png
+..  image:: images/overview-tutorials.png
     :alt: 'Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.'
     :class: floated
 
@@ -88,7 +88,7 @@ three parts put together.
 Food and cooking
 --------------------
 
-.. image:: /images/anselmo.jpg
+.. image:: images/anselmo.jpg
    :alt: 'a child cooking'
    :class: floated
 
