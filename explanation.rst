@@ -9,7 +9,7 @@ About explanation
 ===========
 
 ..  image:: /images/overview-explanation.png
-    :alt: 'Explanation - understanding oriented, theoretical knowledge, that serves our study'
+    :alt: Explanation - understanding oriented, theoretical knowledge, that serves our study
     :class: floated
 
 Explanation clarifies, deepens and broadens the reader’s understanding of a subject.
@@ -76,7 +76,7 @@ Analogy from cooking
 --------------------
 
 ..  image:: /images/mcgee.jpg
-    :alt: 'a child cooking'
+    :alt: 
     :class: floated
 
 In 1984 Harold McGee published *On food and cooking*.

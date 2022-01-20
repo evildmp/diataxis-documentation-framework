@@ -43,7 +43,7 @@ Technical documentation should be structured explicitly around these four types,
 distinct from each other.
 
 .. image:: /images/diataxis.png
-   :alt: 'Diátaxis'
+   :alt: Diátaxis
 
 In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
 of this, and how those four different things work, can help improve most documentation.

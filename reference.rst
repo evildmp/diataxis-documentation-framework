@@ -9,7 +9,7 @@ About reference
 ===========
 
 ..  image:: /images/overview-reference.png
-    :alt: 'Reference - information oriented, theoretical knowledge, that serves our work'
+    :alt: Reference - information oriented, theoretical knowledge, that serves our work
     :class: floated
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
@@ -50,7 +50,7 @@ Food and cooking
 --------------------
 
 ..  image:: /images/liquorice.png
-    :alt: "Wikipedia's entry for liquorice"
+    :alt: Wikipedia's entry for liquorice
     :class: floated
 
 Perhaps you might consult an encyclopaedia to read about an ingredient (for example, about
@@ -92,8 +92,9 @@ at the same time.
 In the case of code, this means arranging the sections of reference documentation to follow the
 architecture of the software, where possible.
 
-It doesn't mean forcing the documentation into an unnatural structure. What's important is the that logical, conceptual
-arrangement of and relations within the code should help make sense of the documentation.
+It doesn't mean forcing the documentation into an unnatural structure. What's important is that the
+logical, conceptual arrangement of and relations within the code should help make sense of the
+documentation.
 
 
 Be consistent

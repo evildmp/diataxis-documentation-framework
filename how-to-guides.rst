@@ -9,14 +9,14 @@ About how-to guides
 ===========
 
 ..  image:: /images/overview-how-to.png
-    :alt: 'How-to guides - task oriented, practical steps, that serve our work'
+    :alt: How-to guides - task oriented, practical steps, that serve our work
     :class: floated
 
 How-to guides can be thought of as recipes, directions that guide the reader through the steps to achieve a specific
 end.
 
 Examples could be: *how to calibrate the radar array*; *how to use fixtures in pytest*; *how to configure
-reconnection back-off policies*. On the other hand, *how to build a web application* is not - that's not a
+reconnection back-off policies*. On the other hand, *how to build a web application* is not - that's not
 addressing a specific goal or problem, it's a vastly open-ended sphere of skill.
 
 How-to guides matter not just because users need to be able to accomplish things: the list of how-to guides in your
@@ -67,13 +67,13 @@ Food and cooking
 --------------------
 
 ..  image:: /images/old-recipe.jpg
-    :alt: 'a recipe'
+    :alt: A recipe contains a list of ingredients and a list of steps.
     :class: floated
 
 Consider a recipe, an excellent model for a how-to guide. A recipe clearly defines what will be achieved by following
 it, and **addresses a specific question** (*How do I make...?* or *What can I make with...?*).
 
-It's not the responsibility of a recipe to *teach* you how to make something. A professional chef who has made the
+It's not the responsibility of a recipe to *teach* you how to make something. A professional chef who has made
 exactly the same thing multiple times before may still follow a recipe - even if they *created* the recipe
 themselves - to ensure that they do it correctly.
 
@@ -131,7 +131,7 @@ Omit the unnecessary
 ~~~~~~~~~~~~~~~~~~~~~
 
 In how-to guides, **practical usability is more helpful than completeness.** Whereas a tutorial needs to be a complete,
-end-to-end guides, a how-to guide does not. It should start and end in some reasonable, meaningful place, and require
+end-to-end guide, a how-to guide does not. It should start and end in some reasonable, meaningful place, and require
 the reader to join it up to their own work.
 
 

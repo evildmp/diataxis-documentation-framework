@@ -8,7 +8,7 @@ About tutorials
 ===========
 
 ..  image:: /images/overview-tutorials.png
-    :alt: 'Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.'
+    :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
     :class: floated
 
 A tutorial must help a beginner achieve basic competence with a product, so that they can go on to use the product
@@ -23,7 +23,7 @@ it's concerned with *skill*: practical, not theoretical knowledge.
 Having completed a tutorial, the learner should be in a position to start to make sense of the rest of the
 documentation, and the product itself.
 
-For a product, tutorials turns new learners into users. An inadequate tutorial can prevent a project from
+For a product, a tutorial turns new learners into users. An inadequate tutorial can prevent a project from
 acquiring new users.
 
 =================
@@ -33,7 +33,7 @@ The tutorial as a lesson
 -------------------------
 
 A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, **learning takes place
-through what the the pupil does**.
+through what the pupil does**.
 
 Any facts and explanations that are presented in teaching are almost irrelevant to what the pupil will learn - what
 matters is what the teacher gets the pupil to do.
@@ -45,7 +45,7 @@ experience, your tutorial isn't doing the job it needs to.
 Obligations of the teacher
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**The teacher has responsibility**, for what the pupil is to learn, what the pupil will do in order to learn it, and
+**The teacher has responsibility**: for what the pupil is to learn, what the pupil will do in order to learn it, and
 for the pupil's success. The only responsibility of the pupil is to be attentive and to follow the teacher's directions
 as closely as they can. **There is no responsibility on the pupil to learn, understand or remember** - the learner's
 *only* obligation in this contract is to do things as directed.
@@ -77,8 +77,8 @@ again to ensure that the tutorial still performs its required functions.
 
 Finally, you will find that no other part of your documentation is subject to revisions the way your tutorials are.
 You only have to change a reference or how-to guide if something in the product changes, and even then, usually only
-part of it needs to change. In the case of a tutorial you may come to the conclusion that the whole lesson should be
-completely rewritten, because you have thought of a better way produce a learning experience for the pupil.
+part of it needs to change. In the case of a tutorial, you may come to the conclusion that the whole lesson should be
+completely rewritten, because you have thought of a better way to produce a learning experience for the pupil.
 
 You can easily find that writing and maintaining your tutorials occupies as much time and energy as the the other
 three parts put together.
@@ -89,7 +89,7 @@ Food and cooking
 --------------------
 
 .. image:: /images/anselmo.jpg
-   :alt: 'a child cooking'
+   :alt: 
    :class: floated
 
 
@@ -197,7 +197,7 @@ they see a result from their actions. As far as possible, the effect of every ac
 possible. The relation of cause and effect should be evident. Finally, each result should be something that the user
 can see as meaningful.
 
-**Every step the learner follows should accomplish produce a comprehensible result, however small.**
+**Every step the learner follows should produce a comprehensible result, however small.**
 
 
 Make your tutorial repeatable
@@ -225,7 +225,7 @@ pattern in them and seek an abstract account of what is happening - until that t
 levels of abstraction before they have even had a chance to grasp the concrete is confusing and places unnecessary
 burdens on them.
 
-It's hard to resist this temptation, because once we have grasped something, we rely on the power of abstraction to
+It's hard to resist this temptation, because once we have grasped something, we rely on the power of abstraction
 to frame it to ourselves - and that's how we want to frame it to others. But it's simply not how learning or
 successful teaching works.
 

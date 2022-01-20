@@ -62,7 +62,7 @@ either with serving *our acquisition* or *our application* of knowledge. Hence t
 of documentation are laid out:
 
 .. image:: /images/diataxis.png
-   :alt: 'Diátaxis'
+   :alt:
 
 
 ================
@@ -111,7 +111,7 @@ Characteristics of documentation
      - a reference encyclopaedia article
      - an article on culinary social history
 
-A clear advantage of organising material this way is that provides both clear *expectations* (to the reader) and
+A clear advantage of organising material this way is that it provides both clear *expectations* (to the reader) and
 *guidance* (to the author). It's clear what the purpose of any particular piece of content is, it specifies how it
 should be written and it shows where it should be placed.
 
@@ -130,19 +130,19 @@ documentation).
 * *tutorials and how-to guides* both describe *practical steps*
 * *how-to guides and technical reference* are both concerned with the *application of knowledge*
 * *reference and explanation* both contain *theoretical knowledge*
-* *tutorials and explanation* are both concerned with the *acquistion of knowledge*
+* *tutorials and explanation* are both concerned with the *acquisition of knowledge*
 
 Allowing these distinctions to blur is what brings about structural problems. The most common is a complete or partial
 collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and
 reference material:
 
 .. image:: /images/partial-collapse.png
-   :alt: 'Partial collapse'
+   :alt: A structure on the verge of collapse
 
 But sometimes, documentation actually looks like this:
 
 .. image:: /images/total-collapse.png
-   :alt: 'Total collapse'
+   :alt: A totally collapsed structure
 
 -------------
 
