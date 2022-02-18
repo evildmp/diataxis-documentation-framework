@@ -1,11 +1,10 @@
-Structure in documentation
-==========================
+Understanding user needs
+=============================
 
 Diátaxis isn't just a system for structuring documentation, it's a framework for understanding it, guiding the
 work of documentation authors, and assessing the quality of documentation. However its most obvious implication
 is for documentation structure.
 
-====================
 
 ..  rst-class:: quote
 
@@ -19,7 +18,6 @@ is for documentation structure.
   \- Megan Sullivan (`@meganesulli <https://twitter.com/meganesulli>`_)
 
 
-====================
 
 
 The problem of structure
@@ -65,7 +63,7 @@ of documentation are laid out:
    :alt:
 
 
-================
+------------
 
 Characteristics of documentation
 ----------------------------------------------------
@@ -134,12 +132,7 @@ documentation).
 
 Allowing these distinctions to blur is what brings about structural problems. The most common is a complete or partial
 collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and
-reference material:
-
-.. image:: /images/partial-collapse.png
-   :alt: A structure on the verge of collapse
-
-But sometimes, documentation actually looks like this:
+reference material. So sometimes, documentation looks like this:
 
 .. image:: /images/total-collapse.png
    :alt: A totally collapsed structure
@@ -168,7 +161,3 @@ to the way that people actually do become expert in a craft. There is a sense an
   whole.
 
 And then it's back to the beginning, perhaps for a new thing to grasp, or to penetrate deeper.
-
---------------------------
-
-The next four sections of the documentation discuss each of the four modes of documentation in detail, in turn.

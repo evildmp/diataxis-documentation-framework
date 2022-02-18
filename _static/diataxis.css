@@ -76,8 +76,8 @@ article ul {margin-left: 1em;}
 
 hr.docutils {background-color: #FF9300;}
 
-.quote {font-size: large; font-style: italic; margin: 3em 0 .5em 10%;}
-.attribution {margin: 0 0 3em 10%; font-size: large}
+.quote {font-size: large; font-style: italic; margin: 3em 10% .5em 10%;}
+.attribution {margin: 0 10% 3em 10%; font-size: large; padding-bottom: 1em; border-bottom: 1px solid #FF9300;}
 
 
 div.sidebar-contact h2 {color: gray; font-size: 110%;}

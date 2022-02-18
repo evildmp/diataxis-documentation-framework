@@ -13,7 +13,6 @@ Diátaxis Framework
 The Diátaxis framework aims to solve the problem of structure in technical documentation. It adopts a systematic
 approach to understanding the needs of documentation users in their cycle of interaction with a product.
 
-=============
 
 .. rst-class:: quote
 
@@ -23,8 +22,6 @@ approach to understanding the needs of documentation users in their cycle of int
 
   \- David Laing
 
-
-=============
 
 Four modes of documentation
 ----------------------------
@@ -50,7 +47,6 @@ of this, and how those four different things work, can help improve most documen
 
 Diátaxis promises to make documentation and projects better, and the teams that work with them more successful.
 
-====================
 
 ..  rst-class:: quote
 
@@ -63,7 +59,6 @@ Diátaxis promises to make documentation and projects better, and the teams that
 
   \- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)
 
-====================
 
 Light-weight and easily adopted
 -----------------------------------
@@ -96,11 +91,11 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di�
    :titlesonly:
 
    Home <self>
+   Tutorial <tutorials>
+   How-to guides <how-to-guides>
+   Reference <reference>
+   Explanation <explanation>
    introduction
-   tutorials
-   how-to-guides
-   reference
-   explanation
-   adoption
    how-to-use-diataxis
+   adoption
    Development <development>
