@@ -91,7 +91,7 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di√
    :titlesonly:
 
    Home <self>
-   Tutorial <tutorials>
+   Tutorials <tutorials>
    How-to guides <how-to-guides>
    Reference <reference>
    Explanation <explanation>
