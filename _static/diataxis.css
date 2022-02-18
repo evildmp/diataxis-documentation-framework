@@ -80,8 +80,13 @@ hr.docutils {background-color: #FF9300;}
 .attribution {margin: 0 10% 3em 10%; font-size: large; padding-bottom: 1em; border-bottom: 1px solid #FF9300;}
 
 
-div.sidebar-contact h2 {color: gray; font-size: 110%;}
+div.sidebar-contact h2 {color: gray; font-size: 110%; padding-left: 1.2rem; color: #FF9300;}
 div.sidebar-contact ul {color: gray; font-size: 87.5%; list-style: none;}
 div.sidebar-contact li {padding-bottom: 1rem;}
-div.sidebar-contact a {text-decoration: none;}
+div.sidebar-contact a {text-decoration: none; color: gray;}
+div.sidebar-contact a:hover {color: #FF9300;}
 
+div.sidebar-tree .toctree-l1>.reference {color: gray;}
+div.sidebar-tree .toctree-l1>.reference:hover {color: #FF9300;}
+
+.toctree-checkbox~label .icon svg {color: #FF9300;}
