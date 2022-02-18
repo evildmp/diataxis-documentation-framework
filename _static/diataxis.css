@@ -90,3 +90,5 @@ div.sidebar-tree .toctree-l1>.reference {color: gray;}
 div.sidebar-tree .toctree-l1>.reference:hover {color: #FF9300;}
 
 .toctree-checkbox~label .icon svg {color: #FF9300;}
+
+.toc-tree li.scroll-current>.reference {color: #FF9300;}
