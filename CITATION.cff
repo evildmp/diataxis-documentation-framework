@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Diátaxis documentation framework
+message: >-
+  Please cite this software using the metadata from 'preferred-citation'
+type: software
+authors:
+  - email: daniele@vurt.org
+    orcid: 'https://orcid.org/0000-0001-5141-7509'
+    given-names: Daniele
+    family-names: Procida
+preferred-citation:
+  type: generic
+  authors:
+  - given-names: Daniele
+    family-names: Procida
+    orcid: 'https://orcid.org/0000-0001-5141-7509'
+  title: Diátaxis documentation framework
+  url: "https://diataxis.fr/"
+
