@@ -30,35 +30,14 @@ sections of your documentation.
 
 ===========
 
-How-to guides vs tutorials
+Tutorials vs how-to guides
 ----------------------------
 
 **How-to guides are wholly distinct from tutorials**. They are easily conflated, as both describe a series of practical
 steps that lead to the completion of some task. The user-needs that they serve are quite different however, and
 conflating them is at the root of many difficulties that afflict documentation.
 
-.. list-table::
-   :widths: 50 50
-   :header-rows: 1
-
-   * - How-to guides
-     - Tutorials
-   * - You are dealing with a user
-     - You are dealing with a learner
-   * - The user is responsible for asking the right questions
-     - The learner may not even have sufficient competence to ask the questions
-   * - The user decides what they want to know
-     - The teacher decides what the user needs to know
-   * - You can assume the user has sufficient competence to get themselves into and out of trouble
-     - You must assume the learner needs you to lead them all the way
-   * - The user is applying knowledge
-     - The learner is acquiring knowledge
-   * - The user needs to be shown
-     - The learner needs to be taught
-
-Notably, in most software documentation how-to guides tend to be well-written - much more well-written than tutorials.
-Software developers are often particularly good at writing them, because how-to guides follow the experience of a
-real-world user, and share the same task-focused perspective that a developer has when writing the software itself.
+See :ref:`tutorials-how-to` for an extended discussion of this distinction.
 
 
 ================

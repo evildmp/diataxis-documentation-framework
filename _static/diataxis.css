@@ -7,7 +7,8 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-weight: 600;
+  font-size: 32px;
   line-height: 32px;
 }
 
@@ -89,6 +90,53 @@ div.sidebar-contact a:hover {color: #FF9300;}
 div.sidebar-tree .toctree-l1>.reference {color: gray;}
 div.sidebar-tree .toctree-l1>.reference:hover {color: #FF9300;}
 
+input.sidebar-search {
+    border: none;
+/*    border-top: 1px solid #FF9300;
+    border-bottom: none;
+    padding-top: 1em;
+    margin-top: 1em;
+*/}
+
+div.sidebar-tree ul {
+    border-bottom: 1px solid #FF9300;
+    padding: 1em 0;
+}
+
 .toctree-checkbox~label .icon svg {color: #FF9300;}
 
 .toc-tree li.scroll-current>.reference {color: #FF9300;}
+
+table.docutils {
+  border: 1px solid #FF9300;
+}
+
+table.docutils thead td {
+    border-bottom: 2px solid #FF9300;
+    border-right: 1px solid #FF9300;
+}
+
+table.docutils th.head {
+    padding: .5rem 0;
+}
+
+table.docutils th.stub {
+    text-align: right;
+
+}
+
+table.docutils td, table.docutils th {
+    border-right: 1px solid #FF9300;
+}
+
+table.docutils tr:last-child td,
+table.docutils tr:last-child th {
+    border-bottom: 1px solid #FF9300;
+}
+
+div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid #FF9300;}
+
+@media only screen and (min-width: 576px) {
+  div.lined div.sd-col {border-bottom: 1px solid #FF9300;}
+}
+

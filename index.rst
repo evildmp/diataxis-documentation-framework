@@ -86,7 +86,7 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di√
     </div>
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
    :hidden:
    :titlesonly:
 
@@ -95,7 +95,20 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di√
    How-to guides <how-to-guides>
    Reference <reference>
    Explanation <explanation>
-   introduction
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :titlesonly:
+
+   needs
+   Tutorials vs how-to guides <tutorials-how-to>
    how-to-use-diataxis
+
+.. toctree::
+   :maxdepth: 1
+   :hidden:
+   :titlesonly:
+
    adoption
-   Development <development>
+   contact

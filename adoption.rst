@@ -9,10 +9,23 @@
 Who's using Diátaxis?
 =============================================
 
+..  rst-class:: quote
+
+    At Gatsby we recently reorganized our open-source documentation, and the Diátaxis framework was our go-to resource
+    throughout the project. The four quadrants helped us prioritize the user’s goal for each type of documentation. By
+    restructuring our documentation around the Diátaxis framework, we made it easier for users to discover the
+    resources that they need when they need them.
+
+..  rst-class:: attribution
+
+  \- Megan Sullivan (`@meganesulli <https://twitter.com/meganesulli>`_)
+
+
 ..  sidebar:: Not listed here?
 
-    If you're using the system, or are in the process of adopting it, please let us know if you'd like to be
-    listed here.
+    If you're using the system, or are in the process of adopting it, please let me know if you'd
+    like to be listed here. The best way is to `submit a pull request via GitHub
+    <https://github.com/evildmp/diataxis-documentation-framework/>`_.
 
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.

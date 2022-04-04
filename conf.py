@@ -27,8 +27,7 @@ author = 'Daniele Procida'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = [
-]
+extensions = ["sphinx_design"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
@@ -63,9 +62,8 @@ html_css_files = [
 html_sidebars = {"**": [
 "sidebar/scroll-start.html",
 "sidebar/brand.html",
-"sidebar/search.html",
 "sidebar/navigation.html",
-"sidebar/contact.html",
+"sidebar/search.html",
 "sidebar/ethical-ads.html",
 "sidebar/scroll-end.html",
 ]}

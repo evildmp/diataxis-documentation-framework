@@ -1,14 +1,3 @@
-# Key components
-
-Sphinx
-sphinx-autobuild
-furo
-pyenchant
-sphinxcontrib-spelling
-
-
-# Full list of pinned components, 2022-01-20
-
 alabaster==0.7.12
 Babel==2.9.1
 beautifulsoup4==4.10.0
@@ -34,6 +23,7 @@ snowballstemmer==2.2.0
 soupsieve==2.3.1
 Sphinx==4.4.0
 sphinx-autobuild==2021.3.14
+sphinx-design==0.0.13
 sphinxcontrib-applehelp==1.0.2
 sphinxcontrib-devhelp==1.0.2
 sphinxcontrib-htmlhelp==2.0.0

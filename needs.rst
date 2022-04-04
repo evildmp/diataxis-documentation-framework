@@ -1,23 +1,11 @@
-Understanding user needs
+.. _needs:
+
+Understanding users' needs
 =============================
 
 Diátaxis isn't just a system for structuring documentation, it's a framework for understanding it, guiding the
 work of documentation authors, and assessing the quality of documentation. However its most obvious implication
 is for documentation structure.
-
-
-..  rst-class:: quote
-
-    At Gatsby we recently reorganized our open-source documentation, and the Diátaxis framework was our go-to resource
-    throughout the project. The four quadrants helped us prioritize the user’s goal for each type of documentation. By
-    restructuring our documentation around the Diátaxis framework, we made it easier for users to discover the
-    resources that they need when they need them.
-
-..  rst-class:: attribution
-
-  \- Megan Sullivan (`@meganesulli <https://twitter.com/meganesulli>`_)
-
-
 
 
 The problem of structure
@@ -63,7 +51,6 @@ of documentation are laid out:
    :alt:
 
 
-------------
 
 Characteristics of documentation
 ----------------------------------------------------
@@ -72,38 +59,39 @@ Characteristics of documentation
 .. list-table::
    :widths: 16 21 21 21 21
    :header-rows: 1
+   :stub-columns: 1
 
    * - \
      - :ref:`Tutorials <tutorials>`
      - :ref:`How-to guides <how-to>`
      - :ref:`Reference <reference>`
      - :ref:`Explanation <explanation>`
-   * - \
+   * - what they do
      - introduce, educate, lead
      - guide, demonstrate
-     - states, describes, informs
-     - explains, clarifies, discusses
-   * - *answers the question*
+     - state, describe, inform
+     - explain, clarify, discuss
+   * - answers the question
      - "Can you teach me to...?"
      - "How do I...?"
      - "What is...?"
      - "Why...?"
-   * - *oriented to*
+   * - oriented to
      - learning
      - tasks
      - information
      - understanding
-   * - *purpose*
+   * - purpose
      - to allow the newcomer to get started
      - to show how to solve a specific problem
      - to describe the machinery
      - to explain
-   * - *form*
+   * - form
      - a lesson
      - a series of steps
      - dry description
      - discursive explanation
-   * - *analogy*
+   * - analogy
      - teaching a child how to cook
      - a recipe in a cookery book
      - a reference encyclopaedia article
