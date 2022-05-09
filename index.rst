@@ -4,8 +4,9 @@
        create, maintain and use.
    :keywords: documentation, four, kinds
 
+.. _diataxis:
 
-Diátaxis Framework
+Diátaxis Documentation Framework
 ========================================================
 
 ..  rubric:: A systematic framework for technical documentation authoring.
@@ -111,4 +112,5 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di�
    :titlesonly:
 
    adoption
+   citation
    contact
