@@ -1,50 +1,146 @@
-h1 {
-  font-size: 32px;
-  font-weight: 600;
-  line-height: 48px;
-  margin-top: 60px;
-  margin-bottom: 30px;
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+
+:root {
+  --orange: #FF9300;
 }
 
-h2 {
-  font-weight: 600;
-  font-size: 32px;
-  line-height: 32px;
+
+body {font-family: 'Source Serif Pro', serif;}
+aside, table {font-family: 'Source Sans Pro', sans-serif;}
+
+/*aside.sidebar-drawer {background: #ABC;}
+aside.sidebar-drawer div.sidebar-container {background: #acb;}
+div.content {background: #bca;}
+div.article-container {background: #bac;}
+aside.toc-drawer {background: #bbb};}
+aside.toc-drawer {background: #cba}
+*/
+
+/* --------- left and right TOCs --------- */
+
+.sidebar-drawer {
+    width: calc(50% - 28em);
+    min-width: 13em;
+}
+.sidebar-container, .toc-drawer {
+    width: 12em;
 }
 
-h3 {
-  font-size: 20px;
-  line-height: 28px;
+/* --------- asides --------- */
+
+article aside.sidebar {
+    width: 100%;
+    position: relative;
+    float: none;
+    border: 1px solid #999; border-left: 2px solid #999; border-radius: 0;
+    margin: 2em 0;
+    background: none;
+}
+article aside.sidebar>* {
+    font-size: 90%;
+    border: none
+}
+article aside.sidebar p.sidebar-title {
+    border: none;
+    font-weight: 600;
 }
 
-h4,
-h5,
-h6 {
-  font-size: 18px;
-  line-height: 25px;
-}
+/* --------- widths at different breakpoints --------- */
+/*  break out content asides and images at 52em */
 
-.floated {width: 100%; margin-bottom: .75rem; margin-left: .75rem;}
-
-@media only screen and (min-width: 768px) {
-  .column {
-    float: left;
-    width: 45%;
-    margin-right: 5%;
-    margin-bottom: 30px;
-
-    h2 {
-      margin-top: 0;
+@media only screen and (min-width: 52em) {
+    .content {
+        position: relative;
+        padding: 0 1em 0 15em;
+        width: 36em;
     }
-  }
-
-  .floated {width: 50%; float: right;}
-
+    article aside.sidebar {
+        margin: 0;
+        width: 14em;
+        position: absolute; left: 0;
+        border: none;
+        text-align: right;
+    }
+    article aside.sidebar ul {
+        text-align: left;
+    }
+    img.floated {
+        width: 50%;
+        float: right;
+        margin-bottom: 1rem; margin-left: 1rem;
+    }
+    img.wider, table.wider, figure.wider {
+        width: 50em;
+        margin: 2em 0;
+        max-width: 50em;
+        left: -14em;
+        position: relative;
+    }
 }
 
-.clearfix {
-  clear: both;
+@media only screen and (min-width: 67em) {
+    .content {padding: 0 1em 0 17em;}
+    article aside.sidebar {
+        width: 16em;
+    }
 }
+
+@media only screen and (min-width: 82em) {
+    .content {padding: 0 3em 0 17em;}
+    article aside.sidebar {
+        width: 16em;
+    }
+}
+
+/* --------- headings --------- */
+
+h1 {font-size: 2rem;}
+
+/* --------- misc --------- */
+
+p.rubric {
+    text-transform: none;
+    font-style: italic;
+    font-weight: 400;
+    font-size: 110%;
+}
+
+hr.docutils {background-color: var(--orange);}
+
+.quote {
+    margin: 0 3em;
+    padding-top: 3em;
+    padding-bottom: 1em;
+    font-size: 95%;
+}
+.attribution {
+    margin: 0 3em;
+    padding-bottom: 2em;
+}
+
+figcaption {text-align: right; font-style: italic;}
+
+div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
+
+@media only screen and (min-width: 36em) {
+    div.lined div.sd-col {border-bottom: 1px solid var(--orange);}
+}
+
+a:link, a:visited {color: var(--orange);}
+
+/* --------- TOC sidebar --------- */
+
+div.sidebar-tree .toctree-l1>.reference {color: #666;}
+div.sidebar-tree .toctree-l1>.reference:hover {color: var(--orange);}
+
+div.sidebar-tree ul {
+    border-bottom: 1px solid var(--orange);
+    padding: 1em 0;
+}
+
+input.sidebar-search {border: none;}
+
+/* --------- embed --------- */
 
 .embed-responsive {
   position: relative;
@@ -62,81 +158,26 @@ h6 {
   width: 100%;
   height: 100%;
 }
-
 .embed-responsive-16by9::before {
     padding-top: 56.25%;
 }
-
 .embed-responsive-4by3::before {
     padding-top: 75%;
 }
 
-article .sidebar {width: 37%; border-color: #FF9300; margin-bottom: .5rem;}
-article p.sidebar-title {background: #FF9300;}
-article ul {margin-left: 1em;}
+/* --------- furniture --------- */
 
-hr.docutils {background-color: #FF9300;}
+.nav-overlay-icon .icon svg, .toc-overlay-icon .icon svg, .theme-toggle svg {color: var(--orange);}
 
-.quote {font-size: large; font-style: italic; margin: 3em 10% .5em 10%;}
-.attribution {margin: 0 10% 3em 10%; font-size: large; padding-bottom: 1em; border-bottom: 1px solid #FF9300;}
+.toc-tree li.scroll-current>.reference {color: var(--orange);}
 
+/* --------- tables --------- */
 
-div.sidebar-contact h2 {color: gray; font-size: 110%; padding-left: 1.2rem; color: #FF9300;}
-div.sidebar-contact ul {color: gray; font-size: 87.5%; list-style: none;}
-div.sidebar-contact li {padding-bottom: 1rem;}
-div.sidebar-contact a {text-decoration: none; color: gray;}
-div.sidebar-contact a:hover {color: #FF9300;}
-
-div.sidebar-tree .toctree-l1>.reference {color: gray;}
-div.sidebar-tree .toctree-l1>.reference:hover {color: #FF9300;}
-
-input.sidebar-search {
-    border: none;
-/*    border-top: 1px solid #FF9300;
-    border-bottom: none;
-    padding-top: 1em;
-    margin-top: 1em;
-*/}
-
-div.sidebar-tree ul {
-    border-bottom: 1px solid #FF9300;
-    padding: 1em 0;
-}
-
-.toctree-checkbox~label .icon svg {color: #FF9300;}
-
-.toc-tree li.scroll-current>.reference {color: #FF9300;}
-
-table.docutils {
-  border: 1px solid #FF9300;
-}
-
-table.docutils thead td {
-    border-bottom: 2px solid #FF9300;
-    border-right: 1px solid #FF9300;
-}
-
-table.docutils th.head {
-    padding: .5rem 0;
-}
-
-table.docutils th.stub {
-    text-align: right;
-
-}
-
-table.docutils td, table.docutils th {
-    border-right: 1px solid #FF9300;
-}
-
+.table-wrapper {overflow-x: visible;}
+table.docutils {box-shadow: none;}
+table.docutils th.head {padding: .5rem 0;}
+table.docutils td, table.docutils th {border-right: 1px solid var(--orange);}
+table.docutils th.stub {text-align: right;}
 table.docutils tr:last-child td,
-table.docutils tr:last-child th {
-    border-bottom: 1px solid #FF9300;
-}
-
-div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid #FF9300;}
-
-@media only screen and (min-width: 576px) {
-  div.lined div.sd-col {border-bottom: 1px solid #FF9300;}
-}
-
+table.docutils tr:last-child th {border-bottom: none;}
+table.docutils thead {border-bottom: 1px solid var(--orange);}
