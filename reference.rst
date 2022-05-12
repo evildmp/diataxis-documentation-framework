@@ -50,12 +50,11 @@ there are too many software developers who think that this is all the documentat
 Food and cooking
 --------------------
 
-..  image:: /images/liquorice.png
-    :alt: Wikipedia's entry for liquorice
-    :class: floated
-
 Perhaps you might consult an encyclopaedia to read about an ingredient (for example, about
 liquorice).
+
+..  image:: /images/liquorice.png
+    :alt: Wikipedia's entry for liquorice
 
 What you're seeking is information - accurate, up-to-date, comprehensive information. You may want
 to know about its properties, its chemical composition, how it interacts with other ingredients,

@@ -44,12 +44,11 @@ See :ref:`tutorials-how-to` for an extended discussion of this distinction.
 Food and cooking
 --------------------
 
-..  image:: /images/old-recipe.jpg
-    :alt: A recipe contains a list of ingredients and a list of steps.
-    :class: floated
-
 Consider a recipe, an excellent model for a how-to guide. A recipe clearly defines what will be achieved by following
 it, and **addresses a specific question** (*How do I make...?* or *What can I make with...?*).
+
+..  image:: /images/old-recipe.jpg
+    :alt: A recipe contains a list of ingredients and a list of steps.
 
 It's not the responsibility of a recipe to *teach* you how to make something. A professional chef who has made
 exactly the same thing multiple times before may still follow a recipe - even if they *created* the recipe

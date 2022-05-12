@@ -93,12 +93,11 @@ completely rewritten, because you have thought of a better way to produce a lear
 Food and cooking
 --------------------
 
-..  image:: /images/anselmo.jpg
-    :alt:
-    :class: floated
-
 Perhaps you have had the experience of teaching a child to cook, in which case you'll have encountered most of the main
 demands imposed by a tutorial.
+
+..  image:: /images/anselmo.jpg
+    :alt:
 
 As you probably realised, if you didn't know it already: the important thing in this experience isn't *what* you
 teach the child to cook. The only thing that really matters is that the child should enjoy the experience of working in
