@@ -49,6 +49,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   * `Ubuntu Core <https://ubuntu.com/core/docs>`_
 
 * `Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library
+* `clj-otel <https://github.com/steffan-westcott/clj-otel#documentation>`_, Clojure API for OpenTelemetry
 * `Cloudflare Workers docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_ (related article, `New and
   improved Workers Docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_)
 * `corrux <https://corrux.io/>`_ (internal)
