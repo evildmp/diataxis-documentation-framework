@@ -6,10 +6,12 @@
 
 .. _diataxis:
 
-Diátaxis Documentation Framework
+Diátaxis
 ========================================================
 
 ..  rubric:: A systematic framework for technical documentation authoring.
+
+----------
 
 The Diátaxis framework aims to solve the problem of structure in technical documentation. It adopts a systematic
 approach to understanding the needs of documentation users in their cycle of interaction with a product.
@@ -27,9 +29,10 @@ approach to understanding the needs of documentation users in their cycle of int
 Four modes of documentation
 ----------------------------
 
-..  sidebar:: *Diátaxis*
+..  sidebar::
 
-    From the Ancient Greek δῐᾰ́τᾰξῐς - *dia*, "across", and *taxis*, "arrangement".
+    The name *Diátaxis* comes from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* ("across") and *taxis*
+    ("arrangement").
 
 The framework identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
 **explanation**.
@@ -40,8 +43,10 @@ approach to its creation.
 Technical documentation should be structured explicitly around these four types, and should keep them all separate and
 distinct from each other.
 
+
 .. image:: /images/diataxis.png
    :alt: Diátaxis
+   :class: wider
 
 In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
 of this, and how those four different things work, can help improve most documentation.
@@ -75,16 +80,6 @@ across a wide variety of fields and applications <adoption>`. These include larg
 documentation projects.
 
 
-Video presentation
-------------------
-
-Here is a video of a conference talk presenting the concepts encapsulated in Diátaxis, from PyCon Australia 2017.
-
-..  raw:: html
-
-    <div class="embed-responsive embed-responsive-16by9">
-        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/t4vKPhjcMZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
 
 .. toctree::
    :maxdepth: 1

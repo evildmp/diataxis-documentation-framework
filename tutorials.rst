@@ -7,9 +7,10 @@ About tutorials
 
 ===========
 
-..  image:: /images/overview-tutorials.png
-    :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
-    :class: floated
+..  sidebar::
+
+    ..  image:: /images/overview-tutorials.png
+        :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
 
 A tutorial must help a beginner achieve basic competence with a product, so that they can go on to use the product
 for their own purposes.
@@ -45,6 +46,10 @@ experience, your tutorial isn't doing the job it needs to.
 Obligations of the teacher
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+..  sidebar::
+
+    It's not easy being a teacher.
+
 **The teacher has responsibility**: for what the pupil is to learn, what the pupil will do in order to learn it, and
 for the pupil's success. The only responsibility of the pupil is to be attentive and to follow the teacher's directions
 as closely as they can. **There is no responsibility on the pupil to learn, understand or remember** - the learner's
@@ -58,8 +63,6 @@ At the same time, the exercise you put your pupils through must be:
 * *usefully complete* - the pupil must have an encounter with all of the actions, concepts and tools they need to become
   familiar with
 
-It's not easy being a teacher.
-
 
 The problem of tutorials
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -69,6 +72,11 @@ Most software projects have poor - or non-existent - tutorials.
 
 In an ideal lesson, the teacher is present and interacts with and responds to the student. A written tutorial is a
 far-from-perfect substitute for this.
+
+..  sidebar::
+
+    You can easily find that writing and maintaining your tutorials occupies as much time and energy as all the other
+    parts of documentation put together.
 
 The sheer amount of work required to create and maintain tutorials is much more than that required for the
 other parts of documentation. It's hard enough to put together a learning experience that meets all the standards
@@ -80,18 +88,14 @@ You only have to change a reference or how-to guide if something in the product 
 part of it needs to change. In the case of a tutorial, you may come to the conclusion that the whole lesson should be
 completely rewritten, because you have thought of a better way to produce a learning experience for the pupil.
 
-You can easily find that writing and maintaining your tutorials occupies as much time and energy as the the other
-three parts put together.
-
 ===============
 
 Food and cooking
 --------------------
 
-.. image:: /images/anselmo.jpg
-   :alt: 
-   :class: floated
-
+..  image:: /images/anselmo.jpg
+    :alt:
+    :class: floated
 
 Perhaps you have had the experience of teaching a child to cook, in which case you'll have encountered most of the main
 demands imposed by a tutorial.

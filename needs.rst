@@ -49,17 +49,22 @@ of documentation are laid out:
 
 .. image:: /images/diataxis.png
    :alt:
+   :class: wider
 
 
 
 Characteristics of documentation
 ----------------------------------------------------
 
+A clear advantage of organising material this way is that it provides both clear *expectations* (to the reader) and
+*guidance* (to the author). It's clear what the purpose of any particular piece of content is, it specifies how it
+should be written and it shows where it should be placed.
 
 .. list-table::
    :widths: 16 21 21 21 21
    :header-rows: 1
    :stub-columns: 1
+   :class: wider
 
    * - \
      - :ref:`Tutorials <tutorials>`
@@ -97,10 +102,6 @@ Characteristics of documentation
      - a reference encyclopaedia article
      - an article on culinary social history
 
-A clear advantage of organising material this way is that it provides both clear *expectations* (to the reader) and
-*guidance* (to the author). It's clear what the purpose of any particular piece of content is, it specifies how it
-should be written and it shows where it should be placed.
-
 Each piece of content is of a kind that not only has one particular job to do, that job is also clearly distinguished
 from and contrasted with the other functions of documentation.
 
@@ -118,12 +119,15 @@ documentation).
 * *reference and explanation* both contain *theoretical knowledge*
 * *tutorials and explanation* are both concerned with the *acquisition of knowledge*
 
+..  sidebar::
+
+    ..  image:: /images/total-collapse.png
+        :alt: The structure of documemntation can collapse.
+
 Allowing these distinctions to blur is what brings about structural problems. The most common is a complete or partial
 collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and
-reference material. So sometimes, documentation looks like this:
+reference material.
 
-.. image:: /images/total-collapse.png
-   :alt: A totally collapsed structure
 
 -------------
 

@@ -8,9 +8,10 @@ About reference
 
 ===========
 
-..  image:: /images/overview-reference.png
-    :alt: Reference - information oriented, theoretical knowledge, that serves our work
-    :class: floated
+..  sidebar::
+
+    ..  image:: /images/overview-reference.png
+        :alt: Reference - information oriented, theoretical knowledge, that serves our work
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
 way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference

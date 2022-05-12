@@ -8,9 +8,10 @@ About how-to guides
 
 ===========
 
-..  image:: /images/overview-how-to.png
-    :alt: How-to guides - task oriented, practical steps, that serve our work
-    :class: floated
+..  sidebar::
+
+    ..  image:: /images/overview-how-to.png
+        :alt: How-to guides - task oriented, practical steps, that serve our work
 
 How-to guides can be thought of as recipes, directions that guide the reader through the steps to achieve a specific
 end.
@@ -25,8 +26,6 @@ encouraging suggestion of a product's capabilities.
 
 If they're well-written and address the right subjects, you're likely to find that how-to guides are the most-read
 sections of your documentation.
-
-..  rst-class:: clearfix
 
 ===========
 

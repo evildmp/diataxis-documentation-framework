@@ -96,6 +96,7 @@ There's a strong urge to work in a cycle of planning and execution in order to w
 only way, and there are often better ways when working with documentation.
 
 ..  figure:: /images/always-complete.jpg
+    :figclass: wider
     :alt:
 
     Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, reproduced with kind permission.
