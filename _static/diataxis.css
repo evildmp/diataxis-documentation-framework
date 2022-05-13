@@ -61,6 +61,7 @@ article aside.sidebar p.sidebar-title {
         border: none;
         text-align: right;
     }
+    article aside.sidebar>:first-child {margin-top: 0;}
     article aside.sidebar ul {
         text-align: left;
     }
@@ -80,16 +81,12 @@ article aside.sidebar p.sidebar-title {
 
 @media only screen and (min-width: 67em) {
     .content {padding: 0 1em 0 17em;}
-    article aside.sidebar {
-        width: 16em;
-    }
+    article aside.sidebar {width: 16em;}
 }
 
 @media only screen and (min-width: 82em) {
     .content {padding: 0 3em 0 17em;}
-    article aside.sidebar {
-        width: 16em;
-    }
+    article aside.sidebar {width: 16em;}
 }
 
 /* --------- headings --------- */
@@ -107,16 +104,17 @@ p.rubric {
 
 hr.docutils {background-color: var(--orange);}
 
-.quote {
-    margin: 0 3em;
-    padding-top: 3em;
-    padding-bottom: 1em;
-    font-size: 95%;
+blockquote.epigraph {
+    border-left: none;
+    padding: 1em 0 1em 3em;
 }
-.attribution {
-    margin: 0 3em;
+
+
+blockquote p.attribution {padding-left: 3em; font-style: normal;
+
+/*    margin: 0 3em;
     padding-bottom: 2em;
-}
+*/}
 
 figcaption {text-align: right; font-style: italic;}
 
