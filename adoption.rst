@@ -9,16 +9,14 @@
 Who's using Diátaxis?
 =============================================
 
-..  rst-class:: quote
+..  epigraph::
 
     At Gatsby we recently reorganized our open-source documentation, and the Diátaxis framework was our go-to resource
     throughout the project. The four quadrants helped us prioritize the user’s goal for each type of documentation. By
     restructuring our documentation around the Diátaxis framework, we made it easier for users to discover the
     resources that they need when they need them.
 
-..  rst-class:: attribution
-
-  \- Megan Sullivan (`@meganesulli <https://twitter.com/meganesulli>`_)
+    -- Megan Sullivan (`@meganesulli <https://twitter.com/meganesulli>`_)
 
 
 ..  sidebar:: Not listed here?

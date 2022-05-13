@@ -12,6 +12,6 @@ If you'd like to discuss Diátaxis with other users, please see the *#diataxis* 
 <https://github.com/evildmp/diataxis-documentation-framework/discussions>`_ section of the `GitHub
 repository <https://github.com/evildmp/diataxis-documentation-framework>`_.
 
-You can also submit a pull request to have your documentation listed in the :ref:`Who's using
+You can also submit a pull request to have your documentation listed in :ref:`Who's using
 Diátaxis <adoption>` or to suggest an improvement, or `file an issue
 <https://github.com/evildmp/diataxis-documentation-framework/issues>`_.

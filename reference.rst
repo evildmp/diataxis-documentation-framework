@@ -40,9 +40,13 @@ purpose for the product and its internal machinery.
 Although reference should not attempt to show how to perform tasks, it can and often needs to
 include a description of how something works or the correct way to use it.
 
+..  sidebar::
+
+    Unfortunately, too many software developers think that auto-generated reference material is all the
+    documentation required.
+
 Some reference material (such as API documentation) can be generated automatically by the software
-it describes, which is a powerful way of ensuring that it remains faithfully accurate to the code. Unfortunately,
-there are too many software developers who think that this is all the documentation required.
+it describes, which is a powerful way of ensuring that it remains faithfully accurate to the code.
 
 
 ===============
@@ -75,14 +79,14 @@ it - it is not a function of an encyclopaedia article to tell you what to do.
 Writing a good reference guide
 ----------------------------------------
 
+Respect the structure of the machinery
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ..  sidebar:: Style and form
 
     * austere and uncompromising
     * neutrality, objectivity, factuality
     * structured according to the structure of the machinery itself
-
-Respect the structure of the machinery
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The way a map corresponds to the territory it represents helps us use the former to find our way
 through the latter. It should be the same with documentation: **the structure of the documentation

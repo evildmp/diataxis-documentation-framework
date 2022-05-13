@@ -17,28 +17,22 @@ The Diátaxis framework aims to solve the problem of structure in technical docu
 approach to understanding the needs of documentation users in their cycle of interaction with a product.
 
 
-.. rst-class:: quote
+..  epigraph::
 
-  The Grand Unified Theory of Documentation
+    The Grand Unified Theory of Documentation
 
-.. rst-class:: attribution
-
-  \- David Laing
-
-
-Four modes of documentation
-----------------------------
+    -- David Laing
 
 ..  sidebar::
 
     The name *Diátaxis* comes from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* ("across") and *taxis*
     ("arrangement").
 
-The framework identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
-**explanation**.
+Diátaxis identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
+**explanation**. It derives its structure from the relationship between them.
 
-Each of these modes (or types) answers to a different user need, fulfils a different purpose and requires a different
-approach to its creation.
+In Diátaxis, each of these modes (or types) answers to a different user need, fulfils a different purpose and requires
+a different approach to its creation.
 
 Technical documentation should be structured explicitly around these four types, and should keep them all separate and
 distinct from each other.
@@ -51,33 +45,23 @@ distinct from each other.
 In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
 of this, and how those four different things work, can help improve most documentation.
 
-Diátaxis promises to make documentation and projects better, and the teams that work with them more successful.
-
-
-..  rst-class:: quote
+..  epigraph::
 
     While redesigning the `Cloudflare developer docs <https://developers.cloudflare.com>`_, this content framework
     became our north star for information architecture. When we weren’t sure where a new piece of content should fit
     in, we’d consult the framework. Our documentation is now clearer than it’s ever been, both for readers and
     contributors.
 
-..  rst-class:: attribution
+    -- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)
 
-  \- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)
+..  sidebar::
+
+    Diátaxis has been :ref:`proven in practice <adoption>` across a wide variety of fields and applications, in large
+    and small, open and proprietary documentation projects.
 
 
-Light-weight and easily adopted
------------------------------------
-
-The framework is light-weight, easy to understand and straightforward to apply. It doesn't impose implementation
-constraints.
-
-Complete and comprehensive
-----------------------------
-
-Diátaxis provides a comprehensive and nearly universally-applicable scheme, that has been :ref:`proven in practice
-across a wide variety of fields and applications <adoption>`. These include large and small, and open and proprietary
-documentation projects.
+Diátaxis promises to make documentation and projects better, and the teams that work with them more successful. It is
+light-weight, easy to understand and straightforward to apply. It doesn't impose implementation constraints.
 
 
 

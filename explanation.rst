@@ -27,18 +27,17 @@ things together. It's documentation that it makes sense to read while away from 
 The value and place of explanation
 ----------------------------------
 
+Explanation and understanding
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ..  sidebar:: Explanation by any other name
 
-    It's not always obvious what the best name for your explanation documentation should be. Other possible names could
-    include:
+    Your explanation documentation doesn't need to be called *Explanation*. Alternatives include:
 
     * *Discussion*
     * *Background*
     * *Conceptual guides*
     * *Topics*
-
-Explanation and understanding
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Explanation, unlike the other three forms of documentation, doesn't have a direct part in a user's practice or work.
 This means that it's sometimes seen as being of lesser importance. That's a mistake; it may be less *urgent* than the
