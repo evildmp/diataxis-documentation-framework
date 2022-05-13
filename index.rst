@@ -34,13 +34,12 @@ Diátaxis identifies four modes of documentation - **tutorials**, **how-to guide
 In Diátaxis, each of these modes (or types) answers to a different user need, fulfils a different purpose and requires
 a different approach to its creation.
 
-Technical documentation should be structured explicitly around these four types, and should keep them all separate and
-distinct from each other.
-
-
 .. image:: /images/diataxis.png
    :alt: Diátaxis
    :class: wider
+
+Technical documentation should be structured explicitly around these four types, and should keep them all separate and
+distinct from each other.
 
 In other words, what we call *documentation* is fundamentally not one thing, but four. Understanding the implications
 of this, and how those four different things work, can help improve most documentation.
@@ -56,7 +55,7 @@ of this, and how those four different things work, can help improve most documen
 
 ..  sidebar::
 
-    Diátaxis has been :ref:`proven in practice <adoption>` across a wide variety of fields and applications, in large
+    Diátaxis is :ref:`proven in practice <adoption>` across a wide variety of fields and applications, in large
     and small, open and proprietary documentation projects.
 
 
