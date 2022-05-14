@@ -8,10 +8,9 @@ About explanation
 
 ===========
 
-..  sidebar::
-
-    ..  image:: /images/overview-explanation.png
-        :alt: Explanation - understanding oriented, theoretical knowledge, that serves our study
+..  image:: /images/overview-explanation.png
+    :alt: Explanation - understanding oriented, theoretical knowledge, that serves our study
+    :class: sidebar
 
 Explanation clarifies, deepens and broadens the reader’s understanding of a subject.
 
@@ -30,6 +29,11 @@ The value and place of explanation
 Explanation and understanding
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Explanation, unlike the other three forms of documentation, doesn't have a direct part in a user's practice or work.
+This means that it's sometimes seen as being of lesser importance. That's a mistake; it may be less *urgent* than the
+other three, but it's no less *important*. It's not a luxury. No practitioner of a craft can afford to be without an
+understanding of that craft, and needs the explanatory material that will help weave it together.
+
 ..  sidebar:: Explanation by any other name
 
     Your explanation documentation doesn't need to be called *Explanation*. Alternatives include:
@@ -38,11 +42,6 @@ Explanation and understanding
     * *Background*
     * *Conceptual guides*
     * *Topics*
-
-Explanation, unlike the other three forms of documentation, doesn't have a direct part in a user's practice or work.
-This means that it's sometimes seen as being of lesser importance. That's a mistake; it may be less *urgent* than the
-other three, but it's no less *important*. It's not a luxury. No practitioner of a craft can afford to be without an
-understanding of that craft, and needs the explanatory material that will help weave it together.
 
 In most European languages, words that mean *understanding* share roots in words meaning to hold or grasp. That's an
 important part of understanding, to be able to hold something or be in possession of it. It seals together the other
@@ -99,14 +98,6 @@ to think about cooking at a higher level, and to understand more about the subje
 Writing good explanation
 -----------------------------------
 
-..  sidebar:: Things to discuss
-
-    * the bigger picture
-    * history
-    * choices, alternatives, possibilities
-    * why: reasons and justifications
-
-
 Make connections
 ~~~~~~~~~~~~~~~~
 
@@ -123,6 +114,13 @@ reasons, technical constraints - draw implications, mention specific examples.
 
 Talk *about* the subject
 ~~~~~~~~~~~~~~~~~~~~~~~~
+
+..  sidebar:: Things to discuss
+
+    * the bigger picture
+    * history
+    * choices, alternatives, possibilities
+    * why: reasons and justifications
 
 Explanation guides are *about* a topic in the sense that they are *around* it. Even the names of your explanation
 guides should reflect this; you should be able to place an implicit (or even explicit) *about* in front of each

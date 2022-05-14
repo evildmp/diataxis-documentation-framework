@@ -7,10 +7,9 @@ About tutorials
 
 ===========
 
-..  sidebar::
-
-    ..  image:: /images/overview-tutorials.png
-        :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
+..  image:: /images/overview-tutorials.png
+    :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
+    :class: sidebar
 
 A tutorial must help a beginner achieve basic competence with a product, so that they can go on to use the product
 for their own purposes.
@@ -130,6 +129,11 @@ by doing.
 Writing a good tutorial
 ---------------------------------
 
+Don't try to teach
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Allow the user to learn. **In the beginning, we only learn anything by doing** - it’s how we learn to talk, or walk.
+
 ..  sidebar:: Anti-pedagogical temptations
 
     * abstraction, generalisation
@@ -137,13 +141,7 @@ Writing a good tutorial
     * choices
     * information
 
-
-Don't try to teach
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Allow the user to learn. **In the beginning, we only learn anything by doing** - it’s how we learn to talk, or walk.
-
-Give your learner things to do, through which they can learn. Only your pupil can learn. Sadly, however much you desire
+Give your learner things to *do*, through which they can learn. Only your pupil can learn. Sadly, however much you desire
 it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can
 learn.
 

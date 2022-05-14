@@ -95,12 +95,6 @@ Allow your work to develop organically
 There's a strong urge to work in a cycle of planning and execution in order to work towards results. But it's not the
 only way, and there are often better ways when working with documentation.
 
-..  figure:: /images/always-complete.jpg
-    :figclass: wider
-    :alt:
-
-    Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, reproduced with kind permission.
-
 Well-formed organic growth
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
@@ -108,6 +102,12 @@ A good model for documentation is **well-formed organic growth that adapts to ex
 takes place at the cellular level. The structure of the organism as a whole is guaranteed by the healthy development of
 cells, according to rules that are appropriate to each kind of cell. It's not the other way round, that a structure is
 imposed on the organism from above or outside. Good structure develops from within.
+
+..  figure:: /images/always-complete.jpg
+    :figclass: wider
+    :alt:
+
+    Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, reproduced with kind permission.
 
 It's the same with documentation: by following the principles that Diátaxis provides, your documentation will
 attain a healthy structure, because its internal components themselves are well-formed - like a living organism, it

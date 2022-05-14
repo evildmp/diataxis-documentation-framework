@@ -8,10 +8,9 @@ About how-to guides
 
 ===========
 
-..  sidebar::
-
-    ..  image:: /images/overview-how-to.png
-        :alt: How-to guides - task oriented, practical steps, that serve our work
+..  image:: /images/overview-how-to.png
+    :alt: How-to guides - task oriented, practical steps, that serve our work
+    :class: sidebar
 
 How-to guides can be thought of as recipes, directions that guide the reader through the steps to achieve a specific
 end.
@@ -68,18 +67,18 @@ concerned.
 Writing a good how-to guide
 ---------------------------------------
 
+Describe a sequence of actions
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Like a tutorial, a **how-to guide contains a sequence of actions, that have an order**. Unlike a tutorial, you don't
+have to start at the beginning of the whole story and take your reader right to the end. Most likely, your user will also be in the middle of something - so you only need to provide a starting-point that they know how to reach, and a conclusion that actually answers a real question.
+
 ..  sidebar:: How-to characteristics
 
     * focused on tasks or problems
     * assume the user knows what they want to achieve
     * action and only action
     * no digression, explanation, teaching
-
-Describe a sequence of actions
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Like a tutorial, a **how-to guide contains a sequence of actions, that have an order**. Unlike a tutorial, you don't
-have to start at the beginning of the whole story and take your reader right to the end. Most likely, your user will also be in the middle of something - so you only need to provide a starting-point that they know how to reach, and a conclusion that actually answers a real question.
 
 How-to guides should be reliable, but they don’t need to have the cast-iron repeatability of a tutorial.
 

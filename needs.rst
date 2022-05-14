@@ -119,10 +119,9 @@ documentation).
 * *reference and explanation* both contain *theoretical knowledge*
 * *tutorials and explanation* are both concerned with the *acquisition of knowledge*
 
-..  sidebar::
-
-    ..  image:: /images/total-collapse.png
-        :alt: The structure of documemntation can collapse.
+..  image:: /images/total-collapse.png
+    :alt: The structure of documemntation can collapse.
+    :class: sidebar
 
 Allowing these distinctions to blur is what brings about structural problems. The most common is a complete or partial
 collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and

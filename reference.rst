@@ -8,10 +8,9 @@ About reference
 
 ===========
 
-..  sidebar::
-
-    ..  image:: /images/overview-reference.png
-        :alt: Reference - information oriented, theoretical knowledge, that serves our work
+..  image:: /images/overview-reference.png
+    :alt: Reference - information oriented, theoretical knowledge, that serves our work
+    :class: sidebar
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
 way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
@@ -82,12 +81,6 @@ Writing a good reference guide
 Respect the structure of the machinery
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-..  sidebar:: Style and form
-
-    * austere and uncompromising
-    * neutrality, objectivity, factuality
-    * structured according to the structure of the machinery itself
-
 The way a map corresponds to the territory it represents helps us use the former to find our way
 through the latter. It should be the same with documentation: **the structure of the documentation
 should mirror the structure of the product**, so that the user can work their way through them
@@ -95,6 +88,12 @@ at the same time.
 
 In the case of code, this means arranging the sections of reference documentation to follow the
 architecture of the software, where possible.
+
+..  sidebar:: Style and form
+
+    * austere and uncompromising
+    * neutrality, objectivity, factuality
+    * structured according to the structure of the machinery itself
 
 It doesn't mean forcing the documentation into an unnatural structure. What's important is that the
 logical, conceptual arrangement of and relations within the code should help make sense of the

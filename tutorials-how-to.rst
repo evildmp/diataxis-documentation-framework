@@ -68,10 +68,9 @@ uneven depths that looks like something from a knife-fight.
 After a few attempts, with feedback and correction from the tutor, you’ll have made a more or less clean cut that
 mostly goes through the fat layer without cutting into the muscle beneath. Triumph!
 
-..  sidebar::
-
-    .. image:: /images/suture.jpg
-       :alt:
+..  image:: /images/suture.jpg
+    :alt:
+    :class: sidebar
 
 But now you’re being asked to stitch it back up again! You’ll watch the tutor demonstrate deftly and precisely, closing
 the wound in the pad with a few neat, even stitches. You, on the other hand, will fumble with the thread. You will hold
@@ -101,15 +100,14 @@ will show how to station the members of the team, and how to lay out the require
 proceed step-by-step through the actions the team will need to follow, ending with the formal handover to the
 post-operative team.
 
+..  image:: /images/operation.jpg
+    :alt:
+    :class: sidebar
+
 The manual will show what incisions need to be made where, but they will depend on whether you’re performing an open or
 a laparoscopic procedure, whether you have pre-operative imaging to rely on or not, and so on. It will include special
 steps or checks to be made in the case of an infant or juvenile patient, or when converting to an open appendectomy
 mid-procedure. Many of the steps will be of the form *if this, then that*.
-
-..  sidebar::
-
-    .. image:: /images/operation.jpg
-       :alt:
 
 Having a manual helps ensure that all the steps are done in the right order and none are omitted. As a team, you’ll
 check through details of a procedure to remind yourselves of key steps; sometimes you'll refer to it during the

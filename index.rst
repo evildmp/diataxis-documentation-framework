@@ -13,15 +13,14 @@ Diátaxis
 
 ----------
 
-The Diátaxis framework aims to solve the problem of structure in technical documentation. It adopts a systematic
-approach to understanding the needs of documentation users in their cycle of interaction with a product.
-
-
 ..  epigraph::
 
     The Grand Unified Theory of Documentation
 
     -- David Laing
+
+The Diátaxis framework aims to solve the problem of structure in technical documentation. It adopts a systematic
+approach to understanding the needs of documentation users in their cycle of interaction with a product.
 
 ..  sidebar::
 
