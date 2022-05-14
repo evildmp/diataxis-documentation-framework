@@ -52,15 +52,11 @@ of this, and how those four different things work, can help improve most documen
 
     -- Adam Schwartz (`@AdamSchwartz <https://github.com/adamschwartz>`_)
 
-..  sidebar::
-
-    Diátaxis is :ref:`proven in practice <adoption>` across a wide variety of fields and applications, in large
-    and small, open and proprietary documentation projects.
-
-
 Diátaxis promises to make documentation and projects better, and the teams that work with them more successful. It is
 light-weight, easy to understand and straightforward to apply. It doesn't impose implementation constraints.
 
+Diátaxis is :ref:`proven in practice <adoption>` across a wide variety of fields and applications, in large
+and small, open and proprietary documentation projects.
 
 
 .. toctree::

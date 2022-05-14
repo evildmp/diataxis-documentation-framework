@@ -8,11 +8,11 @@ About explanation
 
 ===========
 
+Explanation clarifies, deepens and broadens the reader’s understanding of a subject.
+
 ..  image:: /images/overview-explanation.png
     :alt: Explanation - understanding oriented, theoretical knowledge, that serves our study
     :class: sidebar
-
-Explanation clarifies, deepens and broadens the reader’s understanding of a subject.
 
 It's not concerned with what the user might be doing, like tutorials and how-to guides. It's not a close-up view of the
 machinery, like reference material. It's documentation that approaches a topic from a higher perspective, and from

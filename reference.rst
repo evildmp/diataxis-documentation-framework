@@ -8,13 +8,13 @@ About reference
 
 ===========
 
-..  image:: /images/overview-reference.png
-    :alt: Reference - information oriented, theoretical knowledge, that serves our work
-    :class: sidebar
-
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
 way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
 material is led by the product it describes.
+
+..  image:: /images/overview-reference.png
+    :alt: Reference - information oriented, theoretical knowledge, that serves our work
+    :class: sidebar
 
 In the case of software, reference guides describe the software itself - APIs, classes, functions
 and so on - and how to use them.

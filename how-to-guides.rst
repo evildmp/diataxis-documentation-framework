@@ -8,12 +8,12 @@ About how-to guides
 
 ===========
 
+How-to guides can be thought of as recipes, directions that guide the reader through the steps to achieve a specific
+end.
+
 ..  image:: /images/overview-how-to.png
     :alt: How-to guides - task oriented, practical steps, that serve our work
     :class: sidebar
-
-How-to guides can be thought of as recipes, directions that guide the reader through the steps to achieve a specific
-end.
 
 Examples could be: *how to calibrate the radar array*; *how to use fixtures in pytest*; *how to configure
 reconnection back-off policies*. On the other hand, *how to build a web application* is not - that's not
