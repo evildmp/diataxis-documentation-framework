@@ -8,12 +8,14 @@
 body {font-family: 'Source Serif Pro', serif;}
 aside, table {font-family: 'Source Sans Pro', sans-serif;}
 
+
 /*aside.sidebar-drawer {background: #ABC;}
 aside.sidebar-drawer div.sidebar-container {background: #acb;}
 div.content {background: #bca;}
 div.article-container {background: #bac;}
 aside.toc-drawer {background: #bbb};}
 aside.toc-drawer {background: #cba}
+article aside.sidebar {background: #ccc;}
 */
 
 /* --------- left and right TOCs --------- */
@@ -28,19 +30,23 @@ aside.toc-drawer {background: #cba}
 
 /* --------- asides --------- */
 
-article aside.sidebar {
+article .sidebar {
     width: 100%;
     position: relative;
     float: none;
-    border: 1px solid #999; border-left: 2px solid #999; border-radius: 0;
     margin: 2em 0;
-    background: none;
+    background: none; border: none;
 }
-article aside.sidebar>* {
+article aside.sidebar {
+    border: 1px solid #999;
+    border-left: 2px solid #999;
+    border-radius: 0;
+}
+article .sidebar>* {
     font-size: 90%;
     border: none
 }
-article aside.sidebar p.sidebar-title {
+article .sidebar p.sidebar-title {
     border: none;
     font-weight: 600;
 }
@@ -54,39 +60,52 @@ article aside.sidebar p.sidebar-title {
         padding: 0 1em 0 15em;
         width: 36em;
     }
-    article aside.sidebar {
-        margin: 0;
-        width: 14em;
+    article .sidebar,
+    h2 {
         position: absolute; left: 0;
-        border: none;
+        width: 12rem;
+        margin: -2rem 2rem 0 1rem;
+        padding-top: 2rem;
         text-align: right;
+        background: none;
     }
-    article aside.sidebar>:first-child {margin-top: 0;}
-    article aside.sidebar ul {
-        text-align: left;
+    article aside.sidebar {border: none;}
+    article .sidebar>:first-child {margin-top: 0;}
+    article .sidebar>*,
+    article .sidebar .sidebar-title {padding-left: 0; padding-right: 0;}
+    img.wider, table.wider, figure.wider, hr {
+        width: 50em; max-width: 50em;
+        margin: 2em 0;
+        left: -14em;
+        position: relative;
     }
+    article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
     img.floated {
         width: 50%;
         float: right;
         margin-bottom: 1rem; margin-left: 1rem;
     }
-    img.wider, table.wider, figure.wider {
-        width: 50em;
-        margin: 2em 0;
-        max-width: 50em;
-        left: -14em;
-        position: relative;
+    h2>.headerlink,
+    .sidebar p .headerlink {
+        position: absolute; top: 0; right: 0;
     }
+    h2 + * {margin-top: 2rem;}
 }
 
 @media only screen and (min-width: 67em) {
     .content {padding: 0 1em 0 17em;}
-    article aside.sidebar {width: 16em;}
+    article .sidebar,
+    h2 {width: 14rem;}
+    img.wider, table.wider, figure.wider, hr {
+        width: 52em; max-width: 52em;
+        margin: 2em 0;
+        left: -16em;
+        position: relative;
+    }
 }
 
 @media only screen and (min-width: 82em) {
     .content {padding: 0 3em 0 17em;}
-    article aside.sidebar {width: 16em;}
 }
 
 /* --------- headings --------- */
