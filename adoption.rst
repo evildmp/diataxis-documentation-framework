@@ -36,22 +36,14 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
   <https://rubicon-objc.readthedocs.io>`_.
 * Bosch (internal)
-* **Canonical**
-
-  * `Anbox Cloud <https://anbox-cloud.io/docs>`_
-  * `Charmed Kubeflow <https://charmed-kubeflow.io/docs>`_
-  * `Charmed Operator SDK <https://juju.is/docs/sdk>`_
-  * `Juju OLM <https://juju.is/docs/olm>`_
-  * `MicroK8s <https://microk8s.io/docs>`_
-  * `OpenStack Charms guide <https://docs.openstack.org/charm-guide/latest/>`_
-  * `Ubuntu Core <https://ubuntu.com/core/docs>`_
-
+* **Canonical** - all of Canonical's product documention `is adopting (or will adopt) Diátaxis
+  <https://ubuntu.com/blog/diataxis-a-new-foundation-for-canonical-documentation>`_
 * `Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library
 * `clj-otel <https://github.com/steffan-westcott/clj-otel#documentation>`_, Clojure API for OpenTelemetry
 * `Cloudflare Workers docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_ (related article, `New and
   improved Workers Docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_)
 * `corrux <https://corrux.io/>`_ (internal)
-* `Divio <https://docs.divio.com/>`_
+* `Divio <https://docs.divio.com/>`_ (where Diátaxis was first developed)
 * `Django <https://docs.djangoproject.com/en/dev/#how-the-documentation-is-organized>`_
 * `django CMS <https://docs.django-cms.org>`_
 * `edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset Optimisation
