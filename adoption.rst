@@ -49,11 +49,13 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `edo <https://edo.readthedocs.io>`_, a library for Evolutionary Dataset Optimisation
 * `Encore <https://encore.dev/docs>`_, a framework for rapid backend development
 * Ericsson (internal)
+* `fpm <https://fpm.fortran-lang.org>`_, the Fortran Package Manager
 * Google's `Fuchsia operating system <https://fuchsia.dev/>`_
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
 * `Gorgonia <https://gorgonia.org>`_, a deep learning library for Go
+* `gtk-fortran <https://github.com/vmagnin/gtk-fortran/wiki>`_, the Fortran bindings for GTK
 * `ING Bank <https://www.ing.com>`_, for open-source (e.g. `doing-cli <https://github.com/ing-bank/doing-cli>`_,
   `Probatus <https://github.com/ing-bank/probatus>`_, `skorecard <https://github.com/timvink/skorecard>`_) and internal
   tooling projects
@@ -70,6 +72,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
+* `stdlib <https://awvwgk.github.io/stdlib-docs>`_, the Fortran Standard library
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_
 * Tesla Motors (internal)
