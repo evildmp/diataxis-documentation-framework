@@ -36,7 +36,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
   <https://rubicon-objc.readthedocs.io>`_.
 * Bosch (internal)
-* **Canonical** - all of Canonical's product documention `is adopting (or will adopt) Diátaxis
+* **Canonical** - all of Canonical's product documentation `is adopting (or will adopt) Diátaxis
   <https://ubuntu.com/blog/diataxis-a-new-foundation-for-canonical-documentation>`_
 * `Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library
 * `clj-otel <https://github.com/steffan-westcott/clj-otel#documentation>`_, Clojure API for OpenTelemetry
