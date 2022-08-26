@@ -99,13 +99,13 @@ demands imposed by a tutorial.
     :alt:
 
 As you probably realised, if you didn't know it already: the important thing in this experience isn't *what* you
-teach the child to cook. The only thing that really matters is that the child should enjoy the experience of working in
+teach the child to cook. The only things that really matters are that the child should enjoy the experience of working in
 the kitchen with you, and gains **confidence**, and wants to do it again.
 
-That needs to be the outcome of each learning experience in the kitchen; if it's not enjoyable, then even if the child
+These need to be the outcomes of each learning experience in the kitchen; if not achieved, then even if the child
 learned something, the learning journey is at risk of being ended there.
 
-A teacher always feels some natural anxiety about whether the pupil will learn. There's a temptation to press that too hard -
+A teacher always feels some natural anxiety about whether they have done enough to help the pupil learn. There's a temptation to press that too hard -
 which is both unnecessary and counter-productive.
 
 The child *will* learn, in their own time, at their own pace, **through the activities** you do together, and not from the
