@@ -30,7 +30,7 @@ approach to understanding the needs of documentation users in their cycle of int
 Diátaxis identifies four modes of documentation - **tutorials**, **how-to guides**, **technical reference** and
 **explanation**. It derives its structure from the relationship between them.
 
-In Diátaxis, each of these modes (or types) answers to a different user need, fulfils a different purpose and requires
+In Diátaxis, each of these modes (or types) answers a different user need, fulfils a different purpose and requires
 a different approach to its creation.
 
 .. image:: /images/diataxis.png
