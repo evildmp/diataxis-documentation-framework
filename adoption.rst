@@ -28,7 +28,7 @@ Who's using Diátaxis?
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
-* `Aiven Developer <https://developer.aiven.io>`_, developer documentation for managed open source data platforms
+* `Aiven Developer <https://docs.aiven.io>`_, developer documentation for managed open source data platforms
 * `BBC News Labs <https://bbcnewslabs.co.uk/>`_, e.g. for `mosromgr <https://mosromgr.readthedocs.io>`_, a Python
   library for managing TV and radio running orders
 * `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
