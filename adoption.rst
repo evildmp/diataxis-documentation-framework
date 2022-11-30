@@ -77,6 +77,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
 * `PDFminer.six <https://pdfminersix.readthedocs.io>`_
 * `PostgREST <http://postgrest.org>`_
+* `PowerTuning (internal)`_
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
