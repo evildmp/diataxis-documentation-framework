@@ -220,7 +220,7 @@ how-to guide.
 
     ..  grid-item::
 
-        The learner **may not even have sufficient compentence to ask the questions** that a tutorial answer.
+        The learner **may not even have sufficient competence to ask the questions** that a tutorial answers.
 
     ..  grid-item::
 
