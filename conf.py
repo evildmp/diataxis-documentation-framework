@@ -13,12 +13,13 @@
 # import os
 # import sys
 # sys.path.insert(0, os.path.abspath('.'))
-
+import datetime
 
 # -- Project information -----------------------------------------------------
 
+today = datetime.datetime.today()
 html_title = full_title = project = 'Diátaxis'
-copyright = '2017 Daniele Procida'
+copyright = '2017-%s Daniele Procida'%(today.year)
 author = 'Daniele Procida'
 
 
