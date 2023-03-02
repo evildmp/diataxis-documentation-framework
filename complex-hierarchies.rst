@@ -3,6 +3,8 @@
 Diátaxis in complex hierarchies
 ==================================
 
+.. _basic-structure:
+
 The basics
 ----------
 
@@ -73,7 +75,7 @@ page, for orientation.
 
 
 The problem of lists
---------------------
+~~~~~~~~~~~~~~~~~~~~
 
 Lists longer than a few items are very hard for humans to read, unless they
 have an inherent mechanical order - numerical, or alphabetical. Seven items
@@ -126,5 +128,123 @@ For example, a **how-to landing page**:
     * Scale your application   |  the guides
 
 
+Two-dimensional problems
+------------------------
+
+A more difficult problem is when the structure outlined by Diátaxis meets
+another structure - generally, a **structure of topic areas** within the
+documentation.
+
+For example we might have a product that is used on land, sea and air, and
+though the same product, is used quite differently in each case. And it could
+be that a user who uses it on land is very unlikely to use it at sea.
+
+Or, the product documentation addresses the needs of users, developers who
+build other products around it and the contributors who help maintain it. The
+same product, but very different concerns.
+
+A final example: a product that can be deployed on different public clouds,
+with each public cloud presenting quite different workflows, commands, APIs,
+GUIs, constraints and so on. Even though it's the same product, as far as the
+users in each case are concerned, what they need to know and do is very
+different - what they need is documentation not for *product*,
+but *product-on-public-cloud-one*, *product-on-public-cloud-two* etc.
+
+So, we might decide on an overall structure that does this:
+
+.. code-block:: text
+
+    tutorial
+        for users on land
+            [...]
+        for users at sea
+            [...]
+        for users in the air
+            [...]
+    [and then so on for how-to guides, reference and explanation]
+
+or maybe this:
+
+.. code-block:: text
+
+    for users on land
+        tutorial
+            [...]
+        how-to guides
+            [...]
+        reference
+            [...]
+        explanation
+            [...]
+    for users at sea
+        [tutorial, how-to, reference, explanation sections]
+    for users in the air
+        [tutorial, how-to, reference, explanation sections]
+
+Which is better? There seems to be a lot of repetition in either cases. What
+about the material that can be shared between land, sea and air?
 
 
+What *is* the problem?
+~~~~~~~~~~~~~~~~~~~~~~
+
+Firstly, the problem is in no way limited to Diátaxis - there would be the
+difficulty of managing documentation in any case. However, Diátaxis certainly
+helps reveal the problem, as it does in many cases. It brings it into focus
+and demands that it be addressed.
+
+Secondly, the question highlights a common misunderstanding. Diátaxis is not a
+scheme into which documentation must be placed - four boxes. It posit four
+different kinds of documentation, around which documentation should be
+structured, but this does not mean that there must be four divisons of
+documention in the hierarchy, one for each of those categories.
+
+
+Diátaxis as an approach
+=======================
+
+Diátaxis can be neatly represented in a diagram - but it is not the *same* as
+that diagram.
+
+It should be understood as an approach, a way of working with documentation,
+that identifies four different needs and uses them to author and structure
+documentation effectively. This will *tend* towards a clear, explicit,
+structural division into the four categories - but that is a typical outcome
+of the good practice, not its end.
+
+
+User-first thinking
+===================
+
+Diátaxis is underpinned by attention to user needs, and once again it's that
+concern should direct us.
+
+What we must document is the product *as it is for the user*, the product as
+it is in their hands and minds. (Sadly for the creators of products, how they
+conceive them is much less relevant.)
+
+Is the product on land, sea and air effectively three different products,
+perhaps for three different users?
+
+In that case, let that be the starting point for thinking about it.
+
+If the documentation needs to meet the needs of users, developers and
+contributors, how do *they* see the product? Should we assume that a
+developer who incorporates it into other products will typically need a good
+understanding of how it's used, and that a contributor to needs to know what
+a developer knows too?
+
+Then perhaps it makes sense to be freer with the structure, in some parts
+(say, the tutorial) allowing the developer-facing content to follow on from
+the user-facing material, while completely separating the contibutors' how-to
+guides from both.
+
+And so on. If the structure is not `the simple, uncomplicated structure we
+began with <basic-structure>`, that's not a problem - as long as there *is*
+arrangement according to Diátaxis principles, that documentation does not
+muddle up its different forms and purposes.
+
+Documentation should be as complex as it needs to be, and it will sometimes
+have complex structures. But even complex structures can be made
+straightforward to navigate as long as they are logical and incoroporate
+patterns that fit the needs of users.
