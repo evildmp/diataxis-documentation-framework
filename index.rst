@@ -97,5 +97,6 @@ Here is a video of a conference talk presenting the concepts encapsulated in Di√
    Explanation <explanation>
    introduction
    how-to-use-diataxis
+   complex-hierarchies
    adoption
    Development <development>
