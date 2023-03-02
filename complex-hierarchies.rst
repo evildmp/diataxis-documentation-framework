@@ -196,8 +196,8 @@ and demands that it be addressed.
 Secondly, the question highlights a common misunderstanding. Diátaxis is not a
 scheme into which documentation must be placed - four boxes. It posit four
 different kinds of documentation, around which documentation should be
-structured, but this does not mean that there must be four divisons of
-documention in the hierarchy, one for each of those categories.
+structured, but this does not mean that there must be four divisions of
+documentation in the hierarchy, one for each of those categories.
 
 
 Diátaxis as an approach
@@ -236,7 +236,7 @@ a developer knows too?
 
 Then perhaps it makes sense to be freer with the structure, in some parts
 (say, the tutorial) allowing the developer-facing content to follow on from
-the user-facing material, while completely separating the contibutors' how-to
+the user-facing material, while completely separating the contributors' how-to
 guides from both.
 
 And so on. If the structure is not `the simple, uncomplicated structure we
@@ -246,5 +246,5 @@ muddle up its different forms and purposes.
 
 Documentation should be as complex as it needs to be, and it will sometimes
 have complex structures. But even complex structures can be made
-straightforward to navigate as long as they are logical and incoroporate
+straightforward to navigate as long as they are logical and incorporate
 patterns that fit the needs of users.
