@@ -46,7 +46,7 @@ by adding another layer of hierarchy - for example to be able to address
 different installation options separately:
 
 ..  code-block:: text
-    :emphasize-lines: 6-15
+    :emphasize-lines: 8-11
 
     home                      <- landing page
         tutorial
@@ -78,26 +78,28 @@ The problem of lists
 ~~~~~~~~~~~~~~~~~~~~
 
 Lists longer than a few items are very hard for humans to read, unless they
-have an inherent mechanical order - numerical, or alphabetical. Seven items
-seems to be a comfortable general limit. If you find that you're looking at
+have an inherent mechanical order - numerical, or alphabetical. *Seven items
+seems to be a comfortable general limit.* If you find that you're looking at
 lists longer than that in your tables of contents, you need to find a way to
 break them up into small ones.
 
 Once again, what matters here most is not the integrity of whatever scheme
-you're working with, but the experience of the reader. Diátaxis works because
-it fits user needs well - if your execution of Diátaxis leads you to formats
-that seem uncomfortable or ugly, then you need to use it differently.
+you're working with, but **the experience of the reader**. Diátaxis works
+because it fits user needs well - if your execution of Diátaxis leads you to
+formats that seem uncomfortable or ugly, then you need to use it
+differently.
 
 Overviews and introductory text
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-The content of a landing page itself should read like an overview - *it should
-not simply present lists of other content*. Remember that you are always
-authoring for a human user, not fulfilling the demands of a scheme.
+**The content of a landing page itself should read like an overview.**
 
-Headings and snippets of introductory text catch the eye and provide context.
+That is, it should not simply present lists of other content, it should
+introduce them. *Remember that you are always authoring for a human user, not
+fulfilling the demands of a scheme.*
 
-For example, a **how-to landing page**:
+Headings and snippets of introductory text catch the eye and provide context;
+for example, a **how-to landing page**:
 
 ..  code-block:: text
 
@@ -132,25 +134,33 @@ Two-dimensional problems
 ------------------------
 
 A more difficult problem is when the structure outlined by Diátaxis meets
-another structure - generally, a **structure of topic areas** within the
-documentation.
+another structure - often, a structure of topic areas within the
+documentation, or when documentation encounters very different user-types.
 
 For example we might have a product that is used on land, sea and air, and
 though the same product, is used quite differently in each case. And it could
 be that a user who uses it on land is very unlikely to use it at sea.
 
-Or, the product documentation addresses the needs of users, developers who
-build other products around it and the contributors who help maintain it. The
-same product, but very different concerns.
+Or, the product documentation addresses the needs of:
+
+* users
+* developers who build other products around it
+* the contributors who help maintain it.
+
+The same product, but very different concerns.
 
 A final example: a product that can be deployed on different public clouds,
 with each public cloud presenting quite different workflows, commands, APIs,
 GUIs, constraints and so on. Even though it's the same product, as far as the
 users in each case are concerned, what they need to know and do is very
 different - what they need is documentation not for *product*,
-but *product-on-public-cloud-one*, *product-on-public-cloud-two* etc.
+but
 
-So, we might decide on an overall structure that does this:
+* product-on-public-cloud-one*
+* product-on-public-cloud-two*
+* and so on...
+
+So, we *could&* decide on an overall structure that does this:
 
 .. code-block:: text
 
@@ -163,7 +173,7 @@ So, we might decide on an overall structure that does this:
             [...]
     [and then so on for how-to guides, reference and explanation]
 
-or maybe this:
+or maybe instead this:
 
 .. code-block:: text
 
@@ -196,28 +206,30 @@ and demands that it be addressed.
 Secondly, the question highlights a common misunderstanding. Diátaxis is not a
 scheme into which documentation must be placed - four boxes. It posit four
 different kinds of documentation, around which documentation should be
-structured, but this does not mean that there must be four divisions of
-documentation in the hierarchy, one for each of those categories.
+structured, but this does not mean that there must be simply four divisions
+of documentation in the hierarchy, one for each of those categories.
 
 
 Diátaxis as an approach
-=======================
+------------------------------------------
 
 Diátaxis can be neatly represented in a diagram - but it is not the *same* as
 that diagram.
 
 It should be understood as an approach, a way of working with documentation,
 that identifies four different needs and uses them to author and structure
-documentation effectively. This will *tend* towards a clear, explicit,
-structural division into the four categories - but that is a typical outcome
-of the good practice, not its end.
+documentation effectively.
+
+This will *tend* towards a clear, explicit, structural division into the four
+categories - but that is a typical outcome of the good practice, not its
+end.
 
 
 User-first thinking
-===================
+------------------------------------------
 
-Diátaxis is underpinned by attention to user needs, and once again it's that
-concern should direct us.
+**Diátaxis is underpinned by attention to user needs**, and once again it's that
+concern that must direct us.
 
 What we must document is the product *as it is for the user*, the product as
 it is in their hands and minds. (Sadly for the creators of products, how they
@@ -243,6 +255,10 @@ And so on. If the structure is not `the simple, uncomplicated structure we
 began with <basic-structure>`, that's not a problem - as long as there *is*
 arrangement according to Diátaxis principles, that documentation does not
 muddle up its different forms and purposes.
+
+
+Let documentation be complex if necessary
+------------------------------------------
 
 Documentation should be as complex as it needs to be, and it will sometimes
 have complex structures. But even complex structures can be made
