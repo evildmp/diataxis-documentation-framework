@@ -98,8 +98,8 @@ demands imposed by a tutorial.
 ..  image:: /images/anselmo.jpg
     :alt:
 
-As you probably realised, if you didn't know it already: the important thing in this experience isn't *what* you
-teach the child to cook. The only thing that really matters is that the child should enjoy the experience of working in
+As you probably realised, if you didn't know it already: the important thing in this experience isn't *what* teaches
+the child to cook. The only thing that really matters is that the child should enjoy the experience of working in
 the kitchen with you, and gains **confidence**, and wants to do it again.
 
 That needs to be the outcome of each learning experience in the kitchen; if it's not, then even if the child
