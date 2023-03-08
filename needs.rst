@@ -17,7 +17,7 @@ that try to provide a solution to this problem. Any orderly attempt to organise 
 categories will help improve it (for authors as well as users).
 
 However, even when armed with a helpful structure, authors often find themselves needing to write particular
-documentation content that seems to falls outside the scheme it provides, or across its internal boundaries.
+documentation content that seems to fall outside the scheme it provides, or across its internal boundaries.
 
 The map
 --------
@@ -36,8 +36,8 @@ The result is documentation that is not only better, but takes less effort to cr
 Axes of knowledge
 --------------------------
 
-It's important to understand that Diátaxis is intended to apply to documentation pertaining to a *practical craft*, a
-*technical skill* - such as the use of a product. Successful exercise of any such craft or skill involves both
+It's important to understand that Diátaxis is intended to be applied to documentation pertaining to a *practical craft*,
+a *technical skill* - such as the use of a product. Successful exercise of any such craft or skill involves both
 theoretical grasp (knowledge and understanding), and an ability to apply that in practice, to work with the tools and
 materials of the craft.
 
@@ -144,10 +144,10 @@ However, the idea of a cycle of documentation needs, that proceeds through diffe
 to the way that people actually do become expert in a craft. There is a sense and meaning to this ordering.
 
 * *learning-oriented phase*: We begin by learning, and learning a skill means diving straight in to do it - under the
-  guidance of a teacher, if we're lucky
+  guidance of a teacher, if we're lucky.
 * *task-oriented phase*: Next we want to put the skill to work.
 * *information-oriented phase*: As soon as our work calls upon knowledge that we don't already have in our head, it
-  requires us to consult technical reference.
+  requires us to consult the technical reference.
 * *explanation-oriented phase*: Finally, away from the work, we reflect on our practice and knowledge to understand the
   whole.
 

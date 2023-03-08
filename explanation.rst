@@ -81,7 +81,7 @@ In 1984 Harold McGee published *On food and cooking*.
     :alt:
     :class: floated
 
-The book doesn't teach how to cook anything. It doesn't contain recipes (except as historical examples) and it isn't a
+The book doesn't teach how to cook anything. It doesn't contain recipes (except from historical examples) and it isn't a
 work of reference. Instead, it places food and cooking in the context of history, society, science and technology. It
 explains for example why we do what we do in the kitchen and how that has changed.
 
@@ -139,7 +139,7 @@ explanation as discussion: discussions can even consider and weigh up contrary *
 Don't instruct, or provide technical reference
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-One risk of explanation is that other things can tend to creep in. **Explanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user in how to do something. Nor should it provide technical description. These functions of documentation are already taken care of in other sections.
+One risk of explanation is that other things can tend to creep in. **Explanation should do things that the other parts of the documentation do not.** It’s not the place of an explanation to instruct the user on how to do something. Nor should it provide technical description. These functions of documentation are already taken care of in other sections.
 
 ==============
 
