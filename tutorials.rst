@@ -115,8 +115,8 @@ It will learn important things through *repetition*, over time: how to hold a kn
 before handling food, how to use measuring equipment, how to time things. It will learn what it's like to work in the
 kitchen, where to find utensils.
 
-With a young child, you will often find that the lesson suddenly has to end before you'd completed what you set out to
-do. This is normal and expected; children have short attention spans. As long as the child managed to achieve something
+With a young child, you will often find that the lesson suddenly has to end before you'd have completed what you set out
+to do. This is normal and expected; children have short attention spans. As long as the child managed to achieve something
 - however small - and enjoyed doing it, it will have laid down something in the construction of its technical
 expertise, that can be returned to and built upon next time.
 
