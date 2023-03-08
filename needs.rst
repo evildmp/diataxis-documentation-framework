@@ -17,7 +17,7 @@ that try to provide a solution to this problem. Any orderly attempt to organise 
 categories will help improve it (for authors as well as users).
 
 However, even when armed with a helpful structure, authors often find themselves needing to write particular
-documentation content that seems to falls outside the scheme it provides, or across its internal boundaries.
+documentation content that seems to fall outside the scheme it provides, or across its internal boundaries.
 
 The map
 --------
@@ -36,8 +36,8 @@ The result is documentation that is not only better, but takes less effort to cr
 Axes of knowledge
 --------------------------
 
-It's important to understand that Diátaxis is intended to apply to documentation pertaining to a *practical craft*, a
-*technical skill* - such as the use of a product. Successful exercise of any such craft or skill involves both
+It's important to understand that Diátaxis is intended to be applied to documentation pertaining to a *practical craft*,
+a *technical skill* - such as the use of a product. Successful exercise of any such craft or skill involves both
 theoretical grasp (knowledge and understanding), and an ability to apply that in practice, to work with the tools and
 materials of the craft.
 
