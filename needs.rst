@@ -23,9 +23,9 @@ The map
 --------
 
 Diátaxis aims to solve this problem by providing a scheme that prescribes documentation structure based on a systematic
-description and analysis of **user needs** (and not upon the characteristics of the product documentation is intended
-to serve, or around the different kinds of things that the documentation creator feels need to be said about the
-product).
+description and analysis of **user needs** (and not upon the characteristics of the product that the documentation is
+intended to serve, or around the different kinds of things that the documentation creator feels need to be said about
+the product).
 
 Diátaxis provides a *map* of distinct documentation types rather than a mere list, and specifies these types in such a
 way that the structure always naturally helps shape the content into an appropriate form.
