@@ -74,7 +74,7 @@ mostly goes through the fat layer without cutting into the muscle beneath. Trium
 
 But now you’re being asked to stitch it back up again! You’ll watch the tutor demonstrate deftly and precisely, closing
 the wound in the pad with a few neat, even stitches. You, on the other hand, will fumble with the thread. You will hold
-things in the wrong hand and the wrong way round and put them down in the wrong places. You will drop the needle. The
+things in the wrong hand and the wrong way around and put them down in the wrong places. You will drop the needle. The
 thread will fall out. You will be told off for failing to maintain sterility.
 
 Eventually, you’ll actually get to stitch the wound. You will puncture the skin in the wrong places and tear the edges
