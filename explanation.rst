@@ -81,7 +81,7 @@ In 1984 Harold McGee published *On food and cooking*.
     :alt:
     :class: floated
 
-The book doesn't teach how to cook anything. It doesn't contain recipes (except as historical examples) and it isn't a
+The book doesn't teach how to cook anything. It doesn't contain recipes (except from historical examples) and it isn't a
 work of reference. Instead, it places food and cooking in the context of history, society, science and technology. It
 explains for example why we do what we do in the kitchen and how that has changed.
 
