@@ -29,6 +29,7 @@ This is an incomplete list of projects, products and organisations that have ado
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
 * `Aiven Developer <https://developer.aiven.io>`_, developer documentation for managed open source data platforms
+* `Azion <https://www.azion.com/en/`, a leading full-stack edge platform that enables developers to write and deploy serverless applications
 * `BBC News Labs <https://bbcnewslabs.co.uk/>`_, e.g. for `mosromgr <https://mosromgr.readthedocs.io>`_, a Python
   library for managing TV and radio running orders
 * `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
