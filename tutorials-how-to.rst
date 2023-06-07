@@ -220,7 +220,7 @@ how-to guide.
 
     ..  grid-item::
 
-        The learner **may not even have sufficient compentence to ask the questions** that a tutorial answer.
+        The learner **may not even have sufficient compentence to ask the questions** that a tutorial answers.
 
     ..  grid-item::
 
@@ -297,9 +297,9 @@ Understanding these distinctions, and the reason for upholding them, is crucial 
 clinical manual that conflated education with practice, that tried to teach while at the same time providing a guide to
 a real-world procedure would be a literally deadly document. It would kill people.
 
-In disciplines such as software documentation, we get away with a great deal, because our conflations and mistakes
-rarely kill anyone. However, we can cause a great deal of low-level inconvenience and unhappiness to our users, and we
-add to it, every single time we publish a tutorial or how-to guide that doesn’t understand whether its purpose is to
+In disciplines such as software documentation, we get away with a great deal because our conflations and mistakes
+rarely kill anyone. However, we can cause a great deal of low-level inconvenience and unhappiness to our users. And we
+add to it every time we publish a tutorial or how-to guide that doesn’t understand whether its purpose is to
 help the user in their study - the acquisition of skills - or in their work - the application of skills.
 
 What’s more, we hurt ourselves too. Users don’t have to use our product. If our documentation doesn’t bring them to
