@@ -80,6 +80,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
+* `Splink <https://moj-analytical-services.github.io/splink/index.html>`_, a Python library for probabilistic data linkage
 * `stdlib <https://awvwgk.github.io/stdlib-docs>`_, the Fortran Standard library
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_
