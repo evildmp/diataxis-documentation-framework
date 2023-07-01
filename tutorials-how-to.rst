@@ -264,7 +264,7 @@ understand as a key distinction in making sense of what the user of documentatio
 The basic and the advanced
 --------------------------
 
-A common but understandable error is to see the difference between tutorials and how-to guides as being the difference
+A common but understandable conflation is to see the difference between tutorials and how-to guides as being the difference
 between **the basic** and **the advanced**.
 
 After all, tutorials are for learners, while how-to guides are for already-skilled practitioners. Tutorials must cover

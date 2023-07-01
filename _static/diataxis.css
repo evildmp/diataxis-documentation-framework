@@ -22,6 +22,7 @@ article aside.sidebar {background: #ccc;}
 .sidebar-drawer {
     width: calc(50% - 28em);
     min-width: 13em;
+    justify-content: space-around;
 }
 .sidebar-container, .toc-drawer {
     width: 12em;

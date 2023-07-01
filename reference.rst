@@ -78,6 +78,8 @@ it - it is not a function of an encyclopaedia article to tell you what to do.
 Writing a good reference guide
 ----------------------------------------
 
+.. _respect-structure:
+
 Respect the structure of the machinery
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
