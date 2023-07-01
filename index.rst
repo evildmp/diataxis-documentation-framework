@@ -85,5 +85,4 @@ and small, open and proprietary documentation projects.
    :titlesonly:
 
    adoption
-   citation
-   contact
+   colofon

@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-html_title = full_title = project = 'Diátaxis'
-copyright = '2017 Daniele Procida'
-author = 'Daniele Procida'
+html_title = full_title = project = "Diátaxis"
+copyright = "Daniele Procida"
+author = "Daniele Procida"
 
 
 # -- General configuration ---------------------------------------------------
@@ -27,15 +27,23 @@ author = 'Daniele Procida'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["sphinx_design"]
+extensions = ["sphinx_design", "sphinx_reredirects"]
 
 # Add any paths that contain templates here, relative to this directory.
-templates_path = ['_templates']
+templates_path = ["_templates"]
 
 # List of patterns, relative to source directory, that match files and
 # directories to ignore when looking for source files.
 # This pattern also affects html_static_path and html_extra_path.
-exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env', 'LICENSE.rst', 'README.rst']
+exclude_patterns = [
+    "_build",
+    "Thumbs.db",
+    ".DS_Store",
+    "env",
+    "LICENSE.rst",
+    "README.rst",
+    "stashed",
+]
 
 
 # -- Options for HTML output -------------------------------------------------
@@ -43,7 +51,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store', 'env', 'LICENSE.rst', 'R
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'furo'
+html_theme = "furo"
 html_theme_options = {
     "sidebar_hide_name": True,
     "light_css_variables": {
@@ -52,29 +60,35 @@ html_theme_options = {
     },
     "dark_css_variables": {
         "color-background-secondary": "#000",
-    }
+    },
 }
-html_static_path = ['_static']
+html_static_path = ["_static"]
 html_logo = "images/diataxis-white-416.png"
 html_css_files = [
-    'diataxis.css',
+    "diataxis.css",
 ]
-html_sidebars = {"**": [
-"sidebar/scroll-start.html",
-"sidebar/brand.html",
-"sidebar/navigation.html",
-"sidebar/search.html",
-"sidebar/ethical-ads.html",
-"sidebar/scroll-end.html",
-]}
+html_sidebars = {
+    "**": [
+        "sidebar/scroll-start.html",
+        "sidebar/brand.html",
+        "sidebar/navigation.html",
+        "sidebar/search.html",
+        "sidebar/ethical-ads.html",
+        "sidebar/scroll-end.html",
+    ]
+}
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
 
-master_doc = 'index'
+master_doc = "index"
 
 html_favicon = "favicon.png"
 
-spelling_lang = tokenizer_lang = 'en_GB'
+spelling_lang = tokenizer_lang = "en_GB"
 
+redirects = {
+     "citation": "/colofon/index.html",
+     "contact": "/colofon/index.html"
+}
