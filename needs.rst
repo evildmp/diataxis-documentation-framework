@@ -1,64 +1,103 @@
 .. _needs:
 
-Understanding users' needs
+The map of needs
 =============================
 
-Diátaxis isn't just a system for structuring documentation, it's a framework for understanding it, guiding the
-work of documentation authors, and assessing the quality of documentation. However its most obvious implication
-is for documentation structure.
+*How to organise my documentation?* In the absence of a clear, generalised
+documentation architecture, documentation creators will usually try to
+structure their work around characteristics or features of the product its
+intended to serve.
+
+This is rarely successful, even in a single instance. In a portfolio of
+documentation instances, the results are wild inconsistency. Much better is
+the adoption of a scheme that tries to provide an answer to the
+question: how to arrange documentation *in general?*
+
+In fact any orderly attempt to organise documentation into clear content
+categories will help improve it (for authors as well as users), by providing
+lists of content types.
+
+Even so, authors often find themselves needing to write particular
+documentation content that fails to fit well within the categories put
+forward by a scheme, or struggling to rewrite existing material. Often,
+there is a sense of arbitrariness about the structure that they find
+themselves working with - why this particular list of content types
+rather than another? And if another competing list is proposed, which to
+adopt?
 
 
-The problem of structure
---------------------------
+The Diátaxis map
+----------------------------------------------------
 
-Of all the problems that bedevil authors and maintainers of documentation, the problem of *structure* is one that
-accounts for a significant proportion of the grief they suffer. Multiple different documentation architectures exist
-that try to provide a solution to this problem. Any orderly attempt to organise documentation into clear content
-categories will help improve it (for authors as well as users).
+The most immediately striking feature of Diátaxis is its map:
 
-However, even when armed with a helpful structure, authors often find themselves needing to write particular
-documentation content that seems to falls outside the scheme it provides, or across its internal boundaries.
+.. image:: /images/diataxis.png
+   :alt:
+   :class: wider
 
-The map
---------
+It's a memorable and approachable idea.
 
-Diátaxis aims to solve this problem by providing a scheme that prescribes documentation structure based on a systematic
-description and analysis of **user needs** (and not upon the characteristics of the product documentation is intended
-to serve, or around the different kinds of things that the documentation creator feels need to be said about the
-product).
+One reason is that it is effective as a guide to organising documentation is
+that describes a **two-dimensional structure**, rather than a *list*. It
+specifies its types of documentation in such a way that the structure
+naturally helps guide and shape the material it contains.
 
-Diátaxis provides a *map* of distinct documentation types rather than a mere list, and specifies these types in such a
-way that the structure always naturally helps shape the content into an appropriate form.
+As a map, it places the different forms of documentation into relationship
+with each other. Each one occupies a space in the mental territory it outlines,
+and the boundaries between them highlight their distinctions.
 
-The result is documentation that is not only better, but takes less effort to create and maintain.
+The result is documentation that is not only better, but takes less effort to
+create and maintain - but that is only possible because the Diátaxis map is a
+map of *needs*.
+
+
+Needs
+-----
+
+A map is only useful if it adequately describes a reality. Diátaxis is
+underpinned by a systematic description and analysis of generalised **user
+needs**.
+
+The user whose needs Diátaxis serves is *the practitioner in a domain of
+skill*. A domain of skill is defined by a craft - the use of a tool
+or product is a craft. So is an entire discipline or profession. Using a
+programming language is a craft, as is flying a particular aircraft, or even
+being a pilot in general.
+
+The successful engagement in any such craft or skill involves
+both *theoretical grasp* (knowledge and understanding), and an ability to
+apply that *in practice*, to work with the tools and materials of the craft.
+Documentation serving the practitioner must therefore meet the needs both
+of **theory** and its **practical application**.
+
+And at any moment in their craft, a practitioner is either *acquiring* their
+skill, or *applying* it to actual work. That is, a practitioner is either in
+the mode of **study** (learning, acquiring, building up their skill) or the
+mode of **work** (applying, using, exercising it). And this gives
+documentation two more needs to meet.
 
 
 Axes of knowledge
 --------------------------
 
-It's important to understand that Diátaxis is intended to apply to documentation pertaining to a *practical craft*, a
-*technical skill* - such as the use of a product. Successful exercise of any such craft or skill involves both
-theoretical grasp (knowledge and understanding), and an ability to apply that in practice, to work with the tools and
-materials of the craft.
+Diátaxis uses this analysis to divide documentation across two axes of
+knowledge: *theory/practice*, and *acquisition/application*.
 
-Diátaxis divides documentation across two axes of knowledge: *theory/practice*, and *acquisition/application*.
-
-Documentation therefore either *contains theoretical knowledge* or *describes practical actions*, and is concerned
-either with serving *our acquisition* or *our application* of knowledge. Hence the map, across which the four forms
-of documentation are laid out:
-
-.. image:: /images/diataxis.png
-   :alt:
-   :class: wider
+Documentation therefore either *contains theoretical (i.e. propositional)
+knowledge* or *describes practical actions*, and is concerned either with
+serving *our acquisition* or *our application* of knowledge. Hence the map,
+across which the four forms of documentation are laid out.
 
 
 
 Characteristics of documentation
 ----------------------------------------------------
 
-A clear advantage of organising material this way is that it provides both clear *expectations* (to the reader) and
-*guidance* (to the author). It's clear what the purpose of any particular piece of content is, it specifies how it
-should be written and it shows where it should be placed.
+A clear advantage of organising material this way is that it provides both
+clear *expectations* (to the reader) and
+*guidance* (to the author). It's clear what the purpose of any particular
+piece of content is, it specifies how it should be written and it shows
+where it should be placed.
 
 .. list-table::
    :widths: 16 21 21 21 21
