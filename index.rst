@@ -83,13 +83,8 @@ and small, open and proprietary documentation projects.
    needs
    compass
    quality
+   Complex hierarchies <complex-hierarchies>
    how-to-use-diataxis
-
-.. toctree::
-   :maxdepth: 1
-   :hidden:
-   :titlesonly:
-
    adoption
    citation
    contact
