@@ -184,7 +184,7 @@ However, the idea of a cycle of documentation needs, that proceeds through diffe
 to the way that people actually do become expert in a craft. There is a sense and meaning to this ordering.
 
 * *learning-oriented phase*: We begin by learning, and learning a skill means diving straight in to do it - under the
-  guidance of a teacher, if we're lucky
+  guidance of a teacher, if we're lucky.
 * *task-oriented phase*: Next we want to put the skill to work.
 * *information-oriented phase*: As soon as our work calls upon knowledge that we don't already have in our head, it
   requires us to consult technical reference.
