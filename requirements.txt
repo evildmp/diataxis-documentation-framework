@@ -34,3 +34,4 @@ sphinxcontrib-spelling==7.3.2
 tornado==6.1
 urllib3==1.26.8
 zipp==3.7.0
+sphinx-reredirects==0.1.2

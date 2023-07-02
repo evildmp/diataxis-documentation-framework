@@ -45,18 +45,10 @@
     {%- endif %}
     {%- if show_sphinx %}
       {% trans -%}
-        &copy; <a href="../contact">Daniele Procida</a> 2017. Built with <a href="https://www.sphinx-doc.org/">Sphinx</a>
-        and
-        <a class="muted-link" href="https://pradyunsg.me">@pradyunsg</a>'s
-        <a href="https://github.com/pradyunsg/furo">Furo theme</a>.
+        &copy; <a href="../contact">Daniele Procida</a>.
+        Thanks to <a href="https://github.com/evildmp/diataxis-documentation-framework/graphs/contributors">multiple contributors</a>.
+        Appreciation is due to <a href="/colofon#divio-and-diataxis">Divio</a>.
       {%- endtrans %}
-    {%- endif %}
-    {%- if show_source and has_source and sourcename %}
-      |
-      <a class="muted-link" href="{{ pathto('_sources/' + sourcename, true)|e }}"
-         rel="nofollow">
-        {{ _('Show Source') }}
-      </a>
     {%- endif %}
   </div>
   {% endblock footer %}

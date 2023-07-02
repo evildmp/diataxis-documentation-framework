@@ -86,5 +86,4 @@ and small, open and proprietary documentation projects.
    Complex hierarchies <complex-hierarchies>
    how-to-use-diataxis
    adoption
-   citation
-   contact
+   colofon
