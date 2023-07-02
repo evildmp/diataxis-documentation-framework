@@ -25,6 +25,7 @@ themselves working with - why this particular list of content types
 rather than another? And if another competing list is proposed, which to
 adopt?
 
+.. _map:
 
 The Diátaxis map
 ----------------------------------------------------

@@ -213,8 +213,8 @@ of documentation in the hierarchy, one for each of those categories.
 Diátaxis as an approach
 ------------------------------------------
 
-Diátaxis can be neatly represented in a diagram - but it is not the *same* as
-that diagram.
+:ref:`Diátaxis can be neatly represented in a diagram <map>` - but it is not
+the *same* as that diagram.
 
 It should be understood as an approach, a way of working with documentation,
 that identifies four different needs and uses them to author and structure
