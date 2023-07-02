@@ -51,6 +51,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `fpm <https://fpm.fortran-lang.org>`_, the Fortran Package Manager
 * Google's `Fuchsia operating system <https://fuchsia.dev/>`_
+* `Funding Circle <https://www.fundingcircle.com/>`_ (internal)
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
