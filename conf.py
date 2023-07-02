@@ -88,6 +88,6 @@ html_favicon = "favicon.png"
 spelling_lang = tokenizer_lang = "en_GB"
 
 redirects = {
-     "citation": "/colofon/index.html",
-     "contact": "/colofon/index.html"
+     "citation": "/colofon",
+     "contact": "/colofon"
 }
