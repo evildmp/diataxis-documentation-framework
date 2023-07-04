@@ -41,8 +41,11 @@ Think of characteristics such as:
 * *anticipating the user*
 
 Unlike the characteristics of deep quality, they cannot be checked or
-measured, but they can still be clearly identified. They are characteristics
-of *deep quality*.
+measured, but they can still be clearly identified. When we encounter them,
+we usually (not always, because we need to be capable of it) recognise
+them.
+
+They are characteristics of *deep quality*.
 
 
 What's the difference?
@@ -74,9 +77,13 @@ to describe. Deep quality can’t be ascertained by holding something up to the
 world. It’s **subjective**, which means that we can assess it only in the light
 of the needs of the subject of experience, the human.
 
-And, deep quality is **conditional** upon functional quality. Documentation can be
-accurate and complete and consistent without being truly excellent - but it
-will never be excellent without being accurate and complete and consistent.
+And, deep quality is **conditional** upon functional quality. Documentation
+can be accurate and complete and consistent without being truly excellent -
+but it will never have deep quality without being accurate and complete and
+consistent. No user of documentation will experience it as beautiful, if it's
+inaccurate, or enjoy the way it anticipates their needs if it's inconsistent.
+The moment we run into such lapses the experience of documentation is
+tarnished.
 
 Finally, all of the characteristics of functional quality appear to us, as
 documentation creators, as burdens and **constraints**. Each one of them
@@ -108,48 +115,26 @@ deep quality we must *invent*.
 Diátaxis and quality
 --------------------
 
-Diátaxis cannot address functional quality in documentation. It is concerned
-only with certain aspects of deep quality.
+Functional quality's obligations are met through conscientious observance of
+the demands of the craft of documentation. They require solid skill and
+knowledge of the technical domain, the ability to gather up a complete
+terrain into a single, coherent, consistent map of it.
 
-
-Creating deep quality
-~~~~~~~~~~~~~~~~~~~~~
-
-Specifically, Diátaxis is concerned with meeting the needs of users by paying
-attention to the correct organisation of documentation, and the arrangement
-of its material and the relationships within it. It is concerned with the
-form and language adopted in different parts of documentation.
-
-For example, Diátaxis is concerned with flow. In flow - whether the context is
-documentation or anything else - we experience a movement from one stage or
-state to another that seems right, unforced and in sympathy with both our
-concerns of the moment, and the way our minds and bodies work in general.
-
-Most obviously, Diátaxis preserves flow by helping prevent the kind of
-disruption of rhythm that occurs when a digression into explanation
-interrupts a how-to guide.
-
-Or, it helps documentation fit user needs by constructing documentation
-structure around them; its categories exist as a response to needs.
-
-But, while Diátaxis can help attain beauty in documentation, at least in its
-overall form, it doesn't by itself *make documentation beautiful*.
-
-The characteristics of deep quality are forever being renegotiated,
-reinterpreted, rediscovered and reinvented - what Diátaxis *can* provide is a
-set of conditions for documentation in which they can be found, and therefore
-has value in the creation of deep quality.
+**Diátaxis cannot address functional quality in documentation.** It is concerned
+only with certain aspects of deep quality, some more than others - though if
+all the aspects of deep quality are tangled up in each other, then it affects
+all of them.
 
 
 Exposing lapses in functional quality
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Although Diátaxis cannot serve functional quality in the same way, it can
-fulfil a different role.
+Although Diátaxis cannot address, or *give* us, functional quality, it can
+still serve it.
 
-It works very effectively to *expose* lapses in functional quality (it's often
+It works very effectively to *expose* lapses in functional quality. It's often
 remarked that one effect of applying Diátaxis to existing documentation is
-that problems in it suddenly become apparent that were obscured before).
+that problems in it suddenly become apparent that were obscured before.
 
 For example: the Diátaxis approach recommends that :ref:`the architecture of
 reference documentation should reflect the architecture of the code it
@@ -159,3 +144,55 @@ more clearly visible.
 Or, moving explanatory verbiage out of a tutorial (in accordance with Diátaxis
 demands) often has the effect of highlighting a section where the reader has
 been left to work something out for themselves.
+
+But, as far as functional quality goes, Diátaxis principles can have only an
+*analytical* role.
+
+
+Creating deep quality
+~~~~~~~~~~~~~~~~~~~~~
+
+In deep quality on the other hand, the Diátaxis approach can do more.
+
+For example, it helps documentation *fit user needs* by describing
+documentation modes that are based on them; its categories exist as a
+response to needs.
+
+We must pay attention to the correct organisation of these categories then,
+and the arrangement of its material and the relationships within them, the
+form and language adopted in different parts of documentation - as a way
+of fitting to user needs.
+
+Or, in Diátaxis we are directly concerned with *flow*. In flow - whether the
+context is documentation or anything else - we experience a movement from one
+stage or state to another that seems right, unforced and in sympathy with
+both our concerns of the moment, and the way our minds and bodies work in
+general.
+
+Diátaxis preserves flow by helping prevent the kind of disruption of rhythm
+that occurs when something runs across our purpose and steady progress
+towards it (for example when a digression into explanation interrupts a
+how-to guide).
+
+And so on.
+
+
+Understanding the limits
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+It's important to understand that Diátaxis can never be *all* that is
+required in the pursuit of deep quality.
+
+For example, while it can *help* attain beauty in documentation, at least in
+its overall form, it doesn't by itself *make documentation beautiful*.
+
+Diátaxis offers a set of principles - it doesn't offer a formula. It certainly
+cannot offer a short-cut to success, bypassing the skills and insights of
+disciplines such as user experience or user interaction design, or even
+visual design.
+
+Using Diátaxis does not guarantee deep quality. The characteristics of deep
+quality are forever being renegotiated, reinterpreted, rediscovered and
+reinvented. But what Diátaxis *can* do is lay down some conditions for the
+*possibility* of deep quality in documentation.
+
