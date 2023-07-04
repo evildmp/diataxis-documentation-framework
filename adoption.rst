@@ -51,6 +51,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `fpm <https://fpm.fortran-lang.org>`_, the Fortran Package Manager
 * Google's `Fuchsia operating system <https://fuchsia.dev/>`_
+* `Funding Circle <https://www.fundingcircle.com/>`_ (internal)
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
@@ -69,9 +70,11 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
 * `PDFminer.six <https://pdfminersix.readthedocs.io>`_
 * `PostgREST <http://postgrest.org>`_
+* PowerTuning (internal)
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
+* `Splink <https://moj-analytical-services.github.io/splink/index.html>`_, a Python library for probabilistic data linkage
 * `stdlib <https://awvwgk.github.io/stdlib-docs>`_, the Fortran Standard library
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_

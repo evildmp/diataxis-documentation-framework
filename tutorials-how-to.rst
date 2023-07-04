@@ -39,7 +39,7 @@ Sometimes the user is **at study**, and sometimes the user is **at work**. Docum
 A tutorial serves the needs of the user who is at study. Its obligation is *to provide a successful learning
 experience*. A how-to guide serves the needs of the user who is at work. Its obligation is *to help the user accomplish
 a task*. These are completely different needs and obligations, and they are why the distinction between tutorials and
-how-guides matters: tutorials are **learning-oriented**, and how-to guides are **task-oriented**.
+how-to guides matters: tutorials are **learning-oriented**, and how-to guides are **task-oriented**.
 
 At study and at work
 ---------------------
@@ -220,7 +220,7 @@ how-to guide.
 
     ..  grid-item::
 
-        The learner **may not even have sufficient compentence to ask the questions** that a tutorial answer.
+        The learner **may not even have sufficient competence to ask the questions** that a tutorial answers.
 
     ..  grid-item::
 
