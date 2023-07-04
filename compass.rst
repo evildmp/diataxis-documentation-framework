@@ -7,7 +7,7 @@ The Diátaxis map is an effective reminder of the different kinds of
 documentation and their relationship, and it accords well with intuitions
 about documentation.
 
-However intuitions is not always to be relied upon. Often when working with
+However intuition is not always to be relied upon. Often when working with
 documentation, an author is faced with the question: *what form of
 documentation is this?* or *what form of documentation is needed here?* - and
 no obvious, intuitive answer.

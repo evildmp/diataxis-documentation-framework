@@ -22,17 +22,28 @@ In addition, examples of writing are themselves often clearly one or the other. 
 with its tables of figures, is clearly reference material. An article that explains *why* there
 are tides and how they behave is self-evidently explanation.
 
-There are good rules of thumb. Lists (of components, such as classes or methods or attributes) and
-tables of information will generally turn out to belong in reference. If it's boring and
-unmemorable, it's probably reference. On the other hand, the only kind of documentation that someone
-(a normal person, anyway) might read in the bath is explanation.
+There are good rules of thumb.
+
+**If it's boring and unmemorable** it's probably *reference*.
+
+**Lists of things** (such as classes or methods or attributes), and **tables of
+information**, will generally turn out to belong in *reference*.
+
+On the other **if you can imagine reading something in the bath**, probably, it's
+*explanation* (though really there is no accounting for what people might read
+in the bath).
+
+Imagine asking a friend, while out for a walk or over a drink, **Can you
+tell me more about <topic>?** - the answer or discussion that follows is
+most likely going to be an *explanation* of it.
 
 
-Intuition isn't reliable enough
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+... but intuition isn't reliable enough
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-We can say that mostly we can rely safely on intuition to manage the distinction. But only *mostly*
-\ - because it's also quite easy to slip between one form and the other.
+Mostly we can rely safely on intuition to manage the distinction between
+reference and explanations. But only *mostly* - because it's also quite easy
+to slip between one form and the other.
 
 It usually happens while writing reference material that starts to become expansive. For example,
 it's perfectly reasonable to include illustrative examples in reference (just as an encyclopaedia
@@ -43,8 +54,6 @@ As a result one often finds explanatory material sprinkled into reference. This 
 reference, interrupted and obscured by digressions. But it's bad for the explanation too, because
 it's not allowed to develop appropriately and do its own work.
 
-To help avoid being mislead by intuition, see :ref:`compass`.
-
 
 Work and study
 --------------
@@ -54,8 +63,20 @@ reference or explanation is: is this something someone would turn to while worki
 actually getting something done, executing a task? Or is it something they'd need once they have
 stepped away from the work, and want to think about it?
 
+
 These are two very fundamentally different *needs* of the reader, that reflect how, at that moment,
 the reader stands in relation to the craft in question, in a relationship of *work* or *study*.
+
+..  sidebar::
+
+	To help avoid being mislead by intuition, see :ref:`compass`.
+
+**Reference** is what a user needs in order help *apply* knowledge and skill, while they
+are working.
+
+**Explanation** is what someone will turn to to help them *acquire* knowledge
+and skill - "study".
+
 
 Understanding those two relationships and responding to the needs in them is the key to creating
 effective reference and explanation.

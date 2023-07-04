@@ -156,8 +156,8 @@ users in each case are concerned, what they need to know and do is very
 different - what they need is documentation not for *product*,
 but
 
-* product-on-public-cloud-one*
-* product-on-public-cloud-two*
+* *product-on-public-cloud-one*
+* *product-on-public-cloud-two*
 * and so on...
 
 So, we *could&* decide on an overall structure that does this:
