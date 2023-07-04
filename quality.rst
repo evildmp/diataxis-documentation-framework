@@ -3,6 +3,21 @@ Quality in documentation
 
 Diátaxis is an approach to *quality* in documentation.
 
+"Quality" is a word in danger of losing some of its meaning; it's something we
+all approve of, but rarely risk trying to describe in any rigorous way. We
+want quality in our documentation, but much less often specify what exactly
+what we mean by that.
+
+All the same, we can generally point to examples of "high quality
+documentation" when asked, and can identify lapses in quality when we see
+them - and more than that, we often agree when we do. This suggests that
+we still have a useful grasp on the notion of quality.
+
+As we pursue quality in documentation, it helps to make that grasp surer,
+by paying some attention to it - here, attempting to refine our grasp by
+positing a distinction between **functional quality** and **deep quality**.
+
+
 Functional quality
 ------------------
 
@@ -106,10 +121,10 @@ deep quality we must *invent*.
      - subjective
    * - measured against the world
      - assessed against the human
-   * - aspects of constraint
-     - aspects of liberation
    * - a condition of deep quality
      - conditional upon functional quality
+   * - aspects of constraint
+     - aspects of liberation
 
 
 Diátaxis and quality
