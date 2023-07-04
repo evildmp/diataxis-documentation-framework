@@ -127,6 +127,48 @@ deep quality we must *invent*.
      - aspects of liberation
 
 
+How we recognise deep quality
+-----------------------------
+
+Consider how we judge the quality of say, clothing. Clothes must have
+*functional quality* (they must keep us appropriately warm and dry, stand up
+to wear). These things are objectively measurable. You don't really need to
+know much about clothes to assess how well they do those this. If water gets
+in, or the clothing falls apart - it lacks quality.
+
+There are other characteristics of quality in clothing that can't simply be
+measured objectively, and to recognise those characteristics, we need to have
+an understanding of clothing. The quality of materials or workmanship isn't
+always immediately obvious. Being able to judge that an item of clothing
+hangs well, moves well or has been expertly shaped requires developing at
+least a basic eye for those things. And these are its characteristics
+of *deep quality*.
+
+But: even someone who can't recognise, or fails to understand, those
+characteristics - who cannot say *what* they are - can still recognise very
+well *that* the clothing is excellent, because they find it that **it feels
+good to wear**. No expertise is required to realise that clothing does or
+doesn't comfortable as you move in it, that it fits and moves with you well.
+*Your body knows it*.
+
+And it's the same in documentation. Perhaps you need to be a connoisseur to
+recognise *what* makes some documentation is excellent, but it's not
+necessary to be able to realise *that* it is - **because it feels good**. It
+feels like it fits and moves with you.
+
+The users of our documentation may or may not have the understanding to say
+why it's good, or where its quality lapses. They might recognise only the
+more obvious aspects of functional quality in it, mistaking those for its
+deeper excellence. That doesn't matter - it will feel good, and that's
+what is important.
+
+But we, as its creators, need a clear and effective understanding of
+what makes documentation good. We need to be develop our sense of it so
+that we recognise *what* is good about it, as well as *that* it is good.
+
+Producing work of deep quality depends on our ability to do this.
+
+
 Diátaxis and quality
 --------------------
 
