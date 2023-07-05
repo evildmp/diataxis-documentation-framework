@@ -70,9 +70,9 @@ Aspects of deep quality seem to be genuinely distinct in kind from the
 characteristics of functional quality.
 
 Documentation can meet all the demands of functional quality, and still fail
-to exhibit deep quality. For example, there are many examples of
-documentation that is accurate and consistent, even useful, and yet
-awkward and unpleasant to use.
+to exhibit deep quality. There are many examples of documentation that is
+accurate and consistent (and even very useful) but which is also awkward and
+unpleasant to use.
 
 It's also noticeable that while characteristics of functional quality such as
 completeness and accuracy are **independent** of each other, those of deep
