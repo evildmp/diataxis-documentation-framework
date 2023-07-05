@@ -147,24 +147,26 @@ of *deep quality*.
 But: even someone who can't recognise, or fails to understand, those
 characteristics - who cannot say *what* they are - can still recognise very
 well *that* the clothing is excellent, because they find it that **it feels
-good to wear**. No expertise is required to realise that clothing does or
-doesn't comfortable as you move in it, that it fits and moves with you well.
-*Your body knows it*.
+good to wear**, because it's such that they want to wear it. No expertise is
+required to realise that clothing does or doesn't feel comfortable as you
+move in it, that it fits and moves with you well. *Your body knows it*.
 
 And it's the same in documentation. Perhaps you need to be a connoisseur to
-recognise *what* makes some documentation is excellent, but it's not
-necessary to be able to realise *that* it is - **because it feels good**. It
-feels like it fits and moves with you.
+recognise *what* it is that makes some documentation excellent, but it's not
+necessary to be able to realise *that* it is. Good documentation **feels
+good**; you feel pleasure and satsifaction when you use it - it feels like it
+fits and moves with you.
 
 The users of our documentation may or may not have the understanding to say
 why it's good, or where its quality lapses. They might recognise only the
 more obvious aspects of functional quality in it, mistaking those for its
-deeper excellence. That doesn't matter - it will feel good, and that's
-what is important.
+deeper excellence. That doesn't matter - it will feel good, or not, and
+that's what is important.
 
-But we, as its creators, need a clear and effective understanding of
-what makes documentation good. We need to be develop our sense of it so
-that we recognise *what* is good about it, as well as *that* it is good.
+But we, as its creators, need a clear and effective understanding of what
+makes documentation good. We need to develop our sense of it so that we
+recognise *what* is good about it, as well as *that* it is good. And we need
+to develop an understanding of how people will *feel* when they're using it.
 
 Producing work of deep quality depends on our ability to do this.
 
