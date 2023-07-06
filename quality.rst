@@ -39,6 +39,8 @@ To make it harder for the creator of documentation, any failure to meet
 all of these standards is readily apparent to the user.
 
 
+.. _deep-quality:
+
 Deep quality
 ------------
 There are other characteristics, that we can call **deep quality**.
@@ -152,10 +154,10 @@ required to realise that clothing does or doesn't feel comfortable as you
 move in it, that it fits and moves with you well. *Your body knows it*.
 
 And it's the same in documentation. Perhaps you need to be a connoisseur to
-recognise *what* it is that makes some documentation excellent, but it's not
-necessary to be able to realise *that* it is. Good documentation **feels
-good**; you feel pleasure and satsifaction when you use it - it feels like it
-fits and moves with you.
+recognise *what* it is that makes some documentation excellent, but that's
+not necessary to be able to realise *that* it is excellent. Good
+documentation **feels good**; you feel pleasure and satsifaction when you use
+it - it feels like it fits and moves with you.
 
 The users of our documentation may or may not have the understanding to say
 why it's good, or where its quality lapses. They might recognise only the
