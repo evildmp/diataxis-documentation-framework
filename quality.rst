@@ -1,5 +1,5 @@
-Quality in documentation
-=========================
+Towards a theory of quality in documentation
+===============================================
 
 Diátaxis is an approach to *quality* in documentation.
 
