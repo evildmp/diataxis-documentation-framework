@@ -160,7 +160,7 @@ but
 * *product-on-public-cloud-two*
 * and so on...
 
-So, we *could&* decide on an overall structure that does this:
+So, we *could* decide on an overall structure that does this:
 
 .. code-block:: text
 
