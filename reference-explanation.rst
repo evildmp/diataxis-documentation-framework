@@ -7,7 +7,7 @@ Explanation and reference both belong to the *theory* half of the Diátaxis map 
 steps to guide the reader, they contain theoretical knowledge.
 
 The difference between them is - just as in the difference between tutorials and how-to guides - the
-difference between the *acquisition* of skill and knowledge, and its *application*. In other words
+difference between the *acquisition* of skill and knowledge, and its *application*. In other words,
 it's the distinction between *study* and *work*.
 
 
@@ -42,7 +42,7 @@ most likely going to be an *explanation* of it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mostly we can rely safely on intuition to manage the distinction between
-reference and explanations. But only *mostly* - because it's also quite easy
+references and explanations. But only *mostly* - because it's also quite easy
 to slip between one form and the other.
 
 It usually happens while writing reference material that starts to become expansive. For example,
@@ -50,7 +50,7 @@ it's perfectly reasonable to include illustrative examples in reference (just as
 might contain illustrations) - but examples are fun things to develop, and it can be tempting to
 develop them into explanation (using them to say *why*, or show *what if*, or how it came to be).
 
-As a result one often finds explanatory material sprinkled into reference. This is bad for the
+As a result, one often finds explanatory material sprinkled into reference. This is bad for the
 reference, interrupted and obscured by digressions. But it's bad for the explanation too, because
 it's not allowed to develop appropriately and do its own work.
 
@@ -58,8 +58,8 @@ it's not allowed to develop appropriately and do its own work.
 Work and study
 --------------
 
-The real test though if we're in doubt about whether we're something is or is supposed to be
-reference or explanation is: is this something someone would turn to while working, that is, while
+The real test though if we're in doubt about whether something is or is supposed to be
+a reference or an explanation is: is this something someone would turn to while working, that is, while
 actually getting something done, executing a task? Or is it something they'd need once they have
 stepped away from the work, and want to think about it?
 
@@ -69,9 +69,9 @@ the reader stands in relation to the craft in question, in a relationship of *wo
 
 ..  sidebar::
 
-	To help avoid being mislead by intuition, see :ref:`compass`.
+	To help avoid being misled by intuition, see :ref:`compass`.
 
-**Reference** is what a user needs in order help *apply* knowledge and skill, while they
+**Reference** is what a user needs in order to help them *apply* knowledge and skill, while they
 are working.
 
 **Explanation** is what someone will turn to to help them *acquire* knowledge
