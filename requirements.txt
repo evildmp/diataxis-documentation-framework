@@ -14,7 +14,7 @@ livereload==2.6.3
 MarkupSafe==2.0.1
 packaging==21.3
 pyenchant==3.2.2
-Pygments==2.11.2
+Pygments==2.15.0
 pyparsing==3.0.6
 pytz==2021.3
 requests==2.27.1
