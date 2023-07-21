@@ -204,7 +204,7 @@ helps reveal the problem, as it does in many cases. It brings it into focus
 and demands that it be addressed.
 
 Secondly, the question highlights a common misunderstanding. Diátaxis is not a
-scheme into which documentation must be placed - four boxes. It posit four
+scheme into which documentation must be placed - four boxes. It posits four
 different kinds of documentation, around which documentation should be
 structured, but this does not mean that there must be simply four divisions
 of documentation in the hierarchy, one for each of those categories.
