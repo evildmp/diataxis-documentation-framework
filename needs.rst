@@ -38,8 +38,8 @@ The most immediately striking feature of Diátaxis is its map:
 
 It's a memorable and approachable idea.
 
-One reason is that it is effective as a guide to organising documentation is
-that describes a **two-dimensional structure**, rather than a *list*. It
+One reason it is effective as a guide to organising documentation is
+that it describes a **two-dimensional structure**, rather than a *list*. It
 specifies its types of documentation in such a way that the structure
 naturally helps guide and shape the material it contains.
 
