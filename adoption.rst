@@ -28,7 +28,7 @@ Who's using Diátaxis?
 This is an incomplete list of projects, products and organisations that have adopted the system in their own
 bodies of documentation. In some cases the adoption remains partial or is still a work in progress.
 
-* `Aiven Developer <https://developer.aiven.io>`_, developer documentation for managed open source data platforms
+* `Aiven Developer <https://docs.aiven.io>`_, developer documentation for managed open source data platforms
 * `BBC News Labs <https://bbcnewslabs.co.uk/>`_, e.g. for `mosromgr <https://mosromgr.readthedocs.io>`_, a Python
   library for managing TV and radio running orders
 * `BrachioGraph <https://www.brachiograph.art>`_, the cheapest, simplest pen-plotter
@@ -36,16 +36,8 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   `Briefcase <https://briefcase.readthedocs.io>`_, `Rubicon <https://rubicon-objc.readthedocs.io>`_ and `Rubicon Java
   <https://rubicon-objc.readthedocs.io>`_.
 * Bosch (internal)
-* **Canonical**
-
-  * `Anbox Cloud <https://anbox-cloud.io/docs>`_
-  * `Charmed Kubeflow <https://charmed-kubeflow.io/docs>`_
-  * `Charmed Operator SDK <https://juju.is/docs/sdk>`_
-  * `Juju OLM <https://juju.is/docs/olm>`_
-  * `MicroK8s <https://microk8s.io/docs>`_
-  * `OpenStack Charms guide <https://docs.openstack.org/charm-guide/latest/>`_
-  * `Ubuntu Core <https://ubuntu.com/core/docs>`_
-
+* **Canonical** - all of Canonical's product documentation `is adopting (or will adopt) Diátaxis
+  <https://ubuntu.com/blog/diataxis-a-new-foundation-for-canonical-documentation>`_
 * `Ciw <https://ciw.readthedocs.io>`_, the discrete event simulation library
 * `clj-otel <https://github.com/steffan-westcott/clj-otel#documentation>`_, Clojure API for OpenTelemetry
 * `Cloudflare Workers docs <https://blog.cloudflare.com/new-and-improved-workers-docs/>`_ (related article, `New and
@@ -59,6 +51,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Ericsson (internal)
 * `fpm <https://fpm.fortran-lang.org>`_, the Fortran Package Manager
 * Google's `Fuchsia operating system <https://fuchsia.dev/>`_
+* `Funding Circle <https://www.fundingcircle.com/>`_ (internal)
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
@@ -77,9 +70,11 @@ bodies of documentation. In some cases the adoption remains partial or is still 
   build Community <http://labs.quansight.org/blog/2020/03/documentation-as-a-way-to-build-community/>`_)
 * `PDFminer.six <https://pdfminersix.readthedocs.io>`_
 * `PostgREST <http://postgrest.org>`_
+* PowerTuning (internal)
 * `PIconnect <https://piconnect.readthedocs.io>`_
 * `Snowpack <https://www.snowpack.dev/>`_, a frontend build tool, designed for the modern web
 * `Sourcegraph <https://docs.sourcegraph.com/>`_, Universal code search
+* `Splink <https://moj-analytical-services.github.io/splink/index.html>`_, a Python library for probabilistic data linkage
 * `stdlib <https://awvwgk.github.io/stdlib-docs>`_, the Fortran Standard library
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_
