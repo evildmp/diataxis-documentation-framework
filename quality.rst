@@ -57,7 +57,7 @@ Think of characteristics such as:
 * *being beautiful*
 * *anticipating the user*
 
-Unlike the characteristics of deep quality, they cannot be checked or
+Unlike the characteristics of functional quality, they cannot be checked or
 measured, but they can still be clearly identified. When we encounter them,
 we usually (not always, because we need to be capable of it) recognise
 them.
