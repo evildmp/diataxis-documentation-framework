@@ -79,6 +79,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
 * `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_
 * Tesla Motors (internal)
+* `Wikimedia Foundation <https://www.wikimedia.org/>`_, technical documentation for Wikimedia projects and open-source software
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `websockets <https://websockets.readthedocs.io>`_
 * `Wechaty <https://wechaty.js.org/docs/>`_: A Conversational RPA SDK for Chatbot Makers
