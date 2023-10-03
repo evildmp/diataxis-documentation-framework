@@ -57,7 +57,7 @@ Think of characteristics such as:
 * *being beautiful*
 * *anticipating the user*
 
-Unlike the characteristics of deep quality, they cannot be checked or
+Unlike the characteristics of functional quality, they cannot be checked or
 measured, but they can still be clearly identified. When we encounter them,
 we usually (not always, because we need to be capable of it) recognise
 them.
@@ -156,7 +156,7 @@ move in it, that it fits and moves with you well. *Your body knows it*.
 And it's the same in documentation. Perhaps you need to be a connoisseur to
 recognise *what* it is that makes some documentation excellent, but that's
 not necessary to be able to realise *that* it is excellent. Good
-documentation **feels good**; you feel pleasure and satsifaction when you use
+documentation **feels good**; you feel pleasure and satisfaction when you use
 it - it feels like it fits and moves with you.
 
 The users of our documentation may or may not have the understanding to say

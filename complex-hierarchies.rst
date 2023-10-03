@@ -160,7 +160,7 @@ but
 * *product-on-public-cloud-two*
 * and so on...
 
-So, we *could&* decide on an overall structure that does this:
+So, we *could* decide on an overall structure that does this:
 
 .. code-block:: text
 
@@ -243,7 +243,7 @@ In that case, let that be the starting point for thinking about it.
 If the documentation needs to meet the needs of users, developers and
 contributors, how do *they* see the product? Should we assume that a
 developer who incorporates it into other products will typically need a good
-understanding of how it's used, and that a contributor to needs to know what
+understanding of how it's used, and that a contributor needs to know what
 a developer knows too?
 
 Then perhaps it makes sense to be freer with the structure, in some parts
@@ -251,7 +251,7 @@ Then perhaps it makes sense to be freer with the structure, in some parts
 the user-facing material, while completely separating the contributors' how-to
 guides from both.
 
-And so on. If the structure is not `the simple, uncomplicated structure we
+And so on. If the structure is not :ref:`the simple, uncomplicated structure we
 began with <basic-structure>`, that's not a problem - as long as there *is*
 arrangement according to Diátaxis principles, that documentation does not
 muddle up its different forms and purposes.
