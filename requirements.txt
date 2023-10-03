@@ -32,6 +32,6 @@ sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-spelling==7.3.2
 tornado==6.1
-urllib3==1.26.8
+urllib3==1.26.17
 zipp==3.7.0
 sphinx-reredirects==0.1.2
