@@ -99,28 +99,28 @@ demands imposed by a tutorial.
     :alt:
 
 As you probably realised, if you didn't know it already: the important thing in this experience isn't *what* you
-teach the child to cook. The only thing that really matters is that the child should enjoy the experience of working in
+teach the child to cook. The only things that really matters are that the child should enjoy the experience of working in
 the kitchen with you, and gains **confidence**, and wants to do it again.
 
-That needs to be the outcome of each learning experience in the kitchen; if it's not, then even if the child
+These need to be the outcomes of each learning experience in the kitchen; if not achieved, then even if the child
 learned something, the learning journey is at risk of being ended there.
 
-A teacher always feels some natural anxiety that the pupil should learn. There's a temptation to press that too hard -
+A teacher always feels some natural anxiety about whether they have done enough to help the pupil learn. There's a temptation to press that too hard -
 which is both unnecessary and counter-productive.
 
-The child *will* learn, in its own time, at its own pace, **through the activities** you do together, and not from the
+The child *will* learn, in their own time, at their own pace, **through the activities** you do together, and not from the
 things you say or show.
 
-It will learn important things through *repetition*, over time: how to hold a knife, that it's important to wash hands
-before handling food, how to use measuring equipment, how to time things. It will learn what it's like to work in the
-kitchen, where to find utensils.
+The child learns important things through *repetition*, over time: how to hold a knife, that it's important to wash hands
+before handling food, how to use measuring equipment, how to time things. They learn what it's like to work in the
+kitchen, for example where to find utensils.
 
 With a young child, you will often find that the lesson suddenly has to end before you'd completed what you set out to
 do. This is normal and expected; children have short attention spans. As long as the child managed to achieve something
-- however small - and enjoyed doing it, it will have laid down something in the construction of its technical
+- however small - and enjoyed doing it, they will have laid down something in the construction of their technical
 expertise, that can be returned to and built upon next time.
 
-Cooking is a matter of **craft**. It’s knowledge - but it's *practical* knowledge, not *theoretical* knowledge.
+Cooking is a matter of **craft**. It is knowledge - but it's *practical* knowledge, not *theoretical* knowledge.
 It's the same for any product: using it is a skill, and when we learn a new craft or skill, we always begin learning it
 by doing.
 
@@ -141,7 +141,7 @@ Allow the user to learn. **In the beginning, we only learn anything by doing** -
     * choices
     * information
 
-Give your learner things to *do*, through which they can learn. Only your pupil can learn. Sadly, however much you desire
+Give your learner things to *do*, through which they can learn. Only then can your pupil learn. Sadly, however much you desire
 it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can
 learn.
 
@@ -168,7 +168,8 @@ the product at all.
 Provide a complete picture before they start
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It’s important to **allow the learner to form an idea of what they will achieve right from the start**. As well as
+It’s important to **allow the learner to form an idea of what they will achieve right from the start**.
+Share the anticipation and excitement of what they are about to achieve. As well as
 helping to set expectations, it allows them to see themselves building towards the completed goal as they work.
 Surprising them with the result at the end will diminish, not augment, the value of what they achieve. It’s very
 enjoyable to reveal impressive conclusions with a flourish, but you should save that for your magic tricks and novels.
@@ -199,6 +200,9 @@ possible. The relation of cause and effect should be evident. Finally, each resu
 can see as meaningful.
 
 **Every step the learner follows should produce a comprehensible result, however small.**
+
+An additional benefit is that if something goes wrong during a step, it's obvious immediately, making it easier to detect
+and correct the problem where it has occurred.
 
 
 Make your tutorial repeatable
