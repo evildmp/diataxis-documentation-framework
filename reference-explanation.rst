@@ -58,7 +58,7 @@ it's not allowed to develop appropriately and do its own work.
 Work and study
 --------------
 
-The real test though if we're in doubt about whether we're something is or is supposed to be
+The real test, though, if we're in doubt about whether something is supposed to be
 reference or explanation is: is this something someone would turn to while working, that is, while
 actually getting something done, executing a task? Or is it something they'd need once they have
 stepped away from the work, and want to think about it?
@@ -80,4 +80,3 @@ and skill - "study".
 
 Understanding those two relationships and responding to the needs in them is the key to creating
 effective reference and explanation.
-
