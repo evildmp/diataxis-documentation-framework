@@ -118,7 +118,7 @@ deep quality we must *invent*.
    * - Functional quality
      - Deep quality
    * - independent characteristics
-     - independent characteristics
+     - interdependent characteristics
    * - objective
      - subjective
    * - measured against the world
