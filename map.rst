@@ -1,12 +1,30 @@
-.. _needs:
+.. _map:
 
-The map of needs
+The map 
 =============================
 
-*How to organise my documentation?* In the absence of a clear, generalised
-documentation architecture, documentation creators will usually try to
-structure their work around characteristics or features of the product its
-intended to serve.
+
+One reason Diátaxis is effective as a guide to organising documentation is
+that it describes a **two-dimensional structure**, rather than a *list*. 
+
+.. image:: /images/diataxis.png
+   :alt:
+   :class: sidebar
+
+It specifies its types of documentation in such a way that the structure
+naturally helps guide and shape the material it contains.
+
+As a map, it places the different forms of documentation into relationships
+with each other. Each one occupies a space in the mental territory it outlines,
+and the boundaries between them highlight their distinctions.
+
+
+The problem of structure
+------------------------
+
+When documentation fails to attain a good structure, it's rarely just a problem of structure (though it's bad enough that it makes it harder to use and maintain). Architectural faults infect and undermine content too.
+
+In the absence of a clear, generalised documentation architecture, documentation creators will often try to structure their work around features of a product.
 
 This is rarely successful, even in a single instance. In a portfolio of
 documentation instances, the results are wild inconsistency. Much better is
@@ -25,73 +43,8 @@ themselves working with - why this particular list of content types
 rather than another? And if another competing list is proposed, which to
 adopt?
 
-.. _map:
 
-The Diátaxis map
-----------------------------------------------------
-
-The most immediately striking feature of Diátaxis is its map:
-
-.. image:: /images/diataxis.png
-   :alt:
-   :class: wider
-
-It's a memorable and approachable idea.
-
-One reason it is effective as a guide to organising documentation is
-that it describes a **two-dimensional structure**, rather than a *list*. It
-specifies its types of documentation in such a way that the structure
-naturally helps guide and shape the material it contains.
-
-As a map, it places the different forms of documentation into relationship
-with each other. Each one occupies a space in the mental territory it outlines,
-and the boundaries between them highlight their distinctions.
-
-The result is documentation that is not only better, but takes less effort to
-create and maintain - but that is only possible because the Diátaxis map is a
-map of *needs*.
-
-
-Needs
------
-
-A map is only useful if it adequately describes a reality. Diátaxis is
-underpinned by a systematic description and analysis of generalised **user
-needs**.
-
-The user whose needs Diátaxis serves is *the practitioner in a domain of
-skill*. A domain of skill is defined by a craft - the use of a tool
-or product is a craft. So is an entire discipline or profession. Using a
-programming language is a craft, as is flying a particular aircraft, or even
-being a pilot in general.
-
-The successful engagement in any such craft or skill involves
-both *theoretical grasp* (knowledge and understanding), and an ability to
-apply that *in practice*, to work with the tools and materials of the craft.
-Documentation serving the practitioner must therefore meet the needs both
-of **theory** and its **practical application**.
-
-And at any moment in their craft, a practitioner is either *acquiring* their
-skill, or *applying* it to actual work. That is, a practitioner is either in
-the mode of **study** (learning, acquiring, building up their skill) or the
-mode of **work** (applying, using, exercising it). And this gives
-documentation two more needs to meet.
-
-
-Axes of knowledge
---------------------------
-
-Diátaxis uses this analysis to divide documentation across two axes of
-knowledge: *theory/practice*, and *acquisition/application*.
-
-Documentation therefore either *contains theoretical (i.e. propositional)
-knowledge* or *describes practical actions*, and is concerned either with
-serving *our acquisition* or *our application* of knowledge. Hence the map,
-across which the four forms of documentation are laid out.
-
-
-
-Characteristics of documentation
+Expectations and guidance
 ----------------------------------------------------
 
 A clear advantage of organising material this way is that it provides both
@@ -113,7 +66,7 @@ where it should be placed.
      - :ref:`Explanation <explanation>`
    * - what they do
      - introduce, educate, lead
-     - guide, demonstrate
+     - guide
      - state, describe, inform
      - explain, clarify, discuss
    * - answers the question
@@ -123,14 +76,14 @@ where it should be placed.
      - "Why...?"
    * - oriented to
      - learning
-     - tasks
+     - goals
      - information
      - understanding
    * - purpose
-     - to allow the newcomer to get started
-     - to show how to solve a specific problem
+     - to provide a learning experience
+     - to help achieve a particular goal
      - to describe the machinery
-     - to explain
+     - to illuminate a topic
    * - form
      - a lesson
      - a series of steps
@@ -139,38 +92,57 @@ where it should be placed.
    * - analogy
      - teaching a child how to cook
      - a recipe in a cookery book
-     - a reference encyclopaedia article
+     - information on the back of food packet
      - an article on culinary social history
 
 Each piece of content is of a kind that not only has one particular job to do, that job is also clearly distinguished
 from and contrasted with the other functions of documentation.
 
 
-Collapse of the structure
+Blur
 --------------------------
 
 Most documentation systems and authors recognise at least some of these distinctions and try to observe them in
-practice. However, there is a kind of natural affinity between each of the different forms of documentation and its
+practice. 
+
+..  image:: /images/partial-collapse.png
+    :alt: Partial collapse of the structure
+    :class: sidebar
+
+However, there is a kind of natural affinity between each of the different forms of documentation and its
 neighbours on the map, and a natural tendency to blur the distinctions (that can be seen repeatedly in examples of
 documentation).
 
-* *tutorials and how-to guides* both describe *practical steps*
-* *how-to guides and technical reference* are both concerned with the *application of knowledge*
-* *reference and explanation* both contain *theoretical knowledge*
-* *tutorials and explanation* are both concerned with the *acquisition of knowledge*
+.. list-table::
+   :widths: 50  25 25
+   :stub-columns: 1
+
+   * - guide action
+     - tutorials
+     - how-to guides
+   * - serve the application of skill
+     - reference
+     - how-to guides
+   * - contain propositional knowledge
+     - reference
+     - explanation
+   * - serve the acquisition of skill
+     - tutorials
+     - explanation
+
 
 ..  image:: /images/total-collapse.png
-    :alt: The structure of documemntation can collapse.
+    :alt: Total collapse of the structure
     :class: sidebar
 
-Allowing these distinctions to blur is what brings about structural problems. The most common is a complete or partial
-collapse of tutorials and how-to guides into each other, while explanation spills over into both tutorials and
-reference material.
+When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing. 
+
+In the worst case there is a complete or partial collapse of tutorials and how-to guides into each other, making it impossible to meet the needs served by either.
 
 
 -------------
 
-The cycle of interaction
+The journey around the map
 --------------------------
 
 Diátaxis is intended to help documentation better serve users in their *cycle of interaction* with a product.

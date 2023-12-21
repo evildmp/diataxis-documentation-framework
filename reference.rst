@@ -1,12 +1,13 @@
 .. _reference:
 
-About reference
+Reference
 ======================
 
-..  rubric:: Reference guides are **technical descriptions** of the machinery and how to operate it. Reference material
-    is **information-oriented**.
+..  rubric:: Reference guides are **technical descriptions** of the machinery and how to operate it. Reference material is **information-oriented**.
 
 ===========
+
+Reference material contains *propositional or theoretical* knowledge that a user looks to in their *work*.
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
 way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
@@ -27,7 +28,7 @@ they work. Good technical reference is essential to provide users with the confi
 Reference as description
 ---------------------------------
 
-Reference material should be **austere and to the point**. One hardly *reads* reference material;
+Reference material describes the machinery. It should be **austere**. One hardly *reads* reference material;
 one *consults* it.
 
 There should be no doubt or ambiguity in reference; it should be wholly authoritative.
@@ -50,33 +51,31 @@ it describes, which is a powerful way of ensuring that it remains faithfully acc
 
 ===============
 
-Food and cooking
---------------------
 
-Perhaps you might consult an encyclopaedia to read about an ingredient (for example, about
-liquorice).
-
-..  image:: /images/liquorice.png
-    :alt: Wikipedia's entry for liquorice
-
-What you're seeking is information - accurate, up-to-date, comprehensive information. You may want
-to know about its properties, its chemical composition, how it interacts with other ingredients,
-what other ingredients or plants it is related to, what health implications it might have.
-
-For example: *Liquorice is a flowering plant of the bean family Fabaceae*. Or: *Excessive
-consumption of liquorice may result in adverse effects*.
-
-You'll expect to find information about these sorts of things presented in much the same way for
-each one.
-
-You will not on the other hand expect to find for example recipes, or suggestions on how to cook with
-it - it is not a function of an encyclopaedia article to tell you what to do.
-
-===============
-
-
-Writing a good reference guide
+Key principles
 ----------------------------------------
+
+Describe and only describe
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+..  sidebar:: Style and form
+
+    * austere and uncompromising
+    * neutrality, objectivity, factuality
+    * structured according to the structure of the machinery itself
+
+*Neutral description* is the key imperative of technical reference. Unfortunately one of the hardest things to do is to describe something neutrally. It's not a natural way of communicating. What's natural on the other hand is to explain, instruct, discuss, opine, and all these things run counter to the needs of technical reference, which instead demands accuracy, precision, completeness and clarity.
+
+It can be tempting to introduce instruction and explanation, simply because description can seem too inadequate to be useful, and because we do indeed need these other things. Instead, link to how-to guides, explanation and introductory tutorials.
+
+
+Adopt standard patterns
+~~~~~~~~~~~~~~~~~~~~~~~
+
+**Reference material is useful when it is consistent.** Standard patterns are what allow us to use reference material effectively. Your job is to place the material that your user needs know where they expect to find it, in a format that they are familiar with.
+
+There are many opportunities in writing to delight your readers with your extensive vocabulary and command of multiple styles, but reference material is definitely not one of them.
+
 
 .. _respect-structure:
 
@@ -88,61 +87,46 @@ through the latter. It should be the same with documentation: **the structure of
 should mirror the structure of the product**, so that the user can work their way through them
 at the same time.
 
-In the case of code, this means arranging the sections of reference documentation to follow the
-architecture of the software, where possible.
-
-..  sidebar:: Style and form
-
-    * austere and uncompromising
-    * neutrality, objectivity, factuality
-    * structured according to the structure of the machinery itself
-
 It doesn't mean forcing the documentation into an unnatural structure. What's important is that the
 logical, conceptual arrangement of and relations within the code should help make sense of the
 documentation.
 
 
-Be consistent
-~~~~~~~~~~~~~
-
-**Reference material benefits from consistency.** Be consistent, in structure, language,
-terminology, tone. There are many opportunities in writing to delight your readers with your
-extensive vocabulary and command of multiple styles, but reference material is definitely not
-one of them.
-
-
-Do nothing but describe
-~~~~~~~~~~~~~~~~~~~~~~~~
-
-**Technical reference has one job: to describe**, and to do that clearly, accurately and
-comprehensively. Doing anything else - explaining, discussing, instructing, speculating -
-gets in the way of that job, and makes it harder for the reader to find the information they need.
-
-It can be tempting to introduce instruction and explanation, simply because technical reference can
-seem too bare. Instead, link to how-to guides, explanation and introductory tutorials as
-appropriate.
-
-
 Provide examples
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-**Examples** are valuable ways of providing illustration that helps readers understand reference,
-without becoming distracted from the job of describing. For example, an example of usage of a
-command can be a succinct way of illustrating it and its context.
+**Examples** are valuable ways of providing illustration that helps readers understand reference, while avoiding the risk of becoming distracted from the job of describing. For example, an example of usage of a command can be a succinct way of illustrating it and its context, without falling into the trap of trying to explain or instruct.
 
-Be accurate
-~~~~~~~~~~~
-
-**These descriptions must be accurate and kept up-to-date.** Any discrepancy between the machinery and your description of it will inevitably lead a user astray.
 
 ==============
 
 The language of reference guides
 --------------------------------
 
-*X is an example of y. W needs to be initialised using z. This option does that.*
+Django's default logging configuration inherits Python's defaults. It's available as ``django.utils.log.DEFAULT_LOGGING`` and defined in ``django/utils/log.py``
     State facts about the machinery and its behaviour.
-*Sub-commands are: a, b, c, d, e, f.*
+Sub-commands are: a, b, c, d, e, f.
     List commands, options, operations, features, flags, limitations, error messages, etc.
-*You must use a. You must not apply b unless c. Never d.*
+You must use a. You must not apply b unless c. Never d.
     Provide warnings where appropriate.
+
+===============
+
+Applied to food and cooking
+---------------------------
+
+You might check the information on a packet of food, in order to help you make a decision about what to do. 
+
+When you're looking for information - relevant facts - you do not want to be confronted by opinions, speculation, instructions or interpretation. 
+
+..  image:: /images/wheat.jpg
+    :alt: Information on the back of a packet of pearl barley
+
+You also expect that information to be presented in standard ways, so that you - when you need to know about something's nutritional properties, how it should be stored, its ingredients, what health implications it might have - can find them quickly, and know you can rely on them.
+
+So you expect to see for example: *May contain traces of wheat*. Or: *Net weight: 1000g*. 
+
+You will certainly not expect to find for example recipes or marketing claims mixed up with this information; that could be literally dangerous. 
+
+The way reference material is presented on food products is so important that it's usually governed by law, and the same kind of seriousness should apply to all reference documentation.
+

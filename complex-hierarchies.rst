@@ -5,73 +5,77 @@ Diátaxis in complex hierarchies
 
 .. _basic-structure:
 
-The basics
-----------
+Structure of documentation content
+----------------------------------
 
 The application of Diátaxis to most documentation is fairly straightforward.
 The product that defines the domain of concern has clear boundaries, and it's
-possible to come up with a simple arrangement of its contents according to
-the principles, for example:
+possible to come up with an arrangement of documentation contents that looks - for example - like this:
 
 .. code-block:: text
 
-    home                      <- landing page
-        tutorial              <- landing page
-            part 1
-            part 2
-            part 3
-        how-to guides         <- landing page
-            install
-            deploy
-            scale
-        reference             <- landing page
-            commandline tool
-            available endpoints
+    Home                      <- landing page
+        Tutorial              <- landing page
+            Part 1
+            Part 2
+            Part 3
+        How-to guides         <- landing page
+            Install
+            Deploy
+            Scale
+        Reference             <- landing page
+            Commandline tool
+            Available endpoints
             API
-        explanation           <- landing page
-            best practice recommendations
-            security overview
-            performance
+        Explanation           <- landing page
+            Best practice recommendations
+            Security overview
+            Performance
 
 In each case, a landing page contains an overview of the contents within. The
 tutorial for example describes what the tutorial has to offer, providing
 context for it.
 
 Adding a layer of hierarchy
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Even very large documentation sets can use this effectively, though after a
-while some grouping of pages withing sections might be wise. This can be done
+while some grouping of content within sections might be wise. This can be done
 by adding another layer of hierarchy - for example to be able to address
 different installation options separately:
 
 ..  code-block:: text
-    :emphasize-lines: 8-11
+    :emphasize-lines: 7-11
 
-    home                      <- landing page
-        tutorial
-            part 1
-            part 2
-            part 3
-        how-to guides         <- landing page
-            install           <- landing page
-                locally
+    Home                      <- landing page
+        Tutorial              <- landing page
+            Part 1
+            Part 2
+            Part 3
+        How-to guides         <- landing page
+            Install           <- landing page
+                Local installation
                 Docker
-                virtual machine
+                Virtual machine
                 Linux container
-            deploy
-            scale
-        reference             <- landing page
-            commandline tool
-            available endpoints
+            Deploy
+            Scale
+        Reference             <- landing page
+            Commandline tool
+            Available endpoints
             API
-        explanation           <- landing page
-            best practice recommendations
-            security overview
-            performance
+        Explanation           <- landing page
+            Best practice recommendations
+            Security overview
+            Performance
 
-Once again, each level of the hierarchy in a section has an overview landing
-page, for orientation.
+
+Contents pages 
+--------------
+
+Contents pages - typically a home page and any landing pages - provide an oversight of the material they encompass.
+
+There is an art to creating a good contents page. The experience they give the users deserves careful consideration.
 
 
 The problem of lists
@@ -80,11 +84,10 @@ The problem of lists
 Lists longer than a few items are very hard for humans to read, unless they
 have an inherent mechanical order - numerical, or alphabetical. *Seven items
 seems to be a comfortable general limit.* If you find that you're looking at
-lists longer than that in your tables of contents, you need to find a way to
+lists longer than that in your tables of contents, you probably need to find a way to
 break them up into small ones.
 
-Once again, what matters here most is not the integrity of whatever scheme
-you're working with, but **the experience of the reader**. Diátaxis works
+As always, what matters most is **the experience of the reader**. Diátaxis works
 because it fits user needs well - if your execution of Diátaxis leads you to
 formats that seem uncomfortable or ugly, then you need to use it
 differently.
@@ -111,11 +114,11 @@ for example, a **how-to landing page**:
     Installation guides
     -------------------
 
-    Pellentesque malesuada, ipsum ac mollis pellentesque, risus nunc ornare
-    odio, et imperdiet dui mi et dui. Phasellus vel porta turpis. In feugiat
-    ultricies ipsum.
+    Pellentesque malesuada, ipsum ac mollis pellentesque, risus 
+    nunc ornare odio, et imperdiet dui mi et dui. Phasellus vel 
+    porta turpis. In feugiat ultricies ipsum.
 
-    * locally                  |
+    * Local installation       |
     * Docker                   |  links to
     * Virtual machines         |  the guides
     * Linux containers         |
@@ -123,8 +126,9 @@ for example, a **how-to landing page**:
     Deployment and scaling
     -----------------------
 
-    Morbi sed scelerisque ligula. In dictum lacus quis felis facilisis
-    vulputate. Quisque lacinia condimentum ipsum laoreet tempus.
+    Morbi sed scelerisque ligula. In dictum lacus quis felis 
+    facilisisvulputate. Quisque lacinia condimentum ipsum 
+    laoreet tempus.
 
     * Deploy an instance       |  links to
     * Scale your application   |  the guides
@@ -213,7 +217,7 @@ of documentation in the hierarchy, one for each of those categories.
 Diátaxis as an approach
 ------------------------------------------
 
-:ref:`Diátaxis can be neatly represented in a diagram <map>` - but it is not
+Diátaxis can be neatly represented in a diagram - but it is not
 the *same* as that diagram.
 
 It should be understood as an approach, a way of working with documentation,
@@ -258,9 +262,11 @@ muddle up its different forms and purposes.
 
 
 Let documentation be complex if necessary
-------------------------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Documentation should be as complex as it needs to be, and it will sometimes
-have complex structures. But even complex structures can be made
+Documentation should be as complex as it needs to be. It will sometimes
+have complex structures. 
+
+But, even complex structures can be made
 straightforward to navigate as long as they are logical and incorporate
 patterns that fit the needs of users.

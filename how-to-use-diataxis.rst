@@ -1,16 +1,13 @@
 .. _how-to-use-diataxis:
 
-How to use Diátaxis
-===================
+Diátaxis as a guide to work
+===========================
 
-In short, the answer is: **pragmatically**.
+As well as providing a guide to documentation content, Diátaxis is also a guide to documentation process and execution. 
 
-Diátaxis is based on sound theoretical principles and has been proven in practice, but it's not the final word in
-documentation. The only value that it can offer you is to be useful in helping make your documentation better for its
-users, and easier for you to create and maintain.
+Most people who work on technical documentation must make decisions about how to work, as they work. In some contexts, documentation must be delivered once, complete and in its final state, but it's more usual that it's an on-going project, for example developed alongside a product that itself evolves and develops. It's also the experience of many people who work on documentation to find themselves responsible for improving or even remediating a body of work.
 
-The best thing you can do with it therefore is take from it however much seems to work for you: as much or as little
-as you wish.
+Diátaxis provides an approach to work that runs counter to much of the accepted wisdom in documentation. In particular, it discourages planning and top-down workflows, preferring instead small, responsive iterations from which overall patterns emerge.
 
 
 Use Diátaxis as a guide, not a plan
