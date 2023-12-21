@@ -28,7 +28,7 @@ The tutorial as a lesson
 
 A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, *learning takes place as the pupil applies themself to tasks under the instructor's guidance*.
 
-A lesson is a *learning experience*. In a learning experience, what matter is what the learner does and what happens. By contrast, the teacher's explanations and recitations of fact are far less important.
+A lesson is a *learning experience*. In a learning experience, what matters is what the learner does and what happens. By contrast, the teacher's explanations and recitations of fact are far less important.
 
 A good lesson gives the learner confidence, by showing them that they can be successful in a certain skill or with a certain product.
 
