@@ -10,6 +10,8 @@ aside, table {font-family: 'Source Sans 3', sans-serif;}
 
 /* --------- headings --------- */
 
+h1 {font-size: 2rem;}
+
 h2 {
     font-weight: 300;
     font-size: 1.75rem;
@@ -26,7 +28,7 @@ h2 {
     width: 12em;
 }
 
-div.sidebar-tree .toctree-l1.current-page>.reference {color: var(--orange);}
+div.sidebar-tree .toctree-l1.current-page>.reference {color: var(--orange); font-weight: normal;}
 div.sidebar-tree .toctree-l1>.reference {color: #666; padding: .3rem .5rem}
 div.sidebar-tree .toctree-l1>.reference:hover {color: var(--orange);}
 div.sidebar-tree .toctree-l1:first-child>.reference {font-weight: bold;}
@@ -75,12 +77,15 @@ article .sidebar p.sidebar-title {
         padding: 0 1em 0 15em;
         width: 36em;
     }
+
     article .sidebar,
     h2 {
         position: absolute; left: 0;
         width: 12rem;
         margin: -2rem 2rem 0 1rem;
         padding-top: 2rem;
+        padding-right: 0;
+        padding-left: 0;
         text-align: right;
         background: none;
     }
@@ -94,16 +99,19 @@ article .sidebar p.sidebar-title {
         left: -14em;
         position: relative;
     }
+
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
     img.floated {
         width: 50%;
         float: right;
         margin-bottom: 1rem; margin-left: 1rem;
     }
+
     h2>.headerlink,
     .sidebar p .headerlink {
         position: absolute; top: 0; right: 0;
     }
+
     h2 + * {margin-top: 2rem;}
 }
 
@@ -125,9 +133,6 @@ article .sidebar p.sidebar-title {
     .content {padding: 0 3em 0 17em;}
 }
 
-/* --------- headings --------- */
-
-h1 {font-size: 2rem;}
 
 /* --------- misc --------- */
 
@@ -155,7 +160,6 @@ div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
     div.lined div.sd-col {border-bottom: 1px solid var(--orange);}
 }
 
-a:link, a:visited {color: var(--orange);}
 
 
 /* --------- embed --------- */
@@ -205,3 +209,10 @@ table.align-default {margin-left: 0; margin-right: 0}
 
 dl dt {font-style: italic}
 
+/* --------- links --------- */
+
+a:link, a:visited {color: var(--orange);}
+
+a.headerlink {text-decoration: none;}
+
+.related-pages a:hover .page-info .title {color: var(--orange);}
