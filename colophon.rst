@@ -26,7 +26,9 @@ Origins and development
 
 You can find `an earlier presentation of some of these ideas <https://documentation.divio.com>`_, that I created while working at Divio between 2014-2021. I still agree with most of it, though there are several aspects that I now think I got wrong.
 
-The original context for the Diátaxis approach was limited to software product documentation. In 2021 I was awarded a Fellowship of the `Software Sustainability Institute <http://software.ac.uk/blog/sorry-state-usable-software-open-science-results-open-science-retreat>`_, to explore its application in scientific research contexts. More recently I've explored its application in internal corporate documentation, organisational management and education, and also its application at scale. This work is on-going.
+The original context for the Diátaxis approach was limited to software product documentation. 
+
+In 2021 I was awarded a Fellowship of the `Software Sustainability Institute <http://software.ac.uk/blog/sorry-state-usable-software-open-science-results-open-science-retreat>`_, to explore its application in scientific research contexts. More recently I've explored its application in internal corporate documentation, organisational management and education, and also its application at scale. This work is on-going.
 
 Other people have corresponded with me to share their experience of applying Diátaxis to note-taking systems and even as part of a systematic approach to household management.
 
