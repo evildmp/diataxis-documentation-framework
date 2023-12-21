@@ -29,6 +29,7 @@ h2 {
 div.sidebar-tree .toctree-l1.current-page>.reference {color: var(--orange);}
 div.sidebar-tree .toctree-l1>.reference {color: #666; padding: .3rem .5rem}
 div.sidebar-tree .toctree-l1>.reference:hover {color: var(--orange);}
+div.sidebar-tree .toctree-l1:first-child>.reference {font-weight: bold;}
 
 div.sidebar-tree ul {
     border-bottom: 1px solid var(--orange);
