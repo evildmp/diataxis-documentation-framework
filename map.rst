@@ -92,7 +92,7 @@ where it should be placed.
    * - analogy
      - teaching a child how to cook
      - a recipe in a cookery book
-     - information on the back of food packet
+     - information on the back of a food packet
      - an article on culinary social history
 
 Each piece of content is of a kind that not only has one particular job to do, that job is also clearly distinguished
@@ -130,12 +130,11 @@ documentation).
      - tutorials
      - explanation
 
+When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing. 
 
 ..  image:: /images/total-collapse.png
     :alt: Total collapse of the structure
     :class: sidebar
-
-When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing. 
 
 In the worst case there is a complete or partial collapse of tutorials and how-to guides into each other, making it impossible to meet the needs served by either.
 
