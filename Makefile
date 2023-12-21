@@ -35,7 +35,7 @@ test:
 	. $(VENV); $(SPHINXBUILD) -b html . _build/html
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml . _build/html
+	. $(VENV); $(SPHINXBUILD) -b html . _build/html
 
 spelling:
 	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) . _build/spelling
