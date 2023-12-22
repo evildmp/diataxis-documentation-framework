@@ -61,7 +61,7 @@ different installation options separately:
             Deploy
             Scale
         Reference             <- landing page
-            Commandline tool
+            Command-line tool
             Available endpoints
             API
         Explanation           <- landing page
