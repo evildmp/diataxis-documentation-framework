@@ -1,7 +1,7 @@
 .. _map:
 
 The map 
-=============================
+=======
 
 
 One reason Diátaxis is effective as a guide to organising documentation is
@@ -45,7 +45,7 @@ adopt?
 
 
 Expectations and guidance
-----------------------------------------------------
+-------------------------
 
 A clear advantage of organising material this way is that it provides both
 clear *expectations* (to the reader) and

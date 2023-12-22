@@ -1,7 +1,7 @@
 .. _tutorials-how-to:
 
 The difference between a tutorial and how-to guide
-===============================================================
+==================================================
 
 In Diátaxis, tutorials and how-to guides are strongly distinguished. It’s a distinction that’s often not made; in fact
 the single most common conflation made in software product documentation is that between the *tutorial* and the *how-to

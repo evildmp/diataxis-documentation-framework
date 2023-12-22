@@ -20,7 +20,7 @@ Diátaxis aims to place documentation practice on a more rigorous theoretical fo
 ----------------
 
 In this section
-----------------
+---------------
 
 These pages dig deeper into the thinking that underpins Diátaxis.
 

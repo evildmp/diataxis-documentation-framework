@@ -40,7 +40,7 @@ As well as serving the users of documentation, Diátaxis has value for documenta
 ------
 
 Contents
------------------------------------
+--------
 
 This website is divided into two main sections, to help apply and understand Diátaxis.
 
