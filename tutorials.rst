@@ -189,7 +189,7 @@ It's helpful to prepare the user for possibly surprising actions: "The command w
 
 
 Ignore options and alternatives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your job is to guide the learner to a successful conclusion. There may be many interesting diversions along the way (different options for the command you're using, different ways to use the API, different approaches to the task you're describing) - ignore them. *Your guidance needs to remain focused on what's required to reach the conclusion*, and everything else can be left for another time.
 
