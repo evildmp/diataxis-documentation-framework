@@ -58,13 +58,15 @@ Key principles
 Describe and only describe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+*Neutral description* is the key imperative of technical reference. 
+
 ..  sidebar:: Style and form
 
     * austere and uncompromising
     * neutrality, objectivity, factuality
     * structured according to the structure of the machinery itself
 
-*Neutral description* is the key imperative of technical reference. Unfortunately one of the hardest things to do is to describe something neutrally. It's not a natural way of communicating. What's natural on the other hand is to explain, instruct, discuss, opine, and all these things run counter to the needs of technical reference, which instead demands accuracy, precision, completeness and clarity.
+Unfortunately one of the hardest things to do is to describe something neutrally. It's not a natural way of communicating. What's natural on the other hand is to explain, instruct, discuss, opine, and all these things run counter to the needs of technical reference, which instead demands accuracy, precision, completeness and clarity.
 
 It can be tempting to introduce instruction and explanation, simply because description can seem too inadequate to be useful, and because we do indeed need these other things. Instead, link to how-to guides, explanation and introductory tutorials.
 
