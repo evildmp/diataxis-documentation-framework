@@ -1,5 +1,5 @@
 Colophon
-===================
+========
 
 Diátaxis is the work of `Daniele Procida <https://vurt.eu>`_.
 
