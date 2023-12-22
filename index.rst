@@ -51,7 +51,7 @@ This website is divided into two main sections, to help apply and understand Di√
 
     ..  grid-item::
 
-        Start here. These pages will help make immediate, concrete sense of the approach. 
+        *Start here.* These pages will help make immediate, concrete sense of the approach. 
         
     ..  grid-item::
 
