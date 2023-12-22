@@ -34,7 +34,7 @@ Other people have corresponded with me to share their experience of applying Di√
 
 
 Citation and contribution  
----------------------------------
+-------------------------
 
 To cite Di√°taxis, please refer to :doc:`this website, diataxis.fr <index>`.
 
