@@ -110,7 +110,7 @@ Every step the learner follows should produce a comprehensible result, however s
 
 
 Point out what the learner should notice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Learning requires reflection. This happens at multiple levels and depths, but one of the first is when the learner  observes the signs in their environment. In a lesson, a learner is typically too focused on what they are doing to notice them, unless they are prompted by the teacher.
 
