@@ -1,7 +1,7 @@
 .. _tutorials:
 
 Tutorials
-===============
+=========
 
 ..  rubric:: A tutorial is an **experience** that takes place under the guidance of a tutor. A tutorial is always **learning-oriented**. 
 
@@ -24,7 +24,7 @@ It's important to understand that while a student will learn by doing, what the 
 
 
 The tutorial as a lesson
--------------------------
+------------------------
 
 A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, *learning takes place as the pupil applies themself to tasks under the instructor's guidance*.
 
@@ -51,7 +51,7 @@ At the same time, the exercise you put your pupils through must be:
 
 
 The problem of tutorials
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In general, tutorials are rarely done well, partly because they are genuinely difficult to do well, and partly because they are not well understood. In software, many products lack good tutorials, or lack tutorials completely; tutorials are often conflated with how-to guides.
 
@@ -71,7 +71,7 @@ Finally, tutorials contain the additional complication of the distinction betwee
 =================
 
 Key principles
----------------------------------
+--------------
 
 A tutorial is a pedagogical problem. 
 
@@ -102,7 +102,7 @@ This is not the same as saying: *In this tutorial you will learn...* - which is 
 
 
 Deliver visible results early and often
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your learner is probably doing new and strange things that they don't fully understand. Understanding comes from being able to make connections between causes and effects, so let them see the results and make the connections rapidly and repeatedly. Each one of those results should be something that the user can see as meaningful.
 
@@ -110,7 +110,7 @@ Every step the learner follows should produce a comprehensible result, however s
 
 
 Point out what the learner should notice
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Learning requires reflection. This happens at multiple levels and depths, but one of the first is when the learner  observes the signs in their environment. In a lesson, a learner is typically too focused on what they are doing to notice them, unless they are prompted by the teacher.
 
@@ -167,7 +167,7 @@ One must see it for oneself, to see the focused attention of a student dissolve 
 
 
 ... and focus on the concrete
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 In a learning situation, your student is in the moment, a moment composed of concrete things. You are responsible for setting up and maintaining the student's flow, from one concrete action and result to another.
 
@@ -189,7 +189,7 @@ It's helpful to prepare the user for possibly surprising actions: "The command w
 
 
 Ignore options and alternatives
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Your job is to guide the learner to a successful conclusion. There may be many interesting diversions along the way (different options for the command you're using, different ways to use the API, different approaches to the task you're describing) - ignore them. *Your guidance needs to remain focused on what's required to reach the conclusion*, and everything else can be left for another time.
 
@@ -197,7 +197,7 @@ Doing this helps keep your tutorial shorter and crisper, and saves both you and 
 
 
 Aspire to perfect reliability
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All of the above are general principles of pedagogy, but there is a special burden on the creator of a tutorial. 
 

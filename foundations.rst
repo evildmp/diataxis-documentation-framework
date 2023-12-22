@@ -9,7 +9,7 @@ Otherwise, it will be just another useful heuristic approach, and the strongest 
 
 
 Two dimensions of craft
---------------------------------
+-----------------------
 
 Diátaxis is based on the principle that documentation must serve the needs of its users. Knowing how to do that means understanding what the needs of users are.
 
@@ -25,7 +25,7 @@ A skill or craft or practice contains both **action** (practical knowledge, know
 
 
 Acquisition/application
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~
 
 Similarly, the relationship of a practitioner with their practice is that it is something that needs to be both **acquired**, and **applied**. Being "at work" (concerned with applying the skill and knowledge of their craft) and being "at study" (concerned with acquiring them) are once again counterparts, distinct but bound up with each other.
 

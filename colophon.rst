@@ -1,5 +1,5 @@
 Colophon
-===================
+========
 
 Diátaxis is the work of `Daniele Procida <https://vurt.eu>`_.
 
@@ -9,7 +9,7 @@ It has been developed over a number of years, and continues to be elaborated and
 .. _contact:
 
 Contact me
----------------------
+----------
 
 `Email me <daniele@vurt.org>`_. I enjoy hearing about other people's experiences with Diátaxis and read everything I receive. 
 
@@ -34,7 +34,7 @@ Other people have corresponded with me to share their experience of applying Di�
 
 
 Citation and contribution  
----------------------------------
+-------------------------
 
 To cite Diátaxis, please refer to :doc:`this website, diataxis.fr <index>`.
 

@@ -1,7 +1,7 @@
 .. _how-to:
 
 How-to guides
-===================
+=============
 
 ..  rubric:: How-to guides are **directions** that guide the reader through a problem or towards a result. How-to guides are **goal-oriented**.
 
@@ -96,7 +96,7 @@ Address real-world complexity
 **A how-to guide needs to be adaptable to real-world use-cases**. One that is useless for any purpose except *exactly* the narrow one you have addressed is rarely valuable. You can't address every possible case, so you must find ways to remain open to the range of possibilities, in such a way that the user can adapt your guidance to their needs.
 
 Omit the unnecessary
-~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~
 
 In how-to guides, **practical usability is more helpful than completeness.** Whereas a tutorial needs to be a complete,
 end-to-end guide, a how-to guide does not. It should start and end in some reasonable, meaningful place, and require
@@ -112,7 +112,7 @@ A how-to guide describes an *executable solution* to a real-world problem or tas
 
 
 Describe a logical sequence
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The fundamental structure of a how-to guide is a *sequence*. It implies logical ordering in time, that there is a sense and meaning to this particular order.
 

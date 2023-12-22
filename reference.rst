@@ -1,7 +1,7 @@
 .. _reference:
 
 Reference
-======================
+=========
 
 ..  rubric:: Reference guides are **technical descriptions** of the machinery and how to operate it. Reference material is **information-oriented**.
 
@@ -53,10 +53,10 @@ it describes, which is a powerful way of ensuring that it remains faithfully acc
 
 
 Key principles
-----------------------------------------
+--------------
 
 Describe and only describe
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 *Neutral description* is the key imperative of technical reference. 
 
