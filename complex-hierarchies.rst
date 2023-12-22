@@ -73,7 +73,7 @@ different installation options separately:
 Contents pages 
 --------------
 
-Contents pages - typically a home page and any landing pages - provide an oversight of the material they encompass.
+Contents pages - typically a home page and any landing pages - provide an overview of the material they encompass.
 
 There is an art to creating a good contents page. The experience they give the users deserves careful consideration.
 
