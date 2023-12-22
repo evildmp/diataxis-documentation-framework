@@ -24,7 +24,7 @@ possible to come up with an arrangement of documentation contents that looks - f
             Deploy
             Scale
         Reference             <- landing page
-            Commandline tool
+            Command-line tool
             Available endpoints
             API
         Explanation           <- landing page
