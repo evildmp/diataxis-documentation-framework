@@ -197,7 +197,7 @@ Doing this helps keep your tutorial shorter and crisper, and saves both you and 
 
 
 Aspire to perfect reliability
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All of the above are general principles of pedagogy, but there is a special burden on the creator of a tutorial. 
 
