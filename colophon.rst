@@ -9,7 +9,7 @@ It has been developed over a number of years, and continues to be elaborated and
 .. _contact:
 
 Contact me
----------------------
+----------
 
 `Email me <daniele@vurt.org>`_. I enjoy hearing about other people's experiences with Diátaxis and read everything I receive. 
 
