@@ -1,7 +1,7 @@
 .. _reference-explanation:
 
 The difference between reference and explanation
-=================================================
+================================================
 
 Explanation and reference both belong to the *theory* half of the Diátaxis map - they don't contain
 steps to guide the reader, they contain theoretical knowledge.

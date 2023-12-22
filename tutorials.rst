@@ -1,7 +1,7 @@
 .. _tutorials:
 
 Tutorials
-===============
+=========
 
 ..  rubric:: A tutorial is an **experience** that takes place under the guidance of a tutor. A tutorial is always **learning-oriented**. 
 
@@ -24,7 +24,7 @@ It's important to understand that while a student will learn by doing, what the 
 
 
 The tutorial as a lesson
--------------------------
+------------------------
 
 A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, *learning takes place as the pupil applies themself to tasks under the instructor's guidance*.
 
@@ -51,7 +51,7 @@ At the same time, the exercise you put your pupils through must be:
 
 
 The problem of tutorials
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~
 
 In general, tutorials are rarely done well, partly because they are genuinely difficult to do well, and partly because they are not well understood. In software, many products lack good tutorials, or lack tutorials completely; tutorials are often conflated with how-to guides.
 
@@ -71,7 +71,7 @@ Finally, tutorials contain the additional complication of the distinction betwee
 =================
 
 Key principles
----------------------------------
+--------------
 
 A tutorial is a pedagogical problem. 
 
