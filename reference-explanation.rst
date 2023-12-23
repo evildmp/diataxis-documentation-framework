@@ -66,7 +66,7 @@ the reader stands in relation to the craft in question, in a relationship of *wo
 
 ..  sidebar::
 
-	To help avoid being mislead by intuition, see :ref:`compass`.
+	To help avoid being misled by intuition, see :ref:`compass`.
 
 **Reference** is what a user needs in order help *apply* knowledge and skill, while they
 are working.
