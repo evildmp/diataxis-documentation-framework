@@ -60,6 +60,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `ING Bank <https://www.ing.com>`_, for open-source (e.g. `doing-cli <https://github.com/ing-bank/doing-cli>`_,
   `Probatus <https://github.com/ing-bank/probatus>`_, `skorecard <https://github.com/timvink/skorecard>`_) and internal
   tooling projects
+* `Kisi <https://docs.kisi.io>`_, the next-generation door access control and security solution
 * `Lisk <https://lisk.io>`_
 * `Livepeer <https://livepeer.org>`_
 * `LootLocker <https://docs.lootlocker.io>`_, a backend for independent games development
