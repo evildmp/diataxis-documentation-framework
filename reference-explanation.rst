@@ -29,7 +29,7 @@ There are good rules of thumb.
 **Lists of things** (such as classes or methods or attributes), and **tables of
 information**, will generally turn out to belong in *reference*.
 
-On the other **if you can imagine reading something in the bath**, probably, it's
+On the other hand, **if you can imagine reading something in the bath**, it's probably
 *explanation* (though really there is no accounting for what people might read
 in the bath).
 
