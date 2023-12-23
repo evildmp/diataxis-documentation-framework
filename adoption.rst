@@ -50,6 +50,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Encore <https://encore.dev/docs>`_, a framework for rapid backend development
 * Ericsson (internal)
 * `fpm <https://fpm.fortran-lang.org>`_, the Fortran Package Manager
+* `Frameright <https://docs.frameright.io/>`_, a software stack for responsive images
 * Google's `Fuchsia operating system <https://fuchsia.dev/>`_
 * `Funding Circle <https://www.fundingcircle.com/>`_ (internal)
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
