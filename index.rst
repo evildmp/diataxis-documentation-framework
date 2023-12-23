@@ -33,7 +33,7 @@ Diátaxis identifies four modes of documentation - **tutorials**, **how-to guide
 **explanation**. It derives its structure from the relationship between them.
 
 In Diátaxis, each of these modes (or types) corresponds to a different user
-need. Each fulfils a different purpose and requires a different approach to
+need. Each fulfills a different purpose and requires a different approach to
 its creation.
 
 .. image:: /images/diataxis.png
