@@ -80,7 +80,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * `Splink <https://moj-analytical-services.github.io/splink/index.html>`_, a Python library for probabilistic data linkage
 * `stdlib <https://awvwgk.github.io/stdlib-docs>`_, the Fortran Standard library
 * `StrongLoop/LoopBack <https://loopback.io/doc/en/lb4>`_ by IBM
-* `TerminusDB <https://terminusdb.com/docs/terminusdb/#/>`_
+* `TerminusDB <https://terminusdb.com/docs/>`_
 * Tesla Motors (internal)
 * `WebAccess/DMP <https://docs.wadmp.com>`_
 * `websockets <https://websockets.readthedocs.io>`_
