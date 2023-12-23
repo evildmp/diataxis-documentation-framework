@@ -3,6 +3,10 @@
 The compass
 =======================
 
+.. image:: /images/diataxis.png
+   :alt:
+   :class: sidebar
+
 The Diátaxis map is an effective reminder of the different kinds of
 documentation and their relationship, and it accords well with intuitions
 about documentation.
@@ -28,35 +32,46 @@ simpler parts, and provides the author with a course-correction tool.
    :stub-columns: 0
    :class: wider
 
-   * - If the content describes...
+   * - If the content...
      - ...and serves the user's...
      - ...then it must belong to...
-   * - practical steps
-     - study
+   * - informs action
+     - acquisition of skill
      - a tutorial
-   * - practical steps
-     - work
+   * - informs action
+     - application of skill
      - a how-to guide
-   * - theoretical knowledge
-     - work
+   * - informs cognition
+     - application of skill
      - reference
-   * - theoretical knowledge
-     - study
+   * - informs cognition
+     - acquisition of skill
      - explanation
 
-The compass can be applied equally to user situations that need documentation,
-or to documentation itself that perhaps needs to be moved or improved.
+The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprising banal.
 
-To use the compass, two questions need to be asked:
+To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?* 
 
-  Are we dealing with **practical steps** (action, something someone will *do*),
-  or are we dealing with **theoretical knowledge** (propositional knowledge,
-  information, something someone will only *think*)?
+And it yields the answer.
 
-and:
 
-  Are we dealing with **study** (the *acquisition* of skills and knowledge)
-  or **work** (the *application* of skills and knowledge)?
+Using the compass
+------------------
 
-Using the compass is itself something that becomes more effective and accurate
-with practice, but it quickly becomes a useful decision-making tool.
+The compass is particularly effective when you think that you think you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider.
+
+Especially when you are trying to find your initial bearings, use the compass's terms flexibly; don't get fixated on the exact names.
+
+* *action*: practical steps, doing
+* *cognition*: theoretical or propositional knowledge, thinking
+* *acquisition*: study
+* *application*: work
+
+And the questions themselves can also be used in different ways:
+
+* Do I think I am writing for *x* or *y*?
+* Is this writing in front of me engaged in *x* or *y*?
+* Does the user need *x* or *y*?
+* Do I want to *x* or *y*?
+
+And try applying them close-up, at the level of sentences and words, or from a wider perspective, considering an entire document.
