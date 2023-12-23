@@ -93,6 +93,17 @@ This website is divided into two main sections, to help apply and understand Di�
 
 Diátaxis is proven in practice. Its principles have been adopted successfully in hundreds of documentation projects.
 
+
+..  epigraph::
+
+    At Gatsby we recently reorganized our open-source documentation, and the Diátaxis framework was our go-to resource
+    throughout the project. The four quadrants helped us prioritize the user’s goal for each type of documentation. By
+    restructuring our documentation around the Diátaxis framework, we made it easier for users to discover the
+    resources that they need when they need them.
+
+    -- Megan Sullivan (`@meganesulli <https://hachyderm.io/@meganesulli>`_)
+
+
 ..  epigraph::
 
     While redesigning the `Cloudflare developer docs <https://developers.cloudflare.com>`_, Diátaxis became our north star for information architecture. When we weren't sure where a new piece of content should fit in, we'd consult the framework. Our documentation is now clearer than it's ever been, both for readers and contributors.
@@ -109,5 +120,4 @@ Diátaxis is proven in practice. Its principles have been adopted successfully i
    :hidden:
    :titlesonly:
 
-   adoption
    colophon 

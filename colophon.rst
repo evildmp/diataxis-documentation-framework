@@ -31,7 +31,7 @@ The original context for the Diátaxis approach was limited to software product 
 Other people have corresponded with me to share their experience of applying Diátaxis to note-taking systems and even as part of a systematic approach to household management.
 
 
-Contribution, citation, inclusion
+Citation and contribution  
 ---------------------------------
 
 To cite Diátaxis, please refer to :doc:`this website, diataxis.fr <index>`.
@@ -42,15 +42,13 @@ The Git repository for the source material contains a citation file, `CITATION.c
 APA and BibTeX metadata are available from the *Cite this repository* option at
 https://github.com/evildmp/diataxis-documentation-framework.
 
-You can also submit a pull request to have your documentation listed in :ref:`Who's using
-Diátaxis <adoption>` or to suggest an improvement, or `file an issue
+You can also submit a pull request to suggest an improvement or correction, or `file an issue
 <https://github.com/evildmp/diataxis-documentation-framework/issues>`_.
+
+Diátaxis is now used in several hundred projects and it is no longer possible for me to keep up with requests to have projects listed here as examples of Diátaxis adoption. 
 
 
 Website
 -------
 
-This website is built with `Sphinx <https://www.sphinx-doc.org>`_ and hosted
-on `Read the Docs <http://readthedocs.org>`_, using a modified version of the
-`Furo <https://github.com/pradyunsg/furo>`_ theme by `Pradyun Gedam
-<https://pradyunsg.me/>`_.
+This website is built with `Sphinx <https://www.sphinx-doc.org>`_ and hosted on `Read the Docs <http://readthedocs.org>`_, using a modified version of `Pradyun Gedam <https://pradyunsg.me/>`_'s `Furo <https://github.com/pradyunsg/furo>`_ theme.
