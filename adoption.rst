@@ -55,6 +55,7 @@ bodies of documentation. In some cases the adoption remains partial or is still 
 * Google's `Fuchsia operating system <https://fuchsia.dev/>`_
 * `Funding Circle <https://www.fundingcircle.com/>`_ (internal)
 * `Gatsby <https://www.gatsbyjs.com/docs/>`_
+* `Gem Logic <https://docs.gem-logic.com>`_
 * `Gensim <https://radimrehurek.com/gensim/auto_examples/index.html>`_, `How to Author Gensim Documentation
   <https://radimrehurek.com/gensim/auto_examples/howtos/run_doc.html>`_
 * `Gorgonia <https://gorgonia.org>`_, a deep learning library for Go
