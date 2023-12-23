@@ -1,7 +1,7 @@
 .. _tutorials-how-to:
 
-What’s the difference between a tutorial and how-to guide?
-===============================================================
+The difference between a tutorial and how-to guide
+==================================================
 
 In Diátaxis, tutorials and how-to guides are strongly distinguished. It’s a distinction that’s often not made; in fact
 the single most common conflation made in software product documentation is that between the *tutorial* and the *how-to
@@ -31,7 +31,7 @@ They are closely related, and like many close relations, can be mistaken for one
 What matters is what the user needs
 ------------------------------------------------
 
-Diátaxis insists that :ref:`what matters in documentation is the needs of the user <needs>`, and it’s by paying
+Diátaxis insists that what matters in documentation is the needs of the user, and it's by paying
 attention to this that we can correctly distinguish between tutorials and how-to guides.
 
 Sometimes the user is **at study**, and sometimes the user is **at work**. Documentation has to serve both those needs.

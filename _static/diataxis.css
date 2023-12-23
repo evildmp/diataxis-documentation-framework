@@ -1,21 +1,27 @@
-@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&family=Source+Serif+Pro:ital,wght@0,400;0,600;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,700;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,700;1,8..60,400;1,8..60,700&display=swap');
+
 
 :root {
   --orange: #FF9300;
 }
 
-body {font-family: 'Source Serif Pro', serif;}
-aside, table {font-family: 'Source Sans Pro', sans-serif;}
+body {font-family: 'Source Serif 4', serif;}
+aside, table {font-family: 'Source Sans 3', sans-serif;}
 
 
-/*aside.sidebar-drawer {background: #ABC;}
-aside.sidebar-drawer div.sidebar-container {background: #acb;}
-div.content {background: #bca;}
-div.article-container {background: #bac;}
-aside.toc-drawer {background: #bbb};}
-aside.toc-drawer {background: #cba}
-article aside.sidebar {background: #ccc;}
-*/
+/* --------- headings --------- */
+
+h1 {font-size: 2rem;}
+
+h2 {
+    font-weight: 700;
+    font-size: 1.75rem;
+}
+
+h3 {
+    font-weight: 400;
+    font-size: 1.75rem;
+}
 
 /* --------- left and right TOCs --------- */
 
@@ -27,6 +33,23 @@ article aside.sidebar {background: #ccc;}
 .sidebar-container, .toc-drawer {
     width: 12em;
 }
+
+div.sidebar-tree .toctree-l1.current-page>.reference {color: var(--orange); font-weight: normal;}
+div.sidebar-tree .toctree-l1>.reference {color: #666; padding: .3rem .5rem}
+div.sidebar-tree .toctree-l1>.reference:hover {color: var(--orange);}
+div.sidebar-tree .toctree-l1:first-child>.reference {font-weight: bold;}
+
+div.sidebar-tree ul {
+    border-bottom: 1px solid var(--orange);
+    padding: 1em 0;
+}
+
+input.sidebar-search {border: none;}
+
+/* --------- in-page TOCs --------- */
+
+.toc-with-header ul li:first-child {font-weight: bold;}
+
 
 /* --------- asides --------- */
 
@@ -47,8 +70,7 @@ article .sidebar>* {
     border: none
 }
 article .sidebar p.sidebar-title {
-    border: none;
-    font-weight: 600;
+    font-weight: 700;
 }
 
 /* --------- widths at different breakpoints --------- */
@@ -60,43 +82,51 @@ article .sidebar p.sidebar-title {
         padding: 0 1em 0 15em;
         width: 36em;
     }
+
     article .sidebar,
     h2 {
         position: absolute; left: 0;
         width: 12rem;
         margin: -2rem 2rem 0 1rem;
         padding-top: 2rem;
+        padding-right: 0;
+        padding-left: 0;
         text-align: right;
         background: none;
     }
+
     article aside.sidebar {border: none;}
-    article .sidebar>:first-child {margin-top: 0;}
     article .sidebar>*,
     article .sidebar .sidebar-title {padding-left: 0; padding-right: 0;}
-    img.wider, table.wider, figure.wider, hr {
+    img.wider, table.wider, figure.wider {
         width: 50em; max-width: 50em;
         margin: 2em 0;
         left: -14em;
         position: relative;
     }
+
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
     img.floated {
         width: 50%;
         float: right;
         margin-bottom: 1rem; margin-left: 1rem;
     }
+
     h2>.headerlink,
     .sidebar p .headerlink {
         position: absolute; top: 0; right: 0;
     }
+
     h2 + * {margin-top: 2rem;}
 }
+
+/* --------- even more space at 67em --------- */
 
 @media only screen and (min-width: 67em) {
     .content {padding: 0 1em 0 17em;}
     article .sidebar,
     h2 {width: 14rem;}
-    img.wider, table.wider, figure.wider, hr {
+    img.wider, table.wider, figure.wider {
         width: 52em; max-width: 52em;
         margin: 2em 0;
         left: -16em;
@@ -108,9 +138,6 @@ article .sidebar p.sidebar-title {
     .content {padding: 0 3em 0 17em;}
 }
 
-/* --------- headings --------- */
-
-h1 {font-size: 2rem;}
 
 /* --------- misc --------- */
 
@@ -123,15 +150,12 @@ p.rubric {
 
 hr.docutils {background-color: var(--orange);}
 
+blockquote {font-size: 90%}
 blockquote.epigraph {
     border-left: none;
-    padding: 1em 0 1em 3em;
+    padding: 1em 3em 1em 3em;
 }
-blockquote p.attribution {padding-left: 3em; font-style: normal;
-
-/*    margin: 0 3em;
-    padding-bottom: 2em;
-*/}
+blockquote p.attribution {padding-left: 3em; font-style: normal;}
 
 figcaption {text-align: right; font-style: italic;}
 
@@ -141,19 +165,7 @@ div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
     div.lined div.sd-col {border-bottom: 1px solid var(--orange);}
 }
 
-a:link, a:visited {color: var(--orange);}
 
-/* --------- TOC sidebar --------- */
-
-div.sidebar-tree .toctree-l1>.reference {color: #666;}
-div.sidebar-tree .toctree-l1>.reference:hover {color: var(--orange);}
-
-div.sidebar-tree ul {
-    border-bottom: 1px solid var(--orange);
-    padding: 1em 0;
-}
-
-input.sidebar-search {border: none;}
 
 /* --------- embed --------- */
 
@@ -196,3 +208,16 @@ table.docutils th.stub {text-align: right;}
 table.docutils tr:last-child td,
 table.docutils tr:last-child th {border-bottom: none;}
 table.docutils thead {border-bottom: 1px solid var(--orange);}
+table.align-default {margin-left: 0; margin-right: 0}
+
+/* --------- lists --------- */
+
+dl dt {font-style: italic}
+
+/* --------- links --------- */
+
+a:link, a:visited {color: var(--orange);}
+
+a.headerlink {text-decoration: none;}
+
+.related-pages a:hover .page-info .title {color: var(--orange);}

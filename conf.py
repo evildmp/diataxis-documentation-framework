@@ -77,6 +77,10 @@ html_sidebars = {
     ]
 }
 
+html_permalinks_icon = "¶"
+
+html_show_sphinx = False
+
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
 # so a file named "default.css" will overwrite the builtin "default.css".
@@ -88,6 +92,7 @@ html_favicon = "favicon.png"
 spelling_lang = tokenizer_lang = "en_GB"
 
 redirects = {
-     "citation": "/colofon",
-     "contact": "/colofon"
+     "citation": "/colophon",
+     "contact": "/colophon",
+     "colofon": "/colophon",
 }

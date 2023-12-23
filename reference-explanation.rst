@@ -1,7 +1,7 @@
 .. _reference-explanation:
 
-Explanation and reference
-==========================
+The difference between reference and explanation
+================================================
 
 Explanation and reference both belong to the *theory* half of the Diátaxis map - they don't contain
 steps to guide the reader, they contain theoretical knowledge.
@@ -22,16 +22,13 @@ In addition, examples of writing are themselves often clearly one or the other. 
 with its tables of figures, is clearly reference material. An article that explains *why* there
 are tides and how they behave is self-evidently explanation.
 
-There are good rules of thumb.
+There are good rules of thumb:
 
-**If it's boring and unmemorable** it's probably *reference*.
+* **If it's boring and unmemorable** it's probably *reference*.
 
-**Lists of things** (such as classes or methods or attributes), and **tables of
-information**, will generally turn out to belong in *reference*.
+* **Lists of things** (such as classes or methods or attributes), and **tables of information**, will generally turn out to belong in *reference*.
 
-On the other **if you can imagine reading something in the bath**, probably, it's
-*explanation* (though really there is no accounting for what people might read
-in the bath).
+* On the other hand **if you can imagine reading something in the bath**, probably, it's *explanation* (even if really there is no accounting for what people might read in the bath).
 
 Imagine asking a friend, while out for a walk or over a drink, **Can you
 tell me more about <topic>?** - the answer or discussion that follows is
@@ -69,7 +66,7 @@ the reader stands in relation to the craft in question, in a relationship of *wo
 
 ..  sidebar::
 
-	To help avoid being mislead by intuition, see :ref:`compass`.
+	To help avoid being misled by intuition, see :ref:`compass`.
 
 **Reference** is what a user needs in order help *apply* knowledge and skill, while they
 are working.
