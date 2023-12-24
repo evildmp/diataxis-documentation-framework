@@ -71,7 +71,7 @@ This website is divided into two main sections, to help apply and understand Di�
 
     ..  grid-item::
 
-        This section explores the theory and principles of Diátaxis more deeply, and set forth the understanding of needs that underpin it.
+        This section explores the theory and principles of Diátaxis more deeply, and sets forth the understanding of needs that underpin it.
 
     ..  grid-item::
 
