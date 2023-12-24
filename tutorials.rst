@@ -79,14 +79,14 @@ It's not an easy problem, but neither is it a mystery. The principles outlined b
 
 Still, there are straightforward, effective ways to address the problems of pedagogy in practice.
 
-The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give into it and try to teach by telling and explaining, you will jeopardise the learning experience. 
-
 ..  sidebar:: Anti-pedagogical temptations
 
     * abstraction, generalisation
     * explanation
     * choices
     * information
+
+The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give into it and try to teach by telling and explaining, you will jeopardise the learning experience. 
 
 Instead, *allow learning to take place*, and trust that it will. Give your learner things to *do*, through which they can learn. Only your pupil can learn. Sadly, however much you desire it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can learn.
 
@@ -107,6 +107,18 @@ Deliver visible results early and often
 Your learner is probably doing new and strange things that they don't fully understand. Understanding comes from being able to make connections between causes and effects, so let them see the results and make the connections rapidly and repeatedly. Each one of those results should be something that the user can see as meaningful.
 
 Every step the learner follows should produce a comprehensible result, however small.
+
+
+Maintain a narrative of the expected
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+At every step of a tutorial, the user experiences a moment of anxiety: will this action produce the correct result? Part of the work of a successful tutorial is to keep providing feedback to the learner that they are indeed on the right path.
+
+Keep up a narrative of expectations: "You will notice that ..."; "After a few moments, the server responds with ...". Show the user actual example output, or even the exact expected output.
+
+If you know know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
+
+It's helpful to prepare the user for possibly surprising actions: "The command will probably return several hundred lines of logs in your terminal."
 
 
 Point out what the learner should notice
@@ -133,7 +145,6 @@ As skill develops, it flows in a confident rhythm and becomes a kind of pleasure
 Your learner's skill depends upon their discovering this feeling, and its becoming a pleasure. 
 
 Your challenge as the creator of a tutorial is to ensure that its tasks tie together purpose and action so they become a cradle for this feeling.
-
 
 
 Encourage and permit repetition
@@ -174,18 +185,6 @@ In a learning situation, your student is in the moment, a moment composed of con
 Focus on *this* problem, *this* action, *this* result, in such a way that you lead the learner from step to concrete step. 
 
 It might seem that by maintaining focus on the concrete and particular that you deny the student the opportunity to see or grasp the larger general patterns, but the contrary is true. The one thing our minds do spectacularly well is to perceive general patterns from concrete examples. All learning moves in one direction: from the concrete and particular, towards the general and abstract. The latter *will* emerge from the former.
-
-
-Maintain a narrative of the expected
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-At every step of a tutorial, the user experiences a moment of anxiety: will this action produce the correct result? Part of the work of a successful tutorial is to keep providing feedback to the learner that they are indeed on the right path.
-
-Keep up a narrative of expectations: "You will notice that ..."; "After a few moments, the server responds with ...". Show the user actual example output, or even the exact expected output.
-
-If you know know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
-
-It's helpful to prepare the user for possibly surprising actions: "The command will probably return several hundred lines of logs in your terminal."
 
 
 Ignore options and alternatives
@@ -249,11 +248,9 @@ It really doesn't matter what the child makes, or how correctly they do it. The 
 
 Success in a cooking lesson with a child is not the culinary outcome, or whether the child can now repeat the processes on their own. Success is when the child acquires the knowledge and skills you were hoping to impart. 
 
-It's a crucial condition of this that the child discovers pleasure in the experience of being in the kitchen with you, and wants to return to it. 
+It's a crucial condition of this that the child discovers pleasure in the experience of being in the kitchen with you, and wants to return to it. Learning a skill is never a once and for all matter. Repetition is always required. 
 
-Learning a skill is never a once and for all matter. Repetition is always required. 
-
-Meanwhile, the cooking lesson might be framed around the idea of learning how to prepare a particular dish, but what we actually need the child to learn might be things like: that we wash our hands before handling food; how to hold a knife; why the oil must be hot; what this utensil is called, how to time and measure things. 
+Meanwhile, the cooking lesson might be framed around the idea of learning how to prepare a particular dish, but what we actually need the child to learn might be things like: *that we wash our hands before handling food*; *how to hold a knife*; *why the oil must be hot*; *what this utensil is called*, *how to time and measure things*. 
 
 The child learns all this by working alongside you in the kitchen; in its own time, at its own pace, **through the activities** you do together, and not from the things you say or show.
 
