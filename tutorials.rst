@@ -252,6 +252,6 @@ It's a crucial condition of this that the child discovers pleasure in the experi
 
 Meanwhile, the cooking lesson might be framed around the idea of learning how to prepare a particular dish, but what we actually need the child to learn might be things like: *that we wash our hands before handling food*; *how to hold a knife*; *why the oil must be hot*; *what this utensil is called*, *how to time and measure things*. 
 
-The child learns all this by working alongside you in the kitchen; in its own time, at its own pace, **through the activities** you do together, and not from the things you say or show.
+The child learns all this by working alongside you in the kitchen; in their own time, at their own pace, **through the activities** you do together, and not from the things you say or show.
 
-With a young child, you will often find that the lesson suddenly has to end before you'd completed what you set out to do. This is normal and expected; children have short attention spans. But as long as the child managed to achieve something - however small - and enjoyed doing it, it will have laid down something in the construction of its technical expertise, that can be returned to and built upon next time.
+With a young child, you will often find that the lesson suddenly has to end before you'd completed what you set out to do. This is normal and expected; children have short attention spans. But as long as the child managed to achieve something - however small - and enjoyed doing it, they will have laid down something in the construction of their technical expertise, that can be returned to and built upon next time.
