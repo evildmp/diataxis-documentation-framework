@@ -98,7 +98,7 @@ It's important to allow the learner to form an idea of what they will achieve ri
 
 Providing the picture the learner needs in a tutorial can be as simple as informing them at the outset: *In this tutorial we will create and deploy a scalable web application. Along the way we will encounter containerisation tools and services.*
 
-This is not the same as saying: *In this tutorial you will learn...* - which is presumptuous and a very poor pattern. 
+This is not the same as saying: *In this tutorial you will learn...* - which is presumptuous and a very poor pattern. It reduces the learner's experience to the passive receipt of information. Learning contributes to the learner's pre-existing understanding and is influenced by many factors, such as motivation, cognitive load and cognitive conflict. To state *...you will learn...* reveals that the tutor is ignorant of *how* knowledge is acquired.
 
 
 Deliver visible results early and often
