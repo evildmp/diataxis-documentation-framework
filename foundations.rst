@@ -21,7 +21,7 @@ Understanding the needs of these users means in turn understanding the essential
 Action/cognition
 ~~~~~~~~~~~~~~~~
 
-A skill or craft or practice contains both **action** (practical knowledge, knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing *that*, what we think). The two are completely bound up with each other, but they are counterparts, wholly distinct from each from each, two different aspects of the same thing.
+A skill or craft or practice contains both **action** (practical knowledge, knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing *that*, what we think). The two are completely bound up with each other, but they are counterparts, wholly distinct from each other, two different aspects of the same thing.
 
 
 Acquisition/application
