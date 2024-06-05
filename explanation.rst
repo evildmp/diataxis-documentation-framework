@@ -3,7 +3,7 @@
 Explanation
 ===========
 
-..  rubric:: Explanation is a discusive treatment of a subject, that permits *reflection*. Explanation is
+..  rubric:: Explanation is a discursive treatment of a subject, that permits *reflection*. Explanation is
     **understanding-oriented**.
 
 ===========
