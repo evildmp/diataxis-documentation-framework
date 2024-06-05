@@ -27,7 +27,7 @@ author = "Daniele Procida"
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
-extensions = ["sphinx_design", "sphinx_reredirects"]
+extensions = ["sphinx_design", "sphinx_reredirects", "sphinxext.opengraph"]
 
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ["_templates"]
@@ -96,3 +96,7 @@ redirects = {
      "contact": "/colophon",
      "colofon": "/colophon",
 }
+
+# OpenGraph metadata (see https://github.com/wpilibsuite/sphinxext-opengraph#options)
+ogp_site_url = "https://diataxis.fr/"
+ogp_image = "images/diataxis.png"
