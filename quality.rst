@@ -6,7 +6,7 @@ Diátaxis is an approach to *quality* in documentation.
 "Quality" is a word in danger of losing some of its meaning; it's something we
 all approve of, but rarely risk trying to describe in any rigorous way. We
 want quality in our documentation, but much less often specify what exactly
-what we mean by that.
+we mean by that.
 
 All the same, we can generally point to examples of "high quality
 documentation" when asked, and can identify lapses in quality when we see
@@ -135,7 +135,7 @@ How we recognise deep quality
 Consider how we judge the quality of say, clothing. Clothes must have
 *functional quality* (they must keep us appropriately warm and dry, stand up
 to wear). These things are objectively measurable. You don't really need to
-know much about clothes to assess how well they do those this. If water gets
+know much about clothes to assess how well they do those things. If water gets
 in, or the clothing falls apart - it lacks quality.
 
 There are other characteristics of quality in clothing that can't simply be
