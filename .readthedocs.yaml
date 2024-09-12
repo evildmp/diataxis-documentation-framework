@@ -21,3 +21,8 @@ sphinx:
 python:
   install:
   - requirements: requirements.txt
+
+
+# Build offline formats
+# https://docs.readthedocs.io/en/stable/guides/enable-offline-formats.html
+formats: all
