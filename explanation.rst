@@ -16,7 +16,7 @@ Explanation deepens and broadens the reader's understanding of a subject. It bri
 
 The concept of *reflection* is important. Reflection occurs *after* something else, and depends on something else, yet at the same time brings something new - shines a new light - on the subject matter.
 
-The perspective of explanation is higher and wider than that of the other not types. It does not take the user's eye-level view, as in a how-to guide, or a close-up view of the machinery, like reference material. Its scope in each case is a topic - "an area of knowledge", that somehow has to be bounded in a reasonable, meaningful way.
+The perspective of explanation is higher and wider than that of the other types. It does not take the user's eye-level view, as in a how-to guide, or a close-up view of the machinery, like reference material. Its scope in each case is a topic - "an area of knowledge", that somehow has to be bounded in a reasonable, meaningful way.
 
 For the user, explanation joins things together. It's an answer to the question: *Can you tell me about ...?*
 
