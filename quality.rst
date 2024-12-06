@@ -135,7 +135,7 @@ How we recognise deep quality
 Consider how we judge the quality of say, clothing. Clothes must have
 *functional quality* (they must keep us appropriately warm and dry, stand up
 to wear). These things are objectively measurable. You don't really need to
-know much about clothes to assess how well they do those this. If water gets
+know much about clothes to assess how well they do those things. If water gets
 in, or the clothing falls apart - it lacks quality.
 
 There are other characteristics of quality in clothing that can't simply be
