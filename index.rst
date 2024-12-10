@@ -32,6 +32,7 @@ Diátaxis identifies four distinct needs, and four corresponding forms of docume
 
 .. image:: /images/diataxis.png
    :alt: Diátaxis
+   :class: wider
 
 Diátaxis solves problems related to documentation *content* (what to write), *style* (how to write it) and *architecture* (how to organise it). 
 
@@ -42,7 +43,6 @@ As well as serving the users of documentation, Diátaxis has value for documenta
 Contents
 --------
 
-This website is divided into two main sections, to help apply and understand Diátaxis.
 
 ..  grid:: 1 2 2 2
     :padding: 0
@@ -51,7 +51,21 @@ This website is divided into two main sections, to help apply and understand Di�
 
     ..  grid-item::
 
-        *Start here.* These pages will help make immediate, concrete sense of the approach. 
+        The best way to get started with Diátaxis is by applying it after reading a brief primer. 
+        
+    ..  grid-item::
+
+        ..  rst-class:: toc-with-header
+            
+        ..  toctree::
+            :maxdepth: 1
+            :titlesonly:
+
+            Start here <start-here>
+
+    ..  grid-item::
+
+        These pages will help make immediate, concrete sense of the approach. 
         
     ..  grid-item::
 
@@ -88,11 +102,18 @@ This website is divided into two main sections, to help apply and understand Di�
             Tutorials and how-to guides <tutorials-how-to>
             Reference and explanation <reference-explanation>
             Complex hierarchies <complex-hierarchies>
+            The body <the-body>
 
 --------
 
 Diátaxis is proven in practice. Its principles have been adopted successfully in hundreds of documentation projects.
 
+
+.. epigraph::
+
+    Diátaxis has allowed us to build a high-quality set of internal documentation that our users love, and our contributors love adding to.
+
+    -- Greg Frileux, `Vonage <https://vonage.com/>`_
 
 ..  epigraph::
 
