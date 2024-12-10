@@ -1,3 +1,7 @@
+.. meta::
+   :description:
+       The best way to get started with Diátaxis is by applying it to documentation problems.
+
 =======================================
 Start here - Diátaxis in a few minutes
 =======================================

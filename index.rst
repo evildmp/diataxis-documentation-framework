@@ -1,7 +1,6 @@
 .. meta::
    :description:
-       The Diátaxis framework solves a problem of quality in technical documentation, describing an
-       information architecture that makes it easier to create, maintain and use.
+       Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking about and creating documentation.
    :keywords: documentation, four, kinds, architecture
 
 .. _diataxis:
