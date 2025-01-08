@@ -121,7 +121,7 @@ On the other hand:
 * tutorials and explanation serve the *acquistion* of skill (the user's **study**)
 * how-to guides and reference serve the *application* of skill (the user's **work**)
 
-But a map doesn't tell you want to *do* - it's reference. To guide your action you need a different sort of tool, in this case, a kind of Diátaxis compass.
+But a map doesn't tell you what to *do* - it's reference. To guide your action you need a different sort of tool, in this case, a kind of Diátaxis compass.
 
 ..  sidebar::
    
