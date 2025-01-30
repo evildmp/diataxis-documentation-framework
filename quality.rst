@@ -6,7 +6,7 @@ Diátaxis is an approach to *quality* in documentation.
 "Quality" is a word in danger of losing some of its meaning; it's something we
 all approve of, but rarely risk trying to describe in any rigorous way. We
 want quality in our documentation, but much less often specify what exactly
-what we mean by that.
+we mean by that.
 
 All the same, we can generally point to examples of "high quality
 documentation" when asked, and can identify lapses in quality when we see
