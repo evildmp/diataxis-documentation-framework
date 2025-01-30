@@ -15,7 +15,7 @@ A tutorial serves the user's *acquisition* of skills and knowledge - their study
     :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
     :class: sidebar
 
-A tutorial in other words is a lesson. 
+A tutorial, in other words, is a lesson. 
 
 It's important to understand that while a student will learn by doing, what the student *does* is not necessarily what they *learn*. Through doing, they will acquire theoretical knowledge (i.e. facts), understanding, familiarity. They will learn how things relate to each other and interact, and how to interact with them. They will learn the names of things, the use of tools, workflows, concepts, commands. And so on.
 
@@ -26,9 +26,9 @@ It's important to understand that while a student will learn by doing, what the 
 The tutorial as a lesson
 ------------------------
 
-A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, *learning takes place as the pupil applies themself to tasks under the instructor's guidance*.
+A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, *learning takes place as the pupil applies themselves to tasks under the instructor's guidance*.
 
-A lesson is a *learning experience*. In a learning experience, what matters is what the learner does and what happens. By contrast, the teacher's explanations and recitations of fact are far less important.
+A lesson is a *learning experience*. In a learning experience, what matters is what the learner does and what happens. By contrast, the teacher's explanations and recitations of facts are far less important.
 
 A good lesson gives the learner confidence, by showing them that they can be successful in a certain skill or with a certain product.
 
@@ -40,7 +40,7 @@ Obligations of the teacher
 
     It's not easy being a teacher.
 
-A lesson is a kind of contract between teacher and student, in which nearly all the responsibility falls upon the teacher. The teacher has responsibility for what the pupil is to learn, what the pupil will do in order to learn it, and for the pupil's success. Meanwhile, the only responsibility of the pupil in this contract is to be attentive and to follow the teacher's directions as closely as they can. There is no responsibility on the pupil to learn, understand or remember.
+A lesson is a kind of contract between teacher and student, in which nearly all the responsibility falls upon the teacher. The teacher has responsibility for what the pupil is to learn, what the pupil will do in order to learn it, and for the pupil's success. Meanwhile, the only responsibility of the pupil in this contract is to be attentive and follow the teacher's directions as closely as possible. There is no responsibility on the pupil to learn, understand or remember.
 
 At the same time, the exercise you put your pupils through must be:
 
@@ -65,7 +65,7 @@ It's hard enough to put together a learning experience that meets all the standa
 
 You will also often find that no other part of your documentation is subject to revisions the way your tutorials are. Elsewhere in documentation, changes and improvements can generally be made discretely; in tutorials, where the end-to-end learning journey must make sense, they often cascade through the entire story. 
 
-Finally, tutorials contain the additional complication of the distinction between *what is to be learned* and *what is to be done*. Not only must the creator of a tutorial have a good sense of what the user must learn, and when, they must also devise a meaningful learning journey that somehow delivers all that.
+Finally, tutorials contain the additional complication of the distinction between *what is to be learned* and *what is to be done*. Not only must the creator of a tutorial have a good sense of what the user must learn, and when, but they must also devise a meaningful learning journey that somehow delivers all that.
 
 
 =================
@@ -116,7 +116,7 @@ At every step of a tutorial, the user experiences a moment of anxiety: will this
 
 Keep up a narrative of expectations: "You will notice that ..."; "After a few moments, the server responds with ...". Show the user actual example output, or even the exact expected output.
 
-If you know know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
+If you know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
 
 It's helpful to prepare the user for possibly surprising actions: "The command will probably return several hundred lines of logs in your terminal."
 
