@@ -25,7 +25,7 @@ Diátaxis is a way of thinking about and doing documentation.
 
     **Diátaxis workshops April 2025**
 
-    Online, free and exclusively for open knowledge projects. More information
+    Online, free and exclusively for open knowledge projects. `More information <https://vurt.org/events/workshops-april-2025/>`_
 
 It prescribes approaches to content, architecture and form that emerge from a systematic approach to understanding the needs of documentation users.
 
