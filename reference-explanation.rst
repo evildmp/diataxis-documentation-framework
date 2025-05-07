@@ -71,7 +71,7 @@ the reader stands in relation to the craft in question, in a relationship of *wo
 **Reference** is what a user needs in order help *apply* knowledge and skill, while they
 are working.
 
-**Explanation** is what someone will turn to to help them *acquire* knowledge
+**Explanation** is what someone will turn to help them *acquire* knowledge
 and skill - "study".
 
 
