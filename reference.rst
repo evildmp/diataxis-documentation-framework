@@ -10,7 +10,7 @@ Reference
 Reference material contains *propositional or theoretical* knowledge that a user looks to in their *work*.
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
-way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
+way. Whereas the content of tutorials and how-to guides are led by the needs of the user, reference
 material is led by the product it describes.
 
 ..  image:: /images/overview-reference.png
@@ -74,7 +74,7 @@ It can be tempting to introduce instruction and explanation, simply because desc
 Adopt standard patterns
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-**Reference material is useful when it is consistent.** Standard patterns are what allow us to use reference material effectively. Your job is to place the material that your user needs know where they expect to find it, in a format that they are familiar with.
+**Reference material is useful when it is consistent.** Standard patterns are what allow us to use reference material effectively. Your job is to place the material that your user needs to know where they expect to find it, in a format that they are familiar with.
 
 There are many opportunities in writing to delight your readers with your extensive vocabulary and command of multiple styles, but reference material is definitely not one of them.
 
