@@ -58,7 +58,7 @@ And it yields the answer.
 Using the compass
 ------------------
 
-The compass is particularly effective when you think that you think you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider.
+The compass is particularly effective when you think that you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider.
 
 Especially when you are trying to find your initial bearings, use the compass's terms flexibly; don't get fixated on the exact names.
 
