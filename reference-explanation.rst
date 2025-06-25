@@ -3,12 +3,12 @@
 The difference between reference and explanation
 ================================================
 
-Explanation and reference both belong to the *theory* half of the Diátaxis map - they don't contain
+Reference and explanation both belong to the *theory* half of the Diátaxis map - they don't contain
 steps to guide the reader, they contain theoretical knowledge.
 
-The difference between them is - just as in the difference between tutorials and how-to guides - the
-difference between the *acquisition* of skill and knowledge, and its *application*. In other words
-it's the distinction between *study* and *work*.
+The difference between them is - just as in the difference between tutorials and how-to guides - that
+reference is used in the *application* of skill and knowledge, whereas explanation is used for the
+*acquisition* of skill and knowledge. In other words, it's the distinction between *work* and *study*.
 
 
 A straightforward distinction, *mostly*
