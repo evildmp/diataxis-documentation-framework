@@ -221,3 +221,13 @@ a:link, a:visited {color: var(--orange);}
 a.headerlink {text-decoration: none;}
 
 .related-pages a:hover .page-info .title {color: var(--orange);}
+
+@keyframes highlight {
+    0% {background: var(--orange);}
+    100% {background: none;}
+}
+
+:target>h1:first-of-type, :target>h2:first-of-type, :target>h3:first-of-type, :target>h4:first-of-type, :target>h5:first-of-type, :target>h6:first-of-type, span:target~h1:first-of-type, span:target~h2:first-of-type, span:target~h3:first-of-type, span:target~h4:first-of-type, span:target~h5:first-of-type, span:target~h6:first-of-type {
+    animation: highlight 2000ms;
+    background: none;
+}
