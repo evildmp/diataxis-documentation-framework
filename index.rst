@@ -102,7 +102,6 @@ Contents
             Tutorials and how-to guides <tutorials-how-to>
             Reference and explanation <reference-explanation>
             Complex hierarchies <complex-hierarchies>
-            The body <the-body>
 
 --------
 
