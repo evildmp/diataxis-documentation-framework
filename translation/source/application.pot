@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-01 23:34+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,61 +17,76 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../application.rst:2
+#: 1eebaaee01b5407f9d9669db39c0118b
 msgid "Applying Diátaxis"
 msgstr ""
 
 #: ../../application.rst:5
+#: ad96a7b2209a45ad9ffc0040469e1a52
 msgid "The pages in this section are concerned with putting Diátaxis into practice."
 msgstr ""
 
 #: ../../application.rst:9
+#: c52aade4850e4e54bbfdef73042b1745
 msgid "Diátaxis is underpinned by :doc:`systematic theoretical principles <theory>`, but understanding them is not necessary to make effective use of the system."
 msgstr ""
 
 #: ../../application.rst:11
+#: 81bbba5712b0498c8d10e7cbd795bcf7
 msgid "Diátaxis is primarily intended as a pragmatic approach for people working on documentation. Most of the key principles required to put it into practice successfully can be grasped intuitively."
 msgstr ""
 
 #: ../../application.rst:13
+#: 824c335578cb405ea35e7c4369e3115f
 msgid "Don't wait to understand Diátaxis before you start trying to put it into practice. Not only do you not need to understand it all to make use of it, you will not understand it until you have started using it (this itself is a Diátaxis principle)."
 msgstr ""
 
 #: ../../application.rst:15
+#: 57477d3e104f4f96935ac2cfc0185864
 msgid "As soon as you feel you have picked up an idea that seems worth applying to your work, try applying it. Come back here when you need more clarity or reassurance. Iterate between your work and reflecting on your work."
 msgstr ""
 
 #: ../../application.rst:20
+#: 5a91defab5094751977b851524ef3fa1
 msgid "In this section"
 msgstr ""
 
 #: ../../application.rst:22
+#: 240bb1570b8d4e89be7d20dcc8153794
 msgid "At the core of Diátaxis are the four different kinds of documentation it identifies. If you're encountering Diátaxis for the first time, start with these pages."
 msgstr ""
 
 #: ../../application.rst:24
+#: b5cb011212ac49a29789291ddc82959a
 msgid ":doc:`tutorials` - learning-oriented experiences"
 msgstr ""
 
 #: ../../application.rst:25
+#: c69fb59b81ec412abf728ab0d9f38722
 msgid ":doc:`how-to-guides` - goal-oriented directions"
 msgstr ""
 
 #: ../../application.rst:26
+#: 74bdd4a0245a4ef08516f5d6308abc0c
 msgid ":doc:`reference` - information-oriented technical description"
 msgstr ""
 
 #: ../../application.rst:27
+#: c52c294d7df84f6fbd4f556af54c9037
 msgid ":doc:`explanation` - understanding-oriented discussion"
 msgstr ""
 
 #: ../../application.rst:29
+#: 0a39fa929c6549a6848c6403b3f75682
 msgid "Diátaxis prescribes principles that guide action. These translate into particular ways of working, with implications for documentation process and execution. Once you've made your first start, the tools and methods outlined here will help smooth your way."
 msgstr ""
 
 #: ../../application.rst:31
+#: b2c0da1a90bd4261841bb72b81df76cf
 msgid ":doc:`compass` - a simple tool for direction-finding"
 msgstr ""
 
 #: ../../application.rst:32
+#: a694d265d28642f982be6402af9f00bc
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
 msgstr ""

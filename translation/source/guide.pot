@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 09:45+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,81 +17,101 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../guide.rst:3
+#: af28bdc7309f4a598c0ec7a92e91306f
 msgid "Daniele's guide to translation: Sphinx, RTD, Github, Transifex"
 msgstr ""
 
 #: ../../guide.rst:5
+#: 05e276e535a149d0844e542a9c12a685
 msgid "This is a pretty standard workflow for Sphinx documentation:"
 msgstr ""
 
 #: ../../guide.rst:7
+#: 157ee145a42c4d6fb0ed4241e173e61f
 msgid "You maintain your documentation source in Git, on GitHub. It's published on Read the Docs. Translations are managed on Transifex."
 msgstr ""
 
 #: ../../guide.rst:9
+#: 40ae5899fe5a4d12afb309baefdf2013
 msgid "All three platforms - GitHub, RTD and Transifex - play nicely together so that changes to the project's content are automatically sent for translation to Transifex, and get themselves published, all with minimal work for you the maintainer."
 msgstr ""
 
 #: ../../guide.rst:13
+#: 3c7518f8d1e74c74bc781e4ecd13f4ca
 msgid "Basic translation workflow"
 msgstr ""
 
 #: ../../guide.rst:15
+#: 29a59504905c498db7e2fd44be27e748
 msgid "The very basic translation workflow is:"
 msgstr ""
 
 #: ../../guide.rst:17
+#: c70eb0a8e0e349e28a8c27ffce45377e
 msgid "generate a ``.pot`` file (\"Portable Object Template\" – essentially, translation source files)  for each of the pages of your documentation"
 msgstr ""
 
 #: ../../guide.rst:18
+#: a0a7f5a7897a49f7b64d8c3a47b9de50
 msgid "generate/update corresponding ``.po`` files for each target language"
 msgstr ""
 
 #: ../../guide.rst:19
+#: a81b244dca814bf5867ed937798545a3
 msgid "edit the ``.po`` files to add/update the translations"
 msgstr ""
 
 #: ../../guide.rst:20
+#: 63b30e1abcd549e9a211f4924b94ce16
 msgid "build the translated documentation from the ``.po`` files"
 msgstr ""
 
 #: ../../guide.rst:22
-msgid "When using Transifex, instead of editing ``.po`` files locally, the source strings are sent to Transifex, translated there, and then the translated strings pulled back down into ``.po`` files."
+#: bcbc4039216e4277bfcde519b3f6378c
+msgid "When using Transifex, instead of editing ``.po`` files locally, the source strings in the ``.pot`` files are sent to Transifex, translated there, and then the translated strings pulled back down into ``.po`` files."
 msgstr ""
 
 #: ../../guide.rst:26
+#: 26fe567e32524992bb831183ae49820f
 msgid "Configuration"
 msgstr ""
 
 #: ../../guide.rst:27
+#: 84feeda315484e92aa652aba0095b4bf
 msgid "You need to have your project up and running, and published on RTD."
 msgstr ""
 
 #: ../../guide.rst:29
+#: 343319225d854bf084b08a46df747a5c
 msgid "Edit ``conf.py``::"
 msgstr ""
 
-#: ../../guide.rst:37
+#: ../../guide.rst:38
+#: 0c2bb094dfb645928d3364f2842c87e0
 msgid "We need a ``transifex.yaml`` file in the repository, so Transifex knows how to behave::"
 msgstr ""
 
 #: ../../guide.rst:50
+#: 18f01d714f7c43fa9d5fff089df592b6
 msgid "Executing the workflow"
 msgstr ""
 
 #: ../../guide.rst:52
-msgid "Run: ``make gettext``. This will create a ``gettext`` directory inside your build directory (usually, ``_build``) containing a ``.pot`` file for each page."
+#: a9d07e2b09774b16bea6d785f781cc14
+msgid "Generate the ``.pot`` files Run: ``make gettext``. This will create a ``gettext`` directory inside your build directory (usually, ``_build``) containing a ``.pot`` file for each page."
 msgstr ""
 
-#: ../../guide.rst:54
-msgid "``_build`` is excluded from commits, but the ``.pot`` files need to be committed, so use ``make copy-pot-files`` to copy them to ``.pot`` files in ``translation/pot``."
+#: ../../guide.rst:55
+#: f0bbc8a3eae34bd995cdbf93d88dc375
+msgid "``_build`` is excluded from commits, but the ``.pot`` files need to be committed, so use ``make copy-pot-files`` to copy them to ``.pot`` files in ``translation/source``."
 msgstr ""
 
-#: ../../guide.rst:56
+#: ../../guide.rst:57
+#: 7817c7ac33ca407ab92ba75fedc24fc7
 msgid "Then the changes can be committed and pushed."
 msgstr ""
 
-#: ../../guide.rst:58
+#: ../../guide.rst:59
+#: 878e39a257c74845999baac42d470333
 msgid "The next thing is to get the ``.pot`` files into Transifex. Transifex should do that itself, watching GitHub for changes."
 msgstr ""

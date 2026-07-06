@@ -8,7 +8,8 @@ HTMLDIR       = $(BUILDDIR)/html
 GETTEXTDIR    = $(BUILDDIR)/gettext
 SPELLINGDIR   = $(BUILDDIR)/spelling
 TRANSLATIONSDIR = translation
-POTDIR        = $(TRANSLATIONSDIR)/pot
+TRANSLATIONSOURCEDIR = $(TRANSLATIONSDIR)/source
+TRANSLATIONTARGETSDIR = $(TRANSLATIONSDIR)/targets
 
 VENV = env/bin/activate
 PORT = 8090
@@ -46,8 +47,8 @@ gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 copy-pot-files: gettext
-	mkdir -p $(POTDIR)
-	cp $(GETTEXTDIR)/*.pot $(POTDIR)/
+	mkdir -p $(TRANSLATIONSOURCEDIR)
+	cp $(GETTEXTDIR)/*.pot $(TRANSLATIONSOURCEDIR)/
 
 spelling:
 	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) $(SOURCEDIR) $(SPELLINGDIR)

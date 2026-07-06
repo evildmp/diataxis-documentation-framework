@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 00:25+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,317 +17,399 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../start-here.rst:-1
+#: 6476653d9f89435a9cc7728709e6c6fc
 msgid "The best way to get started with Diátaxis is by applying it to documentation problems."
 msgstr ""
 
 #: ../../start-here.rst:7
+#: 189ccaa8f0894a0c82ccb24eaae33288
 msgid "Start here - Diátaxis in five minutes"
 msgstr ""
 
 #: ../../start-here.rst:11
+#: 9ddd2752975a4573a3397756e8cda89e
 msgid "Treat this website as a handbook or a toolbox that you make use of when you need it."
 msgstr ""
 
 #: ../../start-here.rst:13
+#: ae0ab905a23f4659beb1cbc2bf9e742a
 msgid "You don't need to read everything on this website to make sense of Diátaxis, or to start using it in practice. In fact I recommend that you don't. **The best way to get started with Diátaxis is by applying it** - to something, however small."
 msgstr ""
 
 #: ../../start-here.rst:15
+#: c4a45b36802e404cb851c7c2f58281c8
 msgid "Read this page for a brief primer. Each section contains links to more in-depth material; refer to that when you need it - when you're actually at work, or reflecting on the documentation problems you have encountered."
 msgstr ""
 
 #: ../../start-here.rst:20
+#: b6eb1885ac1e4577b9e19b3b7eebe990
 msgid "The four kinds of documentation"
 msgstr ""
 
 #: ../../start-here.rst:22
+#: c7c55b098ed44f0da506b5092393f67c
 msgid "The core idea of Diátaxis is that there are fundamentally four identifiable kinds of documentation, that respond to four different needs. The four kinds are: *tutorials*, *how-to guides*, *reference* and *explanation*. Each has a different purpose, and needs to be written in a different way."
 msgstr ""
 
 #: ../../start-here.rst:26
+#: 0802df9bcff34e208d43f1a385993a2a
 msgid "Tutorials"
 msgstr ""
 
 #: ../../start-here.rst:30
+#: 17cde39be8dd4d11bfe59ec44af830aa
 msgid ":ref:`Tutorials in more detail <tutorials>`"
 msgstr ""
 
 #: ../../start-here.rst:31
+#: 2806373263da4eee85c3cf931e588da8
 msgid ":ref:`Why tutorials are completely different from how-to guides <tutorials-how-to>`"
 msgstr ""
 
 #: ../../start-here.rst:33
+#: 75e9dd27b640480ea974f4447e473c61
 msgid "**A tutorial is a lesson**, that takes a student by the hand through a learning experience. A tutorial is always *practical*: the user *does* something, under the guidance of an instructor. A tutorial is designed around an encounter that the learner can make sense of, in which the instructor is responsible for the learner's safety and success."
 msgstr ""
 
 #: ../../start-here.rst:35
+#: 610b49dbf2a04ab2b99bf5884c287393
 msgid "A driving lesson is a good example of a tutorial. The purpose of the lesson is to develop skills and confidence in the student, not to get from A to B. A software example could be: *Let's create a simple game in Python*."
 msgstr ""
 
 #: ../../start-here.rst:37
+#: 473c8e722cfe4f1e95aaa2c3e5668d9e
 msgid "*The user will learn through what they do* - not because someone has tried to teach them."
 msgstr ""
 
 #: ../../start-here.rst:39
+#: 2594cadefe7b4f65b949006324ee8a6e
 msgid "In documentation, the special difficulty is that the instructor is condemned to be absent, and is not there to monitor the learner and correct their mistakes. The instructor must somehow find a way to be present through written instruction alone."
 msgstr ""
 
 #: ../../start-here.rst:43
+#: abb14358e5df480a93a3ff21c2523cc4
 msgid "How-to guides"
 msgstr ""
 
 #: ../../start-here.rst:47
+#: 5de855babf614e89bbd1f21893c0748b
 msgid ":ref:`How-to guides in more detail <how-to>`"
 msgstr ""
 
 #: ../../start-here.rst:49
+#: a6269b8e580f4a718f900067a3913ed9
 msgid "**A how-to guide addresses a real-world goal or problem**, by providing practical directions to help the user who is in that situation."
 msgstr ""
 
 #: ../../start-here.rst:51
+#: 052fd7bb836a4d608488ec18f23af3a4
 msgid "A how-to guide always addresses an already-competent user, who is expected to be able to use the guide to help them get their work done. In contrast to a tutorial, a how-to guide is concerned with *work* rather than *study*."
 msgstr ""
 
 #: ../../start-here.rst:53
+#: f4d163ae75244e1db3a30e7b99dc998a
 msgid "A how-to guide might be: *How to store cellulose nitrate film* (in motion picture photography) or *How to configure frame profiling* (in software). Or even: *Troubleshooting deployment problems*."
 msgstr ""
 
 #: ../../start-here.rst:57
+#: 2e0771ac853a45c8bc4779d9222845a6
 msgid "Reference"
 msgstr ""
 
 #: ../../start-here.rst:61
+#: 6107baa1fce14302a16dca5e9a93a9c7
 msgid ":ref:`Reference in more detail <reference>`"
 msgstr ""
 
 #: ../../start-here.rst:63
+#: da3fd6c3b6e4421782cdc66242865312
 msgid "**Reference guides contain the technical description** - facts - that a user needs in order to do things correctly: accurate, complete, reliable information, free of distraction and interpretation. They contain *propositional or theoretical knowledge*, not guides to action."
 msgstr ""
 
 #: ../../start-here.rst:65
+#: 1f1f68351ac94b2ab491bcb0824574e3
 msgid "Like a how-to guide, reference documentation serves the user who is at *work*, and it's up to the user to be sufficiently competent to interpret and use it correctly."
 msgstr ""
 
 #: ../../start-here.rst:67
+#: b86ccb11ac47444a99d2115d0c672b67
 msgid "*Reference material is neutral.* It is not concerned with what the user is doing. A marine chart could be used by a ship's navigator to plot a course, but equally well by a prosecuting magistrate in a legal case."
 msgstr ""
 
 #: ../../start-here.rst:69
+#: 7cecb9576f47437fa7e96756630eff00
 msgid "Where possible, the architecture of reference documentation should reflect the structure or architecture of the thing it's describing - just like a map does. If a method is part of a class that belongs to a certain module, then we should expect to see the same relationship in the documentation too."
 msgstr ""
 
 #: ../../start-here.rst:73
+#: 2c1a3bc302df41ea93d54f57401431a0
 msgid "Explanation"
 msgstr ""
 
 #: ../../start-here.rst:77
+#: d31315db3c3b4b848c63e644dcbdd25b
 msgid ":ref:`Explanation in more detail <explanation>`"
 msgstr ""
 
 #: ../../start-here.rst:78
+#: 2b7b2d4311e846b5ba3d11e32aec771c
 msgid ":ref:`Understanding the difference between reference and explanation <reference-explanation>`"
 msgstr ""
 
 #: ../../start-here.rst:81
+#: 6be1dda52ede489c89de7b4c8f747468
 msgid "**Explanatory guides provide context and background.** They serve the need to understand and put things in a bigger picture. Explanation joins things together, and helps answer the question *why?*"
 msgstr ""
 
 #: ../../start-here.rst:83
+#: cf7ba498f4944d9da8eb26c3a83ddf65
 msgid "Explanation often needs to circle around its subject, and approach it from different directions. It can contain opinions and take perspectives."
 msgstr ""
 
 #: ../../start-here.rst:85
+#: eba3af97838b456e89203f174aed93ff
 msgid "Like reference, explanation belongs to the realm of propositional knowledge rather than action. However its purpose is to serve the user's study - as tutorials do - and not their work."
 msgstr ""
 
 #: ../../start-here.rst:87
+#: e0c352def2894841b864fe6434491de8
 msgid "Often, writers of tutorials who are anxious that their students should *know* things overload their tutorials with distracting and unhelpful explanation. It would be much more useful to give the learner the most minimal explanation (\"Here, we use HTTPS because it's safer\") and then link to an in-depth article (*Secure communication using HTTPS encryption*) for when the user is ready for it."
 msgstr ""
 
 #: ../../start-here.rst:93
+#: 0c6e6c0748c1496f8b051f6c0a0ad356
 msgid "The Diátaxis map"
 msgstr ""
 
 #: ../../start-here.rst:95
+#: 900deadf562c4ea08f8cf155915fcebb
 msgid "The four kinds of documentation and the relationships between them can be summarised in the Diátaxis map."
 msgstr ""
 
 #: ../../start-here.rst:99
+#: 7c8d53674a1342d1941ae8737ced521f
 msgid ":ref:`The map in more detail <map>`"
 msgstr ""
 
 #: ../../start-here.rst:101
+#: 5f693ee1316744088684123f0d1c8ce1
 msgid "Diátaxis is not just a list of four different things, but a conceptual arrangement of them. It shows how the four kinds of documentation are related to each other, and distinct from each other."
 msgstr ""
 
 #: ../../start-here.rst:103
+#: 6f5d4c8e8c414e33b00edcd9383e662b
 msgid "Crossing or blurring the boundaries described in the map is at the heart of a vast number of problems in documentation."
 msgstr ""
 
 #: ../../start-here.rst:-1
+#: 82ef878d786849d6bc131bfa6b847147
 msgid "Diátaxis"
 msgstr ""
 
 #: ../../start-here.rst:112
+#: b1c107b2ed024d52a63f65f4d19194b5
 msgid "The Diátaxis compass"
 msgstr ""
 
 #: ../../start-here.rst:114
+#: f2e93c1401dc44f193acb275efade5e0
 msgid "As you can see from the map:"
 msgstr ""
 
 #: ../../start-here.rst:116
+#: 7791e6ceba6346659d0a2fb030963e45
 msgid "tutorials and how-to guides are concerned with what the user *does* (**action**)"
 msgstr ""
 
 #: ../../start-here.rst:117
+#: 18554e2beeec43d187bce73529ad0ca2
 msgid "reference and explanation are about what the user *knows* (**cognition**)"
 msgstr ""
 
 #: ../../start-here.rst:119
+#: 82d6a96d9ac84e999a0069809a128744
 msgid "On the other hand:"
 msgstr ""
 
 #: ../../start-here.rst:121
+#: 469098ede5954603bb72123ddf2af612
 msgid "tutorials and explanation serve the *acquistion* of skill (the user's **study**)"
 msgstr ""
 
 #: ../../start-here.rst:122
+#: 9a8e09e658b5438db5323ad33e0c4c96
 msgid "how-to guides and reference serve the *application* of skill (the user's **work**)"
 msgstr ""
 
 #: ../../start-here.rst:124
+#: baf0314d51ec46858b6f855fbbf767ab
 msgid "But a map doesn't tell you what to *do* - it's reference. To guide your action you need a different sort of tool, in this case, a kind of Diátaxis compass."
 msgstr ""
 
 #: ../../start-here.rst:128
+#: 52f0bc9615da42b39ace6ab376d4d93c
 msgid ":ref:`The compass in more detail <compass>`"
 msgstr ""
 
 #: ../../start-here.rst:130
+#: ee0467ccee2d4225aa1ba94fa305bed4
 msgid "The compass is useful in two different ways."
 msgstr ""
 
 #: ../../start-here.rst:132
+#: 0d9a580542864c74b28bed838c35a01b
 msgid "When creating documentation, it helps clarify your own intentions, and helps make sure you're actually doing what you think you're doing."
 msgstr ""
 
 #: ../../start-here.rst:134
+#: 619dc2ad7109480caa8f14df3202b513
 msgid "When looking at documentation, it helps understand what's going on in it, and makes problems stand out."
 msgstr ""
 
 #: ../../start-here.rst:136
+#: f682b9ad3b5444e1a5019e74e45804bb
 msgid "The compass is not nearly as eye-catching as the map, but when you're at work puzzling over a documentation problem it's what will help you move forward."
 msgstr ""
 
 #: ../../start-here.rst:144
+#: c32f7cbfb33b4e2097b1f3f12884e126
 msgid "If the content..."
 msgstr ""
 
 #: ../../start-here.rst:145
+#: 31125ae931064ca1a65270357104b065
 msgid "...and serves the user's..."
 msgstr ""
 
 #: ../../start-here.rst:146
+#: 5f9a9c01bb00441b97b2ef2bff1e49a1
 msgid "...then it must belong to..."
 msgstr ""
 
 #: ../../start-here.rst:147
 #: ../../start-here.rst:150
+#: c8a2d55470484cd0a34b83603600a28a
+#: 5437681a8bc748d7a60c5e7f9f1c86af
 msgid "informs action"
 msgstr ""
 
 #: ../../start-here.rst:148
 #: ../../start-here.rst:157
+#: be8e8dca6099449cb7cdeb2e227e26ae
+#: a32a1269f36c411e85e38c23fba03f99
 msgid "acquisition of skill"
 msgstr ""
 
 #: ../../start-here.rst:149
+#: 10bfeb9d9fe54a23a844e3aa1ea89570
 msgid "a tutorial"
 msgstr ""
 
 #: ../../start-here.rst:151
 #: ../../start-here.rst:154
+#: e3eb6ddf0c36405db49f3df8328e0391
+#: 7298611fa60d4e8293a86d7c39c1af7d
 msgid "application of skill"
 msgstr ""
 
 #: ../../start-here.rst:152
+#: 8dc542e193b24252b86d1fc0df4f85ed
 msgid "a how-to guide"
 msgstr ""
 
 #: ../../start-here.rst:153
 #: ../../start-here.rst:156
+#: bd11ecc429084819ab7b44a6a66b5915
+#: 5e0f3f574e9949b7b547e77c8e08442d
 msgid "informs cognition"
 msgstr ""
 
 #: ../../start-here.rst:155
+#: 69a7cf0752614702825b69cdfd28cea3
 msgid "reference"
 msgstr ""
 
 #: ../../start-here.rst:158
+#: 57adaee96d314010b970a43a5a4d362d
 msgid "explanation"
 msgstr ""
 
 #: ../../start-here.rst:165
+#: 584cd36337c345ad91147c155edd4da3
 msgid "Working"
 msgstr ""
 
 #: ../../start-here.rst:167
+#: a929234371a04a7ababf84ed104f03d1
 msgid "There is a very simple workflow for Diátaxis."
 msgstr ""
 
 #: ../../start-here.rst:171
+#: 61672b9ea77448798183e9fd196793ed
 msgid ":ref:`how-to-use-diataxis`"
 msgstr ""
 
 #: ../../start-here.rst:173
+#: 8f85768966064b518eca1ddc0be124f4
 msgid "Consider what you see in the documentation, in front of you right now (which might be literally nothing, if you haven't started yet)."
 msgstr ""
 
 #: ../../start-here.rst:175
+#: 4ec29d95bd4b4de5a7d3632b901c02c1
 msgid "Ask: *is there any way in which it could be improved?*"
 msgstr ""
 
 #: ../../start-here.rst:177
+#: df0cfafbbf6f4256bd2ead3a5ffd340a
 msgid "Decide on *one* thing you could do to it right now, however small, that would improve it."
 msgstr ""
 
 #: ../../start-here.rst:179
+#: b48e61e1552e49e8802866e7f56820c7
 msgid "Do that thing."
 msgstr ""
 
 #: ../../start-here.rst:181
+#: 1c5878711c704931a32b08b0f5a5c7e4
 msgid "And then repeat."
 msgstr ""
 
 #: ../../start-here.rst:183
+#: 634f030607564ac9b1105fa90a1e7edc
 msgid "That's it."
 msgstr ""
 
 #: ../../start-here.rst:189
+#: afef5191ba0f4c6fae90d2a7034b238f
 msgid "Do what you like"
 msgstr ""
 
 #: ../../start-here.rst:191
+#: 896a3454c1f84f19beeb92fe5afe1343
 msgid "You can do what you like with Diátaxis. You don't have to believe in it and there is no exam. It is a wholly pragmatic approach. I think it's *true*, but what matters is that it actually helps people create better documentation. If you find one idea or insight in it that seems to be worthwhile, help yourself to that."
 msgstr ""
 
 #: ../../start-here.rst:193
+#: ff3caeb986dd48f19ad1231679e6513f
 msgid "There is an extensively elaborated theory around Diátaxis, but you don't need to subscribe to it, or even read about it. Diátaxis doesn't require a commitment to pursue it to a final end."
 msgstr ""
 
 #: ../../start-here.rst:195
+#: b0359804acaf41c0bbf4ce5a573d281c
 msgid "You can do just one thing, right now, and even if you do nothing else ever after, you will at least have made that one improvement. (In practice what you will find is that each thing you do will give you a clue as to the next thing to do - you only need to keep doing them.)"
 msgstr ""
 
 #: ../../start-here.rst:199
+#: e2f8e2db8cfa46859f6906ae7599437f
 msgid "Get started"
 msgstr ""
 
 #: ../../start-here.rst:201
+#: 7293501d55d7473da70e6251cfb8bd4a
 msgid "At this point, you have read everything you need to get started with Diátaxis."
 msgstr ""
 
 #: ../../start-here.rst:203
+#: a5b1e469c95d47f2a7daf71cd2add36b
 msgid "You can read more if you want, and eventually you probably should, but *you will get the most value from the guidance in this website when you turn to it with a problem or a question*. That's when it comes alive."
 msgstr ""
