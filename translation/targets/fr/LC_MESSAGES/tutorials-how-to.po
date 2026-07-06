@@ -1,0 +1,509 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: bf7790ee3f964293a484786823fd8c33
+msgid "The difference between a tutorial and how-to guide"
+msgstr ""
+
+#: 02e98ec86624421fb309d6ccfaba92eb
+msgid ""
+"In Diátaxis, tutorials and how-to guides are strongly distinguished. It’s a "
+"distinction that’s often not made; in fact the single most common conflation"
+" made in software product documentation is that between the *tutorial* and "
+"the *how-to guide*."
+msgstr ""
+
+#: 51b00322d6494716b9bbd5c1d431bf93
+msgid ""
+"So: what *is* the difference between tutorials and how to-guides? Why does "
+"it matter? And why do they get confused?"
+msgstr ""
+
+#: 99b31ad8e79e499f907a187ceeae8027
+msgid ""
+"These are all good questions. Let’s start with the last one. *If the "
+"distinction is really so important, why isn’t it more obvious?*"
+msgstr ""
+
+#: 740232634f9b4f4c850d4fc8cb8f6858
+msgid "What they have in common"
+msgstr ""
+
+#: 310c2b87ab0c44f6a3cdb8defbdc243d
+msgid ""
+"In important respects, tutorials and how-to guides are indeed similar. They "
+"are both practical guides: they contain directions for the user to follow. "
+"They’re not there to explain or convey information. They exist to guide the "
+"user in what to *do* rather than what there is *to know or understand*."
+msgstr ""
+
+#: 3deabc9bfb57451ca86f128e4dfe3d69
+msgid ""
+"They both set out steps for the reader to follow, and they both promise that"
+" if the reader follows those steps, they’ll arrive at a successful "
+"conclusion. Neither of them make much sense except for the user who has "
+"their hands on the machinery, ready to do things. They both describe ordered"
+" sequences of actions. You can’t expect success unless you perform the "
+"actions in the right order."
+msgstr ""
+
+#: de5798392dec417c9f3801f35e78067d
+msgid ""
+"They are closely related, and like many close relations, can be mistaken for"
+" one another at first glance."
+msgstr ""
+
+#: d14e287bac404f51bd0da2e8be4cf860
+msgid "What matters is what the user needs"
+msgstr ""
+
+#: 92c3ec07ba3642c9a78269bd774a59a0
+msgid ""
+"Diátaxis insists that what matters in documentation is the needs of the "
+"user, and it's by paying attention to this that we can correctly distinguish"
+" between tutorials and how-to guides."
+msgstr ""
+
+#: 4c51187de9a24a4c96b8eb14a306bd5c
+msgid ""
+"Sometimes the user is **at study**, and sometimes the user is **at work**. "
+"Documentation has to serve both those needs."
+msgstr ""
+
+#: 2970a1443f6044b9a90669121cb78f26
+msgid ""
+"A tutorial serves the needs of the user who is at study. Its obligation is "
+"*to provide a successful learning experience*. A how-to guide serves the "
+"needs of the user who is at work. Its obligation is *to help the user "
+"accomplish a task*. These are completely different needs and obligations, "
+"and they are why the distinction between tutorials and how-to guides "
+"matters: tutorials are **learning-oriented**, and how-to guides are **task-"
+"oriented**."
+msgstr ""
+
+#: abbad682f03445de8692f8a1248dc1fe
+msgid "At study and at work"
+msgstr ""
+
+#: 35ac63eb30eb40aa8fdd852de51f787c
+msgid ""
+"We can consider this from the perspective of an actual example. Let’s say "
+"you’re in medicine: a doctor, someone who needs to acquire and apply the "
+"practical, clinical skills of their craft."
+msgstr ""
+
+#: 2b2909f685e049b1bd0e65b4e79beeab
+msgid ""
+"As a doctor, sometimes you will be in work situations, *applying your "
+"skills*, and sometimes you will be in study situations, *acquiring skills* "
+"(all good doctors, even those with long careers behind them, continue to "
+"study to improve their skills)."
+msgstr ""
+
+#: ef6f6f5c01e34dc28baa393dd6697d6a
+msgid "At study"
+msgstr ""
+
+#: f7f353414be74177853780e20c8336a4
+msgid ""
+"Early on in your training, you’ll learn how to suture a wound. You’ll start "
+"in the lab with your fellow students, at benches with small skin pads in "
+"front of you (skin pads are blocks of synthetic material in various layers "
+"that represent the epidermis, fat and other tissues. They have a similar "
+"hardness and texture to human flesh, and behave somewhat similarly when "
+"they’re cut and stitched). You’ll be provided with exactly what you need - "
+"gloves, scalpel, needle, thread and so on - and step-by-step you’ll be shown"
+" what to do, and what will happen when you do it."
+msgstr ""
+
+#: 53b43084f3874f3da21db086eb1eff4f
+msgid ""
+"And then it’s your turn. You will pick up the scalpel and tentatively draw "
+"it across the top of the pad, and make an ineffectual incision into the top "
+"layer (maybe a teaching assistant will tease you, asking what this poor pad "
+"has done, that it deserves such a nasty scratch). Your neighbour will look "
+"dismayed at their own attempt, a ragged cut of wildly uneven depths that "
+"looks like something from a knife-fight."
+msgstr ""
+
+#: cf537310e0944622a175f4ef948e6dc7
+msgid ""
+"After a few attempts, with feedback and correction from the tutor, you’ll "
+"have made a more or less clean cut that mostly goes through the fat layer "
+"without cutting into the muscle beneath. Triumph!"
+msgstr ""
+
+#: eb8f6ae61e334b4a8d3c4fb7787787e4
+msgid ""
+"But now you’re being asked to stitch it back up again! You’ll watch the "
+"tutor demonstrate deftly and precisely, closing the wound in the pad with a "
+"few neat, even stitches. You, on the other hand, will fumble with the "
+"thread. You will hold things in the wrong hand and the wrong way round and "
+"put them down in the wrong places. You will drop the needle. The thread will"
+" fall out. You will be told off for failing to maintain sterility."
+msgstr ""
+
+#: b8d2930e651e4f4298bbfa9bb2cb067a
+msgid ""
+"Eventually, you’ll actually get to stitch the wound. You will puncture the "
+"skin in the wrong places and tear the edges of the cut. Your final result "
+"will be an ugly scene of stretched and puckered skin and crude, untidy "
+"stitches. The teaching assistants will have some critical things to say even"
+" about parts of it that you thought you’d got right."
+msgstr ""
+
+#: 0bca682c7494476cadc014bbed1dc293
+msgid ""
+"But, *you will have stitched your first wound*. And you will come back to "
+"this lesson again and again, and bit by bit your fumbling will turn into "
+"confident practice. You will have acquired basic competence. You will have "
+"**learned by doing**."
+msgstr ""
+
+#: c84cffea1a5e4cb590d175291f64ce63
+msgid ""
+"This is a tutorial. It’s a *lesson*, safely in the hands of an instructor, a"
+" teacher who looks after the interests of a pupil."
+msgstr ""
+
+#: b76b05f46e1d493cb759a1b84d204b56
+msgid "At work"
+msgstr ""
+
+#: 7ba580aab458487f99e292a8f226d580
+msgid ""
+"Now, let’s think about the doctor at work. As a doctor at work, you are "
+"already competent. You have learned and refined clinical skills such as "
+"suturing, as well as many others, and you’re able to put them together on a "
+"daily basis to apply them to medical situations in the real world."
+msgstr ""
+
+#: 247715f029324a31aabff6c5cd2f0786
+msgid ""
+"Consider a standard appendectomy. A clinical manual will list the equipment "
+"and personnel required in the theatre. It will show how to station the "
+"members of the team, and how to lay out the required tools, stands and "
+"monitors. It will proceed step-by-step through the actions the team will "
+"need to follow, ending with the formal handover to the post-operative team."
+msgstr ""
+
+#: 4733dec4eab94fbc8d89549ed5ce8779
+msgid ""
+"The manual will show what incisions need to be made where, but they will "
+"depend on whether you’re performing an open or a laparoscopic procedure, "
+"whether you have pre-operative imaging to rely on or not, and so on. It will"
+" include special steps or checks to be made in the case of an infant or "
+"juvenile patient, or when converting to an open appendectomy mid-procedure. "
+"Many of the steps will be of the form *if this, then that*."
+msgstr ""
+
+#: 262fb85d4ede41fea37b320c94b4e0a1
+msgid ""
+"Having a manual helps ensure that all the steps are done in the right order "
+"and none are omitted. As a team, you’ll check through details of a procedure"
+" to remind yourselves of key steps; sometimes you'll refer to it during the "
+"procedure itself."
+msgstr ""
+
+#: 5dda63652f624dc8abd2dffe589d17bf
+msgid ""
+"Even for routine surgical operations, clinical manuals contain lists of "
+"steps and checks. These manuals are how-to guides. They are not there to "
+"teach you - you already have your skills. You already know these processes. "
+"They are there to guide you safely in your clinical practice to accomplish a"
+" particular task - **they serve your work**."
+msgstr ""
+
+#: 819579dcaf424fd3a560852dcd5e98d8
+msgid "Understanding the distinction"
+msgstr ""
+
+#: f78d2e07dcd84106ab7b6a72735b15a5
+msgid ""
+"The distinction between a lesson in medical school and a clinical manual is "
+"the distinction between a tutorial and a how-to guide."
+msgstr ""
+
+#: 38f2881311ee466db00517ac6ebdd87d
+msgid ""
+"A tutorial’s purpose is **to help the pupil acquire basic competence**."
+msgstr ""
+
+#: 4c7897f727864411bc693f64bb48d05f
+msgid ""
+"A how-to guide’s purpose is **to help the already-competent user perform a "
+"particular task correctly**."
+msgstr ""
+
+#: c3cb7ee658274745b03bceefec20b860
+msgid ""
+"A tutorial **provides a learning experience**. People learn skills through "
+"practical, hands-on experience. What matters in a tutorial is what the "
+"learner *does*, and what they experience while doing it."
+msgstr ""
+
+#: 9308de4cf71d4393a6dbf6cb8fffa065
+msgid "A how-to guide **directs the user’s work**."
+msgstr ""
+
+#: 633499d98efe47de8ad813b277fe078f
+msgid ""
+"The tutorial follows a **carefully-managed path**, starting at a given point"
+" and working to a conclusion. Along that path, the learner must have the "
+"*encounters* that the lesson requires."
+msgstr ""
+
+#: fe3b6fbfa04540dabff296d09797ee0a
+msgid ""
+"The how-to guide aims for a successful *result*, and guides the user along "
+"the safest, surest way to the goal, but **the path can’t be managed**: it’s "
+"the real world, and anything could appear to disrupt the journey."
+msgstr ""
+
+#: 1f68875840b545c3a7cbe1fde8f65798
+msgid ""
+"A tutorial **familiarises the learner** with the work: with the tools, the "
+"language, the processes and the way that what they’re working with behaves "
+"and responds, and so on. Its job is to introduce them, manufacturing a "
+"structured, repeatable encounter with them."
+msgstr ""
+
+#: 8558961ae96e4842b3cf55f915880984
+msgid "The how-to guide can and should **assume familiarity** with them all."
+msgstr ""
+
+#: a470609b8a144d2e8912bb8d2bf569d9
+msgid ""
+"The tutorial takes place in a **contrived setting**, a learning environment "
+"where as much as possible is set out in advance to ensure a successful "
+"experience."
+msgstr ""
+
+#: de29f34f3717427484273b1a12f306d5
+msgid ""
+"A how-to guide applies to the **real world**, where you have to deal with "
+"what it throws at you."
+msgstr ""
+
+#: ac080ca4ac304ee4be6374aabbf80127
+msgid "The tutorial **eliminates the unexpected**."
+msgstr ""
+
+#: 618a4cf6d45a43edab91cc229720c8ee
+msgid ""
+"The how-to guide must **prepare for the unexpected**, alerting the user to "
+"its possibility and providing guidance on how to deal with it."
+msgstr ""
+
+#: 9ae5734218f54734b9a59f3bccf9a716
+msgid ""
+"A tutorial’s path follows a single line. **It doesn’t offer choices or "
+"alternatives**."
+msgstr ""
+
+#: 6f428ccc88b34206be188967152a97dd
+msgid ""
+"A **how-to guide will typically fork and branch**, describing different "
+"routes to the same destination: *If this, then that. In the case of ..., an "
+"alternative approach is to…*"
+msgstr ""
+
+#: af386f9d144e4c389714d9cb597c9eeb
+msgid ""
+"A tutorial **must be safe**. No harm should come to the learner; it must "
+"always be possible to go back to the beginning and start again."
+msgstr ""
+
+#: 946fd55062d24226bafa51b647e7fce9
+msgid ""
+"A how-to guide **cannot promise safety**; often there’s only one chance to "
+"get it right."
+msgstr ""
+
+#: 5c116ce2fdc946179b565172800ee710
+msgid ""
+"In a tutorial, **responsibility lies with the teacher**. If the learner gets"
+" into trouble, that's the teacher's problem to put right."
+msgstr ""
+
+#: 89c3504b81e746c1bc0ad875aa47a035
+msgid ""
+"In a how-to guide, **the user has responsibility** for getting themselves in"
+" and out of trouble."
+msgstr ""
+
+#: 155bf282fa534917bc24696323148881
+msgid ""
+"The learner **may not even have sufficient competence to ask the questions**"
+" that a tutorial answers."
+msgstr ""
+
+#: f5f5c23045814a2c9a98e4859a02b883
+msgid ""
+"A how-to guide can assume that **the user is asking the right questions in "
+"the first place**."
+msgstr ""
+
+#: 5d6e659c036643719a7add927a9210d4
+msgid ""
+"The tutorial is **explicit about basic things** - where to do things, where "
+"to put them, how to manipulate objects. It addresses the embodied experience"
+" - in our medical example, how hard to press, how to hold an implement; in a"
+" software tutorial, it could be where to type a command, or how long to wait"
+" for a response."
+msgstr ""
+
+#: 23f566680ed54449a9ada99b7d4487b7
+msgid ""
+"A how-to guide relies on this as **implicit knowledge** - even bodily "
+"knowledge."
+msgstr ""
+
+#: 8a65115ba2f541edb8b06ea345d0ae4c
+msgid ""
+"A tutorial is **concrete and particular** in its approach. It refers to the "
+"specific, known, defined tools, materials, processes and conditions that we "
+"have carefully set before the learner."
+msgstr ""
+
+#: 5704df402f8346bba9857055fa97fae6
+msgid ""
+"The how-to guide has to take a **general** approach: many of these things "
+"will be unknowable in advance, or different in each real-world case."
+msgstr ""
+
+#: 452355efc70d49e08de742cfdda68e73
+msgid ""
+"The tutorial **teaches general skills and principles** that later could be "
+"applied to a multitude of cases."
+msgstr ""
+
+#: 53ad54c65a7249048c0381c278acb2cf
+msgid ""
+"The user following a how-to guide is doing so in order to **complete a "
+"particular task**."
+msgstr ""
+
+#: 78467c0e4a134ba2b25ad36b5cfc63b2
+msgid ""
+"None of these distinctions are arbitrary. They all emerge from the "
+"distinction between **study** and **work**, which we understand as a key "
+"distinction in making sense of what the user of documentation needs."
+msgstr ""
+
+#: fe65a5ab5fd34918840899c09fb6808c
+msgid "The basic and the advanced"
+msgstr ""
+
+#: d5763eb69bb74fb9b37b6b51fe6b0917
+msgid ""
+"A common but understandable conflation is to see the difference between "
+"tutorials and how-to guides as being the difference between **the basic** "
+"and **the advanced**."
+msgstr ""
+
+#: 57cf40af44a04824952b97f3f4113d33
+msgid ""
+"After all, tutorials are for learners, while how-to guides are for already-"
+"skilled practitioners. Tutorials must cover the basics, while how-to guides "
+"have to deal with complexities that learners should not have to face."
+msgstr ""
+
+#: 655a1c28409d4980a6382d600b92e3db
+msgid ""
+"However, there’s more to the story. Consider a clinical procedure manual: it"
+" could be a manual for a basic routine procedure, of very low complexity. It"
+" could describe steps for mundane matters such as correct completion of "
+"paperwork or disposal of particular materials. *How-to guides can, do and "
+"often should cover basic procedures.*"
+msgstr ""
+
+#: b388e47d781340eda8a20d2e839bb111
+msgid ""
+"At the same time, even as a qualified doctor, you will find yourself back in"
+" training situations. Some of them may be very advanced and specialised, "
+"requiring a high level of skill and expertise already."
+msgstr ""
+
+#: 7ddfe83473f14115bd3f69c3a9e8189b
+msgid ""
+"Let’s say you’re an anaesthetist of many years’ experience, who attends a "
+"course: “Difficult neonatal intubations”. The practical part of the course "
+"will be a learning experience: a lesson, safely in the hands of the "
+"instructors, that will have you performing particular exercises to develop "
+"your skills - just as it was when years earlier, you were learning to suture"
+" your first wound."
+msgstr ""
+
+#: 8bb55ad3bc72434e8b035ed25aed6b36
+msgid ""
+"The complexity is wholly different though, and so is the baseline of skills "
+"required even to participate in the learning experience. But, it’s of the "
+"same form, and serves the same kind of need, as that much earlier lesson."
+msgstr ""
+
+#: 3d20ac03be1b464290be875cd34fd6fc
+msgid ""
+"It’s the same in software documentation: a tutorial can present something "
+"complex or advanced. And, a how-to guide can cover something that’s basic or"
+" well-known. The difference between the two lies in the need they serve: "
+"**the user’s study**, or **their work**."
+msgstr ""
+
+#: dd121910444644fbb16276082253b050
+msgid "Safety and success"
+msgstr ""
+
+#: 3a82454964fd49038ba549564d09bb8e
+msgid ""
+"Understanding these distinctions, and the reason for upholding them, is "
+"crucial to creating successful documentation. A clinical manual that "
+"conflated education with practice, that tried to teach while at the same "
+"time providing a guide to a real-world procedure would be a literally deadly"
+" document. It would kill people."
+msgstr ""
+
+#: 651e5826a0f8497194e388e1e7e38080
+msgid ""
+"In disciplines such as software documentation, we get away with a great "
+"deal, because our conflations and mistakes rarely kill anyone. However, we "
+"can cause a great deal of low-level inconvenience and unhappiness to our "
+"users, and we add to it, every single time we publish a tutorial or how-to "
+"guide that doesn’t understand whether its purpose is to help the user in "
+"their study - the acquisition of skills - or in their work - the application"
+" of skills."
+msgstr ""
+
+#: ba1ca5d010b74743b22529829dcfa938
+msgid ""
+"What’s more, we hurt ourselves too. Users don’t have to use our product. If "
+"our documentation doesn’t bring them to success - if it doesn’t meet the "
+"needs that they have at a particular stage in their cycle of interaction "
+"with our product - they will find something else that does, if they can."
+msgstr ""
+
+#: 0f2e5367c9f3416db0ac99b5200fc5d3
+msgid ""
+"The conflation of tutorials and how-to guides is by no means the only one "
+"made between different kinds of documentation, but it's one of the easiest "
+"to make. It's also a particularly harmful one, because it risks getting in "
+"the way of those newcomers whom we hope to turn into committed users. For "
+"the sake of those users, and of our own product, getting the distinction "
+"right is a key to success."
+msgstr ""

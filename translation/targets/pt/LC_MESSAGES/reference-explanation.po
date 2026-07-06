@@ -1,0 +1,155 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: efbee22861da4d76a2af8dbfa8f07cc1
+msgid "The difference between reference and explanation"
+msgstr ""
+
+#: 5bb89936685443809511b7b01b217ece
+msgid ""
+"Explanation and reference both belong to the *theory* half of the Diátaxis "
+"map - they don't contain steps to guide the reader, they contain theoretical"
+" knowledge."
+msgstr ""
+
+#: 577a5d80c45f47c5865d7f83223885d4
+msgid ""
+"The difference between them is - just as in the difference between tutorials"
+" and how-to guides - the difference between the *acquisition* of skill and "
+"knowledge, and its *application*. In other words it's the distinction "
+"between *study* and *work*."
+msgstr ""
+
+#: bd0c85bae1ff4802af7eca9d9025b06e
+msgid "A straightforward distinction, *mostly*"
+msgstr ""
+
+#: 920448d84b9d447ca63d75d0074b885e
+msgid ""
+"Mostly it's fairly straightforward to recognise whether you're dealing with "
+"one or the other. *Reference*, as a form of writing, is well understood; "
+"it's used in distinctions we make about writing from an early age."
+msgstr ""
+
+#: 789da9f2b6de45568767e1e6e825b54c
+msgid ""
+"In addition, examples of writing are themselves often clearly one or the "
+"other. A tidal chart, with its tables of figures, is clearly reference "
+"material. An article that explains *why* there are tides and how they behave"
+" is self-evidently explanation."
+msgstr ""
+
+#: da7b8f4399924c44a9992691daf0b75f
+msgid "There are good rules of thumb:"
+msgstr ""
+
+#: b893fa59b34c4dfd90681e9902750fcc
+msgid "**If it's boring and unmemorable** it's probably *reference*."
+msgstr ""
+
+#: 2ca61e7f873b467290f5021da8df2adf
+msgid ""
+"**Lists of things** (such as classes or methods or attributes), and **tables"
+" of information**, will generally turn out to belong in *reference*."
+msgstr ""
+
+#: 31c6fabf8b68439ea0bd7abd03d3642c
+msgid ""
+"On the other hand **if you can imagine reading something in the bath**, "
+"probably, it's *explanation* (even if really there is no accounting for what"
+" people might read in the bath)."
+msgstr ""
+
+#: 26967a68925b4e95be99f1bf69b81fa9
+msgid ""
+"Imagine asking a friend, while out for a walk or over a drink, **Can you "
+"tell me more about <topic>?** - the answer or discussion that follows is "
+"most likely going to be an *explanation* of it."
+msgstr ""
+
+#: b1e3ee1255be43b980382e89aa78619d
+msgid "... but intuition isn't reliable enough"
+msgstr ""
+
+#: 7f162d05e3014f519532f9b96733b8ea
+msgid ""
+"Mostly we can rely safely on intuition to manage the distinction between "
+"reference and explanations. But only *mostly* - because it's also quite easy"
+" to slip between one form and the other."
+msgstr ""
+
+#: f2156b4d18d040d2bcbb7b8345641415
+msgid ""
+"It usually happens while writing reference material that starts to become "
+"expansive. For example, it's perfectly reasonable to include illustrative "
+"examples in reference (just as an encyclopaedia might contain illustrations)"
+" - but examples are fun things to develop, and it can be tempting to develop"
+" them into explanation (using them to say *why*, or show *what if*, or how "
+"it came to be)."
+msgstr ""
+
+#: cebafe1e2c2a424dac1a3d80a1c48ad5
+msgid ""
+"As a result one often finds explanatory material sprinkled into reference. "
+"This is bad for the reference, interrupted and obscured by digressions. But "
+"it's bad for the explanation too, because it's not allowed to develop "
+"appropriately and do its own work."
+msgstr ""
+
+#: 666045d9f1ae4b03aa01dd70600cea55
+msgid "Work and study"
+msgstr ""
+
+#: 8c5cd5a179c846e380144a9f0ef25c0c
+msgid ""
+"The real test, though, if we're in doubt about whether something is supposed"
+" to be reference or explanation is: is this something someone would turn to "
+"while working, that is, while actually getting something done, executing a "
+"task? Or is it something they'd need once they have stepped away from the "
+"work, and want to think about it?"
+msgstr ""
+
+#: 0a45dfa264be4d0c84a69e2d65850f16
+msgid ""
+"These are two very fundamentally different *needs* of the reader, that "
+"reflect how, at that moment, the reader stands in relation to the craft in "
+"question, in a relationship of *work* or *study*."
+msgstr ""
+
+#: fd987298dbce4d22a0bcb395b7212824
+msgid "To help avoid being misled by intuition, see :ref:`compass`."
+msgstr ""
+
+#: 654bc764e1b847d5b016361543a1dafd
+msgid ""
+"**Reference** is what a user needs in order help *apply* knowledge and "
+"skill, while they are working."
+msgstr ""
+
+#: 0e7ad2e990db4d2283018c7590e67acc
+msgid ""
+"**Explanation** is what someone will turn to to help them *acquire* "
+"knowledge and skill - \"study\"."
+msgstr ""
+
+#: 26b9344eec0d4f38828b78fcab6583c5
+msgid ""
+"Understanding those two relationships and responding to the needs in them is"
+" the key to creating effective reference and explanation."
+msgstr ""

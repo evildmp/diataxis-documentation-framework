@@ -1,0 +1,255 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: German (https://app.transifex.com/danieleprocida/teams/120528/de/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: fbe03483389d43c28a540595d773ad65
+msgid "Diátaxis as a guide to work"
+msgstr ""
+
+#: 1165ecb08755487ca038bd8a073c34ba
+msgid ""
+"As well as providing a guide to documentation content, Diátaxis is also a "
+"guide to documentation process and execution."
+msgstr ""
+
+#: f6fcabf3c85c41fea4f19f922888a5ae
+msgid ""
+"Most people who work on technical documentation must make decisions about "
+"how to work, as they work. In some contexts, documentation must be delivered"
+" once, complete and in its final state, but it's more usual that it's an on-"
+"going project, for example developed alongside a product that itself evolves"
+" and develops. It's also the experience of many people who work on "
+"documentation to find themselves responsible for improving or even "
+"remediating a body of work."
+msgstr ""
+
+#: 64847700f02740d6b64a7c86d54c22c7
+msgid ""
+"Diátaxis provides an approach to work that runs counter to much of the "
+"accepted wisdom in documentation. In particular, it discourages planning and"
+" top-down workflows, preferring instead small, responsive iterations from "
+"which overall patterns emerge."
+msgstr ""
+
+#: 5ea5ee5137224e528109b231b349b038
+msgid "Use Diátaxis as a guide, not a plan"
+msgstr ""
+
+#: 4ed5eedd07d5494ca58fa8232aa49a3e
+msgid ""
+"Diátaxis describes a complete picture of documentation. However the "
+"structure it proposes is not intended to be a **plan**, something you must "
+"complete in your documentation. It's a **guide**, a map to help you check "
+"that you're in the right place and going in the right directions."
+msgstr ""
+
+#: e7108100190641a2944b787322e2fad5
+msgid ""
+"The point of Diátaxis is to give you a way to think about and understand "
+"your documentation, so that you can make better sense of what it's doing and"
+" what you're trying to do with it. It provides tools that help assess it, "
+"identify where its problems lie, and judge what you can do to improve it."
+msgstr ""
+
+#: f27284e655924ef099bab3753dc528c7
+msgid "Don't worry about structure"
+msgstr ""
+
+#: 3eab066518474f2bb50a8912cbe70dfd
+msgid ""
+"Although structure is key to documentation, **using Diátaxis means not "
+"spending energy trying to get its structure correct**."
+msgstr ""
+
+#: 63971e2f3a8f4b7ba9b7a44b947cbef4
+msgid ""
+"If you continue to follow the prompts that Diátaxis provides, eventually "
+"your documentation will assume the Diátaxis structure - but it will have "
+"assumed that shape *because* it has been improved. It's not the other way "
+"round, that the structure must be imposed upon documentation to improve it."
+msgstr ""
+
+#: 441704ff4f0641468258cdb9353ff752
+msgid ""
+"Getting started with Diátaxis does not require you to think about dividing "
+"up your documentation into four sections. **It certainly does not mean that "
+"you should create empty structures for tutorials/howto "
+"guides/reference/explanation with nothing in them.** Don't do that. It's "
+"horrible."
+msgstr ""
+
+#: 4b35ce35a4014d39bb89e38a55b0b1a8
+msgid ""
+"Instead, following the workflow described in the next two sections, make "
+"changes where you see opportunities for improvement according to Diátaxis "
+"principles, so that the documentation starts to take a certain shape. At a "
+"certain point, the changes you have made will appear to demand that you move"
+" material under a certain Diátaxis heading - and that is how your top-level "
+"structure will form. In other words, **Diátaxis changes the structure of "
+"your documentation from the inside**."
+msgstr ""
+
+#: 7da44633a26a481f835717201b0b2c32
+msgid "Work one step at a time"
+msgstr ""
+
+#: 6b2088893039421e8170ca9c49d7c145
+msgid ""
+"Diátaxis strongly prescribes a structure, but whatever the state of your "
+"existing documentation - even if it's a complete mess by any standards - "
+"it's always possible to improve it, **iteratively**."
+msgstr ""
+
+#: c4eb1d42ed7e481d8b5d67af448406f7
+msgid ""
+"It's natural to want to complete large tranches of work before you publish "
+"them, so that you have something substantial to show each time. Avoid this "
+"temptation - every step in the right direction is worth publishing "
+"immediately."
+msgstr ""
+
+#: 1b693ab4103c46c79f74bb239d645f62
+msgid ""
+"Although Diátaxis is intended to provide a big picture of documentation, "
+"**don't try to work on the big picture**. It's both unnecessary and "
+"unhelpful. Diátaxis is designed to guide small steps; keep taking small "
+"steps to arrive where you want to go."
+msgstr ""
+
+#: 8b5e4f696046437f8072d21e32166c04
+msgid "Just do something"
+msgstr ""
+
+#: 9f102cfffe04458694637cb5e74cf568
+msgid ""
+"If you're tidying up a huge mess, the temptation is to tear it all down and "
+"start again. Again, avoid it. As far as improving documentation in-line with"
+" Diátaxis goes, it isn't necessary to seek out things to improve. Instead, "
+"the best way to apply Diátaxis is as follows:"
+msgstr ""
+
+#: e03818bb31e247529e1920ce356e9c37
+msgid ""
+"**Choose something** - any piece of the documentation. If you don’t already "
+"have something that you know you want to put right, don't go looking for "
+"outstanding problems. Just look at what you have right in front of you at "
+"that moment: the file you’re in, the last page you read - it doesn’t matter."
+" If there isn’t one just choose something, literally at random."
+msgstr ""
+
+#: f2961801562c4acdb283f40b2f37a5c6
+msgid ""
+"**Assess it**. Next consider this thing critically. Preferably it’s a small "
+"thing, nothing bigger than a page - or better, even smaller, a paragraph or "
+"a sentence. Challenge it, according to the standards Diátaxis prescribes: "
+"*What user need is represented by this? How well does it serve that need? "
+"What can be added, moved, removed or changed to serve that need better? Do "
+"its language and logic meet the requirements of this mode of documentation?*"
+msgstr ""
+
+#: 2a1854768e0c4ca888a8698e17ac9e19
+msgid ""
+"**Decide what to do**. Decide, based on your answers to those questions: "
+"*What single next action will produce an immediate improvement here?*"
+msgstr ""
+
+#: 062f6f06b0de427fb4dff83b4a1c156f
+msgid ""
+"**Do it**. Complete that next single action, *and consider it completed* - "
+"i.e. publish it, or at least commit the change. Don't feel that you need to "
+"do anything else to make a worthy improvement."
+msgstr ""
+
+#: ac3d1183280543e6b40020a16d981118
+msgid "And then go back to the beginning of the cycle."
+msgstr ""
+
+#: 30f859d45d4c4431817c766fb637f0fc
+msgid ""
+"Working like this helps reduce the stress of one of the most paralysing and "
+"troublesome aspects of the documentation-writer's work: working out what to "
+"do. It keeps work flowing in the right direction, always towards the desired"
+" end, without having to expend energies on a plan."
+msgstr ""
+
+#: beb9a93cc52e485b9807fe1562a6361b
+msgid "Allow your work to develop organically"
+msgstr ""
+
+#: e4a2021c1dc84323a7f7000c61d3d790
+msgid ""
+"There's a strong urge to work in a cycle of planning and execution in order "
+"to work towards results. But it's not the only way, and there are often "
+"better ways when working with documentation."
+msgstr ""
+
+#: 528f79f4390b4648a00825007ecebb83
+msgid "Well-formed organic growth"
+msgstr ""
+
+#: 88bf5b17bbf14be09e632e08aaf37ae3
+msgid ""
+"A good model for documentation is **well-formed organic growth that adapts "
+"to external conditions**. Organic growth takes place at the cellular level. "
+"The structure of the organism as a whole is guaranteed by the healthy "
+"development of cells, according to rules that are appropriate to each kind "
+"of cell. It's not the other way round, that a structure is imposed on the "
+"organism from above or outside. Good structure develops from within."
+msgstr ""
+
+#: e66371d2a97e40cdacfef14c5a858a18
+msgid ""
+"Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
+"reproduced with kind permission."
+msgstr ""
+
+#: 4938311a2edd40439562be6b9711d264
+msgid ""
+"It's the same with documentation: by following the principles that Diátaxis "
+"provides, your documentation will attain a healthy structure, because its "
+"internal components themselves are well-formed - like a living organism, it "
+"will have built itself up from the inside-out, one cell at a time."
+msgstr ""
+
+#: cf74eb831c8d4d65b66426a2a9156c04
+msgid "Complete, not finished"
+msgstr ""
+
+#: be1a888a3cf34f19bee3c11937d3653d
+msgid ""
+"Consider a plant. As a living, growing organism, a plant is **never "
+"finished** - it can always develop further, move on to the next stage of "
+"growth and maturity. But, at every stage of its development, from seed to a "
+"fully-mature tree, it's **always complete** - there's never something "
+"missing from it. At any point, it is in a state that is appropriate to its "
+"stage of development."
+msgstr ""
+
+#: 56b8819314e24259a3d8c11520cefcc6
+msgid ""
+"Similarly, documentation is also never finished, because it always has to "
+"keep adapting and changing to the product and to users' needs, and can "
+"always be developed and improved further."
+msgstr ""
+
+#: 0fd5122148f5428ebdd3385b84909b5a
+msgid ""
+"However it can always be complete: useful to users, appropriate to its "
+"current stage of development, and in a healthy structural state and ready to"
+" go on to the next stage."
+msgstr ""

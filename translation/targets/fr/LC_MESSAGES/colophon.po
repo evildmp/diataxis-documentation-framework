@@ -1,0 +1,142 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: 66c7deccb73d4d83a50c9c005cb6babd
+msgid "Colophon"
+msgstr ""
+
+#: 6ae4c3abd0ab401e8531c388d085a7a0
+msgid "Diátaxis is the work of `Daniele Procida <https://vurt.eu>`_."
+msgstr ""
+
+#: 71e1959f6d2040c497bef2cdc1a2255b
+msgid ""
+"It has been developed over a number of years, and continues to be elaborated"
+" and explored."
+msgstr ""
+
+#: c4773341a2f64af081c9c9732ec08ada
+msgid "Contact me"
+msgstr "Contactez-moi"
+
+#: 15b2cd3edf154b54a2c2c11617a2735f
+msgid ""
+"`Email me <daniele@vurt.org>`_. I enjoy hearing about other people's "
+"experiences with Diátaxis and read everything I receive."
+msgstr ""
+
+#: 0ad41dc705124901b0d12e2043f837a2
+msgid ""
+"I appreciate all the interest and do my best to reply, but I get a "
+"considerable quantity of email related to Diátaxis and I can't promise to "
+"respond to every message."
+msgstr ""
+
+#: 9065ed6e996b413fae13bf0f7547b547
+msgid ""
+"If you'd like to discuss Diátaxis with other users, please see the "
+"*#diataxis* channel on the `Write the Docs Slack group "
+"<https://www.writethedocs.org/slack/>`_, or the `Discussions "
+"<https://github.com/evildmp/diataxis-documentation-framework/discussions>`_ "
+"section of the `GitHub repository for this website "
+"<https://github.com/evildmp/diataxis-documentation-framework>`_."
+msgstr ""
+
+#: 085235d7e4b643779faa05a92e13381c
+msgid "Origins and development"
+msgstr ""
+
+#: 75581fa5bcd944deb2ae3e1ca82a7fb0
+msgid ""
+"You can find `an earlier presentation of some of these ideas "
+"<https://documentation.divio.com>`_, that I created while working at Divio "
+"between 2014-2021. I still agree with most of it, though there are several "
+"aspects that I now think I got wrong."
+msgstr ""
+
+#: 96a3037dac3d4504854e293792369cae
+msgid ""
+"The original context for the Diátaxis approach was limited to software "
+"product documentation."
+msgstr ""
+
+#: 9e9199137f734195a31460a9498cda87
+msgid ""
+"In 2021 I was awarded a Fellowship of the `Software Sustainability Institute"
+" <http://software.ac.uk/blog/sorry-state-usable-software-open-science-"
+"results-open-science-retreat>`_, to explore its application in scientific "
+"research contexts. More recently I've explored its application in internal "
+"corporate documentation, organisational management and education, and also "
+"its application at scale. This work is on-going."
+msgstr ""
+
+#: f11821b6c4334917935f1ab2b1dcf1ba
+msgid ""
+"Other people have corresponded with me to share their experience of applying"
+" Diátaxis to note-taking systems and even as part of a systematic approach "
+"to household management."
+msgstr ""
+
+#: 848b1261b5fb47bcb823a3e5090021d6
+msgid "Citation and contribution"
+msgstr ""
+
+#: 7487ab55f1eb4f96b507e8428d60caa1
+msgid ""
+"To cite Diátaxis, please refer to :doc:`this website, diataxis.fr <index>`."
+msgstr ""
+
+#: 351e4780173544bebd2284c9bcd87436
+msgid ""
+"The Git repository for the source material contains a citation file, "
+"`CITATION.cff <https://github.com/evildmp/diataxis-documentation-"
+"framework/blob/main/CITATION.cff>`_."
+msgstr ""
+
+#: afff80268b814d3f81ab417fa755ec04
+msgid ""
+"APA and BibTeX metadata are available from the *Cite this repository* option"
+" at https://github.com/evildmp/diataxis-documentation-framework."
+msgstr ""
+
+#: d86694677a1d4a85b8c4c7083bd5f60c
+msgid ""
+"You can also submit a pull request to suggest an improvement or correction, "
+"or `file an issue <https://github.com/evildmp/diataxis-documentation-"
+"framework/issues>`_."
+msgstr ""
+
+#: 2b4ac9ff1ef04b1ab6cbb097a6f2fc4f
+msgid ""
+"Diátaxis is now used in several hundred projects and it is no longer "
+"possible for me to keep up with requests to have projects listed here as "
+"examples of Diátaxis adoption."
+msgstr ""
+
+#: db18d4a8bc2e46b48c5c93fdb8c7bcb7
+msgid "Website"
+msgstr ""
+
+#: 5e66e554da0b4de0a758b4290d0b1574
+msgid ""
+"This website is built with `Sphinx <https://www.sphinx-doc.org>`_ and hosted"
+" on `Read the Docs <http://readthedocs.org>`_, using a modified version of "
+"`Pradyun Gedam <https://pradyunsg.me/>`_'s `Furo "
+"<https://github.com/pradyunsg/furo>`_ theme."
+msgstr ""

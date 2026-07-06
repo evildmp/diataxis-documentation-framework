@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: 82f0870c1b8844168dabc18afc7c72fc
+msgid "Understanding Diátaxis"
+msgstr ""
+
+#: d84703625f0440b88bdf07b846685e5a
+msgid "The Grand Unified Theory of Documentation"
+msgstr "La Grande théorie unifiée de la documentation"
+
+#: ef0be2d78f0943468420adbf6a8fa0fb
+msgid "David Laing"
+msgstr ""
+
+#: 48d9d66426c24b3891795ab62eddacbc
+msgid ""
+"The pages in this section are intended to provide some theoretical grounding"
+" for the practices Diátaxis prescribes, and to explore some of the questions"
+" it raises."
+msgstr ""
+
+#: f9a463f555f94072bc34b7c5f0a96f99
+msgid ""
+"Within the discipline of documentation, discourse tends towards the "
+"practical and concrete. The approach is generally heuristic: guidelines, "
+"rules of thumb, specific imperatives, principles that we know work."
+msgstr ""
+
+#: 8582a42e443c4a93a1bd1393a3986922
+msgid ""
+"As practitioners, we have much to say about what to do, and how to do it and"
+" how it works, and relatively little to say about *why* it works. Our sense "
+"of the right way to do things is largely based on a combination of intuition"
+" and experience. The theoretical aspect of the discipline receives far less "
+"attention."
+msgstr ""
+
+#: e1d05c4345a84fedb71bc121c214602c
+msgid ""
+"Diátaxis aims to place documentation practice on a more rigorous theoretical"
+" footing."
+msgstr ""
+
+#: 95aadc488b854b149e1aecf9dfb8671b
+msgid "In this section"
+msgstr ""
+
+#: 2fdf8093fa37473c82df6dbf11a8edd4
+msgid "These pages dig deeper into the thinking that underpins Diátaxis."
+msgstr ""
+
+#: fa7750cccf194a819357bfe00acc8b2e
+msgid ":doc:`foundations` - *why* Diátaxis works"
+msgstr ""
+
+#: edaf362144704ecd9ab38c0a2ad64d07
+msgid ":doc:`map` - documentation in two dimensions"
+msgstr ""
+
+#: 12fe6f096e0144ec88fe6a1bf6cc6e40
+msgid ":doc:`quality`"
+msgstr ""
+
+#: b79ef05625ab438d9d3763d97ddf0e51
+msgid "Common problems explored:"
+msgstr ""
+
+#: 8adc5fd541af4ae393f9d174829e1214
+msgid ":doc:`tutorials-how-to`"
+msgstr ""
+
+#: 7933d61ba3c0424a884ed3670e0a92c0
+msgid ":doc:`reference-explanation`"
+msgstr ""
