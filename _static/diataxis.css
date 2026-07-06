@@ -5,8 +5,18 @@
   --orange: #FF9300;
 }
 
-body {font-family: 'Source Serif 4', serif;}
-aside, table {font-family: 'Source Sans 3', sans-serif;}
+body {
+    --font-stack: 'Source Serif 4', serif;
+    --font-stack--headings: 'Source Serif 4', serif;
+    font-family: var(--font-stack);
+}
+
+.sidebar-drawer,
+.toc-drawer,
+aside,
+table {
+    font-family: 'Source Sans 3', sans-serif;
+}
 
 
 /* --------- headings --------- */
