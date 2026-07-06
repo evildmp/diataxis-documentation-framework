@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 00:25+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../index.rst:11
+msgid "Home"
+msgstr ""
+
+#: ../../index.rst:60
+msgid "Start here"
+msgstr ""
+
+#: ../../index.rst:74
+msgid "Tutorials"
+msgstr ""
+
+#: ../../index.rst:74
+msgid "How-to guides"
+msgstr ""
+
+#: ../../index.rst:74
+msgid "Reference"
+msgstr ""
+
+#: ../../index.rst:74
+msgid "Explanation"
+msgstr ""
+
+#: ../../index.rst:74
+msgid "Workflow"
+msgstr ""
+
+#: ../../index.rst:94
+msgid "Quality"
+msgstr ""
+
+#: ../../index.rst:94
+msgid "Tutorials and how-to guides"
+msgstr ""
+
+#: ../../index.rst:94
+msgid "Reference and explanation"
+msgstr ""
+
+#: ../../index.rst:94
+msgid "Complex hierarchies"
+msgstr ""
+
+#: ../../index.rst:-1
+msgid "Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking about and creating documentation."
+msgstr ""
+
+#: ../../index.rst:-1
+msgid "documentation, four, kinds, architecture"
+msgstr ""
+
+#: ../../index.rst:-1
+#: ../../index.rst:9
+msgid "Diátaxis"
+msgstr ""
+
+#: ../../index.rst:19
+msgid "A systematic approach to technical documentation authoring."
+msgstr ""
+
+#: ../../index.rst:22
+msgid "Diátaxis is a way of thinking about and doing documentation."
+msgstr ""
+
+#: ../../index.rst:24
+msgid "It prescribes approaches to content, architecture and form that emerge from a systematic approach to understanding the needs of documentation users."
+msgstr ""
+
+#: ../../index.rst:27
+msgid "Diátaxis identifies four distinct needs, and four corresponding forms of documentation - *tutorials*, *how-to guides*, *technical reference* and *explanation*. It places them in a systematic relationship, and proposes that documentation should itself be organised around the structures of those needs."
+msgstr ""
+
+#: ../../index.rst:35
+msgid "*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and *taxis* (\"arrangement\")."
+msgstr ""
+
+#: ../../index.rst:37
+msgid "Diátaxis solves problems related to documentation *content* (what to write), *style* (how to write it) and *architecture* (how to organise it)."
+msgstr ""
+
+#: ../../index.rst:39
+msgid "As well as serving the users of documentation, Diátaxis has value for documentation creators and maintainers. It is light-weight, easy to grasp and straightforward to apply. It doesn't impose implementation constraints. It brings an active principle of quality to documentation that helps maintainers think effectively about their own work."
+msgstr ""
+
+#: ../../index.rst:44
+msgid "Contents"
+msgstr ""
+
+#: ../../index.rst:54
+msgid "The best way to get started with Diátaxis is by applying it after reading a brief primer."
+msgstr ""
+
+#: ../../index.rst:68
+msgid "These pages will help make immediate, concrete sense of the approach."
+msgstr ""
+
+#: ../../index.rst:88
+msgid "This section explores the theory and principles of Diátaxis more deeply, and sets forth the understanding of needs that underpin it."
+msgstr ""
+
+#: ../../index.rst:108
+msgid "Diátaxis is proven in practice. Its principles have been adopted successfully in hundreds of documentation projects."
+msgstr ""
+
+#: ../../index.rst:113
+msgid "Diátaxis has allowed us to build a high-quality set of internal documentation that our users love, and our contributors love adding to."
+msgstr ""
+
+#: ../../index.rst:115
+msgid "Greg Frileux, `Vonage <https://vonage.com/>`_"
+msgstr ""
+
+#: ../../index.rst:119
+msgid "At Gatsby we recently reorganized our open-source documentation, and the Diátaxis framework was our go-to resource throughout the project. The four quadrants helped us prioritize the user’s goal for each type of documentation. By restructuring our documentation around the Diátaxis framework, we made it easier for users to discover the resources that they need when they need them."
+msgstr ""
+
+#: ../../index.rst:124
+msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
+msgstr ""
+
+#: ../../index.rst:129
+msgid "While redesigning the `Cloudflare developer docs <https://developers.cloudflare.com>`_, Diátaxis became our north star for information architecture. When we weren't sure where a new piece of content should fit in, we'd consult the framework. Our documentation is now clearer than it's ever been, both for readers and contributors."
+msgstr ""
+
+#: ../../index.rst:131
+msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
+msgstr ""
