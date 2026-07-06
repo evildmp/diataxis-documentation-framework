@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 16:55+0200\n"
+"POT-Creation-Date: 2026-07-06 17:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,174 +17,174 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../compass.rst:4
-#: a1362d2d1aa64db0ac6201dc6c640408
+#: 48dfdb07b88844fdbccf0ab4e56f41ce
 msgid "The compass"
 msgstr ""
 
 #: ../../compass.rst:10
-#: 11d0f8e14ff4428eb3f8b75ccfdad311
+#: 1f1e550f02274b10ba14c7e9a8545aae
 msgid "The Diátaxis map is an effective reminder of the different kinds of documentation and their relationship, and it accords well with intuitions about documentation."
 msgstr ""
 
 #: ../../compass.rst:14
-#: 9a62a1039b3340dd960177e8f4c8fbd9
+#: 137fd4ffb42a4fe5ad67ab4aed3fc7af
 msgid "However intuition is not always to be relied upon. Often when working with documentation, an author is faced with the question: *what form of documentation is this?* or *what form of documentation is needed here?* - and no obvious, intuitive answer."
 msgstr ""
 
 #: ../../compass.rst:19
-#: f2019b707bb24ad987f7f6475b3d153c
+#: 772f127d29a6422ba25c6d4bc20eb3f8
 msgid "Worse, sometimes intuition provides an immediate answer that is also wrong."
 msgstr ""
 
 #: ../../compass.rst:21
-#: 4503ea3d6c064d80af63263ed867741f
+#: 3b0e90f6997d4d93b858f2b9c2c86514
 msgid "A map is most powerful in unfamiliar territory when we also have a compass to guide us."
 msgstr ""
 
 #: ../../compass.rst:24
-#: 7a43ca2362334957b0b0759e450f606c
+#: f24ce33247434241b6d5c7fee4a4a531
 msgid "The Diátaxis compass is something like a truth-table or decision-tree of documentation. It reduces a more complex, two-dimensional problem to its simpler parts, and provides the author with a course-correction tool."
 msgstr ""
 
 #: ../../compass.rst:35
-#: 7a552fcae51d475aa865ec4b2a2fe985
+#: 437f4c439e75405cb7915e250d3f75b5
 msgid "If the content..."
 msgstr ""
 
 #: ../../compass.rst:36
-#: 2ddb2b2a68ee4879aca834619cfb1b39
+#: c8447009c6114e12942cf7a7225bf363
 msgid "...and serves the user's..."
 msgstr ""
 
 #: ../../compass.rst:37
-#: 26f98f4416d942a585971001b853ce06
+#: 799d3bdcbeb140ae8bcb6e26acda5931
 msgid "...then it must belong to..."
 msgstr ""
 
 #: ../../compass.rst:38
 #: ../../compass.rst:41
-#: 1be51a2148b14107ac70e3725914f694
-#: b2e2b666a5fd4adc9a661958090a5847
+#: e69072fd4ea34d7899e9ff5c92483494
+#: abedb3ce353443b9a83031ba9870674e
 msgid "informs action"
 msgstr ""
 
 #: ../../compass.rst:39
 #: ../../compass.rst:48
-#: 4473122488304b6bb260c08ca80402b4
-#: 27ff3db3a91844bf8bd77e6537c6e908
+#: 7a38c4fae8824d059e986f3a8b2db991
+#: 497744224eae44c495b3e68b959c0ef7
 msgid "acquisition of skill"
 msgstr ""
 
 #: ../../compass.rst:40
-#: 97dbacbbe58f420ba9f23741f915951b
+#: 990dc6284f5e408e8769cd75e257721a
 msgid "a tutorial"
 msgstr ""
 
 #: ../../compass.rst:42
 #: ../../compass.rst:45
-#: 9d71d16eace24a3cb8f8fb7d36497fac
-#: 150740912746496c9041e485f07e9d14
+#: 0dfb267ba058450e83450c748708b3cb
+#: 95c6cc3afd9140cdb817f0e28bcc051a
 msgid "application of skill"
 msgstr ""
 
 #: ../../compass.rst:43
-#: 2dbbac5a9b004a28ac7b99880a37634c
+#: d44a1d4a0b194844a457b1be5e0e4782
 msgid "a how-to guide"
 msgstr ""
 
 #: ../../compass.rst:44
 #: ../../compass.rst:47
-#: 1e9c5b0dff3e4f5ca6a40e0383685ae3
-#: 5cf4dbd1574f45f1913976566f17f6df
+#: 73f4df38c0b1464197e858241bba1ac0
+#: 0ef344af23e74111ba5ea093dc330ebc
 msgid "informs cognition"
 msgstr ""
 
 #: ../../compass.rst:46
-#: 09e8ab962228442a995a13dea4bc72c4
+#: 5e7d3203aee3499194dfefca102a1dfd
 msgid "reference"
 msgstr ""
 
 #: ../../compass.rst:49
-#: ad37fcbba9fc4fa0816702cb984807b8
+#: 73c54b32f0cc42f282d39e19083bc2ee
 msgid "explanation"
 msgstr ""
 
 #: ../../compass.rst:51
-#: 50def26a37f54180b2f14349407ee0e6
+#: 8d5b13c2cfdb4185ace37fd82315c06f
 msgid "The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprisingly banal."
 msgstr ""
 
 #: ../../compass.rst:53
-#: 20fe21566e43470080244990904f72bd
+#: 808cc977d95a4d2ebc09b2876ea077ef
 msgid "To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?*"
 msgstr ""
 
 #: ../../compass.rst:55
-#: 90cc5adbff284b16ad2a3da082890b29
+#: 9d354798e0e04e058bfa101bca00d5a5
 msgid "And it yields the answer."
 msgstr ""
 
 #: ../../compass.rst:59
-#: c00e3c1f0d634864a88511f20cae1cd6
+#: 71dc5b4547114377bf266b375ed8ebe9
 msgid "Using the compass"
 msgstr ""
 
 #: ../../compass.rst:61
-#: 44098a0c104d42d09c633ce577cb1783
+#: 1e9b92d00b964c1f87dd0d366e2bc877
 msgid "The compass is particularly effective when you think that you think you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider."
 msgstr ""
 
 #: ../../compass.rst:63
-#: f11c60a70c474b9598094cd061bd197b
+#: 25dec62772be4a35abae20de715368c2
 msgid "Especially when you are trying to find your initial bearings, use the compass's terms flexibly; don't get fixated on the exact names."
 msgstr ""
 
 #: ../../compass.rst:65
-#: 55840afaebdd497c90261b68149eb9c2
+#: ec1e038771c14ea3a2d62a1830f1b5a0
 msgid "*action*: practical steps, doing"
 msgstr ""
 
 #: ../../compass.rst:66
-#: 564cd37df94a449d8234ab6be4524895
+#: 34ff57d1388d476f861771eaf7ecd589
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
 msgstr ""
 
 #: ../../compass.rst:67
-#: 09fb977c570649fe969659c42f2e8fab
+#: 6be24ce249454e6fbf5c75f177671067
 msgid "*acquisition*: study"
 msgstr ""
 
 #: ../../compass.rst:68
-#: 072ab63c1406411cae008148226517cb
+#: 5c63db44b2dc4573b434767cd451a18e
 msgid "*application*: work"
 msgstr ""
 
 #: ../../compass.rst:70
-#: edc20dda04404e24adbe03b53a6e07ea
+#: cefa96f6662b42668a0dd4732f1eac62
 msgid "And the questions themselves can also be used in different ways:"
 msgstr ""
 
 #: ../../compass.rst:72
-#: f1bc0f1cc84944f087eda846cc0f4ac5
+#: d10fc41fba7d424f8e5b9b877c3c4fde
 msgid "Do I think I am writing for *x* or *y*?"
 msgstr ""
 
 #: ../../compass.rst:73
-#: a059b6aaa57d4929b4147e731e0fe50e
+#: 37f77f79ebcc4f099a3aff3e6f17b522
 msgid "Is this writing in front of me engaged in *x* or *y*?"
 msgstr ""
 
 #: ../../compass.rst:74
-#: c63ad43ad886477d979b91e0f0932720
+#: b140f857e9c145a681a72f5a09746e83
 msgid "Does the user need *x* or *y*?"
 msgstr ""
 
 #: ../../compass.rst:75
-#: 4d427fdbaf9f4d3faf802f4db43440b5
+#: af921c76c5db45dbbdae640a1ae73f19
 msgid "Do I want to *x* or *y*?"
 msgstr ""
 
 #: ../../compass.rst:77
-#: 4a174741a0174f6ba25903308f8b485e
+#: 60ee4217154a4ce7a29bea84cbb4ad4f
 msgid "And try applying them close-up, at the level of sentences and words, or from a wider perspective, considering an entire document."
 msgstr ""
