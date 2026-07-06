@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 16:55+0200\n"
+"POT-Creation-Date: 2026-07-06 17:54+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,374 +17,374 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../map.rst:4
-#: fe8a00d356e449dfa5136f3727b62616
+#: 1dff53f43ac64f67acb7238d0dd429a7
 msgid "The map"
 msgstr ""
 
 #: ../../map.rst:7
-#: 3199ca332bd84773a0446e054425eed0
+#: 549c0452748f459da1c0e3f7d04d4e04
 msgid "One reason Diátaxis is effective as a guide to organising documentation is that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr ""
 
 #: ../../map.rst:14
-#: b32d454c012440899d63e4a81a4aba8a
+#: 5cc20da54272467691e207729ae28103
 msgid "It specifies its types of documentation in such a way that the structure naturally helps guide and shape the material it contains."
 msgstr ""
 
 #: ../../map.rst:17
-#: 243332f75ad74fdeb7fa7b88f7dd9eaf
+#: ed7219658578432ba289beb7d3eb3c5d
 msgid "As a map, it places the different forms of documentation into relationships with each other. Each one occupies a space in the mental territory it outlines, and the boundaries between them highlight their distinctions."
 msgstr ""
 
 #: ../../map.rst:23
-#: 414bc82ec3214aa1b838e3b7f5bc4b23
+#: 2fe508b085254dd78e1173933a113952
 msgid "The problem of structure"
 msgstr ""
 
 #: ../../map.rst:25
-#: 7a95145c3bb048d1a6794f29cd189b43
+#: 59abdee1747443eebbf1fe6518493937
 msgid "When documentation fails to attain a good structure, it's rarely just a problem of structure (though it's bad enough that it makes it harder to use and maintain). Architectural faults infect and undermine content too."
 msgstr ""
 
 #: ../../map.rst:27
-#: 3083e68b0c7540309914c8e3fd452289
+#: f1da6fb0b44547fa8943fe4242179a1f
 msgid "In the absence of a clear, generalised documentation architecture, documentation creators will often try to structure their work around features of a product."
 msgstr ""
 
 #: ../../map.rst:29
-#: b7ecaafc77544ba8b3c8c374a6b4e9b7
+#: 2b23d42b1fb9416ca45da0861285a91e
 msgid "This is rarely successful, even in a single instance. In a portfolio of documentation instances, the results are wild inconsistency. Much better is the adoption of a scheme that tries to provide an answer to the question: how to arrange documentation *in general?*"
 msgstr ""
 
 #: ../../map.rst:34
-#: 967831f8d06348f4a4377953d1624f95
+#: 240a9fac9cab4ca795bb828957560415
 msgid "In fact any orderly attempt to organise documentation into clear content categories will help improve it (for authors as well as users), by providing lists of content types."
 msgstr ""
 
 #: ../../map.rst:38
-#: c4226c78a3a74dea8241f207ba5b8a67
+#: 03e2a427a5ba471092b4f905e0dbdf4f
 msgid "Even so, authors often find themselves needing to write particular documentation content that fails to fit well within the categories put forward by a scheme, or struggling to rewrite existing material. Often, there is a sense of arbitrariness about the structure that they find themselves working with - why this particular list of content types rather than another? And if another competing list is proposed, which to adopt?"
 msgstr ""
 
 #: ../../map.rst:48
-#: 80a63df6f9fc48cf9ac47ecf29519e0e
+#: 977a2cfdf1cf4886b981d17da637a87c
 msgid "Expectations and guidance"
 msgstr ""
 
 #: ../../map.rst:50
-#: f52c9ed49a7c4398b3399bc474628de9
+#: 68fd5e2275d6481c9944db1e4b2a9078
 msgid "A clear advantage of organising material this way is that it provides both clear *expectations* (to the reader) and *guidance* (to the author). It's clear what the purpose of any particular piece of content is, it specifies how it should be written and it shows where it should be placed."
 msgstr ""
 
 #: ../../map.rst:62
-#: 5e4a4423527548368a6e149e1ff5fc1c
+#: 1d52800cc6bd4fd6967d684b046f9bc8
 msgid "\\"
 msgstr ""
 
 #: ../../map.rst:63
-#: 9d955dc5f20a466e977ed495b32cb7fd
+#: 8df328458ada402dab60dbb31ece27a8
 msgid ":ref:`Tutorials <tutorials>`"
 msgstr ""
 
 #: ../../map.rst:64
-#: 6c0a4355f1b54f35a6256bea67853dba
+#: b3e9c6827d3e41c18c14ecd9a66cdc91
 msgid ":ref:`How-to guides <how-to>`"
 msgstr ""
 
 #: ../../map.rst:65
-#: fe1a43a65e38483a80733055fd27cc7c
+#: d8335b35dfb44877a08a2beb7ace5533
 msgid ":ref:`Reference <reference>`"
 msgstr ""
 
 #: ../../map.rst:66
-#: 1f4533f92848434e92579d5a995dc521
+#: 3bc020248801415189ece833ecb4ece0
 msgid ":ref:`Explanation <explanation>`"
 msgstr ""
 
 #: ../../map.rst:67
-#: b0d8ba3a231345f7a50e4fe0a60f37bc
+#: 7c89a4a0bee749258273eb1f2b901705
 msgid "what they do"
 msgstr ""
 
 #: ../../map.rst:68
-#: f0667ced410047348ac04d3a5f4e1639
+#: c449e6d81a544cf589e8f84d3e183be5
 msgid "introduce, educate, lead"
 msgstr ""
 
 #: ../../map.rst:69
-#: f1e433ecd5704fe79f60f4e084bd06e0
+#: 5c516479199643f09cf4e1e473a36c51
 msgid "guide"
 msgstr ""
 
 #: ../../map.rst:70
-#: 45fbea67418249eb9254bba745974950
+#: 5adcf4a6153045d992d42596b198a22f
 msgid "state, describe, inform"
 msgstr ""
 
 #: ../../map.rst:71
-#: c585d92f185d459b8b3e3e043c35e7cd
+#: 81cbcf84bc12470084dfc1fa8b6f0fc8
 msgid "explain, clarify, discuss"
 msgstr ""
 
 #: ../../map.rst:72
-#: 39ac82ea07c24e9c843d518aaea0f5f8
+#: db2ab00054294fba8c50bbb795b0e9ae
 msgid "answers the question"
 msgstr ""
 
 #: ../../map.rst:73
-#: 94541f588a504067b36f3977f08b0a3e
+#: 930f0ee3955a408c81f28fd6b2567b9e
 msgid "\"Can you teach me to...?\""
 msgstr ""
 
 #: ../../map.rst:74
-#: 68e3d84953bb4c8a93701339048c7e16
+#: bcdbd79b0e0f48abb41a3593600bef43
 msgid "\"How do I...?\""
 msgstr ""
 
 #: ../../map.rst:75
-#: 9a45b7e38af34129b8cc2d35bdcc6efa
+#: f43b67c77dc642fbb6b6a0bee796547c
 msgid "\"What is...?\""
 msgstr ""
 
 #: ../../map.rst:76
-#: 8a3d8b7b667f4ad2915feb5f2d07b4eb
+#: d518203762514c4ca8842d4f73ce4db4
 msgid "\"Why...?\""
 msgstr ""
 
 #: ../../map.rst:77
-#: 31d204e07ad341299dec00fc24cb877b
+#: 7737d4cf8aa842fca2d262167a333740
 msgid "oriented to"
 msgstr ""
 
 #: ../../map.rst:78
-#: 29f5c07141bd4a88b200153a9d5aff5f
+#: 675b6cf938c94cc88f762504c78f23ba
 msgid "learning"
 msgstr ""
 
 #: ../../map.rst:79
-#: d99d0a564f5840ac9c7a57b053264533
+#: e00545c2134f4bbf999755e8e52bc651
 msgid "goals"
 msgstr ""
 
 #: ../../map.rst:80
-#: 7b9bdc06019f49f18ec4ee808d413164
+#: 85f464ebee6246a59eef03c1b7dd3098
 msgid "information"
 msgstr ""
 
 #: ../../map.rst:81
-#: d0966687af6a4b9dbd23599629dddb47
+#: f85a71f0ee6d4e20819442b90730df2b
 msgid "understanding"
 msgstr ""
 
 #: ../../map.rst:82
-#: 49cb82383a284f06aee606333f9f2978
+#: 4b3c48abd2b749c4b53606d9ff9158ce
 msgid "purpose"
 msgstr ""
 
 #: ../../map.rst:83
-#: f15b16c2a19d483987444a53121f68bf
+#: 4627c7f6f8664088a7e9e58f94e36646
 msgid "to provide a learning experience"
 msgstr ""
 
 #: ../../map.rst:84
-#: cff00f5d81eb416bad8af8a8c76f48b5
+#: 1b3cc7e27e064f0db7b481e5ca60b990
 msgid "to help achieve a particular goal"
 msgstr ""
 
 #: ../../map.rst:85
-#: 96452d5b918b4e559f97283349d78b46
+#: b6f3c80d04684422b6ed327d5bcf7ab7
 msgid "to describe the machinery"
 msgstr ""
 
 #: ../../map.rst:86
-#: c3c8a58832a14266a0dbef2e71890c38
+#: f6c2c912604d4e4f880aa8b00fa9becd
 msgid "to illuminate a topic"
 msgstr ""
 
 #: ../../map.rst:87
-#: 71ff7b8b22194117878f845983f9a21d
+#: c37ce3cbbb2c4566ab8e8e0d52be7693
 msgid "form"
 msgstr ""
 
 #: ../../map.rst:88
-#: 4686d834596740e9acd489b35d264446
+#: 7c8f5af7d0584b83b78a3593c56b5059
 msgid "a lesson"
 msgstr ""
 
 #: ../../map.rst:89
-#: 91c8824e40a94218bab5541b73022e7b
+#: a7b479002ec7420abdf02b770a302269
 msgid "a series of steps"
 msgstr ""
 
 #: ../../map.rst:90
-#: f007207b8a40492782a1a471d10eb32f
+#: 01124dbe98744249949646888de729e9
 msgid "dry description"
 msgstr ""
 
 #: ../../map.rst:91
-#: 140efdd9c2294351b30e24c3e2f09cf7
+#: 9f810b883ee04371aade5bf668db7772
 msgid "discursive explanation"
 msgstr ""
 
 #: ../../map.rst:92
-#: 1b5872c970a34413a0a6bd49d8c6e9f7
+#: 037708a1f0854b2bbbd4607ed8542234
 msgid "analogy"
 msgstr ""
 
 #: ../../map.rst:93
-#: c81e6260b8eb4db19f5ccb1a5f39b0b0
+#: e514598fd2224050864191a380fda0e3
 msgid "teaching a child how to cook"
 msgstr ""
 
 #: ../../map.rst:94
-#: 04c67b83e51b49d4bfd1130bc5dac38f
+#: f4acaa46f874439995e1be2e52e2cb86
 msgid "a recipe in a cookery book"
 msgstr ""
 
 #: ../../map.rst:95
-#: 83316d14ade04f71a4f6e1be668e3be8
+#: e991614c8e43494e9995dd3757a9bd57
 msgid "information on the back of a food packet"
 msgstr ""
 
 #: ../../map.rst:96
-#: a85c76492f254c8ebf3a13cb7e817235
+#: b1c899f2f29b4f6fa2f918e318a48f2f
 msgid "an article on culinary social history"
 msgstr ""
 
 #: ../../map.rst:98
-#: 5bb57073e46c410c8f6446bb04ea0fa8
+#: f3e18ad8224f45b2bfcad22258a955dd
 msgid "Each piece of content is of a kind that not only has one particular job to do, that job is also clearly distinguished from and contrasted with the other functions of documentation."
 msgstr ""
 
 #: ../../map.rst:103
-#: 25e11c87618947aebba149acf6c32994
+#: 866d4e9b82e34ca0aaa4a14b46ac4508
 msgid "Blur"
 msgstr ""
 
 #: ../../map.rst:105
-#: 78b283c402544c7d940c5a6c9c80c75e
+#: 6895fcd5a18446358a5576d89040aacb
 msgid "Most documentation systems and authors recognise at least some of these distinctions and try to observe them in practice."
 msgstr ""
 
-#: ../../map.rst:-1
-#: 8f14e6545a504db7bb4bb50e491fb404
+#: ../../map.rst:108
+#: 2bd7f36820094492a2ee75e9e8c3a6a4
 msgid "Partial collapse of the structure"
 msgstr ""
 
 #: ../../map.rst:112
-#: e5004658354f42788781717baac9d7ef
+#: a61076fa21cb4d808b79c7d198718697
 msgid "However, there is a kind of natural affinity between each of the different forms of documentation and its neighbours on the map, and a natural tendency to blur the distinctions (that can be seen repeatedly in examples of documentation)."
 msgstr ""
 
 #: ../../map.rst:120
-#: 5dcec89c2dd249fdb0fb79ee4e220f0d
+#: b1721eb1261c42549122146f8d206f86
 msgid "guide action"
 msgstr ""
 
 #: ../../map.rst:121
 #: ../../map.rst:130
-#: a0ba99ffc5924f3da3c5956df5faf092
-#: 4405e865b6684e1684e169f192f228d0
+#: 3643f7b82b764b6e936a1dcaad491c94
+#: 9feb47c509124959a4b54ec43efffa71
 msgid "tutorials"
 msgstr ""
 
 #: ../../map.rst:122
 #: ../../map.rst:125
-#: 19b9b1c311644514862f87c6c997e67a
-#: ff22950c055e4ce3ae91aaedf6ac6e5c
+#: 85e31d6eedab45128109e2d659674afe
+#: 2491404990d9453599f0a035ff21783f
 msgid "how-to guides"
 msgstr ""
 
 #: ../../map.rst:123
-#: ab3b88aadd394ef7ac238e8cd83dc742
+#: 5dc1849219c74e06a7e9fd8d7ffdafc9
 msgid "serve the application of skill"
 msgstr ""
 
 #: ../../map.rst:124
 #: ../../map.rst:127
-#: 38075b76e59c4ab98a9081afb9b7d8d5
-#: 391cf2944597452395fdd2e65c44cce8
+#: 514ab503bff345e188bd0203ec232e79
+#: 3c0e95d647b4419d8fdb1df13de8a0ad
 msgid "reference"
 msgstr ""
 
 #: ../../map.rst:126
-#: 08f21dc84164423dbb77d8b53457b985
+#: 90f995cd3abc4ed895e51f870004aa16
 msgid "contain propositional knowledge"
 msgstr ""
 
 #: ../../map.rst:128
 #: ../../map.rst:131
-#: 351a9fc48060405ba1c809e3ae4e6749
-#: 37fefbdd34da4db78a9005a954641a75
+#: 8dfc10f2b76641b0be4626b85eb801ce
+#: 1a1166ed5e5b418d9fee5ac3f1a1fcbf
 msgid "explanation"
 msgstr ""
 
 #: ../../map.rst:129
-#: 873b2e93f5f9429196dcbcc2c56ff861
+#: e622e51eb8e646a581d25de5d22b432c
 msgid "serve the acquisition of skill"
 msgstr ""
 
 #: ../../map.rst:133
-#: f15dacb856d7463c8f02949d8153807e
+#: e2eefa51813d43e68ab050601faf64ab
 msgid "When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing."
 msgstr ""
 
-#: ../../map.rst:-1
-#: ed9ff38728564b9387e0ec9c8859730b
+#: ../../map.rst:135
+#: 057310ea32f24c1ab69a51a855fed18a
 msgid "Total collapse of the structure"
 msgstr ""
 
 #: ../../map.rst:139
-#: db1a79f7dbd642a985a4b58b956ee293
+#: 6772e7baee20432aa7c8eab75785efd9
 msgid "In the worst case there is a complete or partial collapse of tutorials and how-to guides into each other, making it impossible to meet the needs served by either."
 msgstr ""
 
 #: ../../map.rst:145
-#: 5630feccfb504fdc8e7aa6706abedc3f
+#: ec608a08e91741b2b4bd207d14e2fd04
 msgid "The journey around the map"
 msgstr ""
 
 #: ../../map.rst:147
-#: 8ce9984c83274ae9a2caa15b0d056f92
+#: abd3eb6d51014a80abf8b99375f6c006
 msgid "Diátaxis is intended to help documentation better serve users in their *cycle of interaction* with a product."
 msgstr ""
 
 #: ../../map.rst:149
-#: 5eabe9d1c00a4f13b1c02b9bbd3f2b98
+#: 1fe452b339e64c13b75562d9d707390d
 msgid "This phrase should not be understood too literally. It is not the case that a user must encounter the different kinds of documentation in the order *tutorials* > *how-to guides* > *technical reference* > *explanation*. In practice, an actual user may enter the documentation anywhere in search of guidance on some particular subject, and what they want to read will change from moment to moment as they use your documentation."
 msgstr ""
 
 #: ../../map.rst:154
-#: 35a1ef9f98e043d894d1d1a572de048d
+#: 7c5bc522800d479abf18fc2427836aa4
 msgid "However, the idea of a cycle of documentation needs, that proceeds through different phases, is sound and corresponds to the way that people actually do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
 
-#: ../../map.rst:-1
-#: 00f28faed64f4f549eaf3e20b32fd7f4
+#: ../../map.rst:157
+#: e2e30e6b288e4132bbc376411fbcf218
 msgid "Moving around the map"
 msgstr ""
 
 #: ../../map.rst:162
-#: 7ff6ee577e144e3fa15fbab4c3bf1a5d
+#: 4f72f3d4917944c7ae8485db979a2fc6
 msgid "*learning-oriented phase*: We begin by learning, and learning a skill means diving straight in to do it - under the guidance of a teacher, if we're lucky."
 msgstr ""
 
 #: ../../map.rst:164
-#: 8c6632cd635e430c8173b3553cb63d56
+#: 73a0fb46db1e4d57949df72e2f2baaa1
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr ""
 
 #: ../../map.rst:165
-#: a2c10e39e84c4166b8c933fc371efaba
+#: 8216318496a24ed0b889dd6d30bbf7c3
 msgid "*information-oriented phase*: As soon as our work calls upon knowledge that we don't already have in our head, it requires us to consult technical reference."
 msgstr ""
 
 #: ../../map.rst:167
-#: 18b3015395bc4c0485d232157a16fe3f
+#: fb27415f46954be5813c722ef549361e
 msgid "*explanation-oriented phase*: Finally, away from the work, we reflect on our practice and knowledge to understand the whole."
 msgstr ""
 
 #: ../../map.rst:170
-#: c7b7fcdd1ade42b9870c2f54f64e9146
+#: fceb2e407be14a17ac178acbd72e770e
 msgid "And then it's back to the beginning, perhaps for a new thing to grasp, or to penetrate deeper."
 msgstr ""
