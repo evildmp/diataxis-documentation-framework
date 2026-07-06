@@ -62,7 +62,7 @@ html_theme_options = {
     },
 }
 html_static_path = ["_static"]
-html_logo = "images/diataxis-white-416.png"
+html_logo = "source/images/diataxis-white-416.png"
 html_css_files = [
     "diataxis.css",
 ]
@@ -103,3 +103,4 @@ language = "en"
 locale_paths = ["translation/targets"]
 gettext_compact = False
 gettext_uuid = True
+gettext_location = False
