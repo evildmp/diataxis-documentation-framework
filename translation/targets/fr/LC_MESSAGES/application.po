@@ -1,0 +1,99 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: 731d90822c4045fc9a6240d64733f80e
+msgid "Applying Diátaxis"
+msgstr ""
+
+#: c387c75c23c04ca1b4f9e599e10b32df
+msgid ""
+"The pages in this section are concerned with putting Diátaxis into practice."
+msgstr ""
+
+#: 1ec3d3997bd54048b47538cae6ceb47d
+msgid ""
+"Diátaxis is underpinned by :doc:`systematic theoretical principles "
+"<theory>`, but understanding them is not necessary to make effective use of "
+"the system."
+msgstr ""
+
+#: bbffd08929344546acb983e1d5e1de53
+msgid ""
+"Diátaxis is primarily intended as a pragmatic approach for people working on"
+" documentation. Most of the key principles required to put it into practice "
+"successfully can be grasped intuitively."
+msgstr ""
+
+#: a133944be1864fe592bd779b6e92fdd4
+msgid ""
+"Don't wait to understand Diátaxis before you start trying to put it into "
+"practice. Not only do you not need to understand it all to make use of it, "
+"you will not understand it until you have started using it (this itself is a"
+" Diátaxis principle)."
+msgstr ""
+
+#: 688063ec2af14eeeb81ab8b3051b54d1
+msgid ""
+"As soon as you feel you have picked up an idea that seems worth applying to "
+"your work, try applying it. Come back here when you need more clarity or "
+"reassurance. Iterate between your work and reflecting on your work."
+msgstr ""
+
+#: dc138613d2c4407f84f4a130a0ebda9e
+msgid "In this section"
+msgstr ""
+
+#: a6521ed3487247d294e51a80a7b4038d
+msgid ""
+"At the core of Diátaxis are the four different kinds of documentation it "
+"identifies. If you're encountering Diátaxis for the first time, start with "
+"these pages."
+msgstr ""
+
+#: dbda77646ffa4a5cae98cd53435c381d
+msgid ":doc:`tutorials` - learning-oriented experiences"
+msgstr ""
+
+#: 8f4f9391e85b4ba592dbaa6e3787af91
+msgid ":doc:`how-to-guides` - goal-oriented directions"
+msgstr ""
+
+#: 98c0bc6f8b2b477ab48e3d1263cfa324
+msgid ":doc:`reference` - information-oriented technical description"
+msgstr ""
+
+#: 64acfdac0f80483088bac40f36bdd8d4
+msgid ":doc:`explanation` - understanding-oriented discussion"
+msgstr ""
+
+#: 55399b2fa10e4a37a82afba47375c5a3
+msgid ""
+"Diátaxis prescribes principles that guide action. These translate into "
+"particular ways of working, with implications for documentation process and "
+"execution. Once you've made your first start, the tools and methods outlined"
+" here will help smooth your way."
+msgstr ""
+
+#: f4fe3ed4c745491d87c0b74c25b29975
+msgid ":doc:`compass` - a simple tool for direction-finding"
+msgstr ""
+
+#: 1256493ee88a4945898b170aeb8ebeb1
+msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
+msgstr ""

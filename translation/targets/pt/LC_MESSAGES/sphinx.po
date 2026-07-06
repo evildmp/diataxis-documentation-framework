@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 17:54+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: ../../_templates/page.html:14 3b04e9e3c39b4075ad0e6fc1d166a409
+msgid "Next"
+msgstr ""
+
+#: ../../_templates/page.html:26 760ce1ca043e4c44ad53f333525348c1
+msgid "Previous"
+msgstr ""
+
+#: ../../_templates/page.html:29 7ce529f931a84c73a26521fcbcf7479b
+msgid "Home"
+msgstr "Início"
+
+#: ../../_templates/page.html:42 e479a123456e418ca6423f96c36fe765
+msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
+msgstr ""
+
+#: ../../_templates/page.html:46 5fa48ec3ba2b4b03bdb1db1e96cc59bc
+msgid "Copyright &#169; %(copyright)s"
+msgstr ""
+
+#: ../../_templates/page.html:55 fa1836a82bcf491da4f49bc0e990cf1d
+msgid "Last updated on %(last_updated)s"
+msgstr ""
