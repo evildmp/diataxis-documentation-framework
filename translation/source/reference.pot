@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 00:25+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,181 +17,226 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../reference.rst:4
+#: 2feba7b957df494eaefa58c0b8dab319
 msgid "Reference"
 msgstr ""
 
 #: ../../reference.rst:7
+#: 6ed50c0723ae490abdb2e34fc2d1564d
 msgid "Reference guides are **technical descriptions** of the machinery and how to operate it. Reference material is **information-oriented**."
 msgstr ""
 
 #: ../../reference.rst:10
+#: 183441e9ee92474795db0cf814f89ab2
 msgid "Reference material contains *propositional or theoretical* knowledge that a user looks to in their *work*."
 msgstr ""
 
 #: ../../reference.rst:12
+#: 715ff1f1bee54afc8492a67cfe7c7efc
 msgid "The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference material is led by the product it describes."
 msgstr ""
 
 #: ../../reference.rst:-1
+#: 76b9da8c056b4797a4f1c69df37cbe69
 msgid "Reference - information oriented, theoretical knowledge, that serves our work"
 msgstr ""
 
 #: ../../reference.rst:20
+#: 86c6ed620f6a45f4bd017559b1759e31
 msgid "In the case of software, reference guides describe the software itself - APIs, classes, functions and so on - and how to use them."
 msgstr ""
 
 #: ../../reference.rst:23
+#: e05d26cd57494ab29ba89b46af261ced
 msgid "Your users need reference material because they need truth and certainty - firm platforms on which to stand while they work. Good technical reference is essential to provide users with the confidence to do their work."
 msgstr ""
 
 #: ../../reference.rst:29
+#: 0bc16f0255654d5d83affa98cabd7684
 msgid "Reference as description"
 msgstr ""
 
 #: ../../reference.rst:31
+#: 3ea7c8e177ab479ea19a20160e225af1
 msgid "Reference material describes the machinery. It should be **austere**. One hardly *reads* reference material; one *consults* it."
 msgstr ""
 
 #: ../../reference.rst:34
+#: 68bb1d56381d48b5bf1bf10eb51b3b39
 msgid "There should be no doubt or ambiguity in reference; it should be wholly authoritative."
 msgstr ""
 
 #: ../../reference.rst:36
+#: 1504a5efe5a74c63b430e36a36ed6e0c
 msgid "Reference material is like a map. A map tells you what you need to know about the territory, without having to go out and check the territory for yourself; a reference guide serves the same purpose for the product and its internal machinery."
 msgstr ""
 
 #: ../../reference.rst:40
+#: dc7e0d076bd7437f8b741512fc5a3cfc
 msgid "Although reference should not attempt to show how to perform tasks, it can and often needs to include a description of how something works or the correct way to use it."
 msgstr ""
 
 #: ../../reference.rst:45
+#: 29b87e453b56467faf48cc5cdeaded42
 msgid "Unfortunately, too many software developers think that auto-generated reference material is all the documentation required."
 msgstr ""
 
 #: ../../reference.rst:48
+#: ad3b10ace8f9475d8244c1fcbe550bd2
 msgid "Some reference material (such as API documentation) can be generated automatically by the software it describes, which is a powerful way of ensuring that it remains faithfully accurate to the code."
 msgstr ""
 
 #: ../../reference.rst:56
+#: db50c416e3de4464810ad119b35acc53
 msgid "Key principles"
 msgstr ""
 
 #: ../../reference.rst:59
+#: dafdeb8cf53e4f469782d3349d85e5ae
 msgid "Describe and only describe"
 msgstr ""
 
 #: ../../reference.rst:61
+#: 01fec09371fd4df3b75747899ef41449
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr ""
 
 #: ../../reference.rst:65
+#: 8debf44370764edf985322841f4ccccd
 msgid "austere and uncompromising"
 msgstr ""
 
 #: ../../reference.rst:66
+#: eed9e35225224646a3b5680aedfb6acc
 msgid "neutrality, objectivity, factuality"
 msgstr ""
 
 #: ../../reference.rst:67
+#: a31267b139174e899be9a7ab326f0c85
 msgid "structured according to the structure of the machinery itself"
 msgstr ""
 
 #: ../../reference.rst:69
+#: fb50da72292640699a853c1b6c8caaf1
 msgid "Unfortunately one of the hardest things to do is to describe something neutrally. It's not a natural way of communicating. What's natural on the other hand is to explain, instruct, discuss, opine, and all these things run counter to the needs of technical reference, which instead demands accuracy, precision, completeness and clarity."
 msgstr ""
 
 #: ../../reference.rst:71
+#: 02abc6655a564a5f9201fd24f4c29409
 msgid "It can be tempting to introduce instruction and explanation, simply because description can seem too inadequate to be useful, and because we do indeed need these other things. Instead, link to how-to guides, explanation and introductory tutorials."
 msgstr ""
 
 #: ../../reference.rst:75
+#: 8dbda7894b5646d2a6eb3b08a704cf56
 msgid "Adopt standard patterns"
 msgstr ""
 
 #: ../../reference.rst:77
+#: 484b435ce70d465ba5e0c39d336ae91b
 msgid "**Reference material is useful when it is consistent.** Standard patterns are what allow us to use reference material effectively. Your job is to place the material that your user needs know where they expect to find it, in a format that they are familiar with."
 msgstr ""
 
 #: ../../reference.rst:79
+#: 693635c13292483cbbcd1b3c108ac978
 msgid "There are many opportunities in writing to delight your readers with your extensive vocabulary and command of multiple styles, but reference material is definitely not one of them."
 msgstr ""
 
 #: ../../reference.rst:85
+#: c7e4b11385b942b8bc7f4ce421c192c1
 msgid "Respect the structure of the machinery"
 msgstr ""
 
 #: ../../reference.rst:87
+#: 0ef772968f634da9b7ba4a1d0ddbfb05
 msgid "The way a map corresponds to the territory it represents helps us use the former to find our way through the latter. It should be the same with documentation: **the structure of the documentation should mirror the structure of the product**, so that the user can work their way through them at the same time."
 msgstr ""
 
 #: ../../reference.rst:92
+#: e959821828c9426b8aed2acec6414397
 msgid "It doesn't mean forcing the documentation into an unnatural structure. What's important is that the logical, conceptual arrangement of and relations within the code should help make sense of the documentation."
 msgstr ""
 
 #: ../../reference.rst:98
+#: 266aaa08b7a741dc9613c10500555383
 msgid "Provide examples"
 msgstr ""
 
 #: ../../reference.rst:100
+#: 20328db8bde542c69bfbf794d7e3ca42
 msgid "**Examples** are valuable ways of providing illustration that helps readers understand reference, while avoiding the risk of becoming distracted from the job of describing. For example, an example of usage of a command can be a succinct way of illustrating it and its context, without falling into the trap of trying to explain or instruct."
 msgstr ""
 
 #: ../../reference.rst:106
+#: 020dcbc43f1448b2afe45a7b8b1c3ad9
 msgid "The language of reference guides"
 msgstr ""
 
 #: ../../reference.rst:108
+#: a7b6213bd4c54bca8ceda172fb00a385
 msgid "Django's default logging configuration inherits Python's defaults. It's available as ``django.utils.log.DEFAULT_LOGGING`` and defined in ``django/utils/log.py``"
 msgstr ""
 
 #: ../../reference.rst:109
+#: 24db8a23fe494db08f084bb96742ea6c
 msgid "State facts about the machinery and its behaviour."
 msgstr ""
 
 #: ../../reference.rst:110
+#: 634fbf14354146759d2361c8c9160c75
 msgid "Sub-commands are: a, b, c, d, e, f."
 msgstr ""
 
 #: ../../reference.rst:111
+#: f2473934c4da413ba06fe4a62662303d
 msgid "List commands, options, operations, features, flags, limitations, error messages, etc."
 msgstr ""
 
 #: ../../reference.rst:113
+#: 70d4e5757783405a9a14c3df1edde9f7
 msgid "You must use a. You must not apply b unless c. Never d."
 msgstr ""
 
 #: ../../reference.rst:113
+#: 3a7492c03077441b8093ab1c2c715c93
 msgid "Provide warnings where appropriate."
 msgstr ""
 
 #: ../../reference.rst:118
+#: 5bf7c49b2b0c4233abb4e0d9868489e2
 msgid "Applied to food and cooking"
 msgstr ""
 
 #: ../../reference.rst:120
+#: 911bc2b9fa47431eb613b34ffdac4848
 msgid "You might check the information on a packet of food, in order to help you make a decision about what to do."
 msgstr ""
 
 #: ../../reference.rst:122
+#: e671661382534823b9337770c287ed40
 msgid "When you're looking for information - relevant facts - you do not want to be confronted by opinions, speculation, instructions or interpretation."
 msgstr ""
 
 #: ../../reference.rst:-1
+#: 71c9bc8a21d74e8481016230d37f3e73
 msgid "Information on the back of a packet of lasagne"
 msgstr ""
 
 #: ../../reference.rst:129
+#: 6be76c00517c467396fa07f40ab3b50b
 msgid "You also expect that information to be presented in standard ways, so that you - when you need to know about something's nutritional properties, how it should be stored, its ingredients, what health implications it might have - can find them quickly, and know you can rely on them."
 msgstr ""
 
 #: ../../reference.rst:131
+#: a9dbdc2180cd474fa839ca40d165a68d
 msgid "So you expect to see for example: *May contain traces of wheat*. Or: *Net weight: 1000g*."
 msgstr ""
 
 #: ../../reference.rst:133
+#: be8b362df69d4422a3e55a84889fb557
 msgid "You will certainly not expect to find for example recipes or marketing claims mixed up with this information; that could be literally dangerous."
 msgstr ""
 
 #: ../../reference.rst:135
+#: 29b30a548c7544e1bfd0682a5b66485a
 msgid "The way reference material is presented on food products is so important that it's usually governed by law, and the same kind of seriousness should apply to all reference documentation."
 msgstr ""

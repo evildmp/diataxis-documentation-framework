@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-01 23:34+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,275 +17,345 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../quality.rst:2
+#: a2622c3ec26a4fe3bc3f6e97f7671e3b
 msgid "Towards a theory of quality in documentation"
 msgstr ""
 
 #: ../../quality.rst:4
+#: a33da58abfa84cdab224e789beb77c44
 msgid "Diátaxis is an approach to *quality* in documentation."
 msgstr ""
 
 #: ../../quality.rst:6
+#: 96147ba57a7c4834bb04c1d64e26e4f9
 msgid "\"Quality\" is a word in danger of losing some of its meaning; it's something we all approve of, but rarely risk trying to describe in any rigorous way. We want quality in our documentation, but much less often specify what exactly what we mean by that."
 msgstr ""
 
 #: ../../quality.rst:11
+#: 7778ee5d30d84e0f85215d9114fe7c6e
 msgid "All the same, we can generally point to examples of \"high quality documentation\" when asked, and can identify lapses in quality when we see them - and more than that, we often agree when we do. This suggests that we still have a useful grasp on the notion of quality."
 msgstr ""
 
 #: ../../quality.rst:16
+#: 5b09fc376e294abfb8fd518fd131dc0c
 msgid "As we pursue quality in documentation, it helps to make that grasp surer, by paying some attention to it - here, attempting to refine our grasp by positing a distinction between **functional quality** and **deep quality**."
 msgstr ""
 
 #: ../../quality.rst:22
 #: ../../quality.rst:118
+#: 34111f714f1a4bdbbbad1e347e87f0a7
+#: 1e205071205e4232b90a1ddda10c8427
 msgid "Functional quality"
 msgstr ""
 
 #: ../../quality.rst:24
+#: 9a550b20619d402a8f571af6e5b0fbaa
 msgid "We need documentation to meet standards of *accuracy*, *completeness*, *consistency*, *usefulness*, *precision* and so on. We can call these aspects of its **functional quality**. Documentation that fails to meet any one of them is failing to perform one of its key functions."
 msgstr ""
 
 #: ../../quality.rst:29
+#: 46d64b73293d489ba776b33d882541ee
 msgid "These properties of functional quality are all independent of each other. Documentation can be accurate without being complete. It can be complete, but inaccurate and inconsistent. It can be accurate, complete, consistent and also useless."
 msgstr ""
 
 #: ../../quality.rst:34
+#: 08873863d0084640b38c3441150d936f
 msgid "Attaining functional quality means meeting high, objectively-measurable standards in multiple independent dimensions, consistently. It requires discipline and attention to detail, and high levels of technical skill."
 msgstr ""
 
 #: ../../quality.rst:38
+#: 2a4a01cc6acf480b9e353e49509b1879
 msgid "To make it harder for the creator of documentation, any failure to meet all of these standards is readily apparent to the user."
 msgstr ""
 
 #: ../../quality.rst:45
 #: ../../quality.rst:119
+#: 9a55f009ee124386872cba9e4671980a
+#: 81985d26eb3940efab359128b84e5f34
 msgid "Deep quality"
 msgstr ""
 
 #: ../../quality.rst:46
+#: 9527d4683a274346885374bd5993e788
 msgid "There are other characteristics, that we can call **deep quality**."
 msgstr ""
 
 #: ../../quality.rst:48
+#: eaf6f25ec46c4d439672bf78eb93dce8
 msgid "Functional quality is not enough, or even satisfactory on its own as an ambition. True excellence in documentation implies characteristics of quality that are not included in accuracy, completeness and so on."
 msgstr ""
 
 #: ../../quality.rst:52
+#: 6eff562f7ec94a12bbe7a2c1b0e6830e
 msgid "Think of characteristics such as:"
 msgstr ""
 
 #: ../../quality.rst:54
+#: 3124b648e2724c47aa03e14c9bd2a0fe
 msgid "*feeling good to use*"
 msgstr ""
 
 #: ../../quality.rst:55
+#: 5ba5cb4f927a4d84b701e4ec5670c49e
 msgid "*having flow*"
 msgstr ""
 
 #: ../../quality.rst:56
+#: 66aa512be968440f92ff74d78385e7fe
 msgid "*fitting to human needs*"
 msgstr ""
 
 #: ../../quality.rst:57
+#: f708af6030e441d0ab07efdc5a94ce01
 msgid "*being beautiful*"
 msgstr ""
 
 #: ../../quality.rst:58
+#: e818e3f05aba4dc7bb2a179cf786ac20
 msgid "*anticipating the user*"
 msgstr ""
 
 #: ../../quality.rst:60
+#: 2544cdd933bd45a4a92f68bb54890446
 msgid "Unlike the characteristics of functional quality, they cannot be checked or measured, but they can still be clearly identified. When we encounter them, we usually (not always, because we need to be capable of it) recognise them."
 msgstr ""
 
 #: ../../quality.rst:65
+#: 05f4cb0cc50d4effb21f18fb7523eedd
 msgid "They are characteristics of *deep quality*."
 msgstr ""
 
 #: ../../quality.rst:69
+#: 298c2d3b5c5b4bf0aea3f3109809447c
 msgid "What's the difference?"
 msgstr ""
 
 #: ../../quality.rst:71
+#: d76eab23800747429e004d0d0747bd80
 msgid "Aspects of deep quality seem to be genuinely distinct in kind from the characteristics of functional quality."
 msgstr ""
 
 #: ../../quality.rst:74
+#: 423f2ed4a837491d88eedb27e66faab6
 msgid "Documentation can meet all the demands of functional quality, and still fail to exhibit deep quality. There are many examples of documentation that is accurate and consistent (and even very useful) but which is also awkward and unpleasant to use."
 msgstr ""
 
 #: ../../quality.rst:79
+#: 3576a3f0179c4d27866343a552150991
 msgid "It's also noticeable that while characteristics of functional quality such as completeness and accuracy are **independent** of each other, those of deep quality are hard to disentangle. *Having flow* and *anticipating the user* are aspects of each other - they are **interdependent**. It's hard to see how something could feel good to use without fitting to our needs."
 msgstr ""
 
 #: ../../quality.rst:85
+#: 1cac1b67289948ca84bbc09f06ba59cd
 msgid "Aspects of functional quality can be measured - literally, with numbers, in some cases (consider completeness). That's clearly not possible with qualities such as *having flow*. Instead, such qualities can only be enquired into, interrogated. Instead of taking **measurements**, we must make **judgements**."
 msgstr ""
 
 #: ../../quality.rst:91
+#: 9b790478d28a4262a655d829920a5e4f
 msgid "Functional quality is **objective** - it belongs to the world. Accuracy of documentation means the extent to which it conforms to the world it’s trying to describe. Deep quality can’t be ascertained by holding something up to the world. It’s **subjective**, which means that we can assess it only in the light of the needs of the subject of experience, the human."
 msgstr ""
 
 #: ../../quality.rst:97
+#: 8ba403b8338a4987a2991b6b131af557
 msgid "And, deep quality is **conditional** upon functional quality. Documentation can be accurate and complete and consistent without being truly excellent - but it will never have deep quality without being accurate and complete and consistent. No user of documentation will experience it as beautiful, if it's inaccurate, or enjoy the way it anticipates their needs if it's inconsistent. The moment we run into such lapses the experience of documentation is tarnished."
 msgstr ""
 
 #: ../../quality.rst:105
+#: d601d59eb7794a8b901198ae3e4d56b1
 msgid "Finally, all of the characteristics of functional quality appear to us, as documentation creators, as burdens and **constraints**. Each one of them represents a test or challenge we might fail. Or, even if we have met one *now*, we can never rest, because the next release or update means that we'll have to check our work once again, against the thing that it's documenting. Characteristics such as anticipating needs or flow, on the other hand, represent **liberation**, the work of creativity or taste. To attain functional quality in our work, we must *conform* to constraints; to attain deep quality we must *invent*."
 msgstr ""
 
 #: ../../quality.rst:120
+#: 6cc16a4d23364c2a8a215b7ae7a6f89f
 msgid "independent characteristics"
 msgstr ""
 
 #: ../../quality.rst:121
+#: 61496452dd464f6eb89c52a3d10ce3bc
 msgid "interdependent characteristics"
 msgstr ""
 
 #: ../../quality.rst:122
+#: ad89958382634e4ab4b954678b067f07
 msgid "objective"
 msgstr ""
 
 #: ../../quality.rst:123
+#: b1276aee96a24d58954d7ff55eb0dd91
 msgid "subjective"
 msgstr ""
 
 #: ../../quality.rst:124
+#: f035d82498c14d2cbb6d7caf199f48ac
 msgid "measured against the world"
 msgstr ""
 
 #: ../../quality.rst:125
+#: 2ef8943d03bd415eb5f6e9ebc7ec4703
 msgid "assessed against the human"
 msgstr ""
 
 #: ../../quality.rst:126
+#: 39669f5d5c5a427d9f2a58584f99a2cf
 msgid "a condition of deep quality"
 msgstr ""
 
 #: ../../quality.rst:127
+#: b688ed9456f5420184d7ce9ead16ec0e
 msgid "conditional upon functional quality"
 msgstr ""
 
 #: ../../quality.rst:128
+#: 3e6954d16b4c4cf8b0878aa2df344372
 msgid "aspects of constraint"
 msgstr ""
 
 #: ../../quality.rst:129
+#: 732d257dde47462b885a48a0ad62cb6b
 msgid "aspects of liberation"
 msgstr ""
 
 #: ../../quality.rst:133
+#: 875201a071de40778aa8c55571e02bd9
 msgid "How we recognise deep quality"
 msgstr ""
 
 #: ../../quality.rst:135
+#: 775b66d917ee4eb8b664b27a04580cf7
 msgid "Consider how we judge the quality of say, clothing. Clothes must have *functional quality* (they must keep us appropriately warm and dry, stand up to wear). These things are objectively measurable. You don't really need to know much about clothes to assess how well they do those things. If water gets in, or the clothing falls apart - it lacks quality."
 msgstr ""
 
 #: ../../quality.rst:141
+#: 77cbf7b3a1b7444792ea87671f9f9024
 msgid "There are other characteristics of quality in clothing that can't simply be measured objectively, and to recognise those characteristics, we need to have an understanding of clothing. The quality of materials or workmanship isn't always immediately obvious. Being able to judge that an item of clothing hangs well, moves well or has been expertly shaped requires developing at least a basic eye for those things. And these are its characteristics of *deep quality*."
 msgstr ""
 
 #: ../../quality.rst:149
+#: 184093063a764a0b8d685829c9a3d7ae
 msgid "But: even someone who can't recognise, or fails to understand, those characteristics - who cannot say *what* they are - can still recognise very well *that* the clothing is excellent, because they find it that **it feels good to wear**, because it's such that they want to wear it. No expertise is required to realise that clothing does or doesn't feel comfortable as you move in it, that it fits and moves with you well. *Your body knows it*."
 msgstr ""
 
 #: ../../quality.rst:156
+#: e73c0608ef2f4e908f21ae643b43f3ef
 msgid "And it's the same in documentation. Perhaps you need to be a connoisseur to recognise *what* it is that makes some documentation excellent, but that's not necessary to be able to realise *that* it is excellent. Good documentation **feels good**; you feel pleasure and satisfaction when you use it - it feels like it fits and moves with you."
 msgstr ""
 
 #: ../../quality.rst:162
+#: 34b5a34142ab4bd3b4aee1c5294d8926
 msgid "The users of our documentation may or may not have the understanding to say why it's good, or where its quality lapses. They might recognise only the more obvious aspects of functional quality in it, mistaking those for its deeper excellence. That doesn't matter - it will feel good, or not, and that's what is important."
 msgstr ""
 
 #: ../../quality.rst:168
+#: 76dc262b8c094fb5b3aa0bd5dac58866
 msgid "But we, as its creators, need a clear and effective understanding of what makes documentation good. We need to develop our sense of it so that we recognise *what* is good about it, as well as *that* it is good. And we need to develop an understanding of how people will *feel* when they're using it."
 msgstr ""
 
 #: ../../quality.rst:173
+#: 43c9494694ab49e393707ac48ce0d9a8
 msgid "Producing work of deep quality depends on our ability to do this."
 msgstr ""
 
 #: ../../quality.rst:177
+#: 8d7aacdc48804f0b8b4f79ddd3f91b10
 msgid "Diátaxis and quality"
 msgstr ""
 
 #: ../../quality.rst:179
+#: 5794f9ea3ef94bd6bb16418496cffb2f
 msgid "Functional quality's obligations are met through conscientious observance of the demands of the craft of documentation. They require solid skill and knowledge of the technical domain, the ability to gather up a complete terrain into a single, coherent, consistent map of it."
 msgstr ""
 
 #: ../../quality.rst:184
+#: a24f39c358df4fafa23fb71efac98471
 msgid "**Diátaxis cannot address functional quality in documentation.** It is concerned only with certain aspects of deep quality, some more than others - though if all the aspects of deep quality are tangled up in each other, then it affects all of them."
 msgstr ""
 
 #: ../../quality.rst:191
+#: 91c6382d037241d0ae176f1eb866c370
 msgid "Exposing lapses in functional quality"
 msgstr ""
 
 #: ../../quality.rst:193
+#: 48805627de524506b7e01bee7b8fcec6
 msgid "Although Diátaxis cannot address, or *give* us, functional quality, it can still serve it."
 msgstr ""
 
 #: ../../quality.rst:196
+#: 9a94622ad6e546449b8df9a1d81918ca
 msgid "It works very effectively to *expose* lapses in functional quality. It's often remarked that one effect of applying Diátaxis to existing documentation is that problems in it suddenly become apparent that were obscured before."
 msgstr ""
 
 #: ../../quality.rst:200
+#: f3224515eb6149a8b9a57afe1b8ee780
 msgid "For example: the Diátaxis approach recommends that :ref:`the architecture of reference documentation should reflect the architecture of the code it documents <respect-structure>`. This makes gaps in the documentation much more clearly visible."
 msgstr ""
 
 #: ../../quality.rst:205
+#: b4bf2df0747c470da08e82fff2c402d5
 msgid "Or, moving explanatory verbiage out of a tutorial (in accordance with Diátaxis demands) often has the effect of highlighting a section where the reader has been left to work something out for themselves."
 msgstr ""
 
 #: ../../quality.rst:209
+#: cc09f3c3512f47319100703074efe7b6
 msgid "But, as far as functional quality goes, Diátaxis principles can have only an *analytical* role."
 msgstr ""
 
 #: ../../quality.rst:214
+#: dc9c8cf478f94a11bf22f6125ccef5b0
 msgid "Creating deep quality"
 msgstr ""
 
 #: ../../quality.rst:216
+#: 2a056a1d69b846229cdc3e98d1180e0d
 msgid "In deep quality on the other hand, the Diátaxis approach can do more."
 msgstr ""
 
 #: ../../quality.rst:218
+#: 92d6dc19cbdf4dbba0d525546be936c7
 msgid "For example, it helps documentation *fit user needs* by describing documentation modes that are based on them; its categories exist as a response to needs."
 msgstr ""
 
 #: ../../quality.rst:222
+#: 532f4048b45a48b0bf3ca279902ba170
 msgid "We must pay attention to the correct organisation of these categories then, and the arrangement of its material and the relationships within them, the form and language adopted in different parts of documentation - as a way of fitting to user needs."
 msgstr ""
 
 #: ../../quality.rst:227
+#: 3c786a00f6fe4cc6a724c11be1049cc9
 msgid "Or, in Diátaxis we are directly concerned with *flow*. In flow - whether the context is documentation or anything else - we experience a movement from one stage or state to another that seems right, unforced and in sympathy with both our concerns of the moment, and the way our minds and bodies work in general."
 msgstr ""
 
 #: ../../quality.rst:233
+#: fc2553c5b15f4581b3d7d52e8f7b7dab
 msgid "Diátaxis preserves flow by helping prevent the kind of disruption of rhythm that occurs when something runs across our purpose and steady progress towards it (for example when a digression into explanation interrupts a how-to guide)."
 msgstr ""
 
 #: ../../quality.rst:238
+#: 762e1a9942e84d26a6f6444aa5c0ddd2
 msgid "And so on."
 msgstr ""
 
 #: ../../quality.rst:242
+#: 113d31d63cbc4faf9c869065afede1d1
 msgid "Understanding the limits"
 msgstr ""
 
 #: ../../quality.rst:244
+#: 3d38a8bfcded400a89633bb1124e0821
 msgid "It's important to understand that Diátaxis can never be *all* that is required in the pursuit of deep quality."
 msgstr ""
 
 #: ../../quality.rst:247
+#: 68505417ed9f48be8378a67be561347e
 msgid "For example, while it can *help* attain beauty in documentation, at least in its overall form, it doesn't by itself *make documentation beautiful*."
 msgstr ""
 
 #: ../../quality.rst:250
+#: 2fe7134e15084ec697b0689d28515147
 msgid "Diátaxis offers a set of principles - it doesn't offer a formula. It certainly cannot offer a short-cut to success, bypassing the skills and insights of disciplines such as user experience or user interaction design, or even visual design."
 msgstr ""
 
 #: ../../quality.rst:255
+#: 17a6aba50b624c1ea3e7bf6eedcf1445
 msgid "Using Diátaxis does not guarantee deep quality. The characteristics of deep quality are forever being renegotiated, reinterpreted, rediscovered and reinvented. But what Diátaxis *can* do is lay down some conditions for the *possibility* of deep quality in documentation."
 msgstr ""

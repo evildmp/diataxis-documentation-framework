@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 00:25+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,157 +17,200 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../foundations.rst:2
+#: 5a556f638e7440edbc7a424c69e748f4
 msgid "Foundations"
 msgstr ""
 
 #: ../../foundations.rst:4
+#: 41e31cb341d845a789700b58622b7a01
 msgid "Diátaxis is successful because it *works* - both users and creators have a better experience of documentation as a result. It makes sense and it feels right."
 msgstr ""
 
 #: ../../foundations.rst:6
+#: 0d45b3151ddc457fa289b3e90d72006a
 msgid "However, that's not enough to be confident in Diátaxis as a theory of documentation. As a theory, it needs to show *why* it works. It needs to show that there is actually some reason why there are exactly four kinds of documentation, not three or five. It needs to demonstrate rigorous thinking and analysis, and that it stands on a sound theoretical foundation."
 msgstr ""
 
 #: ../../foundations.rst:8
+#: 0240674709c14537bb13341a435781dd
 msgid "Otherwise, it will be just another useful heuristic approach, and the strongest claim we can make for it is that \"it seems to work quite well\"."
 msgstr ""
 
 #: ../../foundations.rst:12
+#: dd44c88c5409403eba61b65f5260cb95
 msgid "Two dimensions of craft"
 msgstr ""
 
 #: ../../foundations.rst:14
+#: be90485b9da44f40b42d11b90ba19a6c
 msgid "Diátaxis is based on the principle that documentation must serve the needs of its users. Knowing how to do that means understanding what the needs of users are."
 msgstr ""
 
 #: ../../foundations.rst:16
+#: 7f6fd287f5994e159d9dbb1490a08fcd
 msgid "The user whose needs Diátaxis serves is *the practitioner in a domain of skill*. A domain of skill is defined by a craft - the use of a tool or product is a craft. So is an entire discipline or profession. Using a programming language is a craft, as is flying a particular aircraft, or even being a pilot in general."
 msgstr ""
 
 #: ../../foundations.rst:18
+#: 8013a755c9cf47deaada21152c8c9a77
 msgid "Understanding the needs of these users means in turn understanding the essential characteristics of craft or skill."
 msgstr ""
 
 #: ../../foundations.rst:22
+#: 62d4ca581d0b47b4a2eb9840361a1817
 msgid "Action/cognition"
 msgstr ""
 
 #: ../../foundations.rst:24
+#: 61b283cb357a4ce3adc00bc7e1cfb110
 msgid "A skill or craft or practice contains both **action** (practical knowledge, knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing *that*, what we think). The two are completely bound up with each other, but they are counterparts, wholly distinct from each, two different aspects of the same thing."
 msgstr ""
 
 #: ../../foundations.rst:28
+#: 7eb2e75f07fc4e85ad00b57e55473dcd
 msgid "Acquisition/application"
 msgstr ""
 
 #: ../../foundations.rst:30
+#: 9385686e310e433bb5fb093347cc8eb4
 msgid "Similarly, the relationship of a practitioner with their practice is that it is something that needs to be both **acquired**, and **applied**. Being \"at work\" (concerned with applying the skill and knowledge of their craft) and being \"at study\" (concerned with acquiring them) are once again counterparts, distinct but bound up with each other."
 msgstr ""
 
 #: ../../foundations.rst:34
+#: fb15621f02af4002a880a011e5256678
 msgid "The map of the territory"
 msgstr ""
 
 #: ../../foundations.rst:36
+#: 99479cdff51c4ab3a9aa0487ddbc5292
 msgid "This gives us two dimensions of skill, that we can lay out on a map - a map of the territory of craft:"
 msgstr ""
 
 #: ../../foundations.rst:-1
+#: b9b7bd481e884ad4b4aec89f1c369b93
+#: 82c4919886cf436e8c77405d6e2bed4f
 msgid "The territory of craft as a two-dimensional map"
 msgstr ""
 
 #: ../../foundations.rst:41
+#: 8a9fc10e83854ddbb68e4b93f920e82d
 msgid "This is a *complete* map. There are only two dimensions, and they don't just cover the entire territory, they define it. This is why there are necessarily four quarters to it, and there could not be three, or five. It is not an arbitrary number."
 msgstr ""
 
 #: ../../foundations.rst:43
+#: 5f93ef384d3e494bbfcedd0881385814
 msgid "It also shows us the *qualities* of craft that define each of them. When the idea that documentation must serve the needs of craft is applied to this map, it reveals in turn what documentation must be and do to fulfil those obligations - in four distinct ways."
 msgstr ""
 
 #: ../../foundations.rst:47
+#: 22e9cd47224344ba9c1ea097c3fac53a
 msgid "Serving needs"
 msgstr ""
 
 #: ../../foundations.rst:49
+#: 702c6646286141d1adc17de9154cb2d5
 msgid "The map of the territory of craft is what gives us the familiar Diátaxis map of documentation. The map is in effect an answer to the question: what must documentation do to align with these qualities of skill, and to what need is it oriented in each case?"
 msgstr ""
 
 #: ../../foundations.rst:54
+#: a92964907fe941f09cc7ca3ed1e6d673
 msgid "We can see how the map of documentation addresses *needs* across those two dimensions, each need also defined by the characteristics of its quarter of the map."
 msgstr ""
 
 #: ../../foundations.rst:61
+#: a33b3b8f13e44685b03c5d6f93e5f405
 msgid "need"
 msgstr ""
 
 #: ../../foundations.rst:62
+#: 6e3c41225c20444dab1569caa12c5d6e
 msgid "addressed in"
 msgstr ""
 
 #: ../../foundations.rst:63
+#: 4e54a87f0b8240889f8887bd24e5d5d3
 msgid "the user"
 msgstr ""
 
 #: ../../foundations.rst:64
+#: fac3d0ee22f6439ab7f558d3292d36e6
 msgid "the documentation"
 msgstr ""
 
 #: ../../foundations.rst:65
+#: 3f555a08dc5d490898a813511dcb15be
 msgid "learning"
 msgstr ""
 
 #: ../../foundations.rst:66
+#: 6cba6de6e4d24027bf2e28a295e67415
 msgid "tutorials"
 msgstr ""
 
 #: ../../foundations.rst:67
 #: ../../foundations.rst:79
+#: d89a4812af044a3cab41e54754edb362
+#: 75f4f3294fdc4073a2b84bcd365edf7b
 msgid "acquires their craft"
 msgstr ""
 
 #: ../../foundations.rst:68
 #: ../../foundations.rst:72
+#: 0ba928f363744088a4bc4d574637249c
+#: 45a26674d25f43b5b02b4d878487ea3b
 msgid "informs action"
 msgstr ""
 
 #: ../../foundations.rst:69
+#: fcb27315266a43bb9e9a6e4b522e17ec
 msgid "goals"
 msgstr ""
 
 #: ../../foundations.rst:70
+#: 86313b8903c04c8381cc2a7d22918e78
 msgid "how-to guides"
 msgstr ""
 
 #: ../../foundations.rst:71
 #: ../../foundations.rst:75
+#: 442d47cf589147708336d97945f32b66
+#: 0ffebd006723410fa0d9358e9f723553
 msgid "applies their craft"
 msgstr ""
 
 #: ../../foundations.rst:73
+#: 7ab3bab14721465fadcfa3c9dba13887
 msgid "information"
 msgstr ""
 
 #: ../../foundations.rst:74
+#: f01891ced64d4299823b9512f4528abc
 msgid "reference"
 msgstr ""
 
 #: ../../foundations.rst:76
 #: ../../foundations.rst:80
+#: 6bc7db1f58394defb3f1f988afad8716
+#: a23146e381e14246b43c4670398d1e5d
 msgid "informs cognition"
 msgstr ""
 
 #: ../../foundations.rst:77
+#: 879af1304bdd4946aaeab8bd904a2bf9
 msgid "understanding"
 msgstr ""
 
 #: ../../foundations.rst:78
+#: 99edb200e0b246a3ab7279dd561197d5
 msgid "explanation"
 msgstr ""
 
 #: ../../foundations.rst:83
+#: dadf207e619346e99ae8559e5fde5c13
 msgid "The Diátaxis map of documentation is a memorable and approachable idea. But, a map is only reliable if it adequately describes a reality. Diátaxis is underpinned by a systematic description and analysis of generalised **user needs**."
 msgstr ""
 
 #: ../../foundations.rst:85
+#: 99020fd6033b4985a28fa778ea52b8a0
 msgid "This is why the tutorials, how-to guides, reference and explanation of Diátaxis are a complete enumeration of the types of documentation that serve practitioners in a craft. This is why there are four and only four types of documentation. There is simply no other territory to cover."
 msgstr ""

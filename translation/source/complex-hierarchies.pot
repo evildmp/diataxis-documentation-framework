@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-06-01 23:34+0200\n"
+"POT-Creation-Date: 2026-07-06 16:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,197 +17,246 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #: ../../complex-hierarchies.rst:4
+#: 166d5ff270fc4668a9e804902dca3b2f
 msgid "Diátaxis in complex hierarchies"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:9
+#: 4257f2f025474b89a07288a7730f608e
 msgid "Structure of documentation content"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:11
+#: e31eeb433e8946899955c79ea507215d
 msgid "The application of Diátaxis to most documentation is fairly straightforward. The product that defines the domain of concern has clear boundaries, and it's possible to come up with an arrangement of documentation contents that looks - for example - like this:"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:35
+#: c425a8bd78174b5b97f4b0abb78027e3
 msgid "In each case, a landing page contains an overview of the contents within. The tutorial for example describes what the tutorial has to offer, providing context for it."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:40
+#: a4e5601bd1ac4833843b6e76e7893eab
 msgid "Adding a layer of hierarchy"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:42
+#: 00c9193863744611b91c188abb9bcf71
 msgid "Even very large documentation sets can use this effectively, though after a while some grouping of content within sections might be wise. This can be done by adding another layer of hierarchy - for example to be able to address different installation options separately:"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:74
+#: 9ebe031c2a8342b9822c6dd71363dece
 msgid "Contents pages"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:76
+#: be95abb4bb1a43c389a056d04c7677bf
 msgid "Contents pages - typically a home page and any landing pages - provide an overview of the material they encompass."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:78
+#: 80016a95818646e9abd17edea7e73f42
 msgid "There is an art to creating a good contents page. The experience they give the users deserves careful consideration."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:82
+#: 1d080f8986294baf85d970e049b06453
 msgid "The problem of lists"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:84
+#: a7443c20e8004fd49e093fdc1b82f02d
 msgid "Lists longer than a few items are very hard for humans to read, unless they have an inherent mechanical order - numerical, or alphabetical. *Seven items seems to be a comfortable general limit.* If you find that you're looking at lists longer than that in your tables of contents, you probably need to find a way to break them up into small ones."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:90
+#: f490b1b4c704423f8da400ac53847451
 msgid "As always, what matters most is **the experience of the reader**. Diátaxis works because it fits user needs well - if your execution of Diátaxis leads you to formats that seem uncomfortable or ugly, then you need to use it differently."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:96
+#: d70d6b0f770b4358a7710f7f7c79b0b5
 msgid "Overviews and introductory text"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:98
+#: 6adc7def10f547c496979c0d9da18417
 msgid "**The content of a landing page itself should read like an overview.**"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:100
+#: a6c3b517c2b145be9a40a4c50e958eda
 msgid "That is, it should not simply present lists of other content, it should introduce them. *Remember that you are always authoring for a human user, not fulfilling the demands of a scheme.*"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:104
+#: 80c3d10281cb4f8988379177d1aa59ca
 msgid "Headings and snippets of introductory text catch the eye and provide context; for example, a **how-to landing page**:"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:138
+#: e041a110a5c941138554992b0977552f
 msgid "Two-dimensional problems"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:140
+#: 1db2f2f36fae416888b6194dabe32011
 msgid "A more difficult problem is when the structure outlined by Diátaxis meets another structure - often, a structure of topic areas within the documentation, or when documentation encounters very different user-types."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:144
+#: b85b5dc3575244f2926f4ee9bad495d3
 msgid "For example we might have a product that is used on land, sea and air, and though the same product, is used quite differently in each case. And it could be that a user who uses it on land is very unlikely to use it at sea."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:148
+#: ce8e4eef87b44bdbb8c0ae5f08e94561
 msgid "Or, the product documentation addresses the needs of:"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:150
+#: 6c5174c4807742d3a2ce26499cdb2a07
 msgid "users"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:151
+#: d22214ebc6fc4880b58655a981987524
 msgid "developers who build other products around it"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:152
+#: 0718d77ddaa6437d8cf434e453e2763e
 msgid "the contributors who help maintain it."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:154
+#: f990ff09d94a484d86c6e0765f955a6e
 msgid "The same product, but very different concerns."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:156
+#: 6f4334f02d214ae0b5cfc6e6e7035b07
 msgid "A final example: a product that can be deployed on different public clouds, with each public cloud presenting quite different workflows, commands, APIs, GUIs, constraints and so on. Even though it's the same product, as far as the users in each case are concerned, what they need to know and do is very different - what they need is documentation not for *product*, but"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:163
+#: 758ecc62b34245588a8132146211092d
 msgid "*product-on-public-cloud-one*"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:164
+#: 5558f2c16fb54123a3c0b087d260c4f2
 msgid "*product-on-public-cloud-two*"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:165
+#: 2413b0b4aed245a3a8ecbe04020d0322
 msgid "and so on..."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:167
+#: b23db48f1ccc4b6ab9576135b099f725
 msgid "So, we *could* decide on an overall structure that does this:"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:180
+#: 2bf2b7f3d3e341458c84e9cd503b8076
 msgid "or maybe instead this:"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:198
+#: 466249fb2d12420499e2d68c93f10deb
 msgid "Which is better? There seems to be a lot of repetition in either cases. What about the material that can be shared between land, sea and air?"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:203
+#: 1cb71418315d403d8d0fcffd899f1794
 msgid "What *is* the problem?"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:205
+#: 4210515a7ffb4f0f809b9b0a863c7562
 msgid "Firstly, the problem is in no way limited to Diátaxis - there would be the difficulty of managing documentation in any case. However, Diátaxis certainly helps reveal the problem, as it does in many cases. It brings it into focus and demands that it be addressed."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:210
+#: cebfec5cfe45416fa429a4065f90d46a
 msgid "Secondly, the question highlights a common misunderstanding. Diátaxis is not a scheme into which documentation must be placed - four boxes. It posits four different kinds of documentation, around which documentation should be structured, but this does not mean that there must be simply four divisions of documentation in the hierarchy, one for each of those categories."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:218
+#: 6836e1388c9a4535a80ef1881b47756b
 msgid "Diátaxis as an approach"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:220
+#: e81833609a1549cdaa8320a36f149842
 msgid "Diátaxis can be neatly represented in a diagram - but it is not the *same* as that diagram."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:223
+#: db34885867f6493db61398a7ec409b89
 msgid "It should be understood as an approach, a way of working with documentation, that identifies four different needs and uses them to author and structure documentation effectively."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:227
+#: f749e9ccab984b08b9692f6ec23a0850
 msgid "This will *tend* towards a clear, explicit, structural division into the four categories - but that is a typical outcome of the good practice, not its end."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:233
+#: 6d36901ce67b46219a1de67f93b2c9c1
 msgid "User-first thinking"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:235
+#: 62761c562f1944cb9d23537d549f3d88
 msgid "**Diátaxis is underpinned by attention to user needs**, and once again it's that concern that must direct us."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:238
+#: 020a6fbfc5dd4098852d631ae9b4d935
 msgid "What we must document is the product *as it is for the user*, the product as it is in their hands and minds. (Sadly for the creators of products, how they conceive them is much less relevant.)"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:242
+#: 7f2dd6d4f95b49c6a9e77d0e1cbd3d15
 msgid "Is the product on land, sea and air effectively three different products, perhaps for three different users?"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:245
+#: 9a0ff2135171462ea111017c85694d62
 msgid "In that case, let that be the starting point for thinking about it."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:247
+#: 9892e64159234d39ae31a2e61d56cec6
 msgid "If the documentation needs to meet the needs of users, developers and contributors, how do *they* see the product? Should we assume that a developer who incorporates it into other products will typically need a good understanding of how it's used, and that a contributor needs to know what a developer knows too?"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:253
+#: 5e70028536384e0e9f00a4501084390a
 msgid "Then perhaps it makes sense to be freer with the structure, in some parts (say, the tutorial) allowing the developer-facing content to follow on from the user-facing material, while completely separating the contributors' how-to guides from both."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:258
+#: 79f7fa8175b447b99ecca667b0891cc8
 msgid "And so on. If the structure is not :ref:`the simple, uncomplicated structure we began with <basic-structure>`, that's not a problem - as long as there *is* arrangement according to Diátaxis principles, that documentation does not muddle up its different forms and purposes."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:265
+#: 8008108b7d0d47da8e405d8dc65c79c7
 msgid "Let documentation be complex if necessary"
 msgstr ""
 
 #: ../../complex-hierarchies.rst:267
+#: 20db14d678054925a405e45f6a8380d4
 msgid "Documentation should be as complex as it needs to be. It will sometimes have complex structures."
 msgstr ""
 
 #: ../../complex-hierarchies.rst:270
+#: 0ec4821e07824054b85a82828d8f19e4
 msgid "But, even complex structures can be made straightforward to navigate as long as they are logical and incorporate patterns that fit the needs of users."
 msgstr ""
