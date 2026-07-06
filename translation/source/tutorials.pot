@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 17:54+0200\n"
+"POT-Creation-Date: 2026-07-06 19:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,537 +16,430 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../../tutorials.rst:4
 #: 29af19b0ac17449ab0af1a05d858fecc
 msgid "Tutorials"
 msgstr ""
 
-#: ../../tutorials.rst:7
 #: 6e86ccd4c2304640b12337e425e9e674
 msgid "A tutorial is an **experience** that takes place under the guidance of a tutor. A tutorial is always **learning-oriented**."
 msgstr ""
 
-#: ../../tutorials.rst:10
 #: 6605747115eb435aa4fa27d58d5bd6bc
 msgid "A tutorial is a *practical activity*, in which the student learns by doing something meaningful, towards some achievable goal."
 msgstr ""
 
-#: ../../tutorials.rst:12
 #: 0be056661bb24c668bcf2b5797282284
 msgid "A tutorial serves the user's *acquisition* of skills and knowledge - their study. Its purpose is not to help the user get something done, but to help them learn."
 msgstr ""
 
-#: ../../tutorials.rst:14
 #: f66f62b35e8846b7b98b2e068bc924bc
 msgid "Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study."
 msgstr ""
 
-#: ../../tutorials.rst:18
 #: d9d50773b71748e0a3af8fc99963782a
 msgid "A tutorial in other words is a lesson."
 msgstr ""
 
-#: ../../tutorials.rst:20
 #: f85e37ed8eb9433eb1494eca505cff32
 msgid "It's important to understand that while a student will learn by doing, what the student *does* is not necessarily what they *learn*. Through doing, they will acquire theoretical knowledge (i.e. facts), understanding, familiarity. They will learn how things relate to each other and interact, and how to interact with them. They will learn the names of things, the use of tools, workflows, concepts, commands. And so on."
 msgstr ""
 
-#: ../../tutorials.rst:27
 #: ccc09c88e22c4bf7aaea953b07ade226
 msgid "The tutorial as a lesson"
 msgstr ""
 
-#: ../../tutorials.rst:29
 #: d71089a2a15348228a82b639d1c942b7
 msgid "A lesson entails a relationship between a teacher and a pupil. In all learning of this kind, *learning takes place as the pupil applies themself to tasks under the instructor's guidance*."
 msgstr ""
 
-#: ../../tutorials.rst:31
 #: a8730202dd81467b91b4d2c4f309e28e
 msgid "A lesson is a *learning experience*. In a learning experience, what matters is what the learner does and what happens. By contrast, the teacher's explanations and recitations of fact are far less important."
 msgstr ""
 
-#: ../../tutorials.rst:33
 #: 395e768d6e76441d82395ae02b51f1c8
 msgid "A good lesson gives the learner confidence, by showing them that they can be successful in a certain skill or with a certain product."
 msgstr ""
 
-#: ../../tutorials.rst:37
 #: a231a052225a43de91e7421554db917d
 msgid "Obligations of the teacher"
 msgstr ""
 
-#: ../../tutorials.rst:41
 #: ec65efefd43e4f3fa905da81725bfde4
 msgid "It's not easy being a teacher."
 msgstr ""
 
-#: ../../tutorials.rst:43
 #: 9c89806637414caa8d5137b643135e7a
 msgid "A lesson is a kind of contract between teacher and student, in which nearly all the responsibility falls upon the teacher. The teacher has responsibility for what the pupil is to learn, what the pupil will do in order to learn it, and for the pupil's success. Meanwhile, the only responsibility of the pupil in this contract is to be attentive and to follow the teacher's directions as closely as they can. There is no responsibility on the pupil to learn, understand or remember."
 msgstr ""
 
-#: ../../tutorials.rst:45
 #: a5b86c1077aa4f9c91f8175c3fcbd9ba
 msgid "At the same time, the exercise you put your pupils through must be:"
 msgstr ""
 
-#: ../../tutorials.rst:47
 #: cddaeab7f43d487a844af6dbce76e4e4
 msgid "*meaningful* - the pupil needs to have a sense of achievement"
 msgstr ""
 
-#: ../../tutorials.rst:48
 #: 6f1d8adadcb1418085d3f297e5b439d0
 msgid "*successful* - the pupil needs to be able to complete it"
 msgstr ""
 
-#: ../../tutorials.rst:49
 #: 323037afb5df4cfeb03a3a890997075c
 msgid "*logical* - the path that the pupil takes through it needs to make sense"
 msgstr ""
 
-#: ../../tutorials.rst:50
 #: 88ede48a02d8420ab25c9464b4001782
 msgid "*usefully complete* - the pupil must have an encounter with all of the actions, concepts and tools they need to become familiar with"
 msgstr ""
 
-#: ../../tutorials.rst:54
 #: 49603f80d5cd420bbe786b00d3cb0fe1
 msgid "The problem of tutorials"
 msgstr ""
 
-#: ../../tutorials.rst:56
 #: 5e7c56478e794d43b9b795232e98096a
 msgid "In general, tutorials are rarely done well, partly because they are genuinely difficult to do well, and partly because they are not well understood. In software, many products lack good tutorials, or lack tutorials completely; tutorials are often conflated with how-to guides."
 msgstr ""
 
-#: ../../tutorials.rst:58
 #: 825c874fea784ed5bdcfaf1ad3cf5d0a
 msgid "In an ideal lesson, the teacher is present and interacts with and responds to the student, correcting their mistakes and checking their learning. In documentation, none of this is possible."
 msgstr ""
 
-#: ../../tutorials.rst:62
 #: 9b8d5f3ffcc64f3086f466eb9a0b83dc
 msgid "Writing and maintaining tutorials can consume a remarkable amount of effort and time."
 msgstr ""
 
-#: ../../tutorials.rst:64
 #: fc0073ad6fc4470a8fa604c4817f7449
 msgid "It's hard enough to put together a learning experience that meets all the standards described above; in many contexts the product itself evolves rapidly, meaning that all that work needs to be done again to ensure that the tutorial still performs its required functions."
 msgstr ""
 
-#: ../../tutorials.rst:66
 #: 0b8585007fe44de0a97d8191340bfd6b
 msgid "You will also often find that no other part of your documentation is subject to revisions the way your tutorials are. Elsewhere in documentation, changes and improvements can generally be made discretely; in tutorials, where the end-to-end learning journey must make sense, they often cascade through the entire story."
 msgstr ""
 
-#: ../../tutorials.rst:68
 #: db92385001c44441af339668d83b6d48
 msgid "Finally, tutorials contain the additional complication of the distinction between *what is to be learned* and *what is to be done*. Not only must the creator of a tutorial have a good sense of what the user must learn, and when, they must also devise a meaningful learning journey that somehow delivers all that."
 msgstr ""
 
-#: ../../tutorials.rst:74
 #: 1c890f750dfb427e8bb5278b67537a93
 msgid "Key principles"
 msgstr ""
 
-#: ../../tutorials.rst:76
 #: c840fe6ca0034782b638eae68fb0c109
 msgid "A tutorial is a pedagogical problem."
 msgstr ""
 
-#: ../../tutorials.rst:78
 #: 07d81280c7d24dbfa0e6c737951d2dde
 msgid "It's not an easy problem, but neither is it a mystery. The principles outlined below - repetition, action, small steps, results early and often, concreteness and so on - are not secrets, but they are not always well understood."
 msgstr ""
 
-#: ../../tutorials.rst:80
 #: af3c415f378a4aa8b9be03aad65bb627
 msgid "Still, there are straightforward, effective ways to address the problems of pedagogy in practice."
 msgstr ""
 
-#: ../../tutorials.rst:84
 #: e2ae778616ec4deb8a1433cba0d3cfca
 msgid "abstraction, generalisation"
 msgstr ""
 
-#: ../../tutorials.rst:85
 #: ae365653240a406aa193d0e6f26800b1
 msgid "explanation"
 msgstr ""
 
-#: ../../tutorials.rst:86
 #: 79c2c13c928d4e79a780692da706db67
 msgid "choices"
 msgstr ""
 
-#: ../../tutorials.rst:87
 #: fb65629ddfa649b5b6c10ab3bb8d9372
 msgid "information"
 msgstr ""
 
-#: ../../tutorials.rst:89
 #: 4f35a506d342421d9859a56746c64302
 msgid "The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give into it and try to teach by telling and explaining, you will jeopardise the learning experience."
 msgstr ""
 
-#: ../../tutorials.rst:91
 #: f933534f5821478f8e40dd22a0dfd6a8
 msgid "Instead, *allow learning to take place*, and trust that it will. Give your learner things to *do*, through which they can learn. Only your pupil can learn. Sadly, however much you desire it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can learn."
 msgstr ""
 
-#: ../../tutorials.rst:95
 #: 0324a0a0929b44bcb8ad116939acb447
 msgid "Show the learner where they'll be going"
 msgstr ""
 
-#: ../../tutorials.rst:97
 #: 1a0751ea2a974757ac5c0fb51927e914
 msgid "It's important to allow the learner to form an idea of what they will achieve right from the start. As well as helping to set expectations, it allows them to see themselves building towards the completed goal as they work."
 msgstr ""
 
-#: ../../tutorials.rst:99
 #: 2104e4d1de2f46ce97ab07a41386c15b
 msgid "Providing the picture the learner needs in a tutorial can be as simple as informing them at the outset: *In this tutorial we will create and deploy a scalable web application. Along the way we will encounter containerisation tools and services.*"
 msgstr ""
 
-#: ../../tutorials.rst:101
 #: a5a24815cbaa4d72be1aae5369ddccc8
 msgid "This is not the same as saying: *In this tutorial you will learn...* - which is presumptuous and a very poor pattern."
 msgstr ""
 
-#: ../../tutorials.rst:105
 #: a60efeedc8414322b6a6885ef492f1b1
 msgid "Deliver visible results early and often"
 msgstr ""
 
-#: ../../tutorials.rst:107
 #: 407a531bc3f14f979ee424074f765cd4
 msgid "Your learner is probably doing new and strange things that they don't fully understand. Understanding comes from being able to make connections between causes and effects, so let them see the results and make the connections rapidly and repeatedly. Each one of those results should be something that the user can see as meaningful."
 msgstr ""
 
-#: ../../tutorials.rst:109
 #: bd292d3e968f4e9499fdda4ca678e970
 msgid "Every step the learner follows should produce a comprehensible result, however small."
 msgstr ""
 
-#: ../../tutorials.rst:113
 #: 0568ae374c324b7d81d542365ae05ee9
 msgid "Maintain a narrative of the expected"
 msgstr ""
 
-#: ../../tutorials.rst:115
 #: 545c05c79aaa4fdaafbda85989eb030f
 msgid "At every step of a tutorial, the user experiences a moment of anxiety: will this action produce the correct result? Part of the work of a successful tutorial is to keep providing feedback to the learner that they are indeed on the right path."
 msgstr ""
 
-#: ../../tutorials.rst:117
 #: 71f4d7227fcd493bb451487569ec4084
 msgid "Keep up a narrative of expectations: \"You will notice that ...\"; \"After a few moments, the server responds with ...\". Show the user actual example output, or even the exact expected output."
 msgstr ""
 
-#: ../../tutorials.rst:119
 #: e7592e34fd9046acbf9a2d01ca224697
 msgid "If you know know in advance what the likely signs of going wrong are, consider flagging them: \"If the output doesn't show ..., you have probably forgotten to ...\"."
 msgstr ""
 
-#: ../../tutorials.rst:121
 #: e600553954894c7aa3bdc6ab533a442c
 msgid "It's helpful to prepare the user for possibly surprising actions: \"The command will probably return several hundred lines of logs in your terminal.\""
 msgstr ""
 
-#: ../../tutorials.rst:125
 #: b76a2d33b08e4391976c0230be3467eb
 msgid "Point out what the learner should notice"
 msgstr ""
 
-#: ../../tutorials.rst:127
 #: be12abf639164e23876c2281f510d939
 msgid "Learning requires reflection. This happens at multiple levels and depths, but one of the first is when the learner  observes the signs in their environment. In a lesson, a learner is typically too focused on what they are doing to notice them, unless they are prompted by the teacher."
 msgstr ""
 
-#: ../../tutorials.rst:129
 #: 38890c4ef1194be4bed4f16904205345
 msgid "Your job as teacher is to close the loops of learning by pointing things out, in passing, as the lesson moves along. This can be as simple as pointing out how a command line prompt changes, for example."
 msgstr ""
 
-#: ../../tutorials.rst:131
 #: 561e264219bc414fbfd3c1b686575c43
 msgid "Observing is an active part of a craft, not a merely passive one. It means paying attention to the environment, a skill in itself. It's often neglected."
 msgstr ""
 
-#: ../../tutorials.rst:135
 #: eced6f2e7f414334927a79b76913012f
 msgid "Target *the feeling of doing*"
 msgstr ""
 
-#: ../../tutorials.rst:137
 #: 707afb2e150344ffbc9a1ec460e3faae
 msgid "In all skill or craft, the accomplished practitioner experiences a *feeling of doing*, a joined-up purpose, action, thinking and result."
 msgstr ""
 
-#: ../../tutorials.rst:139
 #: 75b4cd89d6b64b749dcfea58ffc3a4ce
 msgid "As skill develops, it flows in a confident rhythm and becomes a kind of pleasure. It's the pleasure of walking, for example."
 msgstr ""
 
-#: ../../tutorials.rst:143
 #: 0d33832b6096487b94927e6ae7953c7a
 msgid "Pay attention to your own *feeling of doing* in your work. What is it like to perform a particular operation?"
 msgstr ""
 
-#: ../../tutorials.rst:145
 #: c7cf231e92b84f959dc60047e7c84a12
 msgid "Your learner's skill depends upon their discovering this feeling, and its becoming a pleasure."
 msgstr ""
 
-#: ../../tutorials.rst:147
 #: 3988a557abb3449786a9895539bb52b2
 msgid "Your challenge as the creator of a tutorial is to ensure that its tasks tie together purpose and action so they become a cradle for this feeling."
 msgstr ""
 
-#: ../../tutorials.rst:151
 #: 0f26d68b456e42a18557a6fa33e7c8ee
 msgid "Encourage and permit repetition"
 msgstr ""
 
-#: ../../tutorials.rst:153
 #: b89dc159963049b7891e9a6e1718f19e
 msgid "Learners will return to and repeat an exercise that gives them success, for the pleasure they find in getting the expected result. Doing so reaffirms to them that they can do it, and that it works."
 msgstr ""
 
-#: ../../tutorials.rst:155
 #: 5c50f9fb5a694326bd8f47b6f324af3f
 msgid "Repetition is a key to establishing the feeling to doing; being at home with that feeling is a foundational layer of learning."
 msgstr ""
 
-#: ../../tutorials.rst:159
 #: cf80da261cd9437b89fd1834a4ee1003
 msgid "Repetition is not the best teacher - sometimes it's the *only* teacher."
 msgstr ""
 
-#: ../../tutorials.rst:161
 #: 883a100a688f4e2cbfe1c5601fa73cdb
 msgid "In your tutorial, try to make it possible for a particular step and result to be repeated. This can be difficult, for example in operations that are not reversible (making it hard to go back to a previous step) - but seek it wherever you can. Watching a user follow a tutorial, you may often be amazed to see how often they choose to repeat a step. They are doing it just to see that the same thing really does happen again."
 msgstr ""
 
-#: ../../tutorials.rst:165
 #: fea54b1d78974daab791691edfc4143d
 msgid "Ruthlessly minimise explanation"
 msgstr ""
 
-#: ../../tutorials.rst:167
 #: 677bfefc33cd4f918d2512d0e040b1a8
 msgid "*A tutorial is not the place for explanation.* In a tutorial, the user is focused on correctly following your directions and getting the expected results. *Later*, when they are ready, they will seek explanation, but right now they are concerned with *doing*. Explanation distracts their attention from that, and blocks their learning."
 msgstr ""
 
-#: ../../tutorials.rst:169
 #: e4d36b712b6f4f21b9d96dfd55b29c86
 msgid "For example, it's quite enough to say something like: *We're using HTTPS because it's more secure.* There is a place for extended discussion and explanation of HTTPS, but not now. Instead, provide a link or reference to that explanation, so that it's available, but doesn't get in the way."
 msgstr ""
 
-#: ../../tutorials.rst:173
 #: ea2407f823b349e4bf6e71c6fb3834c7
 msgid "Explanation is only pertinent at the moment the *user* wants it. It is not for the documentation author to decide."
 msgstr ""
 
-#: ../../tutorials.rst:175
 #: d53b9cfe77c54eee899e00a452bfdada
 msgid "Explanation is one of the hardest temptations for a teacher to resist; even experienced teachers find it difficult to accept that their students' learning does not depend on explanation. This is perfectly natural. Once we have grasped something, we rely on the power of abstraction to frame it to ourselves - and that's how we want to frame it to others. Understanding means grasping general ideas, and abstraction is the logical form of understanding - but these are not what we need in a tutorial, and it's not how successful learning or teaching works."
 msgstr ""
 
-#: ../../tutorials.rst:177
 #: d0fd1404bb6b44d08fee03c5517ce513
 msgid "One must see it for oneself, to see the focused attention of a student dissolve into air, when a teacher's well-intentioned explanation breaks the magic spell of learning."
 msgstr ""
 
-#: ../../tutorials.rst:181
 #: a6b4b63b25664ce8be1345fe2a0da9f1
 msgid "... and focus on the concrete"
 msgstr ""
 
-#: ../../tutorials.rst:183
 #: e32d04830cea474f8265e36826f8e4df
 msgid "In a learning situation, your student is in the moment, a moment composed of concrete things. You are responsible for setting up and maintaining the student's flow, from one concrete action and result to another."
 msgstr ""
 
-#: ../../tutorials.rst:185
 #: 04258d7a1c734dc4954178c7e91ad0a4
 msgid "Focus on *this* problem, *this* action, *this* result, in such a way that you lead the learner from step to concrete step."
 msgstr ""
 
-#: ../../tutorials.rst:187
 #: 833f4c0c00024edeaa53913363d9b482
 msgid "It might seem that by maintaining focus on the concrete and particular that you deny the student the opportunity to see or grasp the larger general patterns, but the contrary is true. The one thing our minds do spectacularly well is to perceive general patterns from concrete examples. All learning moves in one direction: from the concrete and particular, towards the general and abstract. The latter *will* emerge from the former."
 msgstr ""
 
-#: ../../tutorials.rst:191
 #: c43532a02fff4d65bf66de63df65d943
 msgid "Ignore options and alternatives"
 msgstr ""
 
-#: ../../tutorials.rst:193
 #: f67514f586924f81bed80dced4a9733d
 msgid "Your job is to guide the learner to a successful conclusion. There may be many interesting diversions along the way (different options for the command you're using, different ways to use the API, different approaches to the task you're describing) - ignore them. *Your guidance needs to remain focused on what's required to reach the conclusion*, and everything else can be left for another time."
 msgstr ""
 
-#: ../../tutorials.rst:195
 #: 05d9cc46c34e4555b081b18dff3a37d4
 msgid "Doing this helps keep your tutorial shorter and crisper, and saves both you and the reader from having to do extra cognitive work."
 msgstr ""
 
-#: ../../tutorials.rst:199
 #: 1b10aeea3c2f49019a3b583e3bd63412
 msgid "Aspire to perfect reliability"
 msgstr ""
 
-#: ../../tutorials.rst:201
 #: b49994d1b3d3436588e4002d9f6b2f2b
 msgid "All of the above are general principles of pedagogy, but there is a special burden on the creator of a tutorial."
 msgstr ""
 
-#: ../../tutorials.rst:203
 #: 448b68ff8e964d39905249d3cd41c9c8
 msgid "A tutorial must inspire confidence. Confidence can only be built up layer by layer, and is easily shaken. At every stage, when you ask your student to do something, they must see the result you promise. A learner who follows your directions and doesn't get the expected results will quickly lose confidence, in the tutorial, the tutor and themselves."
 msgstr ""
 
-#: ../../tutorials.rst:207
 #: ec896703d60948b78fbfa2be02a2b2f0
 msgid "You are required to be present, but condemned to be absent."
 msgstr ""
 
-#: ../../tutorials.rst:209
 #: a4ec9e0c2b114fb2a7fb19f7dbe409e1
 msgid "A teacher who's there with the learner can rescue them when things go wrong. In a tutorial, you can't do that. Your tutorial ought to be so well constructed that things *can't* go wrong, that your tutorial works for every user, every time."
 msgstr ""
 
-#: ../../tutorials.rst:211
 #: 7a9f02676f734896b1e5dfb625cd9c82
 msgid "It's hard work to create a reliable experience, but that is what you must aspire to in creating a tutorial."
 msgstr ""
 
-#: ../../tutorials.rst:213
 #: 37448d0f19f64ac3b3cc97bfd66f3552
 msgid "Your tutorial will have flaws and gaps, however carefully it is written. You won't discover them all by yourself, you will have to rely on users to discover them for you. The only way to learn what they are is by finding out what actually happens when users do the tutorial, through extensive testing and observation."
 msgstr ""
 
-#: ../../tutorials.rst:219
 #: 1c46286d0bcf4b6dbeb3ef9b7d2aec48
 msgid "The language of tutorials"
 msgstr ""
 
-#: ../../tutorials.rst:221
 #: cf37e52c532348cba51e1b7aea91c2ee
 msgid "We ..."
 msgstr ""
 
-#: ../../tutorials.rst:222
 #: 2e8d7a1b729f4aefb8dd9aaff96bb41a
 msgid "The first-person plural affirms the relationship between tutor and learner: you are not alone; we are in this together."
 msgstr ""
 
-#: ../../tutorials.rst:223
 #: 8a0a0be5207d440a82a258c2c01f1cba
 msgid "In this tutorial, we will ..."
 msgstr ""
 
-#: ../../tutorials.rst:224
 #: 4b459fbb8f3c414ebc07047320b529ef
 msgid "Describe what the learner will accomplish."
 msgstr ""
 
-#: ../../tutorials.rst:225
 #: dab4eb58b5ed49de9a368a9bc0821604
 msgid "First, do x. Now, do y. Now that you have done y, do z."
 msgstr ""
 
-#: ../../tutorials.rst:226
 #: c8e3b8d0698447dfb9b000c93243bbba
 msgid "No room for ambiguity or doubt."
 msgstr ""
 
-#: ../../tutorials.rst:227
 #: 4dea399c96c24c12adf6ae235316e910
 msgid "We must always do x before we do y because... (see Explanation for more details)."
 msgstr ""
 
-#: ../../tutorials.rst:228
 #: c6f27fe3efc4441687440bdff7d7770b
 msgid "Provide minimal explanation of actions in the most basic language possible. Link to more detailed explanation."
 msgstr ""
 
-#: ../../tutorials.rst:229
 #: f58e0adb8dba451b8a3e34bbacb616bd
 msgid "The output should look something like ..."
 msgstr ""
 
-#: ../../tutorials.rst:230
 #: 41ddc3a2bef645b4bb96b944e94c95f3
 msgid "Give your learner clear expectations."
 msgstr ""
 
-#: ../../tutorials.rst:231
 #: 36e2e13672394a738d3fc56eab740827
 msgid "Notice that ... Remember that ... Let's check ..."
 msgstr ""
 
-#: ../../tutorials.rst:232
 #: 52d2468e09d8425ca762adb523968d4e
 msgid "Give your learner plenty of clues to help confirm they are on the right track and orient themselves."
 msgstr ""
 
-#: ../../tutorials.rst:233
 #: d9bcce4deeeb45a0a01e12961e3c96e0
 msgid "You have built a secure, three-layer hylomorphic stasis engine..."
 msgstr ""
 
-#: ../../tutorials.rst:234
 #: 471fb1e28f284065b006f50c49db31cb
 msgid "Describe (and admire, in a mild way) what your learner has accomplished."
 msgstr ""
 
-#: ../../tutorials.rst:240
 #: 3570128c0da04506b308fc567a923bbd
 msgid "Applied to food and cooking"
 msgstr ""
 
-#: ../../tutorials.rst:242
 #: 5fe5f85bb5454ae1b6ef451360c71d7d
 msgid "A child proudly showing a dish he has helped prepare"
 msgstr ""
 
-#: ../../tutorials.rst:245
 #: f8278032678a45d495d19e11e6fc8d07
 msgid "Someone who has had the experience of teaching a child to cook will understand what matters in a tutorial, and just as importantly, the things that don't matter at all."
 msgstr ""
 
-#: ../../tutorials.rst:247
 #: bd4c70892f564eeeb9de7379dd10ba66
 msgid "It really doesn't matter what the child makes, or how correctly they do it. The value of a lesson lies in what the child gains, not what they produce."
 msgstr ""
 
-#: ../../tutorials.rst:249
 #: 3f317fadcece4bb090ea115ddc34cd15
 msgid "Success in a cooking lesson with a child is not the culinary outcome, or whether the child can now repeat the processes on their own. Success is when the child acquires the knowledge and skills you were hoping to impart."
 msgstr ""
 
-#: ../../tutorials.rst:251
 #: cd5ee1e2fd214d9a9e6b2e23bec2adc0
 msgid "It's a crucial condition of this that the child discovers pleasure in the experience of being in the kitchen with you, and wants to return to it. Learning a skill is never a once and for all matter. Repetition is always required."
 msgstr ""
 
-#: ../../tutorials.rst:253
 #: c3bee807525a4f0bbed39137d4db7add
 msgid "Meanwhile, the cooking lesson might be framed around the idea of learning how to prepare a particular dish, but what we actually need the child to learn might be things like: *that we wash our hands before handling food*; *how to hold a knife*; *why the oil must be hot*; *what this utensil is called*, *how to time and measure things*."
 msgstr ""
 
-#: ../../tutorials.rst:255
 #: d3cb4e9ec33f4030b54175ef05b317d3
 msgid "The child learns all this by working alongside you in the kitchen; in its own time, at its own pace, **through the activities** you do together, and not from the things you say or show."
 msgstr ""
 
-#: ../../tutorials.rst:257
 #: c7215e0441164001bc09b52a58f0dbf5
 msgid "With a young child, you will often find that the lesson suddenly has to end before you'd completed what you set out to do. This is normal and expected; children have short attention spans. But as long as the child managed to achieve something - however small - and enjoyed doing it, it will have laid down something in the construction of its technical expertise, that can be returned to and built upon next time."
 msgstr ""
