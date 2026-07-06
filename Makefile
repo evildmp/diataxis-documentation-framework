@@ -4,6 +4,11 @@ SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = DocumentationSystem
 SOURCEDIR     = .
 BUILDDIR      = _build
+HTMLDIR       = $(BUILDDIR)/html
+GETTEXTDIR    = $(BUILDDIR)/gettext
+SPELLINGDIR   = $(BUILDDIR)/spelling
+TRANSLATIONSDIR = translation
+POTDIR        = $(TRANSLATIONSDIR)/pot
 
 VENV = env/bin/activate
 PORT = 8090
@@ -26,27 +31,34 @@ install:
 	  "--------------------------------------------------------------- \n"
 
 clean:
-	-rm -rf _build/*
+	-rm -rf $(BUILDDIR)/*
 
 run:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" . -b dirhtml -a _build/html --host 0.0.0.0 --port $(PORT)
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" . -b dirhtml -a $(HTMLDIR) --host 0.0.0.0 --port $(PORT)
 
 test:
-	. $(VENV); $(SPHINXBUILD) -b html . _build/html
+	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b html . _build/html
+	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
+
+gettext:
+	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+
+copy-pot-files: gettext
+	mkdir -p $(POTDIR)
+	cp $(GETTEXTDIR)/*.pot $(POTDIR)/
 
 spelling:
-	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) . _build/spelling
+	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) $(SOURCEDIR) $(SPELLINGDIR)
 	@echo
 	@echo "Check finished. Wrong words can be found in " \
-		"_build/spelling/output.txt."
+		"$(SPELLINGDIR)/output.txt."
 
 quickstart:
 	. $(VENV); sphinx-quickstart
 
-.PHONY: help install clean run Makefile
+.PHONY: help install clean run html gettext copy-pot-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

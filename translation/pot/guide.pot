@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-06 09:45+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../guide.rst:3
+msgid "Daniele's guide to translation: Sphinx, RTD, Github, Transifex"
+msgstr ""
+
+#: ../../guide.rst:5
+msgid "This is a pretty standard workflow for Sphinx documentation:"
+msgstr ""
+
+#: ../../guide.rst:7
+msgid "You maintain your documentation source in Git, on GitHub. It's published on Read the Docs. Translations are managed on Transifex."
+msgstr ""
+
+#: ../../guide.rst:9
+msgid "All three platforms - GitHub, RTD and Transifex - play nicely together so that changes to the project's content are automatically sent for translation to Transifex, and get themselves published, all with minimal work for you the maintainer."
+msgstr ""
+
+#: ../../guide.rst:13
+msgid "Basic translation workflow"
+msgstr ""
+
+#: ../../guide.rst:15
+msgid "The very basic translation workflow is:"
+msgstr ""
+
+#: ../../guide.rst:17
+msgid "generate a ``.pot`` file (\"Portable Object Template\" – essentially, translation source files)  for each of the pages of your documentation"
+msgstr ""
+
+#: ../../guide.rst:18
+msgid "generate/update corresponding ``.po`` files for each target language"
+msgstr ""
+
+#: ../../guide.rst:19
+msgid "edit the ``.po`` files to add/update the translations"
+msgstr ""
+
+#: ../../guide.rst:20
+msgid "build the translated documentation from the ``.po`` files"
+msgstr ""
+
+#: ../../guide.rst:22
+msgid "When using Transifex, instead of editing ``.po`` files locally, the source strings are sent to Transifex, translated there, and then the translated strings pulled back down into ``.po`` files."
+msgstr ""
+
+#: ../../guide.rst:26
+msgid "Configuration"
+msgstr ""
+
+#: ../../guide.rst:27
+msgid "You need to have your project up and running, and published on RTD."
+msgstr ""
+
+#: ../../guide.rst:29
+msgid "Edit ``conf.py``::"
+msgstr ""
+
+#: ../../guide.rst:37
+msgid "We need a ``transifex.yaml`` file in the repository, so Transifex knows how to behave::"
+msgstr ""
+
+#: ../../guide.rst:50
+msgid "Executing the workflow"
+msgstr ""
+
+#: ../../guide.rst:52
+msgid "Run: ``make gettext``. This will create a ``gettext`` directory inside your build directory (usually, ``_build``) containing a ``.pot`` file for each page."
+msgstr ""
+
+#: ../../guide.rst:54
+msgid "``_build`` is excluded from commits, but the ``.pot`` files need to be committed, so use ``make copy-pot-files`` to copy them to ``.pot`` files in ``translation/pot``."
+msgstr ""
+
+#: ../../guide.rst:56
+msgid "Then the changes can be committed and pushed."
+msgstr ""
+
+#: ../../guide.rst:58
+msgid "The next thing is to get the ``.pot`` files into Transifex. Transifex should do that itself, watching GitHub for changes."
+msgstr ""

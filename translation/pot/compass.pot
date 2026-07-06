@@ -1,0 +1,153 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-06-01 23:34+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: ../../compass.rst:4
+msgid "The compass"
+msgstr ""
+
+#: ../../compass.rst:10
+msgid "The Diátaxis map is an effective reminder of the different kinds of documentation and their relationship, and it accords well with intuitions about documentation."
+msgstr ""
+
+#: ../../compass.rst:14
+msgid "However intuition is not always to be relied upon. Often when working with documentation, an author is faced with the question: *what form of documentation is this?* or *what form of documentation is needed here?* - and no obvious, intuitive answer."
+msgstr ""
+
+#: ../../compass.rst:19
+msgid "Worse, sometimes intuition provides an immediate answer that is also wrong."
+msgstr ""
+
+#: ../../compass.rst:21
+msgid "A map is most powerful in unfamiliar territory when we also have a compass to guide us."
+msgstr ""
+
+#: ../../compass.rst:24
+msgid "The Diátaxis compass is something like a truth-table or decision-tree of documentation. It reduces a more complex, two-dimensional problem to its simpler parts, and provides the author with a course-correction tool."
+msgstr ""
+
+#: ../../compass.rst:35
+msgid "If the content..."
+msgstr ""
+
+#: ../../compass.rst:36
+msgid "...and serves the user's..."
+msgstr ""
+
+#: ../../compass.rst:37
+msgid "...then it must belong to..."
+msgstr ""
+
+#: ../../compass.rst:38
+#: ../../compass.rst:41
+msgid "informs action"
+msgstr ""
+
+#: ../../compass.rst:39
+#: ../../compass.rst:48
+msgid "acquisition of skill"
+msgstr ""
+
+#: ../../compass.rst:40
+msgid "a tutorial"
+msgstr ""
+
+#: ../../compass.rst:42
+#: ../../compass.rst:45
+msgid "application of skill"
+msgstr ""
+
+#: ../../compass.rst:43
+msgid "a how-to guide"
+msgstr ""
+
+#: ../../compass.rst:44
+#: ../../compass.rst:47
+msgid "informs cognition"
+msgstr ""
+
+#: ../../compass.rst:46
+msgid "reference"
+msgstr ""
+
+#: ../../compass.rst:49
+msgid "explanation"
+msgstr ""
+
+#: ../../compass.rst:51
+msgid "The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprisingly banal."
+msgstr ""
+
+#: ../../compass.rst:53
+msgid "To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?*"
+msgstr ""
+
+#: ../../compass.rst:55
+msgid "And it yields the answer."
+msgstr ""
+
+#: ../../compass.rst:59
+msgid "Using the compass"
+msgstr ""
+
+#: ../../compass.rst:61
+msgid "The compass is particularly effective when you think that you think you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider."
+msgstr ""
+
+#: ../../compass.rst:63
+msgid "Especially when you are trying to find your initial bearings, use the compass's terms flexibly; don't get fixated on the exact names."
+msgstr ""
+
+#: ../../compass.rst:65
+msgid "*action*: practical steps, doing"
+msgstr ""
+
+#: ../../compass.rst:66
+msgid "*cognition*: theoretical or propositional knowledge, thinking"
+msgstr ""
+
+#: ../../compass.rst:67
+msgid "*acquisition*: study"
+msgstr ""
+
+#: ../../compass.rst:68
+msgid "*application*: work"
+msgstr ""
+
+#: ../../compass.rst:70
+msgid "And the questions themselves can also be used in different ways:"
+msgstr ""
+
+#: ../../compass.rst:72
+msgid "Do I think I am writing for *x* or *y*?"
+msgstr ""
+
+#: ../../compass.rst:73
+msgid "Is this writing in front of me engaged in *x* or *y*?"
+msgstr ""
+
+#: ../../compass.rst:74
+msgid "Does the user need *x* or *y*?"
+msgstr ""
+
+#: ../../compass.rst:75
+msgid "Do I want to *x* or *y*?"
+msgstr ""
+
+#: ../../compass.rst:77
+msgid "And try applying them close-up, at the level of sentences and words, or from a wider perspective, considering an entire document."
+msgstr ""

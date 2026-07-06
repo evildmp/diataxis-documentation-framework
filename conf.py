@@ -96,3 +96,9 @@ redirects = {
      "contact": "/colophon",
      "colofon": "/colophon",
 }
+
+# Translation settings
+
+language = "en"
+locale_paths = ["translation/locales"]
+gettext_compact = False
