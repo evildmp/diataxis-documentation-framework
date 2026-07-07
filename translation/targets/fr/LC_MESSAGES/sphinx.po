@@ -2,10 +2,10 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # evildmp <daniele@vurt.org>, 2026
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -31,7 +31,7 @@ msgstr "Précédent"
 
 #: ../../_templates/page.html:29 7ce529f931a84c73a26521fcbcf7479b
 msgid "Home"
-msgstr "Acueil"
+msgstr "Accueil"
 
 #: ../../_templates/page.html:42 e479a123456e418ca6423f96c36fe765
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"

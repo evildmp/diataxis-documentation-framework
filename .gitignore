@@ -4,3 +4,4 @@ _build
 __pycache__
 .idea/
 stashed/
+translation/targets/*/LC_MESSAGES/*.mo

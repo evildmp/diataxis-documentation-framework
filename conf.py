@@ -100,7 +100,7 @@ redirects = {
 # Translation settings
 
 language = "en"
-locale_paths = ["translation/targets"]
+locale_dirs = ["../translation/targets"]
 gettext_compact = False
 gettext_uuid = True
 gettext_location = False

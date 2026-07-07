@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -141,7 +141,7 @@ msgstr ""
 
 #: 930f0ee3955a408c81f28fd6b2567b9e
 msgid "\"Can you teach me to...?\""
-msgstr "«Comment apprendre à... ?»"
+msgstr "«Pouvez-vous m'apprendre à... ?»"
 
 #: bcdbd79b0e0f48abb41a3593600bef43
 msgid "\"How do I...?\""
@@ -209,7 +209,7 @@ msgstr "un parcours étape par étape"
 
 #: 01124dbe98744249949646888de729e9
 msgid "dry description"
-msgstr "un description brute"
+msgstr "une description brute"
 
 #: 9f810b883ee04371aade5bf668db7772
 msgid "discursive explanation"
@@ -225,7 +225,7 @@ msgstr "apprendre à cuisiner à un enfant"
 
 #: f4acaa46f874439995e1be2e52e2cb86
 msgid "a recipe in a cookery book"
-msgstr "une recette dans un libre de cuisine"
+msgstr "une recette dans un livre de cuisine"
 
 #: e991614c8e43494e9995dd3757a9bd57
 msgid "information on the back of a food packet"
