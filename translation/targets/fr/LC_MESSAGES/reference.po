@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -39,7 +39,7 @@ msgid ""
 "possible, and in an orderly way. Whereas the content of tutorials and how-to"
 " guides are led by needs of the user, reference material is led by the "
 "product it describes."
-msgstr "Le seul but d'un guide de référence est la description, aussi succinte que possible, de manière ordonnée. Alors que le contenu des tutoriels et des guides how-to est dicté par les besoins de l'utilisateur, le matériel des guides de référence est défini par le produit qu'ils décrivent."
+msgstr "Le seul but d'un guide de référence est la description, aussi succincte que possible, de manière ordonnée. Alors que le contenu des tutoriels et des guides how-to est dicté par les besoins de l'utilisateur, le matériel des guides de référence est défini par le produit qu'ils décrivent."
 
 #: 6e35088dc57647ae9c1090e6e823c8d4
 msgid ""
@@ -51,7 +51,7 @@ msgstr ""
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
-msgstr "Sans le cas d'un logiciel, les guides de références décrivent le logiciel lui même - ses APIs, ses classes, ses fonctions, etc. - et comment les utiliser."
+msgstr "Dans le cas d'un logiciel, les guides de références décrivent le logiciel lui même - ses APIs, ses classes, ses fonctions, etc. - et comment les utiliser."
 
 #: 31411a00714a4ade877e15dbe2c57929
 msgid ""
@@ -74,7 +74,7 @@ msgstr ""
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
-msgstr "Il ne doit  y avoir ni doute ni d'ambiguïté dans les références; elles doivent faire autorité."
+msgstr "Il ne doit y avoir ni doute ni d'ambiguïté dans les références; elles doivent faire autorité."
 
 #: a6571514df4d40e68c24ab538597d8a7
 msgid ""
@@ -126,7 +126,7 @@ msgstr "neutre, objectif, factuel"
 
 #: 42b60ddc1c4c451c95dbed8eb9fe401d
 msgid "structured according to the structure of the machinery itself"
-msgstr "structuré en fonction de ma machinerie interne elle-même"
+msgstr ""
 
 #: c822911ab09c4d9c9fadb1152bf1440b
 msgid ""
@@ -220,7 +220,7 @@ msgstr ""
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
-msgstr "Listes des commandes, options, opérations, caractéristiques, *flags*, limitations, messages d'erreur, etc."
+msgstr "Listez les commandes, options, opérations, caractéristiques, *flags*, limitations, messages d'erreur, etc."
 
 #: 53c01a49bae24d108080960ece51d457
 msgid "You must use a. You must not apply b unless c. Never d."

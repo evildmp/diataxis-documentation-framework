@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -124,7 +124,7 @@ msgstr "*logique*, le parcours proposé doit avoir du sens"
 msgid ""
 "*usefully complete* - the pupil must have an encounter with all of the "
 "actions, concepts and tools they need to become familiar with"
-msgstr "*pleinement utile*, l'élève doit rencontre et se familiariser avec toutes les actions, concepts ou outils"
+msgstr ""
 
 #: 49603f80d5cd420bbe786b00d3cb0fe1
 msgid "The problem of tutorials"
@@ -544,7 +544,7 @@ msgstr ""
 
 #: 1c46286d0bcf4b6dbeb3ef9b7d2aec48
 msgid "The language of tutorials"
-msgstr "Le langage des des tutoriels"
+msgstr "Le langage des tutoriels"
 
 #: cf37e52c532348cba51e1b7aea91c2ee
 msgid "We ..."
@@ -590,7 +590,7 @@ msgstr ""
 
 #: 41ddc3a2bef645b4bb96b944e94c95f3
 msgid "Give your learner clear expectations."
-msgstr "Donnez à vos élèves des attentes précises."
+msgstr "Donnez à votre apprenant des attentes claires."
 
 #: 36e2e13672394a738d3fc56eab740827
 msgid "Notice that ... Remember that ... Let's check ..."
@@ -600,7 +600,7 @@ msgstr ""
 msgid ""
 "Give your learner plenty of clues to help confirm they are on the right "
 "track and orient themselves."
-msgstr "Donnez à vos élevès de nombreux indices confirmer qu'ils sont sur la bonne voie et les orienter."
+msgstr "Donnez à votre apprenant de nombreux indices pour lui confirmer qu'il est sur la bonne voie et l'aider à s'orienter."
 
 #: d9bcce4deeeb45a0a01e12961e3c96e0
 msgid "You have built a secure, three-layer hylomorphic stasis engine..."

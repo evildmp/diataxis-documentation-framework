@@ -2,10 +2,10 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # Translators:
 # evildmp <daniele@vurt.org>, 2026
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -55,7 +55,7 @@ msgstr "Références et explications"
 msgid ""
 "Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking "
 "about and creating documentation."
-msgstr ""
+msgstr "Diátaxis est une manière de penser et de réaliser la documentation."
 
 #: 6dddd76b95ed4ca3bdd8b03ed2689cbf
 msgid "documentation, four, kinds, architecture"
@@ -67,11 +67,11 @@ msgstr "Diátaxis"
 
 #: 6b286da7d094452dbfaa2ae6a4a58d68
 msgid "A systematic approach to technical documentation authoring."
-msgstr "Un framework systématique pour la rédaction de documentations techniques."
+msgstr "Une approache systématique pour la rédaction de documentations techniques."
 
 #: c32daa4003284e5990744c4a211d213e
 msgid "Diátaxis is a way of thinking about and doing documentation."
-msgstr ""
+msgstr "Diátaxis est une manière de penser et de réaliser la documentation."
 
 #: 0e1e7f4c819d44609238053d0174de8d
 msgid ""
@@ -170,4 +170,4 @@ msgstr "Lors de la refonte de la `documentation de développement de Cloudflare 
 
 #: c6839f5c39fa439b9cd50eb816d04523
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
-msgstr "`Adam Schwartz <https://github.com/adamschwartz>`_"}]}itsiaqiyanas? (json invalid includes weird? let's see) was issued. It likely failed? The assistant to=functions has malformed? Need wait for tool result. I accidentally included extra text after json? Actually tool call ended with }]} but then text 
+msgstr ""

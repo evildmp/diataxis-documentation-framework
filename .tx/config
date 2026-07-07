@@ -10,7 +10,7 @@ resource_name          = application
 replace_edited_strings = false
 keep_translations      = false
 
-[o:danieleprocida:p:diataxis:r:colophon]
+[o:danieleprocida:p:diataxis:r:6980bad7426331e1d4f492ca46455f1a]
 file_filter            = translation/targets/<lang>/LC_MESSAGES/colophon.po
 source_file            = translation/source/colophon.pot
 type                   = PO
@@ -162,4 +162,3 @@ minimum_perc           = 0
 resource_name          = tutorials-how-to
 replace_edited_strings = false
 keep_translations      = false
-
