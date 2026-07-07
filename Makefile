@@ -2,7 +2,6 @@
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
 SPHINXPROJ    = DocumentationSystem
-CONFDIR       = .
 SOURCEDIR     = source
 BUILDDIR      = _build
 HTMLDIR       = $(BUILDDIR)/html
@@ -17,7 +16,7 @@ PORT = 8090
 
 # Put it first so that "make" without argument is like "make help".
 help:
-	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" -c "$(CONFDIR)" $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M help "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 install:
 	@echo "... setting up virtualenv"
@@ -36,23 +35,23 @@ clean:
 	-rm -rf $(BUILDDIR)/*
 
 run:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -c $(CONFDIR) -b dirhtml -a $(HTMLDIR) --host 0.0.0.0 --port $(PORT)
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -a $(HTMLDIR) --host 0.0.0.0 --port $(PORT)
 
 test:
-	. $(VENV); $(SPHINXBUILD) -b html -c $(CONFDIR) $(SOURCEDIR) $(HTMLDIR)
+	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b html -c $(CONFDIR) $(SOURCEDIR) $(HTMLDIR)
+	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
 
 gettext:
-	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" -c "$(CONFDIR)" $(SPHINXOPTS) $(O)
+	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
 copy-pot-files: gettext
 	mkdir -p $(TRANSLATIONSOURCEDIR)
 	cp $(GETTEXTDIR)/*.pot $(TRANSLATIONSOURCEDIR)/
 
 spelling:
-	. $(VENV); $(SPHINXBUILD) -b spelling -c $(CONFDIR) $(ALLSPHINXOPTS) $(SOURCEDIR) $(SPELLINGDIR)
+	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) $(SOURCEDIR) $(SPELLINGDIR)
 	@echo
 	@echo "Check finished. Wrong words can be found in " \
 		"$(SPELLINGDIR)/output.txt."
@@ -65,4 +64,4 @@ quickstart:
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" -c "$(CONFDIR)" $(SPHINXOPTS) $(O)
+	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
