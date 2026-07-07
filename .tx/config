@@ -46,15 +46,6 @@ resource_name          = foundations
 replace_edited_strings = false
 keep_translations      = false
 
-[o:danieleprocida:p:diataxis:r:guide]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/guide.po
-source_file            = translation/source/guide.pot
-type                   = PO
-minimum_perc           = 0
-resource_name          = guide
-replace_edited_strings = false
-keep_translations      = false
-
 [o:danieleprocida:p:diataxis:r:how-to-guides]
 file_filter            = translation/targets/<lang>/LC_MESSAGES/how-to-guides.po
 source_file            = translation/source/how-to-guides.pot
