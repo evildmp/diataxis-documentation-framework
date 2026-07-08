@@ -5,6 +5,22 @@
   {{ super() }}
   {% endblock %}
 
+  {% block extrahead %}
+  {{ super() }}
+  {% endblock %}
+
+  {% block content %}
+  <nav class="language-switcher" aria-label="Language">
+    {% for code, label in language_switcher %}
+    <a href="#" data-language-code="{{ code }}" lang="{{ code }}">
+      <span class="language-switcher-full-label">{{ label }}</span>
+      <span class="language-switcher-short-label">{{ code|upper }}</span>
+    </a>
+    {% endfor %}
+  </nav>
+  {{ body }}
+  {% endblock %}
+
   {% block footer %}
   <div class="related-pages">
     {% if next -%}

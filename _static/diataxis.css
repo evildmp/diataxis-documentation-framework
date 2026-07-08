@@ -56,6 +56,47 @@ div.sidebar-tree ul {
 
 input.sidebar-search {border: none;}
 
+/* --------- language switcher --------- */
+
+.language-switcher {
+    align-items: center;
+    display: flex;
+    font-family: 'Source Sans 3', sans-serif;
+    font-size: var(--font-size--small--2);
+    gap: .75rem;
+    justify-content: flex-end;
+    margin: 1.5rem 0 .5rem;
+}
+
+.language-switcher a {
+    color: var(--color-foreground-secondary);
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.language-switcher a[aria-current="page"] {
+    color: var(--orange);
+    font-weight: 700;
+}
+
+.language-switcher a:hover {
+    color: var(--orange);
+}
+
+.language-switcher-short-label {
+    display: none;
+}
+
+@media only screen and (max-width: 63em) {
+    .language-switcher-full-label {
+        display: none;
+    }
+
+    .language-switcher-short-label {
+        display: inline;
+    }
+}
+
 /* --------- in-page TOCs --------- */
 
 .toc-with-header ul li:first-child {font-weight: bold;}

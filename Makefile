@@ -41,7 +41,15 @@ test:
 	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
+	. $(VENV); $(SPHINXBUILD) -b html -D language=en $(SOURCEDIR) $(HTMLDIR)
+
+html-fr:
+	. $(VENV); $(SPHINXBUILD) -b html -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
+
+html-pt:
+	. $(VENV); $(SPHINXBUILD) -b html -D language=pt $(SOURCEDIR) $(HTMLDIR)/pt
+
+html-all: html html-fr html-pt
 
 gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -59,7 +67,7 @@ spelling:
 quickstart:
 	. $(VENV); sphinx-quickstart
 
-.PHONY: help install clean run html gettext copy-pot-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-pt html-all gettext copy-pot-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

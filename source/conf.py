@@ -53,6 +53,7 @@ exclude_patterns = [
 html_theme = "furo"
 html_theme_options = {
     "sidebar_hide_name": True,
+    "top_of_page_buttons": [],
     "light_css_variables": {
         "color-background-secondary": "#fff",
         "color-sidebar-background-border": "none",
@@ -66,6 +67,17 @@ html_logo = "images/diataxis-white-416.png"
 html_css_files = [
     "diataxis.css",
 ]
+html_js_files = [
+    "language-switcher.js",
+]
+language_switcher = [
+    ["en", "English"],
+    ["fr", "Français"],
+    ["pt", "Português"],
+]
+html_context = {
+    "language_switcher": language_switcher,
+}
 html_sidebars = {
     "**": [
         "sidebar/scroll-start.html",
