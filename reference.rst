@@ -10,7 +10,7 @@ Reference
 Reference material contains *propositional or theoretical* knowledge that a user looks to in their *work*.
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
-way. Whereas the content of tutorials and how-to guides are led by the needs of the user, reference
+way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
 material is led by the product it describes.
 
 ..  image:: /images/overview-reference.png
