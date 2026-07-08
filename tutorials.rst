@@ -116,7 +116,7 @@ At every step of a tutorial, the user experiences a moment of anxiety: will this
 
 Keep up a narrative of expectations: "You will notice that ..."; "After a few moments, the server responds with ...". Show the user actual example output, or even the exact expected output.
 
-If you know know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
+If you know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
 
 It's helpful to prepare the user for possibly surprising actions: "The command will probably return several hundred lines of logs in your terminal."
 
