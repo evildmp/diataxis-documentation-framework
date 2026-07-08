@@ -121,8 +121,10 @@ You might check the information on a packet of food, in order to help you make a
 
 When you're looking for information - relevant facts - you do not want to be confronted by opinions, speculation, instructions or interpretation. 
 
-..  image:: /images/wheat.jpg
-    :alt: Information on the back of a packet of pearl barley
+..  image:: /images/lasagne.jpg
+    :alt: Information on the back of a packet of lasagne
+    :class: floated
+
 
 You also expect that information to be presented in standard ways, so that you - when you need to know about something's nutritional properties, how it should be stored, its ingredients, what health implications it might have - can find them quickly, and know you can rely on them.
 

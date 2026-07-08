@@ -6,10 +6,10 @@ Diátaxis is an approach to *quality* in documentation.
 "Quality" is a word in danger of losing some of its meaning; it's something we
 all approve of, but rarely risk trying to describe in any rigorous way. We
 want quality in our documentation, but much less often specify what exactly
-what we mean by that.
+we mean by that.
 
-All the same, we can generally point to examples of "high quality
-documentation" when asked, and can identify lapses in quality when we see
+All the same, we can generally point to examples of "high-quality
+documentation" when asked, and we can identify lapses in quality when we see
 them - and more than that, we often agree when we do. This suggests that
 we still have a useful grasp on the notion of quality.
 
@@ -47,7 +47,7 @@ There are other characteristics, that we can call **deep quality**.
 
 Functional quality is not enough, or even satisfactory on its own as an
 ambition. True excellence in documentation implies characteristics of quality
-that are not included in accuracy, completeness and so on.
+that are not included in accuracy, completeness, and so on.
 
 Think of characteristics such as:
 
@@ -71,7 +71,7 @@ What's the difference?
 Aspects of deep quality seem to be genuinely distinct in kind from the
 characteristics of functional quality.
 
-Documentation can meet all the demands of functional quality, and still fail
+Documentation can meet all the demands of functional quality and still fail
 to exhibit deep quality. There are many examples of documentation that is
 accurate and consistent (and even very useful) but which is also awkward and
 unpleasant to use.
@@ -135,7 +135,7 @@ How we recognise deep quality
 Consider how we judge the quality of say, clothing. Clothes must have
 *functional quality* (they must keep us appropriately warm and dry, stand up
 to wear). These things are objectively measurable. You don't really need to
-know much about clothes to assess how well they do those this. If water gets
+know much about clothes to assess how well they do those things. If water gets
 in, or the clothing falls apart - it lacks quality.
 
 There are other characteristics of quality in clothing that can't simply be

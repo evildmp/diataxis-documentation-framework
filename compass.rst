@@ -48,7 +48,7 @@ simpler parts, and provides the author with a course-correction tool.
      - acquisition of skill
      - explanation
 
-The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprising banal.
+The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprisingly banal.
 
 To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?* 
 
@@ -58,7 +58,7 @@ And it yields the answer.
 Using the compass
 ------------------
 
-The compass is particularly effective when you think that you think you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider.
+The compass is particularly effective when you think that you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider.
 
 Especially when you are trying to find your initial bearings, use the compass's terms flexibly; don't get fixated on the exact names.
 

@@ -14,7 +14,7 @@ Use Diátaxis as a guide, not a plan
 -----------------------------------
 
 Diátaxis describes a complete picture of documentation. However the structure it proposes is not intended to be a
-**plan**, something you must complete in your documentation. It’s a **guide**, a map to help you check that you’re in
+**plan**, something you must complete in your documentation. It's a **guide**, a map to help you check that you're in
 the right place and going in the right directions.
 
 The point of Diátaxis is to give you a way to think about and understand your documentation, so that you can make
@@ -32,8 +32,7 @@ If you continue to follow the prompts that Diátaxis provides, eventually your d
 Diátaxis structure - but it will have assumed that shape *because* it has been improved. It's not the other way round,
 that the structure must be imposed upon documentation to improve it.
 
-In practice, this means that getting started with Diátaxis doesn't require thinking about dividing up your
-documentation into the four sections, or writing out headings to put material under.
+Getting started with Diátaxis does not require you to think about dividing up your documentation into four sections. **It certainly does not mean that you should create empty structures for tutorials/howto guides/reference/explanation with nothing in them.** Don't do that. It's horrible.
 
 Instead, following the workflow described in the next two sections, make changes where you see opportunities for
 improvement according to Diátaxis principles, so that the documentation starts to take a certain shape. At a certain

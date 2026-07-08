@@ -116,7 +116,7 @@ At every step of a tutorial, the user experiences a moment of anxiety: will this
 
 Keep up a narrative of expectations: "You will notice that ..."; "After a few moments, the server responds with ...". Show the user actual example output, or even the exact expected output.
 
-If you know know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
+If you know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
 
 It's helpful to prepare the user for possibly surprising actions: "The command will probably return several hundred lines of logs in your terminal."
 
@@ -206,7 +206,7 @@ A tutorial must inspire confidence. Confidence can only be built up layer by lay
 
     You are required to be present, but condemned to be absent. 
 
-A teacher who's there with the learner can rescue them when things go wrong. In a tutorial, you can't do that. Your tutorial ought to be so well constructed that things *can't* go wrong, that your tutorial works every user, every time.
+A teacher who's there with the learner can rescue them when things go wrong. In a tutorial, you can't do that. Your tutorial ought to be so well constructed that things *can't* go wrong, that your tutorial works for every user, every time.
 
 It's hard work to create a reliable experience, but that is what you must aspire to in creating a tutorial.
 
