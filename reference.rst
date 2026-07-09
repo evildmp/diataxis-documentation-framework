@@ -74,7 +74,7 @@ It can be tempting to introduce instruction and explanation, simply because desc
 Adopt standard patterns
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-**Reference material is useful when it is consistent.** Standard patterns are what allow us to use reference material effectively. Your job is to place the material that your user needs to know where they expect to find it, in a format that they are familiar with.
+**Reference material is useful when it is consistent.** Standard patterns are what allow us to use reference material effectively. Your job is to place the material that your user needs where they expect to find it, in a format that they are familiar with.
 
 There are many opportunities in writing to delight your readers with your extensive vocabulary and command of multiple styles, but reference material is definitely not one of them.
 

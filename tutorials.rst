@@ -152,7 +152,7 @@ Encourage and permit repetition
 
 Learners will return to and repeat an exercise that gives them success, for the pleasure they find in getting the expected result. Doing so reaffirms to them that they can do it, and that it works.
 
-Repetition is a key to establishing the feeling to doing; being at home with that feeling is a foundational layer of learning.
+Repetition is a key to establishing the feeling of doing; being at home with that feeling is a foundational layer of learning.
 
 ..  sidebar::
 
