@@ -3,19 +3,19 @@
 Tutorials
 =========
 
-..  rubric:: A tutorial is an **experience** that takes place under the guidance of a tutor. A tutorial is always **learning-oriented**. 
+..  rubric:: A tutorial is an **experience** that takes place under the guidance of a tutor. A tutorial is always **learning-oriented**.
 
 ===========
 
-A tutorial is a *practical activity*, in which the student learns by doing something meaningful, towards some achievable goal. 
+A tutorial is a *practical activity*, in which the student learns by doing something meaningful, towards some achievable goal.
 
-A tutorial serves the user's *acquisition* of skills and knowledge - their study. Its purpose is not to help the user get something done, but to help them learn. 
+A tutorial serves the user's *acquisition* of skills and knowledge - their study. Its purpose is not to help the user get something done, but to help them learn.
 
 ..  image:: /images/overview-tutorials.png
     :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
     :class: sidebar
 
-A tutorial in other words is a lesson. 
+A tutorial in other words is a lesson.
 
 It's important to understand that while a student will learn by doing, what the student *does* is not necessarily what they *learn*. Through doing, they will acquire theoretical knowledge (i.e. facts), understanding, familiarity. They will learn how things relate to each other and interact, and how to interact with them. They will learn the names of things, the use of tools, workflows, concepts, commands. And so on.
 
@@ -53,7 +53,7 @@ At the same time, the exercise you put your pupils through must be:
 The problem of tutorials
 ~~~~~~~~~~~~~~~~~~~~~~~~
 
-In general, tutorials are rarely done well, partly because they are genuinely difficult to do well, and partly because they are not well understood. In software, many products lack good tutorials, or lack tutorials completely; tutorials are often conflated with how-to guides.
+Tutorials are rarely done well, partly because they are genuinely difficult to do well, and partly because they are not well understood. In software, many products lack good tutorials, or lack tutorials completely; tutorials are often conflated with how-to guides.
 
 In an ideal lesson, the teacher is present and interacts with and responds to the student, correcting their mistakes and checking their learning. In documentation, none of this is possible.
 
@@ -63,7 +63,7 @@ In an ideal lesson, the teacher is present and interacts with and responds to th
 
 It's hard enough to put together a learning experience that meets all the standards described above; in many contexts the product itself evolves rapidly, meaning that all that work needs to be done again to ensure that the tutorial still performs its required functions.
 
-You will also often find that no other part of your documentation is subject to revisions the way your tutorials are. Elsewhere in documentation, changes and improvements can generally be made discretely; in tutorials, where the end-to-end learning journey must make sense, they often cascade through the entire story. 
+You will also often find that no other part of your documentation is subject to revisions the way your tutorials are. Elsewhere in documentation, changes and improvements can generally be made discretely; in tutorials, where the end-to-end learning journey must make sense, they often cascade through the entire story.
 
 Finally, tutorials contain the additional complication of the distinction between *what is to be learned* and *what is to be done*. Not only must the creator of a tutorial have a good sense of what the user must learn, and when, they must also devise a meaningful learning journey that somehow delivers all that.
 
@@ -73,7 +73,7 @@ Finally, tutorials contain the additional complication of the distinction betwee
 Key principles
 --------------
 
-A tutorial is a pedagogical problem. 
+A tutorial is a pedagogical problem.
 
 It's not an easy problem, but neither is it a mystery. The principles outlined below - repetition, action, small steps, results early and often, concreteness and so on - are not secrets, but they are not always well understood.
 
@@ -86,7 +86,7 @@ Still, there are straightforward, effective ways to address the problems of peda
     * choices
     * information
 
-The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give into it and try to teach by telling and explaining, you will jeopardise the learning experience. 
+The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give into it and try to teach by telling and explaining, you will jeopardise the learning experience.
 
 Instead, *allow learning to take place*, and trust that it will. Give your learner things to *do*, through which they can learn. Only your pupil can learn. Sadly, however much you desire it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can learn.
 
@@ -94,11 +94,11 @@ Instead, *allow learning to take place*, and trust that it will. Give your learn
 Show the learner where they'll be going
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-It's important to allow the learner to form an idea of what they will achieve right from the start. As well as helping to set expectations, it allows them to see themselves building towards the completed goal as they work. 
+It's important to allow the learner to form an idea of what they will achieve right from the start. As well as helping to set expectations, it allows them to see themselves building towards the completed goal as they work.
 
 Providing the picture the learner needs in a tutorial can be as simple as informing them at the outset: *In this tutorial we will create and deploy a scalable web application. Along the way we will encounter containerisation tools and services.*
 
-This is not the same as saying: *In this tutorial you will learn...* - which is presumptuous and a very poor pattern. 
+This is not the same as saying: *In this tutorial you will learn...* - which is presumptuous and a very poor pattern.
 
 
 Deliver visible results early and often
@@ -116,7 +116,7 @@ At every step of a tutorial, the user experiences a moment of anxiety: will this
 
 Keep up a narrative of expectations: "You will notice that ..."; "After a few moments, the server responds with ...". Show the user actual example output, or even the exact expected output.
 
-If you know know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
+If you know in advance what the likely signs of going wrong are, consider flagging them: "If the output doesn't show ..., you have probably forgotten to ...".
 
 It's helpful to prepare the user for possibly surprising actions: "The command will probably return several hundred lines of logs in your terminal."
 
@@ -134,7 +134,7 @@ Observing is an active part of a craft, not a merely passive one. It means payin
 Target *the feeling of doing*
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-In all skill or craft, the accomplished practitioner experiences a *feeling of doing*, a joined-up purpose, action, thinking and result. 
+In all skill or craft, the accomplished practitioner experiences a *feeling of doing*, a joined-up purpose, action, thinking and result.
 
 As skill develops, it flows in a confident rhythm and becomes a kind of pleasure. It's the pleasure of walking, for example.
 
@@ -142,7 +142,7 @@ As skill develops, it flows in a confident rhythm and becomes a kind of pleasure
 
     Pay attention to your own *feeling of doing* in your work. What is it like to perform a particular operation?
 
-Your learner's skill depends upon their discovering this feeling, and its becoming a pleasure. 
+Your learner's skill depends upon their discovering this feeling, and its becoming a pleasure.
 
 Your challenge as the creator of a tutorial is to ensure that its tasks tie together purpose and action so they become a cradle for this feeling.
 
@@ -150,7 +150,7 @@ Your challenge as the creator of a tutorial is to ensure that its tasks tie toge
 Encourage and permit repetition
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Learners will return to and repeat an exercise that gives them success, for the pleasure they find in getting the expected result. Doing so reaffirms to them that they can do it, and that it works. 
+Learners will return to and repeat an exercise that gives them success, for the pleasure they find in getting the expected result. Doing so reaffirms to them that they can do it, and that it works.
 
 Repetition is a key to establishing the feeling of doing; being at home with that feeling is a foundational layer of learning.
 
@@ -170,7 +170,7 @@ For example, it's quite enough to say something like: *We're using HTTPS because
 
 ..  sidebar::
 
-    Explanation is only pertinent at the moment the *user* wants it. It is not for the documentation author to decide. 
+    Explanation is only pertinent at the moment the *user* wants it. It is not for the documentation author to decide.
 
 Explanation is one of the hardest temptations for a teacher to resist; even experienced teachers find it difficult to accept that their students' learning does not depend on explanation. This is perfectly natural. Once we have grasped something, we rely on the power of abstraction to frame it to ourselves - and that's how we want to frame it to others. Understanding means grasping general ideas, and abstraction is the logical form of understanding - but these are not what we need in a tutorial, and it's not how successful learning or teaching works.
 
@@ -182,7 +182,7 @@ One must see it for oneself, to see the focused attention of a student dissolve 
 
 In a learning situation, your student is in the moment, a moment composed of concrete things. You are responsible for setting up and maintaining the student's flow, from one concrete action and result to another.
 
-Focus on *this* problem, *this* action, *this* result, in such a way that you lead the learner from step to concrete step. 
+Focus on *this* problem, *this* action, *this* result, in such a way that you lead the learner from step to concrete step.
 
 It might seem that by maintaining focus on the concrete and particular that you deny the student the opportunity to see or grasp the larger general patterns, but the contrary is true. The one thing our minds do spectacularly well is to perceive general patterns from concrete examples. All learning moves in one direction: from the concrete and particular, towards the general and abstract. The latter *will* emerge from the former.
 
@@ -198,13 +198,13 @@ Doing this helps keep your tutorial shorter and crisper, and saves both you and 
 Aspire to perfect reliability
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-All of the above are general principles of pedagogy, but there is a special burden on the creator of a tutorial. 
+All of the above are general principles of pedagogy, but there is a special burden on the creator of a tutorial.
 
 A tutorial must inspire confidence. Confidence can only be built up layer by layer, and is easily shaken. At every stage, when you ask your student to do something, they must see the result you promise. A learner who follows your directions and doesn't get the expected results will quickly lose confidence, in the tutorial, the tutor and themselves.
 
 ..  sidebar::
 
-    You are required to be present, but condemned to be absent. 
+    You are required to be present, but condemned to be absent.
 
 A teacher who's there with the learner can rescue them when things go wrong. In a tutorial, you can't do that. Your tutorial ought to be so well constructed that things *can't* go wrong, that your tutorial works for every user, every time.
 
@@ -219,7 +219,7 @@ The language of tutorials
 -------------------------
 
 We ...
-    The first-person plural affirms the relationship between tutor and learner: you are not alone; we are in this together. 
+    The first-person plural affirms the relationship between tutor and learner: you are not alone; we are in this together.
 In this tutorial, we will ...
     Describe what the learner will accomplish.
 First, do x. Now, do y. Now that you have done y, do z.
@@ -246,11 +246,11 @@ Someone who has had the experience of teaching a child to cook will understand w
 
 It really doesn't matter what the child makes, or how correctly they do it. The value of a lesson lies in what the child gains, not what they produce.
 
-Success in a cooking lesson with a child is not the culinary outcome, or whether the child can now repeat the processes on their own. Success is when the child acquires the knowledge and skills you were hoping to impart. 
+Success in a cooking lesson with a child is not the culinary outcome, or whether the child can now repeat the processes on their own. Success is when the child acquires the knowledge and skills you were hoping to impart.
 
-It's a crucial condition of this that the child discovers pleasure in the experience of being in the kitchen with you, and wants to return to it. Learning a skill is never a once and for all matter. Repetition is always required. 
+It's a crucial condition of this that the child discovers pleasure in the experience of being in the kitchen with you, and wants to return to it. Learning a skill is never a once and for all matter. Repetition is always required.
 
-Meanwhile, the cooking lesson might be framed around the idea of learning how to prepare a particular dish, but what we actually need the child to learn might be things like: *that we wash our hands before handling food*; *how to hold a knife*; *why the oil must be hot*; *what this utensil is called*, *how to time and measure things*. 
+Meanwhile, the cooking lesson might be framed around the idea of learning how to prepare a particular dish, but what we actually need the child to learn might be things like: *that we wash our hands before handling food*; *how to hold a knife*; *why the oil must be hot*; *what this utensil is called*, *how to time and measure things*.
 
 The child learns all this by working alongside you in the kitchen; in its own time, at its own pace, **through the activities** you do together, and not from the things you say or show.
 
