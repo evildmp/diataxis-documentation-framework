@@ -47,35 +47,35 @@ msgstr ""
 msgid "Reference and explanation"
 msgstr ""
 
-#: 7b4835fee97549b2a65f88381024aacb
+#: 271e260895a14887a16dd956eb2e43e4
 msgid ""
 "Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking "
 "about and creating documentation."
 msgstr ""
 
-#: 6dddd76b95ed4ca3bdd8b03ed2689cbf
+#: 4e0a4ac344d24a668a14055396357818
 msgid "documentation, four, kinds, architecture"
 msgstr ""
 
-#: bf49022af0764d6abdb00db879803970 b8ba0642af94450f96844bc8e084df90
+#: f683e4ec3b774a91b23e0c7f4741a239 cc3958401b0745dd9af15c197dfc14fe
 msgid "Diátaxis"
 msgstr ""
 
-#: 6b286da7d094452dbfaa2ae6a4a58d68
+#: b16cb0c091044727a0d968a33de2ee8b
 msgid "A systematic approach to technical documentation authoring."
 msgstr ""
 
-#: c32daa4003284e5990744c4a211d213e
+#: 82c52fb7558f4058908125dd29b34750
 msgid "Diátaxis is a way of thinking about and doing documentation."
 msgstr ""
 
-#: 0e1e7f4c819d44609238053d0174de8d
+#: 1976b7bff6b64269b79995e5c4b49b63
 msgid ""
 "It prescribes approaches to content, architecture and form that emerge from "
 "a systematic approach to understanding the needs of documentation users."
 msgstr ""
 
-#: 9e292286685148859eb963157035d244
+#: e065ca1e426f47d7995547dfb9949447
 msgid ""
 "Diátaxis identifies four distinct needs, and four corresponding forms of "
 "documentation - *tutorials*, *how-to guides*, *technical reference* and "
@@ -84,19 +84,19 @@ msgid ""
 " needs."
 msgstr ""
 
-#: db8145f12ff74f2f8dc36f40064e9678
+#: affd038c110749f88fcadb73e403666e
 msgid ""
 "*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and *taxis*"
 " (\"arrangement\")."
 msgstr ""
 
-#: 706a930748854e73b0743db140c3b9f8
+#: b66fb79da2424695afd56c3974071a4b
 msgid ""
 "Diátaxis solves problems related to documentation *content* (what to write),"
 " *style* (how to write it) and *architecture* (how to organise it)."
 msgstr ""
 
-#: f9346aa4f6ae4854b7b24094450da5d1
+#: 77002406941446e18c3b70c57eadc18e
 msgid ""
 "As well as serving the users of documentation, Diátaxis has value for "
 "documentation creators and maintainers. It is light-weight, easy to grasp "
@@ -105,43 +105,43 @@ msgid ""
 "maintainers think effectively about their own work."
 msgstr ""
 
-#: 9fb20dca92164c25a45d4210c72580d5
+#: 08cf12f3544048398187015935ba5f94
 msgid "Contents"
 msgstr ""
 
-#: 01ca81cbfafd4e4794f9a0b430d396c4
+#: 116c0820246440f48c1474d9e104cddc
 msgid ""
 "The best way to get started with Diátaxis is by applying it after reading a "
 "brief primer."
 msgstr ""
 
-#: 8f8f0bcc91a1482bb6abcdbd4a959206
+#: 1088de7d050745deb8e17480b3ea53ec
 msgid "These pages will help make immediate, concrete sense of the approach."
 msgstr ""
 
-#: 973b2f8ae6eb4428a66a4d722fb1c76d
+#: 03baf2cfc78c462882b72887fce2e443
 msgid ""
 "This section explores the theory and principles of Diátaxis more deeply, and"
 " sets forth the understanding of needs that underpin it."
 msgstr ""
 
-#: 427143bb42844197b2ac5362e7515771
+#: 39b17a67842448e98a10aed0dbe668c4
 msgid ""
 "Diátaxis is proven in practice. Its principles have been adopted "
 "successfully in hundreds of documentation projects."
 msgstr ""
 
-#: 51dd8e92c0784418b3a09c93a549a0f3
+#: 7ea798c8376c4920b80183fdae79c023
 msgid ""
 "Diátaxis has allowed us to build a high-quality set of internal "
 "documentation that our users love, and our contributors love adding to."
 msgstr ""
 
-#: d24288fc616e4071a6f3aec5b9d037eb
+#: ef5c3e9fe7f047748fd182bf877f7cff
 msgid "Greg Frileux, `Vonage <https://vonage.com/>`_"
 msgstr ""
 
-#: 5160245635dd4860b277aeb9bd461fae
+#: 4d6b3376921a46caabb8624eb91d38c5
 msgid ""
 "At Gatsby we recently reorganized our open-source documentation, and the "
 "Diátaxis framework was our go-to resource throughout the project. The four "
@@ -151,11 +151,11 @@ msgid ""
 "need when they need them."
 msgstr ""
 
-#: a5144877095042deb5464241f7c11a7e
+#: 6483956638ed4bf79d4d816e2ea6e721
 msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
 msgstr ""
 
-#: 954b885307a3430bb5d3a6e5320050c2
+#: 7453a7169a6541b9b63f579125fea572
 msgid ""
 "While redesigning the `Cloudflare developer docs "
 "<https://developers.cloudflare.com>`_, Diátaxis became our north star for "
@@ -164,6 +164,6 @@ msgid ""
 "than it's ever been, both for readers and contributors."
 msgstr ""
 
-#: c6839f5c39fa439b9cd50eb816d04523
+#: 77f1b03b2df942f39ad68a94db3acbc7
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
 msgstr ""

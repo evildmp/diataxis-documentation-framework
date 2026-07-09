@@ -17,26 +17,26 @@ msgstr ""
 "Language: pt\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../../_templates/page.html:14 3b04e9e3c39b4075ad0e6fc1d166a409
+#: 16674f6037d54a9aa18d3711a6d6e93c
 msgid "Next"
 msgstr ""
 
-#: ../../_templates/page.html:26 760ce1ca043e4c44ad53f333525348c1
+#: 1f899efb545d4a849059b1f81fd09a46
 msgid "Previous"
 msgstr ""
 
-#: ../../_templates/page.html:29 7ce529f931a84c73a26521fcbcf7479b
+#: 5ea484c8536e4796be1959533367b9cb
 msgid "Home"
 msgstr "Início"
 
-#: ../../_templates/page.html:42 e479a123456e418ca6423f96c36fe765
+#: 266be08170714aafb4597557f588e620
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
 msgstr ""
 
-#: ../../_templates/page.html:46 5fa48ec3ba2b4b03bdb1db1e96cc59bc
+#: 34f1e59eda7d41c39399616c5a25d2f1
 msgid "Copyright &#169; %(copyright)s"
 msgstr ""
 
-#: ../../_templates/page.html:55 fa1836a82bcf491da4f49bc0e990cf1d
+#: 6f89635dd3cd435fa6e6ad48f506b459
 msgid "Last updated on %(last_updated)s"
 msgstr ""

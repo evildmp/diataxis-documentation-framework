@@ -17,17 +17,17 @@ msgstr ""
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: fbe03483389d43c28a540595d773ad65
+#: adb8af5ca4b5437e99d48ce61dee91e8
 msgid "Diátaxis as a guide to work"
 msgstr ""
 
-#: 1165ecb08755487ca038bd8a073c34ba
+#: 86b1d5750d5f4afcba1e6c0376f51742
 msgid ""
 "As well as providing a guide to documentation content, Diátaxis is also a "
 "guide to documentation process and execution."
 msgstr ""
 
-#: f6fcabf3c85c41fea4f19f922888a5ae
+#: 2a7dc2807ac740f0b27796ee2880f7ea
 msgid ""
 "Most people who work on technical documentation must make decisions about "
 "how to work, as they work. In some contexts, documentation must be delivered"
@@ -38,7 +38,7 @@ msgid ""
 "remediating a body of work."
 msgstr ""
 
-#: 64847700f02740d6b64a7c86d54c22c7
+#: 0f4e7a45a1ad43dd834d74b106429c65
 msgid ""
 "Diátaxis provides an approach to work that runs counter to much of the "
 "accepted wisdom in documentation. In particular, it discourages planning and"
@@ -46,11 +46,11 @@ msgid ""
 "which overall patterns emerge."
 msgstr ""
 
-#: 5ea5ee5137224e528109b231b349b038
+#: 6b18b6544c36461c891efbfb45acf336
 msgid "Use Diátaxis as a guide, not a plan"
 msgstr ""
 
-#: 4ed5eedd07d5494ca58fa8232aa49a3e
+#: c5de4888ee4b42f88fd469f40f916af4
 msgid ""
 "Diátaxis describes a complete picture of documentation. However the "
 "structure it proposes is not intended to be a **plan**, something you must "
@@ -58,7 +58,7 @@ msgid ""
 "that you're in the right place and going in the right directions."
 msgstr ""
 
-#: e7108100190641a2944b787322e2fad5
+#: 402ba5c33a3c48379b137fdd7eb9ea10
 msgid ""
 "The point of Diátaxis is to give you a way to think about and understand "
 "your documentation, so that you can make better sense of what it's doing and"
@@ -66,17 +66,17 @@ msgid ""
 "identify where its problems lie, and judge what you can do to improve it."
 msgstr ""
 
-#: f27284e655924ef099bab3753dc528c7
+#: 2d1151a1e5b945619fe971eb2893aa9d
 msgid "Don't worry about structure"
 msgstr ""
 
-#: 3eab066518474f2bb50a8912cbe70dfd
+#: ea6ec681da854dc4a29ca2e1a15cd141
 msgid ""
 "Although structure is key to documentation, **using Diátaxis means not "
 "spending energy trying to get its structure correct**."
 msgstr ""
 
-#: 63971e2f3a8f4b7ba9b7a44b947cbef4
+#: eae1660cdb8b4a5cbb256bb24114d1b9
 msgid ""
 "If you continue to follow the prompts that Diátaxis provides, eventually "
 "your documentation will assume the Diátaxis structure - but it will have "
@@ -84,7 +84,7 @@ msgid ""
 "round, that the structure must be imposed upon documentation to improve it."
 msgstr ""
 
-#: 441704ff4f0641468258cdb9353ff752
+#: 2ef3c54dcf2f49c28596da1204cb9112
 msgid ""
 "Getting started with Diátaxis does not require you to think about dividing "
 "up your documentation into four sections. **It certainly does not mean that "
@@ -93,7 +93,7 @@ msgid ""
 "horrible."
 msgstr ""
 
-#: 4b35ce35a4014d39bb89e38a55b0b1a8
+#: 9ea084abd71d40489c7400ecc2319c52
 msgid ""
 "Instead, following the workflow described in the next two sections, make "
 "changes where you see opportunities for improvement according to Diátaxis "
@@ -104,18 +104,18 @@ msgid ""
 "your documentation from the inside**."
 msgstr ""
 
-#: 7da44633a26a481f835717201b0b2c32
+#: 3a2cfeebc0ba4dc5b88c68e9f68b3747
 msgid "Work one step at a time"
 msgstr ""
 
-#: 6b2088893039421e8170ca9c49d7c145
+#: b772a6e2f3334f9baf73ff43a597840c
 msgid ""
 "Diátaxis strongly prescribes a structure, but whatever the state of your "
 "existing documentation - even if it's a complete mess by any standards - "
 "it's always possible to improve it, **iteratively**."
 msgstr ""
 
-#: c4eb1d42ed7e481d8b5d67af448406f7
+#: 7c36e800993a4a19aaf4b95697bf1ae5
 msgid ""
 "It's natural to want to complete large tranches of work before you publish "
 "them, so that you have something substantial to show each time. Avoid this "
@@ -123,7 +123,7 @@ msgid ""
 "immediately."
 msgstr ""
 
-#: 1b693ab4103c46c79f74bb239d645f62
+#: 8758a5321a9442ec9a41d23e30cff07d
 msgid ""
 "Although Diátaxis is intended to provide a big picture of documentation, "
 "**don't try to work on the big picture**. It's both unnecessary and "
@@ -131,11 +131,11 @@ msgid ""
 "steps to arrive where you want to go."
 msgstr ""
 
-#: 8b5e4f696046437f8072d21e32166c04
+#: 131a5fe47822492c9dfd214529b49291
 msgid "Just do something"
 msgstr ""
 
-#: 9f102cfffe04458694637cb5e74cf568
+#: a4a5a525abbe4c91b921b2b020ae14c3
 msgid ""
 "If you're tidying up a huge mess, the temptation is to tear it all down and "
 "start again. Again, avoid it. As far as improving documentation in-line with"
@@ -143,7 +143,7 @@ msgid ""
 "the best way to apply Diátaxis is as follows:"
 msgstr ""
 
-#: e03818bb31e247529e1920ce356e9c37
+#: fb82a32c21f14a259b7ecf1c9f5a760d
 msgid ""
 "**Choose something** - any piece of the documentation. If you don’t already "
 "have something that you know you want to put right, don't go looking for "
@@ -152,7 +152,7 @@ msgid ""
 " If there isn’t one just choose something, literally at random."
 msgstr ""
 
-#: f2961801562c4acdb283f40b2f37a5c6
+#: 90b383784c614080b9169d5cf11c4b0a
 msgid ""
 "**Assess it**. Next consider this thing critically. Preferably it’s a small "
 "thing, nothing bigger than a page - or better, even smaller, a paragraph or "
@@ -162,24 +162,24 @@ msgid ""
 "its language and logic meet the requirements of this mode of documentation?*"
 msgstr ""
 
-#: 2a1854768e0c4ca888a8698e17ac9e19
+#: 9b86771791f44d55aa4e202cf0097ce1
 msgid ""
 "**Decide what to do**. Decide, based on your answers to those questions: "
 "*What single next action will produce an immediate improvement here?*"
 msgstr ""
 
-#: 062f6f06b0de427fb4dff83b4a1c156f
+#: 13999cf56d0148268a182fbade28a491
 msgid ""
 "**Do it**. Complete that next single action, *and consider it completed* - "
 "i.e. publish it, or at least commit the change. Don't feel that you need to "
 "do anything else to make a worthy improvement."
 msgstr ""
 
-#: ac3d1183280543e6b40020a16d981118
+#: 268e6e1bb39c4605959189ad1ecfa2d8
 msgid "And then go back to the beginning of the cycle."
 msgstr ""
 
-#: 30f859d45d4c4431817c766fb637f0fc
+#: 9cef7be3d9154d9abc1d1a43f49bd8ed
 msgid ""
 "Working like this helps reduce the stress of one of the most paralysing and "
 "troublesome aspects of the documentation-writer's work: working out what to "
@@ -187,22 +187,22 @@ msgid ""
 " end, without having to expend energies on a plan."
 msgstr ""
 
-#: beb9a93cc52e485b9807fe1562a6361b
+#: 3bef7bf3491c4347ad04daf923432e7c
 msgid "Allow your work to develop organically"
 msgstr ""
 
-#: e4a2021c1dc84323a7f7000c61d3d790
+#: 3d992da100d745249728fe53a9cbe0ba
 msgid ""
 "There's a strong urge to work in a cycle of planning and execution in order "
 "to work towards results. But it's not the only way, and there are often "
 "better ways when working with documentation."
 msgstr ""
 
-#: 528f79f4390b4648a00825007ecebb83
+#: 945250a6de89464ca214a1c283951def
 msgid "Well-formed organic growth"
 msgstr ""
 
-#: 88bf5b17bbf14be09e632e08aaf37ae3
+#: c86624e10e3d40aea5ac9f16f7b0671e
 msgid ""
 "A good model for documentation is **well-formed organic growth that adapts "
 "to external conditions**. Organic growth takes place at the cellular level. "
@@ -212,13 +212,13 @@ msgid ""
 "organism from above or outside. Good structure develops from within."
 msgstr ""
 
-#: e66371d2a97e40cdacfef14c5a858a18
+#: 8cded9e9878044efa74bef73050a90d2
 msgid ""
 "Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
 "reproduced with kind permission."
 msgstr ""
 
-#: 4938311a2edd40439562be6b9711d264
+#: cb6af9c24a10435c9247e10bd2c8cc58
 msgid ""
 "It's the same with documentation: by following the principles that Diátaxis "
 "provides, your documentation will attain a healthy structure, because its "
@@ -226,11 +226,11 @@ msgid ""
 "will have built itself up from the inside-out, one cell at a time."
 msgstr ""
 
-#: cf74eb831c8d4d65b66426a2a9156c04
+#: 700112f301ec451c9ef20d3c454242ab
 msgid "Complete, not finished"
 msgstr ""
 
-#: be1a888a3cf34f19bee3c11937d3653d
+#: c5c7f6bb260e4584a5d915e09e7a5986
 msgid ""
 "Consider a plant. As a living, growing organism, a plant is **never "
 "finished** - it can always develop further, move on to the next stage of "
@@ -240,14 +240,14 @@ msgid ""
 "stage of development."
 msgstr ""
 
-#: 56b8819314e24259a3d8c11520cefcc6
+#: 40b9576a59ec4faa8a574004efb3899e
 msgid ""
 "Similarly, documentation is also never finished, because it always has to "
 "keep adapting and changing to the product and to users' needs, and can "
 "always be developed and improved further."
 msgstr ""
 
-#: 0fd5122148f5428ebdd3385b84909b5a
+#: e1ad5ecae3524d17a3395ac045bb56b6
 msgid ""
 "However it can always be complete: useful to users, appropriate to its "
 "current stage of development, and in a healthy structural state and ready to"

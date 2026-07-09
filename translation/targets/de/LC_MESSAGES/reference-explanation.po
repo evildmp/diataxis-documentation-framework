@@ -17,18 +17,18 @@ msgstr ""
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: efbee22861da4d76a2af8dbfa8f07cc1
+#: fa78790502084fb2883653353d462bdb
 msgid "The difference between reference and explanation"
 msgstr ""
 
-#: 5bb89936685443809511b7b01b217ece
+#: 31183f50a39f4b42b58054665d09dd77
 msgid ""
 "Explanation and reference both belong to the *theory* half of the Diátaxis "
 "map - they don't contain steps to guide the reader, they contain theoretical"
 " knowledge."
 msgstr ""
 
-#: 577a5d80c45f47c5865d7f83223885d4
+#: f6149b7797a645b8bd528dee2a88e880
 msgid ""
 "The difference between them is - just as in the difference between tutorials"
 " and how-to guides - the difference between the *acquisition* of skill and "
@@ -36,18 +36,18 @@ msgid ""
 "between *study* and *work*."
 msgstr ""
 
-#: bd0c85bae1ff4802af7eca9d9025b06e
+#: ab0e3bba23d5424eb99e563172726ecd
 msgid "A straightforward distinction, *mostly*"
 msgstr ""
 
-#: 920448d84b9d447ca63d75d0074b885e
+#: b67ac36165e94536851a50c34d216918
 msgid ""
 "Mostly it's fairly straightforward to recognise whether you're dealing with "
 "one or the other. *Reference*, as a form of writing, is well understood; "
 "it's used in distinctions we make about writing from an early age."
 msgstr ""
 
-#: 789da9f2b6de45568767e1e6e825b54c
+#: 1da8dfedd1554323bb9c1ad325487930
 msgid ""
 "In addition, examples of writing are themselves often clearly one or the "
 "other. A tidal chart, with its tables of figures, is clearly reference "
@@ -55,46 +55,46 @@ msgid ""
 " is self-evidently explanation."
 msgstr ""
 
-#: da7b8f4399924c44a9992691daf0b75f
+#: 8f5b1c49b45b43afa3c6b5ead3b22ac1
 msgid "There are good rules of thumb:"
 msgstr ""
 
-#: b893fa59b34c4dfd90681e9902750fcc
+#: 245cd4d193c84bfea7998add3fdffa0c
 msgid "**If it's boring and unmemorable** it's probably *reference*."
 msgstr ""
 
-#: 2ca61e7f873b467290f5021da8df2adf
+#: 0e4c7ed2db474de0a2f64e20996293ce
 msgid ""
 "**Lists of things** (such as classes or methods or attributes), and **tables"
 " of information**, will generally turn out to belong in *reference*."
 msgstr ""
 
-#: 31c6fabf8b68439ea0bd7abd03d3642c
+#: 35c17447eae84f419a684397a5af6847
 msgid ""
 "On the other hand **if you can imagine reading something in the bath**, "
 "probably, it's *explanation* (even if really there is no accounting for what"
 " people might read in the bath)."
 msgstr ""
 
-#: 26967a68925b4e95be99f1bf69b81fa9
+#: 1376214dcdbc4604bd720a94f8ad32de
 msgid ""
 "Imagine asking a friend, while out for a walk or over a drink, **Can you "
 "tell me more about <topic>?** - the answer or discussion that follows is "
 "most likely going to be an *explanation* of it."
 msgstr ""
 
-#: b1e3ee1255be43b980382e89aa78619d
+#: 48444b768439439a9d5ad16039630306
 msgid "... but intuition isn't reliable enough"
 msgstr ""
 
-#: 7f162d05e3014f519532f9b96733b8ea
+#: 2da7b01507794773a648d48894034386
 msgid ""
 "Mostly we can rely safely on intuition to manage the distinction between "
 "reference and explanations. But only *mostly* - because it's also quite easy"
 " to slip between one form and the other."
 msgstr ""
 
-#: f2156b4d18d040d2bcbb7b8345641415
+#: 3b4eeeaa39cc49bb8c231e5271f70601
 msgid ""
 "It usually happens while writing reference material that starts to become "
 "expansive. For example, it's perfectly reasonable to include illustrative "
@@ -104,7 +104,7 @@ msgid ""
 "it came to be)."
 msgstr ""
 
-#: cebafe1e2c2a424dac1a3d80a1c48ad5
+#: 455e4a92633743f39959a0d5ba0f6616
 msgid ""
 "As a result one often finds explanatory material sprinkled into reference. "
 "This is bad for the reference, interrupted and obscured by digressions. But "
@@ -112,11 +112,11 @@ msgid ""
 "appropriately and do its own work."
 msgstr ""
 
-#: 666045d9f1ae4b03aa01dd70600cea55
+#: 5a5e54c3da164b68aaa17f274cab9016
 msgid "Work and study"
 msgstr ""
 
-#: 8c5cd5a179c846e380144a9f0ef25c0c
+#: 88e1c3b634d54ac2bb26b6850c6ef913
 msgid ""
 "The real test, though, if we're in doubt about whether something is supposed"
 " to be reference or explanation is: is this something someone would turn to "
@@ -125,30 +125,30 @@ msgid ""
 "work, and want to think about it?"
 msgstr ""
 
-#: 0a45dfa264be4d0c84a69e2d65850f16
+#: 2bd37322df3640abb2f4349c4ff00f3f
 msgid ""
 "These are two very fundamentally different *needs* of the reader, that "
 "reflect how, at that moment, the reader stands in relation to the craft in "
 "question, in a relationship of *work* or *study*."
 msgstr ""
 
-#: fd987298dbce4d22a0bcb395b7212824
+#: 448a7d7f54524d49ab14170b93e7b102
 msgid "To help avoid being misled by intuition, see :ref:`compass`."
 msgstr ""
 
-#: 654bc764e1b847d5b016361543a1dafd
+#: 5e6826cabe52466aa3634f12899eb3d3
 msgid ""
 "**Reference** is what a user needs in order help *apply* knowledge and "
 "skill, while they are working."
 msgstr ""
 
-#: 0e7ad2e990db4d2283018c7590e67acc
+#: 156dd9867291405a83c69277c70ae5c7
 msgid ""
 "**Explanation** is what someone will turn to to help them *acquire* "
 "knowledge and skill - \"study\"."
 msgstr ""
 
-#: 26b9344eec0d4f38828b78fcab6583c5
+#: a67dbf385b8e41ceab8d9f5294bb280c
 msgid ""
 "Understanding those two relationships and responding to the needs in them is"
 " the key to creating effective reference and explanation."

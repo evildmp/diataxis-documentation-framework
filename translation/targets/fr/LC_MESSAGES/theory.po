@@ -17,33 +17,33 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: 82f0870c1b8844168dabc18afc7c72fc
+#: eacde8b826074a408db779d830d696a2
 msgid "Understanding Diátaxis"
 msgstr ""
 
-#: d84703625f0440b88bdf07b846685e5a
+#: bff54daadb404b8790a6ec797feb634c
 msgid "The Grand Unified Theory of Documentation"
 msgstr "La Grande théorie unifiée de la documentation"
 
-#: ef0be2d78f0943468420adbf6a8fa0fb
+#: e79afee61fe4428a97c5983d6f7ff7b3
 msgid "David Laing"
 msgstr ""
 
-#: 48d9d66426c24b3891795ab62eddacbc
+#: cb5757079dce42459ad24985f5267357
 msgid ""
 "The pages in this section are intended to provide some theoretical grounding"
 " for the practices Diátaxis prescribes, and to explore some of the questions"
 " it raises."
 msgstr ""
 
-#: f9a463f555f94072bc34b7c5f0a96f99
+#: f6b75ae5e747432fb96ef28148aba51c
 msgid ""
 "Within the discipline of documentation, discourse tends towards the "
 "practical and concrete. The approach is generally heuristic: guidelines, "
 "rules of thumb, specific imperatives, principles that we know work."
 msgstr ""
 
-#: 8582a42e443c4a93a1bd1393a3986922
+#: f237d6aab8104003bda2525bc36a52e0
 msgid ""
 "As practitioners, we have much to say about what to do, and how to do it and"
 " how it works, and relatively little to say about *why* it works. Our sense "
@@ -52,40 +52,40 @@ msgid ""
 "attention."
 msgstr ""
 
-#: e1d05c4345a84fedb71bc121c214602c
+#: 6b5d2e800cab4a20aa0e6d434d5d089f
 msgid ""
 "Diátaxis aims to place documentation practice on a more rigorous theoretical"
 " footing."
 msgstr ""
 
-#: 95aadc488b854b149e1aecf9dfb8671b
+#: a25a80e892ef4a62993c4289b25670d2
 msgid "In this section"
 msgstr ""
 
-#: 2fdf8093fa37473c82df6dbf11a8edd4
+#: 1faf203ee256435b8f843ad4614aee57
 msgid "These pages dig deeper into the thinking that underpins Diátaxis."
 msgstr ""
 
-#: fa7750cccf194a819357bfe00acc8b2e
+#: 546834c679b34f3fb47aeba3c3b0fc1a
 msgid ":doc:`foundations` - *why* Diátaxis works"
 msgstr ""
 
-#: edaf362144704ecd9ab38c0a2ad64d07
+#: 2d8ca9422dbe414ca9b8c80fc99417e2
 msgid ":doc:`map` - documentation in two dimensions"
 msgstr ""
 
-#: 12fe6f096e0144ec88fe6a1bf6cc6e40
+#: a82b0a0ff01b423fa09bb9793c15db14
 msgid ":doc:`quality`"
 msgstr ""
 
-#: b79ef05625ab438d9d3763d97ddf0e51
+#: a512f428ca8a4f07b724ac6d672c55cf
 msgid "Common problems explored:"
 msgstr ""
 
-#: 8adc5fd541af4ae393f9d174829e1214
+#: 26f102a0f62c4f5ebb4e34d3f70c2fc8
 msgid ":doc:`tutorials-how-to`"
 msgstr ""
 
-#: 7933d61ba3c0424a884ed3670e0a92c0
+#: 999bfcb22f79438ead0715fd7f58dc55
 msgid ":doc:`reference-explanation`"
 msgstr ""

@@ -10,6 +10,7 @@ SPELLINGDIR   = $(BUILDDIR)/spelling
 TRANSLATIONSDIR = translation
 TRANSLATIONSOURCEDIR = $(TRANSLATIONSDIR)/source
 TRANSLATIONTARGETSDIR = $(TRANSLATIONSDIR)/targets
+TRANSLATIONLANGUAGES = fr pt de
 
 VENV = env/bin/activate
 PORT = 8090
@@ -54,9 +55,12 @@ html-all: html html-fr html-pt
 gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
 
-copy-pot-files: gettext
+copy-pot-files:
 	mkdir -p $(TRANSLATIONSOURCEDIR)
 	cp $(GETTEXTDIR)/*.pot $(TRANSLATIONSOURCEDIR)/
+
+update-po-files:
+	. $(VENV); sphinx-intl update -p $(TRANSLATIONSOURCEDIR) -d $(TRANSLATIONTARGETSDIR) $(foreach lang,$(TRANSLATIONLANGUAGES),-l $(lang))
 
 spelling:
 	. $(VENV); $(SPHINXBUILD) -b spelling $(ALLSPHINXOPTS) $(SOURCEDIR) $(SPELLINGDIR)
@@ -67,7 +71,7 @@ spelling:
 quickstart:
 	. $(VENV); sphinx-quickstart
 
-.PHONY: help install clean run html html-fr html-pt html-all gettext copy-pot-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-pt html-all gettext copy-pot-files update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

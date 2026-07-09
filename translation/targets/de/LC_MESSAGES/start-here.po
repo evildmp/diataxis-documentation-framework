@@ -17,23 +17,23 @@ msgstr ""
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: 1af26dcf5edd4633ad4a6bd7d39c42df
+#: 8c5095d0878844dcbfbae8db0b2a5fd7
 msgid ""
 "The best way to get started with Diátaxis is by applying it to documentation"
 " problems."
 msgstr ""
 
-#: d1a5c859d6e64c9598c4b8e8e7cb5de2
+#: c32b9c1d44d842a6bb8d46ee53caa1d1
 msgid "Start here - Diátaxis in five minutes"
 msgstr ""
 
-#: 82849d38fe9b42afb3a2b309433bce79
+#: c8ed4d28160c4af695e6d61222b7b0ab
 msgid ""
 "Treat this website as a handbook or a toolbox that you make use of when you "
 "need it."
 msgstr ""
 
-#: e6f385a23f994b68bf5bdaeeb684d36e
+#: 108555591bed4b4eb2002908ee008fa3
 msgid ""
 "You don't need to read everything on this website to make sense of Diátaxis,"
 " or to start using it in practice. In fact I recommend that you don't. **The"
@@ -41,18 +41,18 @@ msgid ""
 "however small."
 msgstr ""
 
-#: cf31b1c5c26b434490f9904f512c6feb
+#: 323ba46655fa4ee197cf79cd7bc0dfb6
 msgid ""
 "Read this page for a brief primer. Each section contains links to more in-"
 "depth material; refer to that when you need it - when you're actually at "
 "work, or reflecting on the documentation problems you have encountered."
 msgstr ""
 
-#: 76acb671b53545d0b55ba568d8a6c5e4
+#: 7ad2b56d69db42858d5f1ca2d21f6940
 msgid "The four kinds of documentation"
 msgstr ""
 
-#: 476509a37507458296cd9ad735e8711c
+#: 369aada21d2e4054b2a757d9197c0618
 msgid ""
 "The core idea of Diátaxis is that there are fundamentally four identifiable "
 "kinds of documentation, that respond to four different needs. The four kinds"
@@ -60,21 +60,21 @@ msgid ""
 "a different purpose, and needs to be written in a different way."
 msgstr ""
 
-#: c1961caf0bf34adc9cddd0182bab6ff4
+#: 534a465ce04246f5a7cab92657b028df
 msgid "Tutorials"
 msgstr ""
 
-#: e7770b00aeb1493b9a426d6f653cbd5f
+#: 52d963736b564bb4ad4c33625c9eb018
 msgid ":ref:`Tutorials in more detail <tutorials>`"
 msgstr ""
 
-#: b5a3f0a7c48c4228b8ec9bd499ab8e23
+#: c9e53ea09f984131bc354b3f2e9d1756
 msgid ""
 ":ref:`Why tutorials are completely different from how-to guides <tutorials-"
 "how-to>`"
 msgstr ""
 
-#: 83203167cca34db8955bd90db5db8b20
+#: 7cf0088e9438425f8f454f395b271c7c
 msgid ""
 "**A tutorial is a lesson**, that takes a student by the hand through a "
 "learning experience. A tutorial is always *practical*: the user *does* "
@@ -83,20 +83,20 @@ msgid ""
 "instructor is responsible for the learner's safety and success."
 msgstr ""
 
-#: 478ef9bb3af6475e808ddc98be6aa4bf
+#: c0067aaf3e524feab93434a160de5b4d
 msgid ""
 "A driving lesson is a good example of a tutorial. The purpose of the lesson "
 "is to develop skills and confidence in the student, not to get from A to B. "
 "A software example could be: *Let's create a simple game in Python*."
 msgstr ""
 
-#: bbbb61e421de4410ac0e02e80abc593c
+#: 7e6eab9b010840d3a801fc255250d0c6
 msgid ""
 "*The user will learn through what they do* - not because someone has tried "
 "to teach them."
 msgstr ""
 
-#: c0af145dd56e4ad88506489dfdc48cf4
+#: c7f1ff94f0544f6ab989d5636cbb9843
 msgid ""
 "In documentation, the special difficulty is that the instructor is condemned"
 " to be absent, and is not there to monitor the learner and correct their "
@@ -104,43 +104,43 @@ msgid ""
 "written instruction alone."
 msgstr ""
 
-#: 2a793e7adf5246ceb2ace138e5862cc8
+#: 0a5d4bb6852248b29475ab0a5cc21312
 msgid "How-to guides"
 msgstr ""
 
-#: f3830b9360c5414899a1ad9e907986d4
+#: b7f600e4e5344783a5a5eb726e133ec0
 msgid ":ref:`How-to guides in more detail <how-to>`"
 msgstr ""
 
-#: e3fd57a6649240159c849bdf06cbd90c
+#: 884e3d7c78e848fa91c54d7eb6d356b6
 msgid ""
 "**A how-to guide addresses a real-world goal or problem**, by providing "
 "practical directions to help the user who is in that situation."
 msgstr ""
 
-#: 869a18f166f640afb2962d716249ece1
+#: a4d83636c1ab406bb0699b599d33b136
 msgid ""
 "A how-to guide always addresses an already-competent user, who is expected "
 "to be able to use the guide to help them get their work done. In contrast to"
 " a tutorial, a how-to guide is concerned with *work* rather than *study*."
 msgstr ""
 
-#: e5d4c44732c14cbf9296797722dd0edf
+#: 6a9263f7179f48b7a0c7a7e1cd8b809a
 msgid ""
 "A how-to guide might be: *How to store cellulose nitrate film* (in motion "
 "picture photography) or *How to configure frame profiling* (in software). Or"
 " even: *Troubleshooting deployment problems*."
 msgstr ""
 
-#: a7a7011cdbe04cf7bb91052f17307e33
+#: 9b3d7363b2414ca2ab45f611308feb94
 msgid "Reference"
 msgstr ""
 
-#: ad2d135a002e470aad3eede3db172ef3
+#: 89bf413487454ec3aa64b5cd317bf9bc
 msgid ":ref:`Reference in more detail <reference>`"
 msgstr ""
 
-#: c3b2984e90f848c4bca9b4ee1a136f9a
+#: fd095dc555254b4c9470384d4dd65e57
 msgid ""
 "**Reference guides contain the technical description** - facts - that a user"
 " needs in order to do things correctly: accurate, complete, reliable "
@@ -148,21 +148,21 @@ msgid ""
 "*propositional or theoretical knowledge*, not guides to action."
 msgstr ""
 
-#: e954f94736fa4244b9de38de0b07370d
+#: ce813a9c134641df9e00c1c51c6b54af
 msgid ""
 "Like a how-to guide, reference documentation serves the user who is at "
 "*work*, and it's up to the user to be sufficiently competent to interpret "
 "and use it correctly."
 msgstr ""
 
-#: f1aa2461b0da47878497677cfdd72cd2
+#: b22157058df349ceaf7f29ead66f89b9
 msgid ""
 "*Reference material is neutral.* It is not concerned with what the user is "
 "doing. A marine chart could be used by a ship's navigator to plot a course, "
 "but equally well by a prosecuting magistrate in a legal case."
 msgstr ""
 
-#: 9aff82b2ce154465a6861950bffb40a0
+#: 63bc5886793d4796b3cd6f808ae62ac2
 msgid ""
 "Where possible, the architecture of reference documentation should reflect "
 "the structure or architecture of the thing it's describing - just like a map"
@@ -170,41 +170,41 @@ msgid ""
 " we should expect to see the same relationship in the documentation too."
 msgstr ""
 
-#: 9edb9de666fe4065856d8e2dbebee14f
+#: ef2b5644f1cd4bf8bcac5f6adee1cf3f
 msgid "Explanation"
 msgstr ""
 
-#: 7f09e0a585a94f4f81e9d3dc2556fdd5
+#: 1a7190dff43f43f7a7e0ae5e451e811c
 msgid ":ref:`Explanation in more detail <explanation>`"
 msgstr ""
 
-#: c60e3f6571704eb88b18420f5e36a6fe
+#: 0992c868e0684987ac046a2504df8422
 msgid ""
 ":ref:`Understanding the difference between reference and explanation "
 "<reference-explanation>`"
 msgstr ""
 
-#: 03316c5bae854fdc9f1638e9282bb22a
+#: aa7943f04b554e2582a713db1981b214
 msgid ""
 "**Explanatory guides provide context and background.** They serve the need "
 "to understand and put things in a bigger picture. Explanation joins things "
 "together, and helps answer the question *why?*"
 msgstr ""
 
-#: 23fe8b38d321450d878d1d18b3ed1efe
+#: 853008c5c8184493b12e098091f40970
 msgid ""
 "Explanation often needs to circle around its subject, and approach it from "
 "different directions. It can contain opinions and take perspectives."
 msgstr ""
 
-#: ce7fb9724519482b8988fbb2f082936f
+#: d35d0a58eabb45438cc28986d352ba14
 msgid ""
 "Like reference, explanation belongs to the realm of propositional knowledge "
 "rather than action. However its purpose is to serve the user's study - as "
 "tutorials do - and not their work."
 msgstr ""
 
-#: f953cf22b9224a228ead4ff6db6f2486
+#: fd7f8c2e1ae543cbadccb79a75b5a23e
 msgid ""
 "Often, writers of tutorials who are anxious that their students should "
 "*know* things overload their tutorials with distracting and unhelpful "
@@ -214,195 +214,195 @@ msgid ""
 "for when the user is ready for it."
 msgstr ""
 
-#: ca15176a6c7e4de89c3cc0e0fa2efd3d
+#: 8b112872a37c4721b095a641413e72a4
 msgid "The Diátaxis map"
 msgstr ""
 
-#: ad20647a0fa04209b0c1fcbeee434f1b
+#: da6c97decd1247fa82cc08d0c60f7a5d
 msgid ""
 "The four kinds of documentation and the relationships between them can be "
 "summarised in the Diátaxis map."
 msgstr ""
 
-#: d3de42b3dda7472b89d62b2f8a95b759
+#: e94dd0fa81124780ab3fd0e92354b16a
 msgid ":ref:`The map in more detail <map>`"
 msgstr ""
 
-#: 37f303b7fc8340b8b388b09dbb689de1
+#: 341d8044e2ce4de6ba58211be7289d86
 msgid ""
 "Diátaxis is not just a list of four different things, but a conceptual "
 "arrangement of them. It shows how the four kinds of documentation are "
 "related to each other, and distinct from each other."
 msgstr ""
 
-#: 63095868d9594132b03c2e9dad895478
+#: f2d53abb0c9744e4af435448dbd38086
 msgid ""
 "Crossing or blurring the boundaries described in the map is at the heart of "
 "a vast number of problems in documentation."
 msgstr ""
 
-#: d8488cb2e95a4e4e854a152968df1449
+#: 1e6601becb214514a620e2bc17bc6eb7
 msgid "Diátaxis"
 msgstr ""
 
-#: 2d5621b7800c4fd281e69a3e6d81513d
+#: e51f9f5cd6c64e0788700ab4ae682d5b
 msgid "The Diátaxis compass"
 msgstr ""
 
-#: 3bcf4ec30d4b4dbf85e997c9f4eacb62
+#: 456a0f650df34303baba3c4777ac6da9
 msgid "As you can see from the map:"
 msgstr ""
 
-#: eaa3fc20792e40b786b438e548c56dbc
+#: 89afeff409614010aa753ff535ab134a
 msgid ""
 "tutorials and how-to guides are concerned with what the user *does* "
 "(**action**)"
 msgstr ""
 
-#: e0f6cac6b530469cb534874382603410
+#: 17f8896d4679486ba26bf0458c49aae1
 msgid ""
 "reference and explanation are about what the user *knows* (**cognition**)"
 msgstr ""
 
-#: 40c7242a696a4d80878a732ba864d2dd
+#: 9ff717f99ecb4a5fa30c401f0ee9db37
 msgid "On the other hand:"
 msgstr ""
 
-#: f5d4509319e049b7b47e006e7d49f2c5
+#: f044d418269e473eabe4e2ed4fa04434
 msgid ""
 "tutorials and explanation serve the *acquistion* of skill (the user's "
 "**study**)"
 msgstr ""
 
-#: c4af3f7a2bcf4a61835f4295cdcad3ad
+#: fa5429ab0b75498d8e675d2657183898
 msgid ""
 "how-to guides and reference serve the *application* of skill (the user's "
 "**work**)"
 msgstr ""
 
-#: c6c7a57b8aef41fea4ccac1e41d04e97
+#: 005ca9173abd41e58c30e935093455b1
 msgid ""
 "But a map doesn't tell you what to *do* - it's reference. To guide your "
 "action you need a different sort of tool, in this case, a kind of Diátaxis "
 "compass."
 msgstr ""
 
-#: 103997df81a144949852f74b22b2a84b
+#: 66ab5156159f448b952ff25674db7b49
 msgid ":ref:`The compass in more detail <compass>`"
 msgstr ""
 
-#: a41733c3019243caad062b3a9b7e6e9c
+#: a4d0de4518854d1caabeccd6f21f51b6
 msgid "The compass is useful in two different ways."
 msgstr ""
 
-#: 5f509ff9c78a4628bc22f0b7834442f3
+#: 3698b3aeff784cb583bc3bf25ad97e95
 msgid ""
 "When creating documentation, it helps clarify your own intentions, and helps"
 " make sure you're actually doing what you think you're doing."
 msgstr ""
 
-#: 35efcaa7429a4fc4acfa530e78e67847
+#: 5854b26cb6a9471e9b22605de25afcf7
 msgid ""
 "When looking at documentation, it helps understand what's going on in it, "
 "and makes problems stand out."
 msgstr ""
 
-#: 8662a8a650ec483cbd7a2716a7693048
+#: affb58055de748aea1682c008f9a2c6b
 msgid ""
 "The compass is not nearly as eye-catching as the map, but when you're at "
 "work puzzling over a documentation problem it's what will help you move "
 "forward."
 msgstr ""
 
-#: efbcfe7e45b04508bcac5ec19f39c521
+#: dd4bdce7bb6743cd99a1ecae1eabc74d
 msgid "If the content..."
 msgstr ""
 
-#: adc7a18aab9442fcb60917ed41676977
+#: 021d1e3adfa647699e1815c46889cdc8
 msgid "...and serves the user's..."
 msgstr ""
 
-#: 55f6f12be17b4272855c8df33a0baf9c
+#: a69a7da4c6854240b047fe6ddb752914
 msgid "...then it must belong to..."
 msgstr ""
 
-#: 3ef4bad33a4b492195d6138144f7c3e5 cf827294023f45499c2407a70b98f81a
+#: bb77ea426975437096de94c7accb6718 0851fe198b684b78aa3dca998645942a
 msgid "informs action"
 msgstr ""
 
-#: f0a951fd09354ba79a2f3a20a2b9329c 53fcc7d755a54952bbb6187c63e113d7
+#: 98026364860f442bb1b9b2a48fb3d7ff bc6d50d3d1674a7d905ff98ca43f715d
 msgid "acquisition of skill"
 msgstr ""
 
-#: be073cd5eb5d4b17953cfcdbe95d935b
+#: 03d26008e5b74dcfbc06a909c2c5a1ff
 msgid "a tutorial"
 msgstr ""
 
-#: b03b968145c64b2091ba6a9ef613ead2 6114a67d60e243eeaecc6f4478f87a4f
+#: 9ee9738a6e024a50896df916276c0741 92ae10ddc01a443b91a4f902274d2385
 msgid "application of skill"
 msgstr ""
 
-#: 38afa9fa8f76450a922a1c3398bc47e1
+#: cfdc2c8299104c0b89c6271357069fdb
 msgid "a how-to guide"
 msgstr ""
 
-#: 77129dd0f2e64c5c9960eb27d74d074e 3372da3dce48478496e7c14df1ced8b7
+#: c105ae3fd6f44dafa617e89135b1d0bd 83f6bc319ff64a3b8ebf541cba5302cb
 msgid "informs cognition"
 msgstr ""
 
-#: 874d5483d01a4f05b0b2ec05e23aff1e
+#: a46f36155a024c7a9eb67cb30733f62c
 msgid "reference"
 msgstr ""
 
-#: a7d096dfdd3d4faaa15b394c171f2582
+#: 4fd3991eaeeb4fd6b2a231fb09057cf7
 msgid "explanation"
 msgstr ""
 
-#: 11f04e3e87834f4ab4bbd247abc61554
+#: 7bb0cd7eceee4703912750c8d075d898
 msgid "Working"
 msgstr ""
 
-#: 0675f22583ed4883b74f0f4c9579cfba
+#: 6bfae7e6ef4b43d5ba77dcd25d428f9f
 msgid "There is a very simple workflow for Diátaxis."
 msgstr ""
 
-#: 84b202e6a25d453f87d012a6b0824bb2
+#: 22c303df579b453595aece76571a52e6
 msgid ":ref:`how-to-use-diataxis`"
 msgstr ""
 
-#: 434e18e7c6fc4cbbb8edfd5b91bdb1f8
+#: a2844f1ca2ea4646b5a9b0472f7d7d69
 msgid ""
 "Consider what you see in the documentation, in front of you right now (which"
 " might be literally nothing, if you haven't started yet)."
 msgstr ""
 
-#: ebaf3a42bcfa4a3db6927981fd2563af
+#: 434dac0e49854e8d824aac2efa0d7657
 msgid "Ask: *is there any way in which it could be improved?*"
 msgstr ""
 
-#: ac72402c94de4d84aee4960d3c8c224c
+#: 0eafafa8e0fa47508758b58200bd8d36
 msgid ""
 "Decide on *one* thing you could do to it right now, however small, that "
 "would improve it."
 msgstr ""
 
-#: 2f7bf9e7c1c94623bdfca71c38286bfa
+#: eafc3b25dda8468a97b1124921aba49f
 msgid "Do that thing."
 msgstr ""
 
-#: 7f2bc19599484cb1b0d75a0910082157
+#: b658bbe3b3304b2aafceac1be3c499b2
 msgid "And then repeat."
 msgstr ""
 
-#: 818391d55d06478188b1b9cc42cb377b
+#: 7d819d257b5b4463b11c6b66f7b2b801
 msgid "That's it."
 msgstr ""
 
-#: f70dc30ceeb843d3b34bd2258306ad6a
+#: 2c725288a00244df8b4053c063e7481d
 msgid "Do what you like"
 msgstr ""
 
-#: 8bc687b4fd5649abbe6f1b1997f15f3f
+#: 07a465b02a2247679c53a01373d63ff7
 msgid ""
 "You can do what you like with Diátaxis. You don't have to believe in it and "
 "there is no exam. It is a wholly pragmatic approach. I think it's *true*, "
@@ -411,14 +411,14 @@ msgid ""
 "worthwhile, help yourself to that."
 msgstr ""
 
-#: 11b5a4353043425bb5984d85e510ccb5
+#: 5fdb54cab7c149b0b34dae7f41fd98cf
 msgid ""
 "There is an extensively elaborated theory around Diátaxis, but you don't "
 "need to subscribe to it, or even read about it. Diátaxis doesn't require a "
 "commitment to pursue it to a final end."
 msgstr ""
 
-#: 2c3bdba61c164a55af548143370dc2f5
+#: f1ab45946b26419492910f47369f3194
 msgid ""
 "You can do just one thing, right now, and even if you do nothing else ever "
 "after, you will at least have made that one improvement. (In practice what "
@@ -426,17 +426,17 @@ msgid ""
 "thing to do - you only need to keep doing them.)"
 msgstr ""
 
-#: 755ed747a56145c4a3a8f501a29362f4
+#: dda81b36e1314557b4aebd68605d8dbb
 msgid "Get started"
 msgstr ""
 
-#: 8e0a68680ad24bb0be637f13d37f16f1
+#: 0c99d0c6fb384621b665e52f6f414997
 msgid ""
 "At this point, you have read everything you need to get started with "
 "Diátaxis."
 msgstr ""
 
-#: abc2deb9f16440f59eb93b677d2baaf5
+#: d2e23024803d492c8fbfcbd1f38a222a
 msgid ""
 "You can read more if you want, and eventually you probably should, but *you "
 "will get the most value from the guidance in this website when you turn to "

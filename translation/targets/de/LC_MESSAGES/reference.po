@@ -1,278 +1,295 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis\n"
+"Project-Id-Version:  Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: German (https://app.transifex.com/danieleprocida/teams/120528/de/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: de\n"
+"Language-Team: German "
+"(https://app.transifex.com/danieleprocida/teams/120528/de/)\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
-#: cf439445e5ad4ce3a5e4ca030c832ca6
+#: 2fc73a00ec824d6488f4aa47d93ae851
 msgid "Reference"
 msgstr ""
 
-#: 7884478c3cf4449c88a184324eea54bb
+#: df25538b430b4af8b2cefe57dac5e4a2
 msgid ""
-"Reference guides are **technical descriptions** of the machinery and how to "
-"operate it. Reference material is **information-oriented**."
+"Reference guides are **technical descriptions** of the machinery and how "
+"to operate it. Reference material is **information-oriented**."
 msgstr ""
 
-#: 29867b10708240f6a968623a0966be94
+#: 7ecdc11ee9ab455e9b2e4efaff61e3f0
 msgid ""
-"Reference material contains *propositional or theoretical* knowledge that a "
-"user looks to in their *work*."
+"Reference material contains *propositional or theoretical* knowledge that"
+" a user looks to in their *work*."
 msgstr ""
 
-#: 9a6181a057de40e9b08c32c3474b9b08
+#: 9989dfe60d4f4673813c1c3b1e7c28ed
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
-"possible, and in an orderly way. Whereas the content of tutorials and how-to"
-" guides are led by needs of the user, reference material is led by the "
-"product it describes."
+"possible, and in an orderly way. Whereas the content of tutorials and "
+"how-to guides are led by needs of the user, reference material is led by "
+"the product it describes."
 msgstr ""
 
-#: 6e35088dc57647ae9c1090e6e823c8d4
+#: 1a35dff5b2c649ee84833eb1f494dc98
 msgid ""
 "Reference - information oriented, theoretical knowledge, that serves our "
 "work"
 msgstr ""
 
-#: 2a467714b14f4f4f9e64f037ac6e5a17
+#: ce63c07c2b3a45aabb5328976da3186d
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
 msgstr ""
 
-#: 31411a00714a4ade877e15dbe2c57929
+#: 7b17396051854b70a5e1278493667895
 msgid ""
-"Your users need reference material because they need truth and certainty - "
-"firm platforms on which to stand while they work. Good technical reference "
-"is essential to provide users with the confidence to do their work."
+"Your users need reference material because they need truth and certainty "
+"- firm platforms on which to stand while they work. Good technical "
+"reference is essential to provide users with the confidence to do their "
+"work."
 msgstr ""
 
-#: 438c8119604647d89ec0e47e9ba35e52
+#: c3b3a88989394f059d7ce0a1219321d9
 msgid "Reference as description"
 msgstr ""
 
-#: e90c7273b76a40beae24c18213e17f69
+#: 8d60a269fe98415198f92e64beb945f7
 msgid ""
-"Reference material describes the machinery. It should be **austere**. One "
-"hardly *reads* reference material; one *consults* it."
+"Reference material describes the machinery. It should be **austere**. One"
+" hardly *reads* reference material; one *consults* it."
 msgstr ""
 
-#: 42228309ae99425db9fc5d65693d5622
+#: 4837ab60fae34ee983633c0fcbbd1b99
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
 msgstr ""
 
-#: a6571514df4d40e68c24ab538597d8a7
+#: 65c1f1af7b164e0099c75d4027700d4b
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
-"about the territory, without having to go out and check the territory for "
-"yourself; a reference guide serves the same purpose for the product and its "
-"internal machinery."
+"about the territory, without having to go out and check the territory for"
+" yourself; a reference guide serves the same purpose for the product and "
+"its internal machinery."
 msgstr ""
 
-#: c09db27bc9e74521ae9e15c4956f3ad3
+#: 0df476c47f19424fae8476b1d05464d2
 msgid ""
-"Although reference should not attempt to show how to perform tasks, it can "
-"and often needs to include a description of how something works or the "
-"correct way to use it."
+"Although reference should not attempt to show how to perform tasks, it "
+"can and often needs to include a description of how something works or "
+"the correct way to use it."
 msgstr ""
 
-#: 99492844283b43b5b3548c17f6673cca
+#: 509b2cf899e14d38b67d6db1527f9c4d
 msgid ""
 "Unfortunately, too many software developers think that auto-generated "
 "reference material is all the documentation required."
 msgstr ""
 
-#: becfdd68f1e14f7eb898286d837c25cc
+#: 045aa3fb33cf43a0974710663108adea
 msgid ""
 "Some reference material (such as API documentation) can be generated "
 "automatically by the software it describes, which is a powerful way of "
 "ensuring that it remains faithfully accurate to the code."
 msgstr ""
 
-#: 5b971a12d0db4badae6f04eee2b9dd2f
+#: 7d3fefd3ecfb4ec8a88a0f19c79c08cb
 msgid "Key principles"
 msgstr ""
 
-#: bc61478a2cfb4b24953e1ce313c2fc53
+#: 7afd5c3fa4704778abc1e626e50a8b87
 msgid "Describe and only describe"
 msgstr ""
 
-#: 87bcff2e68204fcbacd14f7c87cd2a91
+#: 1ff7e164bcb94c9a85067d4da8567a52
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr ""
 
-#: d0e5ce1028244be0b1624a283911e1bb
+#: 5a7105a6bb2b403d9ea8e7b1abd5ad45
 msgid "austere and uncompromising"
 msgstr ""
 
-#: 1137161b6bb4484f9aaa6b99b2c5a77e
+#: c3939c67147f4fd5b2499aef76b930d3
 msgid "neutrality, objectivity, factuality"
 msgstr ""
 
-#: 42b60ddc1c4c451c95dbed8eb9fe401d
+#: 305e5575f6d14807998044b9ca896a9b
 msgid "structured according to the structure of the machinery itself"
 msgstr ""
 
-#: c822911ab09c4d9c9fadb1152bf1440b
+#: 8407c274faef4e8a8b3773013c6a5b1f
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
-"neutrally. It's not a natural way of communicating. What's natural on the "
-"other hand is to explain, instruct, discuss, opine, and all these things run"
-" counter to the needs of technical reference, which instead demands "
+"neutrally. It's not a natural way of communicating. What's natural on the"
+" other hand is to explain, instruct, discuss, opine, and all these things"
+" run counter to the needs of technical reference, which instead demands "
 "accuracy, precision, completeness and clarity."
 msgstr ""
 
-#: fdc530d4927549ebbe0525746e7d937e
+#: 0cda67a86dbc4dda9db3285004825a90
 msgid ""
-"It can be tempting to introduce instruction and explanation, simply because "
-"description can seem too inadequate to be useful, and because we do indeed "
-"need these other things. Instead, link to how-to guides, explanation and "
-"introductory tutorials."
+"It can be tempting to introduce instruction and explanation, simply "
+"because description can seem too inadequate to be useful, and because we "
+"do indeed need these other things. Instead, link to how-to guides, "
+"explanation and introductory tutorials."
 msgstr ""
 
-#: febcd1d14d554efaa8233c969ca072f4
+#: c7051588fc094e72a40ac511dd4a5cca
 msgid "Adopt standard patterns"
 msgstr ""
 
-#: 843f0190755a4b4591dba9047a73ebac
+#: 3a43423712be423d8292b157a416192a
 msgid ""
-"**Reference material is useful when it is consistent.** Standard patterns "
-"are what allow us to use reference material effectively. Your job is to "
-"place the material that your user needs know where they expect to find it, "
-"in a format that they are familiar with."
+"**Reference material is useful when it is consistent.** Standard patterns"
+" are what allow us to use reference material effectively. Your job is to "
+"place the material that your user needs where they expect to find it, in "
+"a format that they are familiar with."
 msgstr ""
 
-#: 132580eb7d484a37a4d95a28731b5ab0
+#: 6a99aaf7cf5a426cb5ca9fa7e1012698
 msgid ""
-"There are many opportunities in writing to delight your readers with your "
-"extensive vocabulary and command of multiple styles, but reference material "
-"is definitely not one of them."
+"There are many opportunities in writing to delight your readers with your"
+" extensive vocabulary and command of multiple styles, but reference "
+"material is definitely not one of them."
 msgstr ""
 
-#: 6e39e89a61fe477ebe8b63e8b01b4a17
+#: fb1503f8f2954d15b83c843b1f86cbf9
 msgid "Respect the structure of the machinery"
 msgstr ""
 
-#: 19d112b162044f4eb94219339383f492
+#: cbd68e6e017d48a18216b0914155c563
 msgid ""
-"The way a map corresponds to the territory it represents helps us use the "
-"former to find our way through the latter. It should be the same with "
+"The way a map corresponds to the territory it represents helps us use the"
+" former to find our way through the latter. It should be the same with "
 "documentation: **the structure of the documentation should mirror the "
-"structure of the product**, so that the user can work their way through them"
-" at the same time."
+"structure of the product**, so that the user can work their way through "
+"them at the same time."
 msgstr ""
 
-#: 35b138d2da3649d794309564a4dc3223
+#: 152115996af848d0bfd6671a430f90ce
 msgid ""
 "It doesn't mean forcing the documentation into an unnatural structure. "
 "What's important is that the logical, conceptual arrangement of and "
 "relations within the code should help make sense of the documentation."
 msgstr ""
 
-#: 0713793f282245bea22bd71b89793bc5
+#: f877bb15428a4fc2a0ea6cca564948a6
 msgid "Provide examples"
 msgstr ""
 
-#: c0ff542e172e4ee99df7fc00c6bb2ba3
+#: 4b576ae658c544429e43b770a4d5f59c
 msgid ""
-"**Examples** are valuable ways of providing illustration that helps readers "
-"understand reference, while avoiding the risk of becoming distracted from "
-"the job of describing. For example, an example of usage of a command can be "
-"a succinct way of illustrating it and its context, without falling into the "
-"trap of trying to explain or instruct."
+"**Examples** are valuable ways of providing illustration that helps "
+"readers understand reference, while avoiding the risk of becoming "
+"distracted from the job of describing. For example, an example of usage "
+"of a command can be a succinct way of illustrating it and its context, "
+"without falling into the trap of trying to explain or instruct."
 msgstr ""
 
-#: 62446004e80b408c8aed009647639594
+#: a9ec6a908ddd4c1187ca9cbb29b2c5e8
 msgid "The language of reference guides"
 msgstr ""
 
-#: 05f3cb50fd2f4338a4a11e0e591818c0
+#: b298a2dc3fa446d2bc5e99cb0f359511
 msgid ""
 "Django's default logging configuration inherits Python's defaults. It's "
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
 "``django/utils/log.py``"
 msgstr ""
 
-#: c5dd43d8df3b47bd854e5fdf60d1376d
+#: df66fdc5b09d4cfdb44c3bfd9c67b93f
 msgid "State facts about the machinery and its behaviour."
 msgstr ""
 
-#: b70ac8eca5494fa48d7c198c831f3804
+#: 13ec4ef5333248ca859e78b3b3d382cb
 msgid "Sub-commands are: a, b, c, d, e, f."
 msgstr ""
 
-#: aa2e835ef7f446b395beafa82620ff28
+#: 80397e467b8d43f790c8634819c4630c
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
 msgstr ""
 
-#: 53c01a49bae24d108080960ece51d457
+#: 428a4a2123784dacae9dced6a57dee7b
 msgid "You must use a. You must not apply b unless c. Never d."
 msgstr ""
 
-#: 2cec2c3fa22a4a9aaa0e3d8f2ad3cfb7
+#: 7eb7966f301e4567b21214eb98baa4cf
 msgid "Provide warnings where appropriate."
 msgstr ""
 
-#: d1d7c599e3e94c2283c511f08629f7df
+#: 0ee408b54afb4cc8aeabe3cf3aef3722
 msgid "Applied to food and cooking"
 msgstr ""
 
-#: f9cbd760aa6348d49d64cb6c9ca29334
+#: 92d8208edf964e14bb7fcfb1c16914a3
 msgid ""
-"You might check the information on a packet of food, in order to help you "
-"make a decision about what to do."
+"You might check the information on a packet of food, in order to help you"
+" make a decision about what to do."
 msgstr ""
 
-#: db1b3dad955a4720a1e8c1fe9c704df9
+#: ee9a4e3841404b64b3b1293c078944e0
 msgid ""
-"When you're looking for information - relevant facts - you do not want to be"
-" confronted by opinions, speculation, instructions or interpretation."
+"When you're looking for information - relevant facts - you do not want to"
+" be confronted by opinions, speculation, instructions or interpretation."
 msgstr ""
 
-#: 89c30c32acb549d6ac684ba464a88f33
+#: 6bf6fbd0db144bf0989ddc4aba1d4d2e
 msgid "Information on the back of a packet of lasagne"
 msgstr ""
 
-#: 3dc75a475416402faf259807ae1d4a36
+#: d3038fbe2ebe483082b781ba02222cb1
 msgid ""
-"You also expect that information to be presented in standard ways, so that "
-"you - when you need to know about something's nutritional properties, how it"
-" should be stored, its ingredients, what health implications it might have -"
-" can find them quickly, and know you can rely on them."
+"You also expect that information to be presented in standard ways, so "
+"that you - when you need to know about something's nutritional "
+"properties, how it should be stored, its ingredients, what health "
+"implications it might have - can find them quickly, and know you can rely"
+" on them."
 msgstr ""
 
-#: f726c5e89613498c993c581c6d3920d3
+#: 93aeef90fa9e434bae8d6446217932e3
 msgid ""
-"So you expect to see for example: *May contain traces of wheat*. Or: *Net "
-"weight: 1000g*."
+"So you expect to see for example: *May contain traces of wheat*. Or: *Net"
+" weight: 1000g*."
 msgstr ""
 
-#: c9d89e835f5f47d0a842a5c4cec8b034
+#: 51e2fe8d3af5401b936ca985762856c7
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
 msgstr ""
 
-#: d03a510b5d63421c8d4eda1984b844dc
+#: 36328be346bc44aca3a2449d501b6d3a
 msgid ""
 "The way reference material is presented on food products is so important "
-"that it's usually governed by law, and the same kind of seriousness should "
-"apply to all reference documentation."
+"that it's usually governed by law, and the same kind of seriousness "
+"should apply to all reference documentation."
 msgstr ""
+
+#~ msgid ""
+#~ "**Reference material is useful when it"
+#~ " is consistent.** Standard patterns are "
+#~ "what allow us to use reference "
+#~ "material effectively. Your job is to "
+#~ "place the material that your user "
+#~ "needs know where they expect to "
+#~ "find it, in a format that they "
+#~ "are familiar with."
+#~ msgstr ""
+

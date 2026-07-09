@@ -17,33 +17,33 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: 941ae938c040449ab6e906c1a3284f51
+#: 4892972a2e2f47f09632680bfd8aae7f
 msgid "How-to guides"
 msgstr ""
 
-#: 26f998da9cf747cf8a6b25c2f87f1d56
+#: 58b6dfd2c4f34deebb76c9dcb33cc9dd
 msgid ""
 "How-to guides are **directions** that guide the reader through a problem or "
 "towards a result. How-to guides are **goal-oriented**."
 msgstr ""
 
-#: 66b1aad02e1d45d3a52b5c5607b27f95
+#: 13f78e9ba1fb4f87a9a2bcad799e6755
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
 msgstr ""
 
-#: 24e17f9c9dc547d8a1b94f5d3b42af71
+#: a5df78efd18142dbbb7c05f63ddbb15e
 msgid ""
 "It's concerned with *work* - navigating from one side to the other of a "
 "real-world problem-field."
 msgstr ""
 
-#: 7156a1887ac846e49c331c084f1b1ac4
+#: c01f2307bfca4e4797c4c60e78156bf6
 msgid "How-to guides - task oriented, practical steps, that serve our work"
 msgstr ""
 
-#: 5a556a8317f8434fa98699172bb6669f
+#: b9825fa2897048dea98fda2598a50fff
 msgid ""
 "Examples could be: *how to calibrate the radar array*; *how to use fixtures "
 "in pytest*; *how to configure reconnection back-off policies*. On the other "
@@ -51,7 +51,7 @@ msgid ""
 "specific goal or problem, it's a vastly open-ended sphere of skill."
 msgstr ""
 
-#: a12d55b6526148c598272b929a6decf6
+#: 4dbd846f9ecb4ceea718c9230be8b0c3
 msgid ""
 "How-to guides matter not just because users need to be able to accomplish "
 "things: the list of how-to guides in your documentation helps frame the "
@@ -59,17 +59,17 @@ msgid ""
 " is an encouraging suggestion of a product's capabilities."
 msgstr ""
 
-#: c839dd8e976742acb3dfd54d165a0af9
+#: 85615afb69ee4ad994d0a005ed877957
 msgid ""
 "Well-written how-to guides that address the right questions are likely to be"
 " the most-read sections of your documentation."
 msgstr ""
 
-#: 656d0127fe8f47a58b0ad44b23e98010
+#: 82d62997397d409bacafb22183fddea4
 msgid "How-to guides addressed to problems"
 msgstr ""
 
-#: 401934a26bee41209fb3b3291813bd81
+#: 76f8e868fc5c431a97f035adae9c17fa
 msgid ""
 "**How-to guides must be written from the perspective of the user, not of the"
 " machinery.** A how-to guide represents something that someone needs to get "
@@ -78,7 +78,7 @@ msgid ""
 "human needs to do, with the tools at hand, to obtain the result they need."
 msgstr ""
 
-#: 463d07cd09c1410da8b2a07474a9ed0e
+#: 1b1750f30d11485b93c56d4b069bf406
 msgid ""
 "This is in strong contrast to common pattern for how-to guides that often "
 "prevails, in which how-to guides are defined by operations that can be "
@@ -88,39 +88,39 @@ msgid ""
 "through its motions."
 msgstr ""
 
-#: 59e6d0fa56704df18f3334c5e94d4eb3
+#: 6add27ca266a408ca5cd8d8927aba17d
 msgid ""
 "This is fundamentally a distinction of *meaningfulness*. Meaning is given by"
 " purpose and need. There is no purpose or need in the functionality of a "
 "machine. It is merely a series of causes and effects, inputs and outputs."
 msgstr ""
 
-#: 1316e08e98f04ac2974bbcdd7edabb1b
+#: c7d3ce6e758741389e553ebf48bdae78
 msgid "Consider:"
 msgstr ""
 
-#: d5269047f57f4f4c9757f9943a8ee25d
+#: 9026718874214fa9968363bc2de29db9
 msgid "\"To shut off the flow of water, turn the tap clockwise.\""
 msgstr ""
 
-#: 1d8eb7fe77c14f9988a70c66b95ecbea
+#: 72d2ff2161284b5fa579ca9cde0efb49
 msgid ""
 "\"To deploy the desired database configuration, select the appropriate "
 "options and press **Deploy**.\""
 msgstr ""
 
-#: 2858f196e9734dee92433c146b65d352
+#: 33b513d576014028bb315ebb471a1a75
 msgid ""
 "We really do not need to be informed that we turn on a device using the "
 "power switch, but it is shocking how often how-to guides in software "
 "documentation are written at this level."
 msgstr ""
 
-#: 815338b5a94b41f083c1818d2573a6c7
+#: d30070c71ae14da3a7ef3e1b003751cf
 msgid "The examples above *look* like examples of guidance, but they are not."
 msgstr ""
 
-#: ff438da0e5ad4e0c921d5c30dac22eed
+#: e415c90ff0da4a40a5269a2b9ae8e829
 msgid ""
 "They represent mostly useless information that anyone with basic competence "
 "- anyone who is working in this domain - should be expected to know. Between"
@@ -128,27 +128,27 @@ msgid ""
 "it quite clear what effect most actions will have."
 msgstr ""
 
-#: dc0d0e0be91143beb40932c832e020b4
+#: f97b2d0395864d5ba8ca5be332d3830a
 msgid ""
 "Secondly, they are disconnected from purpose. What the user needs to know "
 "might be things like:"
 msgstr ""
 
-#: 4eabbca92bfb48bd820274a0d94fd969
+#: 99bf91cdf2fc4c948001d0e2959788f2
 msgid ""
 "how much water to run, and how vigorously to run it, for a certain purpose"
 msgstr ""
 
-#: a6e2ac22a1a14b9a93d697b0f9d502ec
+#: e620e41560074495a8a681ef3c298c3c
 msgid ""
 "what database configuration options align with particular real-world needs"
 msgstr ""
 
-#: f87602bc10174a248bfedd4c07c93786
+#: a57edb52af3e4b489107ad8444b48269
 msgid "How-to guides are about goals, projects and problems, not about tools."
 msgstr ""
 
-#: ee47655b04564554aaf1548a35435974
+#: a32e030cfc49466fa5d8285ecd5795bd
 msgid ""
 "Tools appear in how-to guides as incidental bit-players, the means to the "
 "user's end. Sometimes of course, a particular end is closely aligned with a "
@@ -160,11 +160,11 @@ msgid ""
 "cover."
 msgstr ""
 
-#: a1289faf8ee140be8f586b413115f18d
+#: 4555045bdcae42459f5dde9273872ef1
 msgid "What how-to guides are not"
 msgstr ""
 
-#: 067395b26f6e401c9fd3b9def29f8793
+#: 37d6b9a01f9e4875805473203f1fe659
 msgid ""
 "**How-to guides are wholly distinct from tutorials**. They are often "
 "confused, but the user needs that they serve are quite different. Conflating"
@@ -172,7 +172,7 @@ msgid ""
 ":ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
 
-#: 5ff0a92b40b64c75bb626f18dd028739
+#: 918a781040094ca498369d3d6ddd4212
 msgid ""
 "In another confusion, how-to guides are often construed merely as procedural"
 " guides. But solving a problem or accomplishing a task cannot always be "
@@ -183,33 +183,33 @@ msgid ""
 "applying the guidance it can provide."
 msgstr ""
 
-#: c9825364bd984f3982da01368d6ba829
+#: 0502dd6c726041fa9d1b293d357579b2
 msgid "Key principles"
 msgstr ""
 
-#: 02d2fb28cbe342ce833d7e34aee7fac2
+#: 19335aa833544ddea449e809f9f04628
 msgid ""
 "A how to-guide is concerned with work - a task or problem, with a practical "
 "goal. *Maintain focus on that goal*."
 msgstr ""
 
-#: 2a144224922f43c8807115058faf6881
+#: fac3a862012745fd9d6be242bd0b5850
 msgid "focused on tasks or problems"
 msgstr ""
 
-#: 24d308b8028b41ec9bacfdf04b053dbe
+#: 80e8b055329f430ca7c446f4ac96ed56
 msgid "assume the user knows what they want to achieve"
 msgstr ""
 
-#: bc101269ec42408f83813e7d57676ebf
+#: 85285c4289484db09b5a0f219e0add15
 msgid "action and only action"
 msgstr ""
 
-#: 109dbaa76e45468ab650739caa1dce3e
+#: c4329686160949f9bfefa29866b70ea3
 msgid "no digression, explanation, teaching"
 msgstr ""
 
-#: 325538bd2483453189db58eb2a002c1a
+#: a94526ba943e4b96aab402e085617ae1
 msgid ""
 "Anything else that's added distracts both you and the user and dilutes the "
 "useful power of the guide. Typically, the temptations are to explain or to "
@@ -218,18 +218,18 @@ msgid ""
 "important, link to them."
 msgstr ""
 
-#: c26c3d4d76cc4d97accf38c3c56fb373
+#: 780bf79e382c44bdbd1fba104706b197
 msgid ""
 "A how-to guide serves the work of the already-competent user, whom you can "
 "assume to know what they want to do, and to be able to follow your "
 "instructions correctly."
 msgstr ""
 
-#: b8dd91c7ba914028bdfc3c5b5df846f4
+#: 1129b09312814da5a8c8b350cff43f6b
 msgid "Address real-world complexity"
 msgstr ""
 
-#: 377f0db9550941d2943314e89401516d
+#: 795647caea034e7c8ae45b5c215dd2e7
 msgid ""
 "**A how-to guide needs to be adaptable to real-world use-cases**. One that "
 "is useless for any purpose except *exactly* the narrow one you have "
@@ -238,11 +238,11 @@ msgid ""
 "that the user can adapt your guidance to their needs."
 msgstr ""
 
-#: 64e7d2d60f4b4fc8baa9f810c238f470
+#: faf9ae4505a34e12ab43d350fb67feda
 msgid "Omit the unnecessary"
 msgstr ""
 
-#: 89e3b504f9f449c2b52396b0dc675378
+#: c65d9c580e004a0e9d4736d1d3fb8ba1
 msgid ""
 "In how-to guides, **practical usability is more helpful than completeness.**"
 " Whereas a tutorial needs to be a complete, end-to-end guide, a how-to guide"
@@ -250,11 +250,11 @@ msgid ""
 " require the reader to join it up to their own work."
 msgstr ""
 
-#: ee22a9324fb44d689b021e87364c34b3
+#: a248e099243f4e798c083ce5adcb7478
 msgid "Provide a set of instructions"
 msgstr ""
 
-#: 4d96ce1c2223411c9438d7f471a003e6
+#: c9bed956e7bf4665906153a74c03f5c3
 msgid ""
 "A how-to guide describes an *executable solution* to a real-world problem or"
 " task. It's in the form of a contract: if you're facing this situation, then"
@@ -262,32 +262,32 @@ msgid ""
 "approach. The steps are in the form of *actions*."
 msgstr ""
 
-#: a3d14f6b455243989cbedb69b3215232
+#: 74ed6b7ff9ec4e20964ff98ee0d21bde
 msgid ""
 "\"Actions\" in this context includes physical acts, but also thinking and "
 "judgement - solving a problem involves thinking it through. A how-to guide "
 "should address how the user thinks as well as what the user does."
 msgstr ""
 
-#: e05616ee4dbb48b292b3eca985209cb9
+#: 823fb24d7256466381fcce2e6571ea83
 msgid "Describe a logical sequence"
 msgstr ""
 
-#: bf89af82e2ce48ffb85c2ad2e5e90d41
+#: fc073b23fca14372846657a460ad532e
 msgid ""
 "The fundamental structure of a how-to guide is a *sequence*. It implies "
 "logical ordering in time, that there is a sense and meaning to this "
 "particular order."
 msgstr ""
 
-#: b8c6556c96854df89050f3ec1b6b6de6
+#: b878d93c23dc45ceb6d5368177a7ab39
 msgid ""
 "In many cases, the ordering is simply imposed by the way things must be "
 "(step two requires completion of step one, for example). In this case it's "
 "obvious what order your directions should take."
 msgstr ""
 
-#: ef97317be0744728a60ca4a53ca27197
+#: e7940f1389254d82981e4fe86183574e
 msgid ""
 "Sometimes the need is more subtle - it might be possible to *perform* two "
 "operations in either order, but if for example one operation helps set up "
@@ -295,25 +295,25 @@ msgid ""
 " the other, that's a good reason for putting it first."
 msgstr ""
 
-#: cd267ef862384b8398ddfae56793f8f4
+#: c051febfaa704a7393c349a1255df1df
 msgid "Seek flow"
 msgstr ""
 
-#: b45da09799ba4ea1ab0252254268ce4c
+#: 422aa3c652664c8b87ab7e36777390fb
 msgid ""
 "At all times, try to ground your sequences in the patterns of the *user's* "
 "activities and thinking, in such a way that the guide acquires *flow*: "
 "smooth progress."
 msgstr ""
 
-#: 7c4cf23722634530a75a21c61b811013
+#: b323e01351dc4a05a4e7d5cb6eb39115
 msgid ""
 "Achieving flow means successfully understanding the user. Paying attention "
 "to sense and meaning in ordering requires paying attention to the way human "
 "beings think and act, and the needs of someone following directions."
 msgstr ""
 
-#: 236a7f8d52834824b97a49292c69c396
+#: 28931798b2d447a398535713cddf01aa
 msgid ""
 "Again, this can be somewhat obvious: a workflow that has the user repeatedly"
 " switching between contexts and tools is clearly clumsy and inefficient. But"
@@ -324,14 +324,14 @@ msgid ""
 "earlier concerns, is this necessary or avoidable?"
 msgstr ""
 
-#: 520e56bfef914d3cac425d1cdbecafc0
+#: 01eef272d9bd4ae8bbf98a55808c6e67
 msgid ""
 "A how-to guide is concerned not just with logical ordering in time, but "
 "action taking place in time. Action, and a guide to it, has pace and rhythm."
 " Badly-judged pace or disrupted rhythm are both damaging to flow."
 msgstr ""
 
-#: 0c114895e1a44fc0a701a55e018fe69b
+#: fc723b39d1d74a199ecb94fe3ddf5861
 msgid ""
 "At its best, how-to documentation gives the user flow. There is a distinct "
 "experience of encountering a guide that appears to *anticipate* the user - "
@@ -339,83 +339,83 @@ msgid ""
 "reach for, ready to place it in your hand."
 msgstr ""
 
-#: 152308c0e08746259d7e38ef9c215217
+#: bf7b3d69136b4ed3a063372f1f0a9b5b
 msgid "Pay attention to naming"
 msgstr ""
 
-#: b1cd364b229744349a1c97492f615c5b
+#: bca1f59dc3fa4efd9ed5e39f0ed8eb97
 msgid "**Choose titles that say exactly what a how-to guide shows.**"
 msgstr ""
 
-#: 17d8d3dbc72e46ad8ab2f8a4da2fb061
+#: 0b2b5cf730e94d47b74cf40a016e9c07
 msgid "good: *How to integrate application performance monitoring*"
 msgstr ""
 
-#: b86ef01e7bda4cfe83e05feb3b4d80d3
+#: 018b88521f1e4aeb850b7b93d5589004
 msgid ""
 "bad: *Integrating application performance monitoring* (maybe the document is"
 " about how to decide whether you should, not about how to do it)"
 msgstr ""
 
-#: 7ae29d32f2b243e4a64f7568a4a8791c
+#: 28413c9e4252402bac7d878ece42c78a
 msgid ""
 "very bad: *Application performance monitoring* (maybe it's about *how* - but"
 " maybe it's about *whether*, or even just an explanation of *what* it is)"
 msgstr ""
 
-#: a85923225c654635b6f1fb44e02788ba
+#: 9635747b84be4620a974c49176b5a6dc
 msgid ""
 "Note that search engines appreciate good titles just as much as humans do."
 msgstr ""
 
-#: 1d4021750b4f425b8e3aa1149d1b3967
+#: d3c2d7de5f894d828d5abdeb9b38e323
 msgid "The language of how-to guides"
 msgstr ""
 
-#: dbb7cc45966d4b53ac8be60103bebe2e
+#: cf9d0fdad1a446dc8b05b50ace172f62
 msgid "*This guide shows you how to...*"
 msgstr ""
 
-#: 65aa27447f2c4179b09bc82870e639b3
+#: 5e6fe20c1f2e4cd0ba8e6daac56f0ff2
 msgid ""
 "Describe clearly the problem or task that the guide shows the user how to "
 "solve."
 msgstr ""
 
-#: 0965d88a330f4096abf243895b0744ef
+#: 8a13a304a6bb4cd0b34dcf1ca83db674
 msgid "*If you want x, do y. To achieve w, do z.*"
 msgstr ""
 
-#: 602dfa1e86794ea5980250d73ee0580b
+#: 025fce88293b43878a6de862ccacc929
 msgid "Use conditional imperatives."
 msgstr ""
 
-#: db959e078a374acb8f2f87b5041b4969
+#: 174759fb09e1434e8ecfbb33ae13a575
 msgid "*Refer to the x reference guide for a full list of options.*"
 msgstr ""
 
-#: 901ab5cbd5f748d5ab0710bacad65fcc
+#: 900b24af012c49c18b56a9d615ac072c
 msgid ""
 "Don't pollute your practical how-to guide with every possible thing the user"
 " might do related to x."
 msgstr ""
 
-#: 0c5b9e86d1d744e59d3dd8437cdaafa0
+#: b7029e53851640efa952095b520a1983
 msgid "Applied to food and cooking"
 msgstr ""
 
-#: 1b78f003591843f1accc3315e7ccd8ce
+#: 5f857581fa034118b16f6e9d69f4bd77
 msgid ""
 "Consider a recipe, an excellent model for a how-to guide. A recipe clearly "
 "defines what will be achieved by following it, and **addresses a specific "
 "question** (*How do I make...?* or *What can I make with...?*)."
 msgstr ""
 
-#: 2578a45627074ddd91ffcc1df57f0bcb
+#: da7086e0a75a404381a579d2a6513b6f
 msgid "A recipe contains a list of ingredients and a list of steps."
 msgstr ""
 
-#: 4499481c75364207a0119350e262a39b
+#: b64b352a36054ffd95862b5fccfd3c6c
 msgid ""
 "It's not the responsibility of a recipe to *teach* you how to make "
 "something. A professional chef who has made exactly the same thing multiple "
@@ -423,14 +423,14 @@ msgid ""
 "themselves - to ensure that they do it correctly."
 msgstr ""
 
-#: 6b9556f0fdb74e1fa9980d6fd51311fb
+#: f06beffe4b2d4bb6be138c349edbe184
 msgid ""
 "Even following a recipe **requires at least basic competence**. Someone who "
 "has never cooked before should not be expected to follow a recipe with "
 "success, so a recipe is not a substitute for a cooking lesson."
 msgstr ""
 
-#: 3e173f7f026a45d3812435b99112d5a5
+#: 9de01fec08614f49ab76ec09549d0882
 msgid ""
 "Someone who expected to be provided with a recipe, and is given instead a "
 "cooking lesson, will be disappointed and annoyed. Similarly, while it's "

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,138 +16,138 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: 48dfdb07b88844fdbccf0ab4e56f41ce
+#: 532962e408604f1db7e4cffb749a5dc2
 msgid "The compass"
 msgstr ""
 
-#: 1f1e550f02274b10ba14c7e9a8545aae
+#: 6740221476cb47acbbb0833afb4b8885
 msgid "The Diátaxis map is an effective reminder of the different kinds of documentation and their relationship, and it accords well with intuitions about documentation."
 msgstr ""
 
-#: 137fd4ffb42a4fe5ad67ab4aed3fc7af
+#: 488dec8a6ff943b49f97ae6970fca5cf
 msgid "However intuition is not always to be relied upon. Often when working with documentation, an author is faced with the question: *what form of documentation is this?* or *what form of documentation is needed here?* - and no obvious, intuitive answer."
 msgstr ""
 
-#: 772f127d29a6422ba25c6d4bc20eb3f8
+#: 19bac9316c3f4e2f84eff0abd05e439b
 msgid "Worse, sometimes intuition provides an immediate answer that is also wrong."
 msgstr ""
 
-#: 3b0e90f6997d4d93b858f2b9c2c86514
+#: 376d4088ea8d46258f6c8e293c5f6ace
 msgid "A map is most powerful in unfamiliar territory when we also have a compass to guide us."
 msgstr ""
 
-#: f24ce33247434241b6d5c7fee4a4a531
+#: 14e88149987a404f969881fcfcf63482
 msgid "The Diátaxis compass is something like a truth-table or decision-tree of documentation. It reduces a more complex, two-dimensional problem to its simpler parts, and provides the author with a course-correction tool."
 msgstr ""
 
-#: 437f4c439e75405cb7915e250d3f75b5
+#: 5e7f9727dbb04b62bfa1ea2b76fa45e1
 msgid "If the content..."
 msgstr ""
 
-#: c8447009c6114e12942cf7a7225bf363
+#: 526c59e2c0d940c9b79046a48fc21f7c
 msgid "...and serves the user's..."
 msgstr ""
 
-#: 799d3bdcbeb140ae8bcb6e26acda5931
+#: 94b486805a394b97ba0768147cc03824
 msgid "...then it must belong to..."
 msgstr ""
 
-#: e69072fd4ea34d7899e9ff5c92483494
-#: abedb3ce353443b9a83031ba9870674e
+#: f828c72191fc4a44ad51651253f0a249
+#: ffb6df72ddf34d76964a9a80896a5599
 msgid "informs action"
 msgstr ""
 
-#: 7a38c4fae8824d059e986f3a8b2db991
-#: 497744224eae44c495b3e68b959c0ef7
+#: d757a2c0984242d8be8de6fab4879885
+#: 2ee0a46c9fd8467cb38fa1b6904c35b0
 msgid "acquisition of skill"
 msgstr ""
 
-#: 990dc6284f5e408e8769cd75e257721a
+#: 0c7d5fc7f7f44fa59ba665f7c4b6d7d6
 msgid "a tutorial"
 msgstr ""
 
-#: 0dfb267ba058450e83450c748708b3cb
-#: 95c6cc3afd9140cdb817f0e28bcc051a
+#: ce1dc1d073904f0eaea1fe04129ef794
+#: 9a672520a1204bd98c56657fc3589add
 msgid "application of skill"
 msgstr ""
 
-#: d44a1d4a0b194844a457b1be5e0e4782
+#: 2f80f4e346954762a9abac06ca8bd933
 msgid "a how-to guide"
 msgstr ""
 
-#: 73f4df38c0b1464197e858241bba1ac0
-#: 0ef344af23e74111ba5ea093dc330ebc
+#: 07ec22b0b4504b74b46dcb1f658007cc
+#: 241df3eb67a94179a2d6b661fe0c2598
 msgid "informs cognition"
 msgstr ""
 
-#: 5e7d3203aee3499194dfefca102a1dfd
+#: f41fa4283e2b4b4fad3022c5bf68322c
 msgid "reference"
 msgstr ""
 
-#: 73c54b32f0cc42f282d39e19083bc2ee
+#: 6a3b514540c349368dc6d9dbf8acc94e
 msgid "explanation"
 msgstr ""
 
-#: 8d5b13c2cfdb4185ace37fd82315c06f
+#: 1baad74b0a804007a8d10645396fec1b
 msgid "The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprisingly banal."
 msgstr ""
 
-#: 808cc977d95a4d2ebc09b2876ea077ef
+#: 77e60f58c969409e950fcae88ddc73a3
 msgid "To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?*"
 msgstr ""
 
-#: 9d354798e0e04e058bfa101bca00d5a5
+#: cdace25583004046bd3c686b5be01faf
 msgid "And it yields the answer."
 msgstr ""
 
-#: 71dc5b4547114377bf266b375ed8ebe9
+#: 6e90cfa7eb3148ad85383566ddeea9ec
 msgid "Using the compass"
 msgstr ""
 
-#: 1e9b92d00b964c1f87dd0d366e2bc877
-msgid "The compass is particularly effective when you think that you think you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider."
+#: ba79dd43116d416981b3b46447319d41
+msgid "The compass is particularly effective when you think that you (or even the documentation in front of you) are doing one thing - but you are troubled by a sense of doubt, or by some difficulty in the work. The compass forces you to stop and reconsider."
 msgstr ""
 
-#: 25dec62772be4a35abae20de715368c2
+#: aa7cb346ce464283a95545f29337025a
 msgid "Especially when you are trying to find your initial bearings, use the compass's terms flexibly; don't get fixated on the exact names."
 msgstr ""
 
-#: ec1e038771c14ea3a2d62a1830f1b5a0
+#: ecd0c8f6dcb548ecadd29bcf4a92e0d6
 msgid "*action*: practical steps, doing"
 msgstr ""
 
-#: 34ff57d1388d476f861771eaf7ecd589
+#: 3ec6ddd265f347c0ac4640b4129eef9d
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
 msgstr ""
 
-#: 6be24ce249454e6fbf5c75f177671067
+#: 75bd1ed5b3ca41939cba8e0ab90dafd5
 msgid "*acquisition*: study"
 msgstr ""
 
-#: 5c63db44b2dc4573b434767cd451a18e
+#: a276cb5c19df40bbb2dd9f1a019c7472
 msgid "*application*: work"
 msgstr ""
 
-#: cefa96f6662b42668a0dd4732f1eac62
+#: 93e8b8485c5b40d8a5890d0dd933fb9a
 msgid "And the questions themselves can also be used in different ways:"
 msgstr ""
 
-#: d10fc41fba7d424f8e5b9b877c3c4fde
+#: 9681c3729c174135b71ae436593f42e3
 msgid "Do I think I am writing for *x* or *y*?"
 msgstr ""
 
-#: 37f77f79ebcc4f099a3aff3e6f17b522
+#: cde63f587196467f9b362699a238d480
 msgid "Is this writing in front of me engaged in *x* or *y*?"
 msgstr ""
 
-#: b140f857e9c145a681a72f5a09746e83
+#: 955cf283b7a6473abf45a7fc02cdb955
 msgid "Does the user need *x* or *y*?"
 msgstr ""
 
-#: af921c76c5db45dbbdae640a1ae73f19
+#: 14e5e7bee96c4485ae448c7840c740d1
 msgid "Do I want to *x* or *y*?"
 msgstr ""
 
-#: 60ee4217154a4ce7a29bea84cbb4ad4f
+#: 39c75509f8dc46caba7b100b8d471d75
 msgid "And try applying them close-up, at the level of sentences and words, or from a wider perspective, considering an entire document."
 msgstr ""
