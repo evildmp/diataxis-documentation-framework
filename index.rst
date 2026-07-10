@@ -21,6 +21,10 @@ Diátaxis
 
 Diátaxis is a way of thinking about and doing documentation.
 
+..  sidebar::
+
+    :doc:`Help translate Diátaxis <translation>` into your language.
+
 It prescribes approaches to content, architecture and form that emerge from a systematic approach to understanding the needs of documentation users.
 
 
@@ -141,3 +145,4 @@ Diátaxis is proven in practice. Its principles have been adopted successfully i
    :titlesonly:
 
    colophon
+   translation
