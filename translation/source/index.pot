@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-07-10 08:57+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,11 +56,11 @@ msgstr ""
 msgid "Reference and explanation"
 msgstr ""
 
-#: 271e260895a14887a16dd956eb2e43e4
+#: c5e1a92c788f4f03a089e33eba9d01b6
 msgid "Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking about and creating documentation."
 msgstr ""
 
-#: 4e0a4ac344d24a668a14055396357818
+#: d4752547eeb74ce7971f72657e0d7f50
 msgid "documentation, four, kinds, architecture"
 msgstr ""
 
@@ -75,6 +75,10 @@ msgstr ""
 
 #: 82c52fb7558f4058908125dd29b34750
 msgid "Diátaxis is a way of thinking about and doing documentation."
+msgstr ""
+
+#: 31e2adc74ce5448283f785ed87757d51
+msgid ":doc:`Help translate Diátaxis <translation>` into your language."
 msgstr ""
 
 #: 1976b7bff6b64269b79995e5c4b49b63

@@ -1,21 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis\n"
+"Project-Id-Version:  Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"POT-Creation-Date: 2026-07-10 08:57+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language: pt\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language-Team: Portuguese "
+"(https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
+"1000000 == 0 ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
 msgid "Home"
 msgstr "Início"
@@ -47,17 +51,17 @@ msgstr ""
 msgid "Reference and explanation"
 msgstr ""
 
-#: 271e260895a14887a16dd956eb2e43e4
+#: c5e1a92c788f4f03a089e33eba9d01b6
 msgid ""
-"Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking "
-"about and creating documentation."
+"Diátaxis is a widely-adopted, pragmatic and systematic approach to "
+"thinking about and creating documentation."
 msgstr ""
 
-#: 4e0a4ac344d24a668a14055396357818
+#: d4752547eeb74ce7971f72657e0d7f50
 msgid "documentation, four, kinds, architecture"
 msgstr ""
 
-#: f683e4ec3b774a91b23e0c7f4741a239 cc3958401b0745dd9af15c197dfc14fe
+#: cc3958401b0745dd9af15c197dfc14fe f683e4ec3b774a91b23e0c7f4741a239
 msgid "Diátaxis"
 msgstr ""
 
@@ -69,10 +73,15 @@ msgstr ""
 msgid "Diátaxis is a way of thinking about and doing documentation."
 msgstr ""
 
+#: 31e2adc74ce5448283f785ed87757d51
+msgid ":doc:`Help translate Diátaxis <translation>` into your language."
+msgstr ""
+
 #: 1976b7bff6b64269b79995e5c4b49b63
 msgid ""
-"It prescribes approaches to content, architecture and form that emerge from "
-"a systematic approach to understanding the needs of documentation users."
+"It prescribes approaches to content, architecture and form that emerge "
+"from a systematic approach to understanding the needs of documentation "
+"users."
 msgstr ""
 
 #: e065ca1e426f47d7995547dfb9949447
@@ -80,29 +89,30 @@ msgid ""
 "Diátaxis identifies four distinct needs, and four corresponding forms of "
 "documentation - *tutorials*, *how-to guides*, *technical reference* and "
 "*explanation*. It places them in a systematic relationship, and proposes "
-"that documentation should itself be organised around the structures of those"
-" needs."
+"that documentation should itself be organised around the structures of "
+"those needs."
 msgstr ""
 
 #: affd038c110749f88fcadb73e403666e
 msgid ""
-"*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and *taxis*"
-" (\"arrangement\")."
+"*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and "
+"*taxis* (\"arrangement\")."
 msgstr ""
 
 #: b66fb79da2424695afd56c3974071a4b
 msgid ""
-"Diátaxis solves problems related to documentation *content* (what to write),"
-" *style* (how to write it) and *architecture* (how to organise it)."
+"Diátaxis solves problems related to documentation *content* (what to "
+"write), *style* (how to write it) and *architecture* (how to organise "
+"it)."
 msgstr ""
 
 #: 77002406941446e18c3b70c57eadc18e
 msgid ""
 "As well as serving the users of documentation, Diátaxis has value for "
-"documentation creators and maintainers. It is light-weight, easy to grasp "
-"and straightforward to apply. It doesn't impose implementation constraints. "
-"It brings an active principle of quality to documentation that helps "
-"maintainers think effectively about their own work."
+"documentation creators and maintainers. It is light-weight, easy to grasp"
+" and straightforward to apply. It doesn't impose implementation "
+"constraints. It brings an active principle of quality to documentation "
+"that helps maintainers think effectively about their own work."
 msgstr ""
 
 #: 08cf12f3544048398187015935ba5f94
@@ -111,8 +121,8 @@ msgstr ""
 
 #: 116c0820246440f48c1474d9e104cddc
 msgid ""
-"The best way to get started with Diátaxis is by applying it after reading a "
-"brief primer."
+"The best way to get started with Diátaxis is by applying it after reading"
+" a brief primer."
 msgstr ""
 
 #: 1088de7d050745deb8e17480b3ea53ec
@@ -121,8 +131,8 @@ msgstr ""
 
 #: 03baf2cfc78c462882b72887fce2e443
 msgid ""
-"This section explores the theory and principles of Diátaxis more deeply, and"
-" sets forth the understanding of needs that underpin it."
+"This section explores the theory and principles of Diátaxis more deeply, "
+"and sets forth the understanding of needs that underpin it."
 msgstr ""
 
 #: 39b17a67842448e98a10aed0dbe668c4
@@ -144,11 +154,11 @@ msgstr ""
 #: 4d6b3376921a46caabb8624eb91d38c5
 msgid ""
 "At Gatsby we recently reorganized our open-source documentation, and the "
-"Diátaxis framework was our go-to resource throughout the project. The four "
-"quadrants helped us prioritize the user’s goal for each type of "
+"Diátaxis framework was our go-to resource throughout the project. The "
+"four quadrants helped us prioritize the user’s goal for each type of "
 "documentation. By restructuring our documentation around the Diátaxis "
-"framework, we made it easier for users to discover the resources that they "
-"need when they need them."
+"framework, we made it easier for users to discover the resources that "
+"they need when they need them."
 msgstr ""
 
 #: 6483956638ed4bf79d4d816e2ea6e721
@@ -158,12 +168,13 @@ msgstr ""
 #: 7453a7169a6541b9b63f579125fea572
 msgid ""
 "While redesigning the `Cloudflare developer docs "
-"<https://developers.cloudflare.com>`_, Diátaxis became our north star for "
-"information architecture. When we weren't sure where a new piece of content "
-"should fit in, we'd consult the framework. Our documentation is now clearer "
-"than it's ever been, both for readers and contributors."
+"<https://developers.cloudflare.com>`_, Diátaxis became our north star for"
+" information architecture. When we weren't sure where a new piece of "
+"content should fit in, we'd consult the framework. Our documentation is "
+"now clearer than it's ever been, both for readers and contributors."
 msgstr ""
 
 #: 77f1b03b2df942f39ad68a94db3acbc7
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
 msgstr ""
+
