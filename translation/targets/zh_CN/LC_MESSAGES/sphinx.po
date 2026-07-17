@@ -8,35 +8,35 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 17:54+0200\n"
+"POT-Creation-Date: 2026-07-10 08:57+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
-#: 16674f6037d54a9aa18d3711a6d6e93c
+#: 51465188c69646a0bbedad2eb3417d9b
 msgid "Next"
 msgstr ""
 
-#: 1f899efb545d4a849059b1f81fd09a46
+#: 729a61b8697941bb9ad1ffa0d928e81b
 msgid "Previous"
 msgstr ""
 
-#: 5ea484c8536e4796be1959533367b9cb
+#: 85bd2d30aeb3433d80caa3bc5614b4e0
 msgid "Home"
-msgstr "Início"
+msgstr ""
 
-#: 266be08170714aafb4597557f588e620
+#: 486690d3d9984baf89bf4f789a36b5e0
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
 msgstr ""
 
-#: 34f1e59eda7d41c39399616c5a25d2f1
+#: 74792d06efb14cd8984df83bdc066d38
 msgid "Copyright &#169; %(copyright)s"
 msgstr ""
 
-#: 6f89635dd3cd435fa6e6ad48f506b459
+#: ce36840190774eb2ba9f9f90897ecb44
 msgid "Last updated on %(last_updated)s"
 msgstr ""

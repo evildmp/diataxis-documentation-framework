@@ -1,25 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:  Diátaxis\n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-07-09 13:55+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: pt\n"
-"Language-Team: Portuguese "
-"(https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
 #: 532962e408604f1db7e4cffb749a5dc2
 msgid "The compass"
@@ -28,28 +24,27 @@ msgstr ""
 #: 6740221476cb47acbbb0833afb4b8885
 msgid ""
 "The Diátaxis map is an effective reminder of the different kinds of "
-"documentation and their relationship, and it accords well with intuitions"
-" about documentation."
+"documentation and their relationship, and it accords well with intuitions "
+"about documentation."
 msgstr ""
 
 #: 488dec8a6ff943b49f97ae6970fca5cf
 msgid ""
-"However intuition is not always to be relied upon. Often when working "
-"with documentation, an author is faced with the question: *what form of "
-"documentation is this?* or *what form of documentation is needed here?* -"
-" and no obvious, intuitive answer."
+"However intuition is not always to be relied upon. Often when working with "
+"documentation, an author is faced with the question: *what form of "
+"documentation is this?* or *what form of documentation is needed here?* - "
+"and no obvious, intuitive answer."
 msgstr ""
 
 #: 19bac9316c3f4e2f84eff0abd05e439b
 msgid ""
-"Worse, sometimes intuition provides an immediate answer that is also "
-"wrong."
+"Worse, sometimes intuition provides an immediate answer that is also wrong."
 msgstr ""
 
 #: 376d4088ea8d46258f6c8e293c5f6ace
 msgid ""
-"A map is most powerful in unfamiliar territory when we also have a "
-"compass to guide us."
+"A map is most powerful in unfamiliar territory when we also have a compass "
+"to guide us."
 msgstr ""
 
 #: 14e88149987a404f969881fcfcf63482
@@ -75,7 +70,7 @@ msgstr ""
 msgid "informs action"
 msgstr ""
 
-#: 2ee0a46c9fd8467cb38fa1b6904c35b0 d757a2c0984242d8be8de6fab4879885
+#: d757a2c0984242d8be8de6fab4879885 2ee0a46c9fd8467cb38fa1b6904c35b0
 msgid "acquisition of skill"
 msgstr ""
 
@@ -83,7 +78,7 @@ msgstr ""
 msgid "a tutorial"
 msgstr ""
 
-#: 9a672520a1204bd98c56657fc3589add ce1dc1d073904f0eaea1fe04129ef794
+#: ce1dc1d073904f0eaea1fe04129ef794 9a672520a1204bd98c56657fc3589add
 msgid "application of skill"
 msgstr ""
 
@@ -106,8 +101,8 @@ msgstr ""
 #: 1baad74b0a804007a8d10645396fec1b
 msgid ""
 "The compass can be applied equally to user situations that need "
-"documentation, or to documentation itself that perhaps needs to be moved "
-"or improved. Like many good tools, it's surprisingly banal."
+"documentation, or to documentation itself that perhaps needs to be moved or "
+"improved. Like many good tools, it's surprisingly banal."
 msgstr ""
 
 #: 77e60f58c969409e950fcae88ddc73a3
@@ -126,10 +121,10 @@ msgstr ""
 
 #: ba79dd43116d416981b3b46447319d41
 msgid ""
-"The compass is particularly effective when you think that you (or even "
-"the documentation in front of you) are doing one thing - but you are "
-"troubled by a sense of doubt, or by some difficulty in the work. The "
-"compass forces you to stop and reconsider."
+"The compass is particularly effective when you think that you (or even the "
+"documentation in front of you) are doing one thing - but you are troubled by"
+" a sense of doubt, or by some difficulty in the work. The compass forces you"
+" to stop and reconsider."
 msgstr ""
 
 #: aa7cb346ce464283a95545f29337025a
@@ -176,18 +171,6 @@ msgstr ""
 
 #: 39c75509f8dc46caba7b100b8d471d75
 msgid ""
-"And try applying them close-up, at the level of sentences and words, or "
-"from a wider perspective, considering an entire document."
+"And try applying them close-up, at the level of sentences and words, or from"
+" a wider perspective, considering an entire document."
 msgstr ""
-
-#~ msgid ""
-#~ "The compass is particularly effective "
-#~ "when you think that you think you"
-#~ " (or even the documentation in front"
-#~ " of you) are doing one thing -"
-#~ " but you are troubled by a "
-#~ "sense of doubt, or by some "
-#~ "difficulty in the work. The compass "
-#~ "forces you to stop and reconsider."
-#~ msgstr ""
-

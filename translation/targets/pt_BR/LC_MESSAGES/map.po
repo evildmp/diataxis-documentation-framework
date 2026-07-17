@@ -1,0 +1,378 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: 3a18b540013c4f1ea16ff82a81a45965
+msgid "The map"
+msgstr ""
+
+#: e68407b893db4bcbae2f833cb586fddd
+msgid ""
+"One reason Diátaxis is effective as a guide to organising documentation is "
+"that it describes a **two-dimensional structure**, rather than a *list*."
+msgstr ""
+
+#: a60f20d9a4a64db48ffa5dd0cd1dd237
+msgid ""
+"It specifies its types of documentation in such a way that the structure "
+"naturally helps guide and shape the material it contains."
+msgstr ""
+
+#: ea46c096a2fe441090662418b6e67ef0
+msgid ""
+"As a map, it places the different forms of documentation into relationships "
+"with each other. Each one occupies a space in the mental territory it "
+"outlines, and the boundaries between them highlight their distinctions."
+msgstr ""
+
+#: 28b66fe2dfa841edbecde3374c209dcb
+msgid "The problem of structure"
+msgstr ""
+
+#: 04b0d063499846d9a19510a10b5f1fb2
+msgid ""
+"When documentation fails to attain a good structure, it's rarely just a "
+"problem of structure (though it's bad enough that it makes it harder to use "
+"and maintain). Architectural faults infect and undermine content too."
+msgstr ""
+
+#: f8ba12790b56458380fddbfb4192286d
+msgid ""
+"In the absence of a clear, generalised documentation architecture, "
+"documentation creators will often try to structure their work around "
+"features of a product."
+msgstr ""
+
+#: b6a9a7312d494a6598ca2d67a32a5546
+msgid ""
+"This is rarely successful, even in a single instance. In a portfolio of "
+"documentation instances, the results are wild inconsistency. Much better is "
+"the adoption of a scheme that tries to provide an answer to the question: "
+"how to arrange documentation *in general?*"
+msgstr ""
+
+#: 2b0b9e41214d4443ad187573f57175a9
+msgid ""
+"In fact any orderly attempt to organise documentation into clear content "
+"categories will help improve it (for authors as well as users), by providing"
+" lists of content types."
+msgstr ""
+
+#: e7c862e3d4c946b1836e41f27df271d4
+msgid ""
+"Even so, authors often find themselves needing to write particular "
+"documentation content that fails to fit well within the categories put "
+"forward by a scheme, or struggling to rewrite existing material. Often, "
+"there is a sense of arbitrariness about the structure that they find "
+"themselves working with - why this particular list of content types rather "
+"than another? And if another competing list is proposed, which to adopt?"
+msgstr ""
+
+#: f5891811e7154cf68715187b669984e1
+msgid "Expectations and guidance"
+msgstr ""
+
+#: e5e755af73354bb4929eeea4dede69f2
+msgid ""
+"A clear advantage of organising material this way is that it provides both "
+"clear *expectations* (to the reader) and *guidance* (to the author). It's "
+"clear what the purpose of any particular piece of content is, it specifies "
+"how it should be written and it shows where it should be placed."
+msgstr ""
+
+#: c738a82259e04f128b20e24fde831b26
+msgid "\\"
+msgstr ""
+
+#: 16814e77378e4022acbd168162336be6
+msgid ":ref:`Tutorials <tutorials>`"
+msgstr ""
+
+#: 785f82cd59c048dfb02b7b47e70e09b8
+msgid ":ref:`How-to guides <how-to>`"
+msgstr ""
+
+#: a537a79644fc4a128b1a2741f5880484
+msgid ":ref:`Reference <reference>`"
+msgstr ""
+
+#: 60730f8fbc0b4f4083dfea70dfe287a9
+msgid ":ref:`Explanation <explanation>`"
+msgstr ""
+
+#: 9b18cf7da81742dbb28377d4e39e569d
+msgid "what they do"
+msgstr ""
+
+#: f5827a8912fa4633b9e0d16db8a7b266
+msgid "introduce, educate, lead"
+msgstr ""
+
+#: 9c9ecd6927694272a7ddba17c9b997a0
+msgid "guide"
+msgstr ""
+
+#: c13f65e238564e56ad55cb02ce5390db
+msgid "state, describe, inform"
+msgstr ""
+
+#: 8ff67795b38546b29430c6b2e2ffac14
+msgid "explain, clarify, discuss"
+msgstr ""
+
+#: 33395b4e7714488685ea32dee41d363a
+msgid "answers the question"
+msgstr ""
+
+#: 52ea36d8943b491d8746c88bcf482ece
+msgid "\"Can you teach me to...?\""
+msgstr ""
+
+#: 428b401aae3c45d2815666f2451e87bd
+msgid "\"How do I...?\""
+msgstr ""
+
+#: 193a4fa5609c4328bd832bcb56840ed5
+msgid "\"What is...?\""
+msgstr ""
+
+#: e9add9b73ca446fb8c9d184db1fb0e98
+msgid "\"Why...?\""
+msgstr ""
+
+#: be46d5c5a5634a3b8b38ffd4f7062afd
+msgid "oriented to"
+msgstr ""
+
+#: 0cdc6255e66b4a7682114b486c218bb8
+msgid "learning"
+msgstr ""
+
+#: 566f181247624c689a9ddac917c6f54a
+msgid "goals"
+msgstr ""
+
+#: 6cfface8e2e7469e971b993475ccb224
+msgid "information"
+msgstr ""
+
+#: 9ad7c501aa1347d3a383cd45e9033b29
+msgid "understanding"
+msgstr ""
+
+#: 055f65ac349441d489bd8b900859188c
+msgid "purpose"
+msgstr ""
+
+#: 3eff5eae84554a2c87ffc4cbba78e2e0
+msgid "to provide a learning experience"
+msgstr ""
+
+#: 8c0b97dbacf4427c99926e35cf602522
+msgid "to help achieve a particular goal"
+msgstr ""
+
+#: 8f94eaffea9b4cd8bcd850e10863daab
+msgid "to describe the machinery"
+msgstr ""
+
+#: 9a847694818843f38f5034867524192a
+msgid "to illuminate a topic"
+msgstr ""
+
+#: de851fe9bbf3410a920018c4b1595438
+msgid "form"
+msgstr ""
+
+#: 5be8913867464d0bb9157ff8beb7783d
+msgid "a lesson"
+msgstr ""
+
+#: 7bbc62dcc4d74f1fa0f71f342788885e
+msgid "a series of steps"
+msgstr ""
+
+#: f0d39408018e489d9c268b1c7e769d63
+msgid "dry description"
+msgstr ""
+
+#: 059d95e1125e474ab84e9227b9744609
+msgid "discursive explanation"
+msgstr ""
+
+#: c28a0a00d5cc497c9ebddbbc07f95475
+msgid "analogy"
+msgstr ""
+
+#: 091db0ed33ab40a58821dc0e2fb4333c
+msgid "teaching a child how to cook"
+msgstr ""
+
+#: a808d2f6def74ed89132fbc445748920
+msgid "a recipe in a cookery book"
+msgstr ""
+
+#: 9e5a3cba0fbe496e85e9337bd0923967
+msgid "information on the back of a food packet"
+msgstr ""
+
+#: ffcaa2532d20403b945d2d106852f9ba
+msgid "an article on culinary social history"
+msgstr ""
+
+#: 8b881170cb244b2ca5e1b533369c907b
+msgid ""
+"Each piece of content is of a kind that not only has one particular job to "
+"do, that job is also clearly distinguished from and contrasted with the "
+"other functions of documentation."
+msgstr ""
+
+#: ee84b0f58fea4579b1ebb64bf12f7e7c
+msgid "Blur"
+msgstr ""
+
+#: 6dd4e2a432eb44edad4774e1ca886695
+msgid ""
+"Most documentation systems and authors recognise at least some of these "
+"distinctions and try to observe them in practice."
+msgstr ""
+
+#: 5b872b614aac41b6b3ffd93632dce794
+msgid "Partial collapse of the structure"
+msgstr ""
+
+#: ef043829731c4dbfad3b5ac61d71069c
+msgid ""
+"However, there is a kind of natural affinity between each of the different "
+"forms of documentation and its neighbours on the map, and a natural tendency"
+" to blur the distinctions (that can be seen repeatedly in examples of "
+"documentation)."
+msgstr ""
+
+#: 717421ee00a7486a9a4145cadfc0a263
+msgid "guide action"
+msgstr ""
+
+#: c07ad59641e147f897aa1c6ad03fcf35 8b06e11c49274d29926916926fde74aa
+msgid "tutorials"
+msgstr ""
+
+#: 4ff83d46628c43a594f10e924e33c200 1000489ce90a4ad487b12e4e4e35a68e
+msgid "how-to guides"
+msgstr ""
+
+#: 5c67fa2ff28d484f96f6cc3eaa8e97ac
+msgid "serve the application of skill"
+msgstr ""
+
+#: d9b691d316d342498b80bbe0eb761423 838d21b8a2134fa693f16ed75925d2d1
+msgid "reference"
+msgstr ""
+
+#: a69c11a755554b7592cc6db972c448b9
+msgid "contain propositional knowledge"
+msgstr ""
+
+#: cbd265062069444ba049053d0c03fe8e 4ccd8a00fc8046d381a57a6257cf322b
+msgid "explanation"
+msgstr ""
+
+#: a66d21149c764fa4b0c3eac98ba17f60
+msgid "serve the acquisition of skill"
+msgstr ""
+
+#: 160ab1dbcda3455ea46d144fcdc16085
+msgid ""
+"When these distinctions are allowed to blur, the different kinds of "
+"documentation bleed into each other. Writing style and content make their "
+"way into inappropriate places. It also causes structural problems, which "
+"make it even more difficult to maintain the discipline of appropriate "
+"writing."
+msgstr ""
+
+#: 76c274eca1944c3a9af87cda73b709db
+msgid "Total collapse of the structure"
+msgstr ""
+
+#: 12d41fe188bc4849b09fcbb55ca259f3
+msgid ""
+"In the worst case there is a complete or partial collapse of tutorials and "
+"how-to guides into each other, making it impossible to meet the needs served"
+" by either."
+msgstr ""
+
+#: f21285fb505842eca265e95c50d0b959
+msgid "The journey around the map"
+msgstr ""
+
+#: 47def3815c8c4b8893515dfa9e80a16f
+msgid ""
+"Diátaxis is intended to help documentation better serve users in their "
+"*cycle of interaction* with a product."
+msgstr ""
+
+#: 02e865b8d403415aba0cb6b304d689fc
+msgid ""
+"This phrase should not be understood too literally. It is not the case that "
+"a user must encounter the different kinds of documentation in the order "
+"*tutorials* > *how-to guides* > *technical reference* > *explanation*. In "
+"practice, an actual user may enter the documentation anywhere in search of "
+"guidance on some particular subject, and what they want to read will change "
+"from moment to moment as they use your documentation."
+msgstr ""
+
+#: f1f3540644fc4fd796eb1cc7d668e0ad
+msgid ""
+"However, the idea of a cycle of documentation needs, that proceeds through "
+"different phases, is sound and corresponds to the way that people actually "
+"do become expert in a craft. There is a sense and meaning to this ordering."
+msgstr ""
+
+#: 7e2b987545ef4a5495f4c9caf646dd4b
+msgid "Moving around the map"
+msgstr ""
+
+#: 92753d7671e948d99383f15cd28c9ba1
+msgid ""
+"*learning-oriented phase*: We begin by learning, and learning a skill means "
+"diving straight in to do it - under the guidance of a teacher, if we're "
+"lucky."
+msgstr ""
+
+#: 6a5115944134439b95a70f61363f64d9
+msgid "*goal-oriented phase*: Next we want to put the skill to work."
+msgstr ""
+
+#: 688b2991ec5c41a4a5a4f2e3a4576d60
+msgid ""
+"*information-oriented phase*: As soon as our work calls upon knowledge that "
+"we don't already have in our head, it requires us to consult technical "
+"reference."
+msgstr ""
+
+#: 1d1c53bd5eca46dda11113bb6bdc5afa
+msgid ""
+"*explanation-oriented phase*: Finally, away from the work, we reflect on our"
+" practice and knowledge to understand the whole."
+msgstr ""
+
+#: f9d887a57f3c48b1922a403d28532d06
+msgid ""
+"And then it's back to the beginning, perhaps for a new thing to grasp, or to"
+" penetrate deeper."
+msgstr ""

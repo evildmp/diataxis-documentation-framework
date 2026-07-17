@@ -1,0 +1,344 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 564bf820ef394671bd084e3875ce83e8
+msgid "Explanation"
+msgstr ""
+
+#: 0572a5290b7847b0ae71b1a0458aa713
+msgid ""
+"Explanation is a discursive treatment of a subject, that permits "
+"*reflection*. Explanation is **understanding-oriented**."
+msgstr ""
+
+#: 33382bbf6f004641a6904459081b7229
+msgid ""
+"Explanation deepens and broadens the reader's understanding of a subject. It"
+" brings clarity, light and context."
+msgstr ""
+
+#: 053c8d50814e42e2b9af9ca773a86ed4
+msgid ""
+"Explanation - understanding oriented, theoretical knowledge, that serves our"
+" study"
+msgstr ""
+
+#: b8e7ce4fb16c4db686468a1e32080bbc
+msgid ""
+"The concept of *reflection* is important. Reflection occurs *after* "
+"something else, and depends on something else, yet at the same time brings "
+"something new - shines a new light - on the subject matter."
+msgstr ""
+
+#: c8f42c26db8945eb907912e41566a8cb
+msgid ""
+"The perspective of explanation is higher and wider than that of the other "
+"three types. It does not take the user's eye-level view, as in a how-to "
+"guide, or a close-up view of the machinery, like reference material. Its "
+"scope in each case is a topic - \"an area of knowledge\", that somehow has "
+"to be bounded in a reasonable, meaningful way."
+msgstr ""
+
+#: 53fe9cf3cb054041bf0c7625f968fb81
+msgid ""
+"For the user, explanation joins things together. It's an answer to the "
+"question: *Can you tell me about ...?*"
+msgstr ""
+
+#: 7da3d8ce5a0c442dbc8e551d46b3edb5
+msgid ""
+"It's documentation that it makes sense to read while away from the product "
+"itself (one could say, explanation is the only kind of documentation that it"
+" might make sense to read in the bath)."
+msgstr ""
+
+#: 68ca2d8af17244e2a0c227d92fbab3de
+msgid "The value and place of explanation"
+msgstr ""
+
+#: 56e0ff7ef8564350b1bcd2b23eabcb63
+msgid "Explanation and understanding"
+msgstr ""
+
+#: 32876774ecd748cbbc4f3f8ea26af1e6
+msgid ""
+"Explanation  is characterised by its distance from the active concerns of "
+"the practitioner. It doesn't have direct implications for what they do, or "
+"for their work. This means that it's sometimes seen as being of lesser "
+"importance. That's a mistake; it may be less *urgent* than the other three, "
+"but it's no less *important*. It's not a luxury. No practitioner of a craft "
+"can afford to be without an understanding of that craft, and needs the "
+"explanatory material that will help weave it together."
+msgstr ""
+
+#: 2c35d6b5f7f04af8b90c0a1d8bd305b5
+msgid ""
+"Your explanation documentation doesn't need to be called *Explanation*. "
+"Alternatives include:"
+msgstr ""
+
+#: b5734e7b1d1a4a9790f2ae8d67a752df
+msgid "*Discussion*"
+msgstr ""
+
+#: 4d2def3f86524f14baf08ad138fb85de
+msgid "*Background*"
+msgstr ""
+
+#: 3e795cb977e948fb986cc99385979771
+msgid "*Conceptual guides*"
+msgstr ""
+
+#: 03a18b6e20814cc89e83f35b7dc86c99
+msgid "*Topics*"
+msgstr ""
+
+#: 75fbefacfdd146f5a75e7877755d7b65
+msgid ""
+"The word *explanation* - and its cognates in other languages - refer to "
+"*unfolding*, the revelation of what is hidden in the folds. So explanation "
+"brings to the light things that were implicit or obscured."
+msgstr ""
+
+#: fd5940d708164914aa91e169058fc9af
+msgid ""
+"Similarly, words that mean *understanding* share roots in words meaning to "
+"hold or grasp (as in *comprehend*). That's an important part of "
+"understanding, to be able to hold something or be in possession of it. "
+"Understanding seals together the other components of our mastery of a craft,"
+" and makes it safely our own."
+msgstr ""
+
+#: 10febbb631314858bf41eea11acd77ea
+msgid ""
+"Understanding doesn't *come from* explanation, but explanation is required "
+"to form that web that helps hold everything together. Without it, the "
+"practitioner's knowledge of their craft is loose and fragmented and fragile,"
+" and their exercise of it is *anxious*."
+msgstr ""
+
+#: 44891fbe078f4ce4a58220dae36dbb86
+msgid "Explanation and its boundaries"
+msgstr ""
+
+#: 49e39514eb6c408192a17d4338576d75
+msgid ""
+"Quite often explanation is not explicitly recognised in documentation; and "
+"the idea that things need to be explained is often only faintly expressed. "
+"Instead, explanation tends to be scattered in small parcels in other "
+"sections."
+msgstr ""
+
+#: 81edd35b01ca46bfb0a67b016a0d5823
+msgid ""
+"It's not always easy to write good explanatory material. Where does one "
+"start? It's also not clear where to conclude. There is an open-endedness "
+"about it that can give the writer too many possibilities."
+msgstr ""
+
+#: 9dda24bc621349b0a810d3aa86a60149
+msgid ""
+"Tutorials, how-to-guides and reference are all clearly defined in their "
+"scope by something that is also well-defined: by what you need the user to "
+"learn, what task the user needs to achieve, or just by the scope of the "
+"machine itself."
+msgstr ""
+
+#: 449553c7190a498f84fd3b2d56557eed
+msgid ""
+"In the case of explanation, it's useful to have a real or imagined *why* "
+"question to serve as a prompt. Otherwise, you simply have to draw some lines"
+" that mark out a reasonable area and be satisfied with that."
+msgstr ""
+
+#: 22de809c101b4176a70d961444eecb36
+msgid "Writing good explanation"
+msgstr ""
+
+#: bd8c026b464a4db1b1f0edf1305e6efb
+msgid "Make connections"
+msgstr ""
+
+#: f5b5fa3b8d71473899f8baea9273fb8c
+msgid ""
+"When writing explanation you are helping to weave a web of understanding for"
+" your readers. **Make connections** to other things, even to things outside "
+"the immediate topic, if that helps."
+msgstr ""
+
+#: c054f2f734ec4e53b3211272a7cd61dc
+msgid "Provide context"
+msgstr ""
+
+#: 4af74eb3249545c29504463bd509b798
+msgid ""
+"**Provide background and context in your explanation**: explain *why* things"
+" are so - design decisions, historical reasons, technical constraints - draw"
+" implications, mention specific examples."
+msgstr ""
+
+#: c32bfe715a734b1d84542a5abff627f7
+msgid "Talk *about* the subject"
+msgstr ""
+
+#: 9984ca3974ab4213a649ee37c78615c5
+msgid "the bigger picture"
+msgstr ""
+
+#: 51873967deda419987e4c10fd58ec6c0
+msgid "history"
+msgstr ""
+
+#: 5f90cafdb8a1450a81f953d66953af6d
+msgid "choices, alternatives, possibilities"
+msgstr ""
+
+#: efea7e33ea2e41c7813dae336448d937
+msgid "why: reasons and justifications"
+msgstr ""
+
+#: a038d942958b4a938788f11e1957395a
+msgid ""
+"Explanation guides are *about* a topic in the sense that they are *around* "
+"it. Even the names of your explanation guides should reflect this; you "
+"should be able to place an implicit (or even explicit) *about* in front of "
+"each title. For example: *About user authentication*, or *About database "
+"connection policies*."
+msgstr ""
+
+#: 7bad92f28053497a866a0413b6f903b0
+msgid "Admit opinion and perspective"
+msgstr ""
+
+#: bea81332871b4ad0a46c4b99f5aff929
+msgid ""
+"Opinion might seem like a funny thing to introduce into documentation. The "
+"fact is that all human activity and knowledge is invested within opinion, "
+"with beliefs and thoughts. The reality of any human creation is rich with "
+"opinion, and that needs to be part of any understanding of it."
+msgstr ""
+
+#: f3ba701d6170422786bc9b0f993cd24e
+msgid ""
+"Similarly, any understanding comes from a perspective, a particular stand-"
+"point - which means that other perspectives and stand-points exist. "
+"**Explanation can and must consider alternatives**, counter-examples or "
+"multiple different approaches to the same question."
+msgstr ""
+
+#: 6215f03b8cd047f0a3ae232f7e2602eb
+msgid ""
+"In explanation, you're not giving instruction or describing facts - you're "
+"opening up the topic for consideration. It helps to think of explanation as "
+"discussion: discussions can even consider and weigh up contrary *opinions*."
+msgstr ""
+
+#: 6430b6b7720f488bbb9d9d8daaf2cc86
+msgid "Keep explanation closely bounded"
+msgstr ""
+
+#: 5577a2ff61de45b19739b397ed836aa0
+msgid ""
+"One risk of explanation is that it tends to absorb other things. The writer,"
+" intent on covering the topic, feels the urge to include instruction or "
+"technical description related to it. But documentation already has other "
+"places for these, and allowing them to creep in interferes with the "
+"explanation itself, and removes them from view in the correct place."
+msgstr ""
+
+#: 3fbc1fc69de94496a1bd3ddf94be430e
+msgid "The language of explanation"
+msgstr ""
+
+#: 87fffa4547cc48c59907042c0e121b27
+msgid "*The reason for x is because historically, y ...*"
+msgstr ""
+
+#: 88edefa8aa91478c8d6cc63fa7a8a5b7
+msgid "Explain."
+msgstr ""
+
+#: ccf86a492f39469f97d604759cdc3c99
+msgid "*W is better than z, because ...*"
+msgstr ""
+
+#: 26de3569c6ef483dbcd2bfcddfc667dd
+msgid "Offer judgements and even opinions where appropriate.."
+msgstr ""
+
+#: 646dabdb1e6f45e7b79e49d0ada80919
+msgid "*An x in system y is analogous to a w in system z. However ...*"
+msgstr ""
+
+#: bb7db9f835b54329b4e656103c594f1c
+msgid "Provide context that helps the reader."
+msgstr ""
+
+#: 292297786b1b4cb2b8c396806b88c5d4
+msgid "*Some users prefer w (because z). This can be a good approach, but...*"
+msgstr ""
+
+#: 3f033821080244d3aafd90fa9f550018
+msgid "Weigh up alternatives."
+msgstr ""
+
+#: bd09e725edf84151a08e19789de4b898
+msgid "*An x interacts with a y as follows: ...*"
+msgstr ""
+
+#: 0989770b13394279bc197739b44a4eae
+msgid ""
+"Unfold the machinery's internal secrets, to help understand why something "
+"does what it does."
+msgstr ""
+
+#: 1b3f375c83e24be69c3da53e939def76
+msgid "Analogy from food and cooking"
+msgstr ""
+
+#: c2396a3dff21424a906c66c42c289692
+msgid ""
+"In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
+" cooking*."
+msgstr ""
+
+#: 2a9bfc41289945bd9762a7e1d41c026e
+msgid ""
+"The book doesn't teach how to cook anything. It doesn't contain recipes "
+"(except as historical examples) and it isn't a work of reference. Instead, "
+"it places food and cooking in the context of history, society, science and "
+"technology. It explains for example why we do what we do in the kitchen and "
+"how that has changed."
+msgstr ""
+
+#: bba9c870918047b59dbb23cce68c5ca8
+msgid ""
+"It's clearly not a book we would read *while* cooking. We would read when we"
+" want to reflect on cooking. It illuminates the subject by taking multiple "
+"different perspectives on it, shining light from different angles."
+msgstr ""
+
+#: 0373b7874d004e40ba72107922e280e0
+msgid ""
+"After reading a book like *On food and cooking*, our understanding is "
+"changed. Our knowledge is richer and deeper. What we have learned may or may"
+" not be immediately applicable next time we are doing something in the "
+"kitchen, but *it will change how we think about our craft, and will affect "
+"our practice*."
+msgstr ""

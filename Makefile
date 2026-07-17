@@ -1,16 +1,17 @@
-# You can set these variables from the command line.
 SPHINXOPTS    =
 SPHINXBUILD   = sphinx-build
-SPHINXPROJ    = DocumentationSystem
+SPHINXPROJ    = Diátaxis
+
 SOURCEDIR     = source
 BUILDDIR      = _build
 HTMLDIR       = $(BUILDDIR)/html
 GETTEXTDIR    = $(BUILDDIR)/gettext
 SPELLINGDIR   = $(BUILDDIR)/spelling
+
 TRANSLATIONSDIR = translation
 TRANSLATIONSOURCEDIR = $(TRANSLATIONSDIR)/source
 TRANSLATIONTARGETSDIR = $(TRANSLATIONSDIR)/targets
-TRANSLATIONLANGUAGES = fr pt de
+TRANSLATIONLANGUAGES = fr pt_BR de zh_CN
 
 VENV = env/bin/activate
 PORT = 8090
@@ -47,10 +48,10 @@ html:
 html-fr:
 	. $(VENV); $(SPHINXBUILD) -b html -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
 
-html-pt:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=pt $(SOURCEDIR) $(HTMLDIR)/pt
+html-pt_BR:
+		. $(VENV); $(SPHINXBUILD) -b html -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
 
-html-all: html html-fr html-pt
+html-all: html html-fr html-pt_BR
 
 gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -68,12 +69,10 @@ spelling:
 	@echo "Check finished. Wrong words can be found in " \
 		"$(SPELLINGDIR)/output.txt."
 
-quickstart:
-	. $(VENV); sphinx-quickstart
 
-.PHONY: help install clean run html html-fr html-pt html-all gettext copy-pot-files update-po-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-pt_BR html-all gettext copy-pot-files update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
 %: Makefile
-	@$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
+	. $(VENV); @$(SPHINXBUILD) -M $@ "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
