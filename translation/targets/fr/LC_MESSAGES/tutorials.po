@@ -110,7 +110,7 @@ msgstr ""
 
 #: 0d5bcfc10a6d4783996ff0fe8259146a
 msgid "At the same time, the exercise you put your pupils through must be:"
-msgstr "L'exercice auquel vous soumettez vos élèves doit être:"
+msgstr "L'exercice auquel vous soumettez vos élèves doit être :"
 
 #: 24c400b9471448f79dd2d6bb4c216e27
 msgid "*meaningful* - the pupil needs to have a sense of achievement"
@@ -120,7 +120,7 @@ msgstr ""
 
 #: 6197f1cebb1e4c37ac920102071027bb
 msgid "*successful* - the pupil needs to be able to complete it"
-msgstr "*accessible*, l'élève doit être capable de l'accomplir"
+msgstr "*à la portée de l'élève, qui doit pouvoir l'accomplir*"
 
 #: 73da455cdc2b44c491e51c3f9d653f2e
 msgid "*logical* - the path that the pupil takes through it needs to make sense"

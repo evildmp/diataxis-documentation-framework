@@ -31,7 +31,7 @@ msgid ""
 "to operate it. Reference material is **information-oriented**."
 msgstr ""
 "Les guides de référence sont des **descriptions techniques** de la "
-"machinerie interne et de son fonctionnement. Les références sont "
+"mécanique interne et de son fonctionnement. Les références sont "
 "**orientées sur l'information**."
 
 #: 7ecdc11ee9ab455e9b2e4efaff61e3f0
@@ -49,7 +49,7 @@ msgid ""
 msgstr ""
 "Le seul but d'un guide de référence est la description, aussi succincte "
 "que possible, de manière ordonnée. Alors que le contenu des tutoriels et "
-"des guides how-to est dicté par les besoins de l'utilisateur, le matériel"
+"des guides pratiques est dicté par les besoins de l'utilisateur, le matériel"
 " des guides de référence est défini par le produit qu'ils décrivent."
 
 #: 1a35dff5b2c649ee84833eb1f494dc98
@@ -108,8 +108,8 @@ msgstr ""
 "Le matériel de référence est analogue à une carte géographique. Une carte"
 " vous donne les informations nécessaires à propos du territoire, sans "
 "avoir à vous déplacer ou à vérifier le territoire par vous-même. Un guide"
-" de référence poursuit le même objectif au sujet d'un produit et de son "
-"fonctionnement interne."
+" de référence poursuit le même objectif au sujet d'un produit et de sa "
+"mécanique interne."
 
 #: 0df476c47f19424fae8476b1d05464d2
 msgid ""
@@ -196,7 +196,7 @@ msgstr ""
 
 #: fb1503f8f2954d15b83c843b1f86cbf9
 msgid "Respect the structure of the machinery"
-msgstr "Respecter la structure du fonctionnement interne"
+msgstr "Respecter la structure de la mécanique interne"
 
 #: cbd68e6e017d48a18216b0914155c563
 msgid ""
@@ -221,7 +221,7 @@ msgstr ""
 
 #: f877bb15428a4fc2a0ea6cca564948a6
 msgid "Provide examples"
-msgstr "Donnez des exemples"
+msgstr "Offrez des exemples"
 
 #: 4b576ae658c544429e43b770a4d5f59c
 msgid ""
@@ -234,7 +234,7 @@ msgstr ""
 
 #: a9ec6a908ddd4c1187ca9cbb29b2c5e8
 msgid "The language of reference guides"
-msgstr "Le langage des références"
+msgstr "Le style des guides de référence"
 
 #: b298a2dc3fa446d2bc5e99cb0f359511
 msgid ""
@@ -245,7 +245,7 @@ msgstr ""
 
 #: df66fdc5b09d4cfdb44c3bfd9c67b93f
 msgid "State facts about the machinery and its behaviour."
-msgstr "Indiquez les faits concernant la machinerie et son comportement."
+msgstr "Indiquez les faits concernant la mécanique et son comportement."
 
 #: 13ec4ef5333248ca859e78b3b3d382cb
 msgid "Sub-commands are: a, b, c, d, e, f."
@@ -265,7 +265,7 @@ msgstr ""
 
 #: 7eb7966f301e4567b21214eb98baa4cf
 msgid "Provide warnings where appropriate."
-msgstr "Publiez des avertissements le cas échéant."
+msgstr "Offrez des avertissements le cas échéant."
 
 #: 0ee408b54afb4cc8aeabe3cf3aef3722
 msgid "Applied to food and cooking"

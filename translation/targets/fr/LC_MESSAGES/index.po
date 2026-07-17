@@ -36,10 +36,10 @@ msgid "How-to guides"
 msgstr "Guides pratiques"
 
 msgid "Reference"
-msgstr "Références"
+msgstr "La référence"
 
 msgid "Explanation"
-msgstr "Explications"
+msgstr "L'explication"
 
 msgid "Workflow"
 msgstr ""
@@ -69,7 +69,7 @@ msgstr "Diátaxis"
 
 #: b16cb0c091044727a0d968a33de2ee8b
 msgid "A systematic approach to technical documentation authoring."
-msgstr "Une approache systématique pour la rédaction de documentations techniques."
+msgstr "Une approche systématique à la rédaction de documentation technique."
 
 #: 82c52fb7558f4058908125dd29b34750
 msgid "Diátaxis is a way of thinking about and doing documentation."
@@ -172,7 +172,7 @@ msgstr ""
 "Avec l'équipe de Gatsby, nous avons récemment réorganisé notre "
 "documentation libre et ouverte, et le cadre de Diátaxis a été notre "
 "ressource privilégiée tout au long du projet. Les quatre quadrants nous "
-"ont aidés à mettre de l'avant l'objectif de la personne-utilisatrice pour"
+"ont aidés à mettre de l'avant l'objectif de l'utilisateur pour"
 " chaque type de documentation. En restructurant la documentation selon le"
 " cadre de Diátaxis, nous avons facilité la découverte de ressources "
 "pertinentes pour l'utilisation du produit et ce, au moment où ces "

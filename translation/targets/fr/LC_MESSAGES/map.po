@@ -141,19 +141,19 @@ msgstr ""
 
 #: 52ea36d8943b491d8746c88bcf482ece
 msgid "\"Can you teach me to...?\""
-msgstr "«Pouvez-vous m'apprendre à... ?»"
+msgstr "« Pouvez-vous m'apprendre à... ? »"
 
 #: 428b401aae3c45d2815666f2451e87bd
 msgid "\"How do I...?\""
-msgstr "«Comment faire... ?»"
+msgstr "« Comment faire... ? »"
 
 #: 193a4fa5609c4328bd832bcb56840ed5
 msgid "\"What is...?\""
-msgstr "«Que signifie... ?»"
+msgstr "« Qu'est-ce que... ? »"
 
 #: e9add9b73ca446fb8c9d184db1fb0e98
 msgid "\"Why...?\""
-msgstr "«Pourquoi... ?»"
+msgstr "« Pourquoi... ? »"
 
 #: be46d5c5a5634a3b8b38ffd4f7062afd
 msgid "oriented to"
@@ -189,7 +189,7 @@ msgstr ""
 
 #: 8f94eaffea9b4cd8bcd850e10863daab
 msgid "to describe the machinery"
-msgstr "de décrire le fonctionnement"
+msgstr "de décrire la mécanique"
 
 #: 9a847694818843f38f5034867524192a
 msgid "to illuminate a topic"
@@ -205,11 +205,11 @@ msgstr "une leçon"
 
 #: 7bbc62dcc4d74f1fa0f71f342788885e
 msgid "a series of steps"
-msgstr "un parcours étape par étape"
+msgstr "une série d'étapes"
 
 #: f0d39408018e489d9c268b1c7e769d63
 msgid "dry description"
-msgstr "une description brute"
+msgstr "une description sobre"
 
 #: 059d95e1125e474ab84e9227b9744609
 msgid "discursive explanation"
@@ -324,7 +324,7 @@ msgstr ""
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
-msgstr "Diátaxis aide à rendre la documentation plus pertinente pour les utilisatrices et utilisateurs dans leur *cycle d'interaction* avec un produit."
+msgstr "Diátaxis aide à rendre la documentation plus pertinente pour les utilisateurs dans leur *cycle d'interaction* avec un produit."
 
 #: 02e865b8d403415aba0cb6b304d689fc
 msgid ""

@@ -43,4 +43,4 @@ msgstr ""
 
 #: 6f89635dd3cd435fa6e6ad48f506b459
 msgid "Last updated on %(last_updated)s"
-msgstr "Dernière mise à jour le %(last_updated)s."
+msgstr "Dernière mise à jour le %(last_updated)s"
