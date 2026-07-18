@@ -123,7 +123,6 @@ msgid ""
 msgstr "**Un guide pratique traite un objectif ou un problème réel**, en fournissant des instructions pratiques pour aider l'utilisateur qui se trouve dans cette situation."
 
 #: 99018831f48d4a4c99334e64113a3728
-#, fuzzy
 msgid ""
 "A how-to guide always addresses an already-competent user, who is "
 "expected to be able to use the guide to help them get their work done. In"
@@ -147,7 +146,6 @@ msgid ":ref:`Reference in more detail <reference>`"
 msgstr ":ref:`La référence en détail <reference>`"
 
 #: 24dfc17d35364b82adb81cca460eeb43
-#, fuzzy
 msgid ""
 "**Reference guides contain the technical description** - facts - that a "
 "user needs in order to do things correctly: accurate, complete, reliable "
@@ -163,7 +161,6 @@ msgid ""
 msgstr "Comme un guide pratique, la référence sert l'utilisateur au *travail*, et il revient à l'utilisateur d'être suffisamment compétent pour l'interpréter et l'utiliser correctement."
 
 #: 62075b7cc801458a996d33ea6e2aded8
-#, fuzzy
 msgid ""
 "*Reference material is neutral.* It is not concerned with what the user "
 "is doing. A marine chart could be used by a ship's navigator to plot a "
