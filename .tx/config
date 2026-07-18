@@ -3,8 +3,8 @@ host = https://www.transifex.com
 lang_map = zh-Hans: zh_CN
 
 [o:danieleprocida:p:diataxis:r:application]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/application.po
-source_file            = translation/source/application.pot
+file_filter            = translation/<lang>/LC_MESSAGES/application.po
+source_file            = _build/gettext/application.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = application
@@ -12,8 +12,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:6980bad7426331e1d4f492ca46455f1a]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/colophon.po
-source_file            = translation/source/colophon.pot
+file_filter            = translation/<lang>/LC_MESSAGES/colophon.po
+source_file            = _build/gettext/colophon.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = colophon
@@ -21,8 +21,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:compass]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/compass.po
-source_file            = translation/source/compass.pot
+file_filter            = translation/<lang>/LC_MESSAGES/compass.po
+source_file            = _build/gettext/compass.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = compass
@@ -30,8 +30,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:explanation]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/explanation.po
-source_file            = translation/source/explanation.pot
+file_filter            = translation/<lang>/LC_MESSAGES/explanation.po
+source_file            = _build/gettext/explanation.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = explanation
@@ -39,8 +39,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:foundations]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/foundations.po
-source_file            = translation/source/foundations.pot
+file_filter            = translation/<lang>/LC_MESSAGES/foundations.po
+source_file            = _build/gettext/foundations.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = foundations
@@ -48,8 +48,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:how-to-guides]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/how-to-guides.po
-source_file            = translation/source/how-to-guides.pot
+file_filter            = translation/<lang>/LC_MESSAGES/how-to-guides.po
+source_file            = _build/gettext/how-to-guides.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = how-to-guides
@@ -57,8 +57,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:how-to-use-diataxis]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/how-to-use-diataxis.po
-source_file            = translation/source/how-to-use-diataxis.pot
+file_filter            = translation/<lang>/LC_MESSAGES/how-to-use-diataxis.po
+source_file            = _build/gettext/how-to-use-diataxis.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = how-to-use-diataxis
@@ -66,8 +66,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:index]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/index.po
-source_file            = translation/source/index.pot
+file_filter            = translation/<lang>/LC_MESSAGES/index.po
+source_file            = _build/gettext/index.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = index
@@ -75,8 +75,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:map]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/map.po
-source_file            = translation/source/map.pot
+file_filter            = translation/<lang>/LC_MESSAGES/map.po
+source_file            = _build/gettext/map.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = map
@@ -84,8 +84,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:quality]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/quality.po
-source_file            = translation/source/quality.pot
+file_filter            = translation/<lang>/LC_MESSAGES/quality.po
+source_file            = _build/gettext/quality.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = quality
@@ -93,8 +93,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:reference]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/reference.po
-source_file            = translation/source/reference.pot
+file_filter            = translation/<lang>/LC_MESSAGES/reference.po
+source_file            = _build/gettext/reference.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = reference
@@ -102,8 +102,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:reference-explanation]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/reference-explanation.po
-source_file            = translation/source/reference-explanation.pot
+file_filter            = translation/<lang>/LC_MESSAGES/reference-explanation.po
+source_file            = _build/gettext/reference-explanation.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = reference-explanation
@@ -111,8 +111,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:sphinx]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/sphinx.po
-source_file            = translation/source/sphinx.pot
+file_filter            = translation/<lang>/LC_MESSAGES/sphinx.po
+source_file            = _build/gettext/sphinx.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = sphinx
@@ -120,8 +120,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:start-here]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/start-here.po
-source_file            = translation/source/start-here.pot
+file_filter            = translation/<lang>/LC_MESSAGES/start-here.po
+source_file            = _build/gettext/start-here.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = start-here
@@ -129,8 +129,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:theory]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/theory.po
-source_file            = translation/source/theory.pot
+file_filter            = translation/<lang>/LC_MESSAGES/theory.po
+source_file            = _build/gettext/theory.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = theory
@@ -138,8 +138,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:tutorials]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/tutorials.po
-source_file            = translation/source/tutorials.pot
+file_filter            = translation/<lang>/LC_MESSAGES/tutorials.po
+source_file            = _build/gettext/tutorials.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = tutorials
@@ -147,8 +147,8 @@ replace_edited_strings = false
 keep_translations      = false
 
 [o:danieleprocida:p:diataxis:r:tutorials-how-to]
-file_filter            = translation/targets/<lang>/LC_MESSAGES/tutorials-how-to.po
-source_file            = translation/source/tutorials-how-to.pot
+file_filter            = translation/<lang>/LC_MESSAGES/tutorials-how-to.po
+source_file            = _build/gettext/tutorials-how-to.pot
 type                   = PO
 minimum_perc           = 0
 resource_name          = tutorials-how-to

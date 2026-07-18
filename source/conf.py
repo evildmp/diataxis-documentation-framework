@@ -41,6 +41,7 @@ html_js_files = [
 language_switcher = [
     ["en", "English"],
     ["fr", "Français"],
+    ["it", "Italiano"],
     ["pt_BR", "Português"],
     # ["zh_CN", "简体中文"],
     # ["de", "Deutsche"],
@@ -82,7 +83,7 @@ redirects = {
 # Translation settings
 
 language = "en"
-locale_dirs = ["../translation/targets"]
+locale_dirs = ["../translation"]
 gettext_compact = False
 gettext_uuid = True
 gettext_location = False

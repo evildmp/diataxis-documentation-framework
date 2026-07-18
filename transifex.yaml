@@ -3,5 +3,5 @@ git:
     - filter_type: dynamic
       file_format: PO
       source_language: en
-      source_files_expression: translation/source/<file>.pot
-      translation_files_expression: translation/targets/<lang>/LC_MESSAGES/<file>.po
+      source_files_expression: _build/gettext/<file>.pot
+      translation_files_expression: translation/<lang>/LC_MESSAGES/<file>.po
