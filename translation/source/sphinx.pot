@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-10 08:57+0200\n"
+"POT-Creation-Date: 2026-07-18 21:32+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,26 +16,26 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: 51465188c69646a0bbedad2eb3417d9b
+#: 94195e991dcf4775a6f93f494915c317
 msgid "Next"
 msgstr ""
 
-#: 729a61b8697941bb9ad1ffa0d928e81b
+#: fe8fe627152d47ac8ac2818fa72fb6b3
 msgid "Previous"
 msgstr ""
 
-#: 85bd2d30aeb3433d80caa3bc5614b4e0
+#: 83d351efbf8e435aafe6ebd97c218d61
 msgid "Home"
 msgstr ""
 
-#: 486690d3d9984baf89bf4f789a36b5e0
+#: df058b4e0bd948df9b3d00d04db01627
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
 msgstr ""
 
-#: 74792d06efb14cd8984df83bdc066d38
+#: 84e6706faabb49afa6756abc757d48c6
 msgid "Copyright &#169; %(copyright)s"
 msgstr ""
 
-#: ce36840190774eb2ba9f9f90897ecb44
+#: d60e2981d6e240e6aa6e2e6c65e7b8fe
 msgid "Last updated on %(last_updated)s"
 msgstr ""

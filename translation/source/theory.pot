@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-07-18 09:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,62 +16,62 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: eacde8b826074a408db779d830d696a2
+#: e94f0defa2fd4f368a6580f032a30fd0
 msgid "Understanding Diátaxis"
 msgstr ""
 
-#: bff54daadb404b8790a6ec797feb634c
+#: 404e2f1f889a4877ba7330ce475e1510
 msgid "The Grand Unified Theory of Documentation"
 msgstr ""
 
-#: e79afee61fe4428a97c5983d6f7ff7b3
+#: 960e22f03d4546d0974bc30e6d6da163
 msgid "David Laing"
 msgstr ""
 
-#: cb5757079dce42459ad24985f5267357
+#: db874b587ed243ba8db77718de971f5a
 msgid "The pages in this section are intended to provide some theoretical grounding for the practices Diátaxis prescribes, and to explore some of the questions it raises."
 msgstr ""
 
-#: f6b75ae5e747432fb96ef28148aba51c
+#: a8a54c24b11144bf8648203ae9454e01
 msgid "Within the discipline of documentation, discourse tends towards the practical and concrete. The approach is generally heuristic: guidelines, rules of thumb, specific imperatives, principles that we know work."
 msgstr ""
 
-#: f237d6aab8104003bda2525bc36a52e0
+#: 30948929cb8644ab8c3b3579d9c1d134
 msgid "As practitioners, we have much to say about what to do, and how to do it and how it works, and relatively little to say about *why* it works. Our sense of the right way to do things is largely based on a combination of intuition and experience. The theoretical aspect of the discipline receives far less attention."
 msgstr ""
 
-#: 6b5d2e800cab4a20aa0e6d434d5d089f
+#: 462a57e6b3514369a09fa37aca7fa242
 msgid "Diátaxis aims to place documentation practice on a more rigorous theoretical footing."
 msgstr ""
 
-#: a25a80e892ef4a62993c4289b25670d2
+#: 8b2a752cad834fb3a6a59976c833cf5e
 msgid "In this section"
 msgstr ""
 
-#: 1faf203ee256435b8f843ad4614aee57
+#: 3e83343d66cb40c2b45c10cad487eae4
 msgid "These pages dig deeper into the thinking that underpins Diátaxis."
 msgstr ""
 
-#: 546834c679b34f3fb47aeba3c3b0fc1a
+#: 80db9b56ec8948fb8fb63ddd18910446
 msgid ":doc:`foundations` - *why* Diátaxis works"
 msgstr ""
 
-#: 2d8ca9422dbe414ca9b8c80fc99417e2
+#: 8050e4020b6b4d9d8d99f01f85fc3471
 msgid ":doc:`map` - documentation in two dimensions"
 msgstr ""
 
-#: a82b0a0ff01b423fa09bb9793c15db14
+#: f6e5ca4ad5254bc28b1c66e94cda139d
 msgid ":doc:`quality`"
 msgstr ""
 
-#: a512f428ca8a4f07b724ac6d672c55cf
+#: 386e17549c69496f92ccbdba45fbb494
 msgid "Common problems explored:"
 msgstr ""
 
-#: 26f102a0f62c4f5ebb4e34d3f70c2fc8
+#: ecbca931a219491ea6cd58c4373475ed
 msgid ":doc:`tutorials-how-to`"
 msgstr ""
 
-#: 999bfcb22f79438ead0715fd7f58dc55
+#: e31a7cd19b224c11b654354efa971da8
 msgid ":doc:`reference-explanation`"
 msgstr ""

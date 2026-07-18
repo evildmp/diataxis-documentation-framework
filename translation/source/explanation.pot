@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis \n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-07-18 09:26+0200\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,230 +16,230 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: 564bf820ef394671bd084e3875ce83e8
+#: 23b00eff6ea247eba913e47fc370f86e
 msgid "Explanation"
 msgstr ""
 
-#: 0572a5290b7847b0ae71b1a0458aa713
+#: 1064afc1be6a470eaeedf1f79801b8de
 msgid "Explanation is a discursive treatment of a subject, that permits *reflection*. Explanation is **understanding-oriented**."
 msgstr ""
 
-#: 33382bbf6f004641a6904459081b7229
+#: 51b4a692c16f4fd4beb5e4fa45613b60
 msgid "Explanation deepens and broadens the reader's understanding of a subject. It brings clarity, light and context."
 msgstr ""
 
-#: 053c8d50814e42e2b9af9ca773a86ed4
+#: 50a38266cbdc44cca2aecec90d291955
 msgid "Explanation - understanding oriented, theoretical knowledge, that serves our study"
 msgstr ""
 
-#: b8e7ce4fb16c4db686468a1e32080bbc
+#: ac8cb16de64949f2809540172e0fa30f
 msgid "The concept of *reflection* is important. Reflection occurs *after* something else, and depends on something else, yet at the same time brings something new - shines a new light - on the subject matter."
 msgstr ""
 
-#: c8f42c26db8945eb907912e41566a8cb
+#: 3c04a71e9afd42aa98151f0424b3ee9b
 msgid "The perspective of explanation is higher and wider than that of the other three types. It does not take the user's eye-level view, as in a how-to guide, or a close-up view of the machinery, like reference material. Its scope in each case is a topic - \"an area of knowledge\", that somehow has to be bounded in a reasonable, meaningful way."
 msgstr ""
 
-#: 53fe9cf3cb054041bf0c7625f968fb81
+#: 78841a1e4fec4839b3c8181a4aa37396
 msgid "For the user, explanation joins things together. It's an answer to the question: *Can you tell me about ...?*"
 msgstr ""
 
-#: 7da3d8ce5a0c442dbc8e551d46b3edb5
+#: 3aa474548f584c4eac18cfe460412323
 msgid "It's documentation that it makes sense to read while away from the product itself (one could say, explanation is the only kind of documentation that it might make sense to read in the bath)."
 msgstr ""
 
-#: 68ca2d8af17244e2a0c227d92fbab3de
+#: 4c7b1a58b154432aae660e508d754837
 msgid "The value and place of explanation"
 msgstr ""
 
-#: 56e0ff7ef8564350b1bcd2b23eabcb63
+#: 39f5a3c2aa5d413f97bcb695b43e65a3
 msgid "Explanation and understanding"
 msgstr ""
 
-#: 32876774ecd748cbbc4f3f8ea26af1e6
+#: d40f93b2f67a4abd945de46477de971e
 msgid "Explanation  is characterised by its distance from the active concerns of the practitioner. It doesn't have direct implications for what they do, or for their work. This means that it's sometimes seen as being of lesser importance. That's a mistake; it may be less *urgent* than the other three, but it's no less *important*. It's not a luxury. No practitioner of a craft can afford to be without an understanding of that craft, and needs the explanatory material that will help weave it together."
 msgstr ""
 
-#: 2c35d6b5f7f04af8b90c0a1d8bd305b5
+#: d7c048fe7a0540eeac91cd0ec14ff4f8
 msgid "Your explanation documentation doesn't need to be called *Explanation*. Alternatives include:"
 msgstr ""
 
-#: b5734e7b1d1a4a9790f2ae8d67a752df
+#: e0590c33d4f44abb977eae28236744e5
 msgid "*Discussion*"
 msgstr ""
 
-#: 4d2def3f86524f14baf08ad138fb85de
+#: 1d186ce0c6ba47cdb9330c3ea475fa1c
 msgid "*Background*"
 msgstr ""
 
-#: 3e795cb977e948fb986cc99385979771
+#: 2ad6590abb4e46568e7e19809022ccd4
 msgid "*Conceptual guides*"
 msgstr ""
 
-#: 03a18b6e20814cc89e83f35b7dc86c99
+#: 49d31246024a4d3f82831281b6e41afd
 msgid "*Topics*"
 msgstr ""
 
-#: 75fbefacfdd146f5a75e7877755d7b65
+#: 398c68a6c8b744f7aebfb38f84492e46
 msgid "The word *explanation* - and its cognates in other languages - refer to *unfolding*, the revelation of what is hidden in the folds. So explanation brings to the light things that were implicit or obscured."
 msgstr ""
 
-#: fd5940d708164914aa91e169058fc9af
+#: 836cf23128fd4328a29c7d2817712a39
 msgid "Similarly, words that mean *understanding* share roots in words meaning to hold or grasp (as in *comprehend*). That's an important part of understanding, to be able to hold something or be in possession of it. Understanding seals together the other components of our mastery of a craft, and makes it safely our own."
 msgstr ""
 
-#: 10febbb631314858bf41eea11acd77ea
+#: 68ac1bad38dc41fcb4544b8ebcf11415
 msgid "Understanding doesn't *come from* explanation, but explanation is required to form that web that helps hold everything together. Without it, the practitioner's knowledge of their craft is loose and fragmented and fragile, and their exercise of it is *anxious*."
 msgstr ""
 
-#: 44891fbe078f4ce4a58220dae36dbb86
+#: 6618cd007a1348c09ca11f1d275adf39
 msgid "Explanation and its boundaries"
 msgstr ""
 
-#: 49e39514eb6c408192a17d4338576d75
+#: bb140053243447c68faadd2cb1eb46f4
 msgid "Quite often explanation is not explicitly recognised in documentation; and the idea that things need to be explained is often only faintly expressed. Instead, explanation tends to be scattered in small parcels in other sections."
 msgstr ""
 
-#: 81edd35b01ca46bfb0a67b016a0d5823
+#: d9946f138ca24f1cb72d43c235edf153
 msgid "It's not always easy to write good explanatory material. Where does one start? It's also not clear where to conclude. There is an open-endedness about it that can give the writer too many possibilities."
 msgstr ""
 
-#: 9dda24bc621349b0a810d3aa86a60149
+#: 89c018e7e9c24eaea7f92d8a7b13682d
 msgid "Tutorials, how-to-guides and reference are all clearly defined in their scope by something that is also well-defined: by what you need the user to learn, what task the user needs to achieve, or just by the scope of the machine itself."
 msgstr ""
 
-#: 449553c7190a498f84fd3b2d56557eed
+#: 8e9d88a6c7b44136a7c6af70e0463760
 msgid "In the case of explanation, it's useful to have a real or imagined *why* question to serve as a prompt. Otherwise, you simply have to draw some lines that mark out a reasonable area and be satisfied with that."
 msgstr ""
 
-#: 22de809c101b4176a70d961444eecb36
+#: 664c579c355c424d896f04d9ecebf49a
 msgid "Writing good explanation"
 msgstr ""
 
-#: bd8c026b464a4db1b1f0edf1305e6efb
+#: 9925934e2a91465da4aca6b135009252
 msgid "Make connections"
 msgstr ""
 
-#: f5b5fa3b8d71473899f8baea9273fb8c
+#: bf3c5c74548a48778d94283bd7bde3fd
 msgid "When writing explanation you are helping to weave a web of understanding for your readers. **Make connections** to other things, even to things outside the immediate topic, if that helps."
 msgstr ""
 
-#: c054f2f734ec4e53b3211272a7cd61dc
+#: f83cebce6795490896365dcf032b0edb
 msgid "Provide context"
 msgstr ""
 
-#: 4af74eb3249545c29504463bd509b798
+#: c8d477ba52f54c4dada868b4886ef371
 msgid "**Provide background and context in your explanation**: explain *why* things are so - design decisions, historical reasons, technical constraints - draw implications, mention specific examples."
 msgstr ""
 
-#: c32bfe715a734b1d84542a5abff627f7
+#: c0df27810fe940f1be5ec253b2c4cc0d
 msgid "Talk *about* the subject"
 msgstr ""
 
-#: 9984ca3974ab4213a649ee37c78615c5
+#: 969efd79922345c38df202e3748b6d6e
 msgid "the bigger picture"
 msgstr ""
 
-#: 51873967deda419987e4c10fd58ec6c0
+#: 42ab2e7c678f48a68551da32a79b620f
 msgid "history"
 msgstr ""
 
-#: 5f90cafdb8a1450a81f953d66953af6d
+#: dec663b07f2f4e71a929fa48d7860b48
 msgid "choices, alternatives, possibilities"
 msgstr ""
 
-#: efea7e33ea2e41c7813dae336448d937
+#: 9b2ed4cc33134ce4aceacce2466810e4
 msgid "why: reasons and justifications"
 msgstr ""
 
-#: a038d942958b4a938788f11e1957395a
+#: 3b775319ded14ec0abe9deeeb4288b4d
 msgid "Explanation guides are *about* a topic in the sense that they are *around* it. Even the names of your explanation guides should reflect this; you should be able to place an implicit (or even explicit) *about* in front of each title. For example: *About user authentication*, or *About database connection policies*."
 msgstr ""
 
-#: 7bad92f28053497a866a0413b6f903b0
+#: 2d874fa5e23046feb79a2404ef51c092
 msgid "Admit opinion and perspective"
 msgstr ""
 
-#: bea81332871b4ad0a46c4b99f5aff929
+#: 3101962d2fd243879f1b9cd43a912c0b
 msgid "Opinion might seem like a funny thing to introduce into documentation. The fact is that all human activity and knowledge is invested within opinion, with beliefs and thoughts. The reality of any human creation is rich with opinion, and that needs to be part of any understanding of it."
 msgstr ""
 
-#: f3ba701d6170422786bc9b0f993cd24e
+#: b8e2222dcc9a43bab557ac6dc4aba650
 msgid "Similarly, any understanding comes from a perspective, a particular stand-point - which means that other perspectives and stand-points exist. **Explanation can and must consider alternatives**, counter-examples or multiple different approaches to the same question."
 msgstr ""
 
-#: 6215f03b8cd047f0a3ae232f7e2602eb
+#: fa2c170b53294b1180afb5494e428db8
 msgid "In explanation, you're not giving instruction or describing facts - you're opening up the topic for consideration. It helps to think of explanation as discussion: discussions can even consider and weigh up contrary *opinions*."
 msgstr ""
 
-#: 6430b6b7720f488bbb9d9d8daaf2cc86
+#: 0479f177408c4a7e86e10f5082e712f4
 msgid "Keep explanation closely bounded"
 msgstr ""
 
-#: 5577a2ff61de45b19739b397ed836aa0
+#: c326010d966b4b589adecaff7ef0b55b
 msgid "One risk of explanation is that it tends to absorb other things. The writer, intent on covering the topic, feels the urge to include instruction or technical description related to it. But documentation already has other places for these, and allowing them to creep in interferes with the explanation itself, and removes them from view in the correct place."
 msgstr ""
 
-#: 3fbc1fc69de94496a1bd3ddf94be430e
+#: d2ed9b3eda8e4ca4921ff99474abc80d
 msgid "The language of explanation"
 msgstr ""
 
-#: 87fffa4547cc48c59907042c0e121b27
+#: 8654ffd0ba7e4760b98155d88dbd9ebb
 msgid "*The reason for x is because historically, y ...*"
 msgstr ""
 
-#: 88edefa8aa91478c8d6cc63fa7a8a5b7
+#: b3edaae26c44477993bd9ff8eda3b246
 msgid "Explain."
 msgstr ""
 
-#: ccf86a492f39469f97d604759cdc3c99
+#: 2d7e56407f334994ba98707260658e8b
 msgid "*W is better than z, because ...*"
 msgstr ""
 
-#: 26de3569c6ef483dbcd2bfcddfc667dd
+#: 3a68ec8c50664237be9126017dcef372
 msgid "Offer judgements and even opinions where appropriate.."
 msgstr ""
 
-#: 646dabdb1e6f45e7b79e49d0ada80919
+#: 8426f58128fd4326b5d44b7f513b4bbc
 msgid "*An x in system y is analogous to a w in system z. However ...*"
 msgstr ""
 
-#: bb7db9f835b54329b4e656103c594f1c
+#: 29c9b961b3c74476a89fffcc9921b626
 msgid "Provide context that helps the reader."
 msgstr ""
 
-#: 292297786b1b4cb2b8c396806b88c5d4
+#: fa6e65b5b72349dfbfbf8c920ae3aa23
 msgid "*Some users prefer w (because z). This can be a good approach, but...*"
 msgstr ""
 
-#: 3f033821080244d3aafd90fa9f550018
+#: 14f18b8d53bc4e839977a17a8a181572
 msgid "Weigh up alternatives."
 msgstr ""
 
-#: bd09e725edf84151a08e19789de4b898
+#: a757beb80fa54f27a499c4dc762528e1
 msgid "*An x interacts with a y as follows: ...*"
 msgstr ""
 
-#: 0989770b13394279bc197739b44a4eae
+#: 57b2af1cfc484c578b159b63938d63bd
 msgid "Unfold the machinery's internal secrets, to help understand why something does what it does."
 msgstr ""
 
-#: 1b3f375c83e24be69c3da53e939def76
+#: 9d558521d4e148ba9f467e8f1c2da111
 msgid "Analogy from food and cooking"
 msgstr ""
 
-#: c2396a3dff21424a906c66c42c289692
+#: f87fa958ef4e48368311ecab0a6e6b5a
 msgid "In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and cooking*."
 msgstr ""
 
-#: 2a9bfc41289945bd9762a7e1d41c026e
+#: 0540fb1e49ef47f8b74c51416acb6c94
 msgid "The book doesn't teach how to cook anything. It doesn't contain recipes (except as historical examples) and it isn't a work of reference. Instead, it places food and cooking in the context of history, society, science and technology. It explains for example why we do what we do in the kitchen and how that has changed."
 msgstr ""
 
-#: bba9c870918047b59dbb23cce68c5ca8
+#: 45ace85a2e024dd8a0f3407c38fb184c
 msgid "It's clearly not a book we would read *while* cooking. We would read when we want to reflect on cooking. It illuminates the subject by taking multiple different perspectives on it, shining light from different angles."
 msgstr ""
 
-#: 0373b7874d004e40ba72107922e280e0
+#: e4ae4b21bded44d8a06e4776d4a3b321
 msgid "After reading a book like *On food and cooking*, our understanding is changed. Our knowledge is richer and deeper. What we have learned may or may not be immediately applicable next time we are doing something in the kitchen, but *it will change how we think about our craft, and will affect our practice*."
 msgstr ""

@@ -1,444 +1,452 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
-#, fuzzy
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 19:26+0200\n"
+"POT-Creation-Date: 2026-07-18 09:26+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: Daniele Procida <daniele@vurt.org>\n"
 "Language: fr\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
-#: 8c5095d0878844dcbfbae8db0b2a5fd7
+#: ad005ec2c3984d9e942877f651549201
 msgid ""
-"The best way to get started with Diátaxis is by applying it to documentation"
-" problems."
-msgstr ""
+"The best way to get started with Diátaxis is by applying it to "
+"documentation problems."
+msgstr "La meilleure façon de débuter avec Diátaxis est de l'appliquer à des problèmes de documentation."
 
-#: c32b9c1d44d842a6bb8d46ee53caa1d1
+#: ef2aa9e8691245c9a4bce05002209e13
 msgid "Start here - Diátaxis in five minutes"
-msgstr ""
+msgstr "Commencer ici - Diátaxis en cinq minutes"
 
-#: c8ed4d28160c4af695e6d61222b7b0ab
+#: 188f4d8c1eae420da00bf343a21f42ba
 msgid ""
-"Treat this website as a handbook or a toolbox that you make use of when you "
-"need it."
-msgstr ""
+"Treat this website as a handbook or a toolbox that you make use of when "
+"you need it."
+msgstr "Considérez ce site comme un manuel ou une boîte à outils que vous utilisez quand vous en avez besoin."
 
-#: 108555591bed4b4eb2002908ee008fa3
+#: ca2a18cef48e461abec39f522d1ba4ea
 msgid ""
-"You don't need to read everything on this website to make sense of Diátaxis,"
-" or to start using it in practice. In fact I recommend that you don't. **The"
-" best way to get started with Diátaxis is by applying it** - to something, "
-"however small."
-msgstr ""
+"You don't need to read everything on this website to make sense of "
+"Diátaxis, or to start using it in practice. In fact I recommend that you "
+"don't. **The best way to get started with Diátaxis is by applying it** - "
+"to something, however small."
+msgstr "Vous n'avez pas à lire tout ce site pour comprendre Diátaxis, ni pour commencer à l'utiliser en pratique. En fait, je vous le déconseille même. **La meilleure façon de débuter avec Diátaxis est de l'appliquer** - à quelque chose, si petit soit-il."
 
-#: 323ba46655fa4ee197cf79cd7bc0dfb6
+#: a892edc2804b4c838c32056375a4b1ec
 msgid ""
-"Read this page for a brief primer. Each section contains links to more in-"
-"depth material; refer to that when you need it - when you're actually at "
-"work, or reflecting on the documentation problems you have encountered."
-msgstr ""
+"Read this page for a brief primer. Each section contains links to more "
+"in-depth material; refer to that when you need it - when you're actually "
+"at work, or reflecting on the documentation problems you have "
+"encountered."
+msgstr "Lisez cette page pour une brève introduction. Chaque section contient des liens vers du contenu plus approfondi ; consultez-le lorsque vous en avez besoin - quand vous êtes en plein travail, ou que vous réfléchissez aux problèmes de documentation que vous avez rencontrés."
 
-#: 7ad2b56d69db42858d5f1ca2d21f6940
+#: 080205993bae4ef9b3fbb805e4ec8d0d
 msgid "The four kinds of documentation"
-msgstr ""
+msgstr "Les quatre types de documentation"
 
-#: 369aada21d2e4054b2a757d9197c0618
+#: 0bddc6032bc345ea84a56586d0dd01e9
 msgid ""
-"The core idea of Diátaxis is that there are fundamentally four identifiable "
-"kinds of documentation, that respond to four different needs. The four kinds"
-" are: *tutorials*, *how-to guides*, *reference* and *explanation*. Each has "
-"a different purpose, and needs to be written in a different way."
-msgstr ""
+"The core idea of Diátaxis is that there are fundamentally four "
+"identifiable kinds of documentation, that respond to four different "
+"needs. The four kinds are: *tutorials*, *how-to guides*, *reference* and "
+"*explanation*. Each has a different purpose, and needs to be written in a"
+" different way."
+msgstr "L'idée centrale de Diátaxis est qu'il existe fondamentalement quatre types identifiables de documentation, qui répondent à quatre besoins différents. Les quatre types sont : *tutoriels*, *guides pratiques*, *référence* et *explication*. Chacun a un but différent et se rédige à sa façon."
 
-#: 534a465ce04246f5a7cab92657b028df
+#: 96eb8da798204d099591b1b99608c332
 msgid "Tutorials"
-msgstr ""
+msgstr "Tutoriels"
 
-#: 52d963736b564bb4ad4c33625c9eb018
+#: 4ce7f77953d347dcb327da719c058a25
 msgid ":ref:`Tutorials in more detail <tutorials>`"
-msgstr ""
+msgstr ":ref:`Les tutoriels en détail <tutorials>`"
 
-#: c9e53ea09f984131bc354b3f2e9d1756
+#: 9009865bf951413c9cae54b166db5acf
 msgid ""
-":ref:`Why tutorials are completely different from how-to guides <tutorials-"
-"how-to>`"
-msgstr ""
+":ref:`Why tutorials are completely different from how-to guides "
+"<tutorials-how-to>`"
+msgstr ":ref:`Pourquoi les tutoriels sont complètement différents des guides pratiques <tutorials-how-to>`"
 
-#: 7cf0088e9438425f8f454f395b271c7c
+#: df31f14f3cca4acba6303d6c3f1df4ff
 msgid ""
 "**A tutorial is a lesson**, that takes a student by the hand through a "
 "learning experience. A tutorial is always *practical*: the user *does* "
 "something, under the guidance of an instructor. A tutorial is designed "
 "around an encounter that the learner can make sense of, in which the "
 "instructor is responsible for the learner's safety and success."
-msgstr ""
+msgstr "**Un tutoriel est une leçon**, qui guide l'élève par la main à travers une expérience d'apprentissage. Un tutoriel est toujours *pratique* : l'utilisateur *agit*, sous la direction d'un enseignant. Un tutoriel est conçu autour d'une rencontre que l'apprenant peut comprendre, dans laquelle l'enseignant est responsable de sa sécurité et de sa réussite."
 
-#: c0067aaf3e524feab93434a160de5b4d
+#: a87fb567ef9343bdb3117098736fa1c6
 msgid ""
-"A driving lesson is a good example of a tutorial. The purpose of the lesson "
-"is to develop skills and confidence in the student, not to get from A to B. "
-"A software example could be: *Let's create a simple game in Python*."
-msgstr ""
+"A driving lesson is a good example of a tutorial. The purpose of the "
+"lesson is to develop skills and confidence in the student, not to get "
+"from A to B. A software example could be: *Let's create a simple game in "
+"Python*."
+msgstr "Une leçon de conduite est un bon exemple de tutoriel. L'objectif de la leçon est de développer les compétences et la confiance de l'élève, et n'est pas d'aller de A à B. Un exemple logiciel pourrait être : *Créons un jeu simple en Python*."
 
-#: 7e6eab9b010840d3a801fc255250d0c6
+#: 919b66e2e0ae424281a9e57bbb3fdfa3
 msgid ""
-"*The user will learn through what they do* - not because someone has tried "
-"to teach them."
-msgstr ""
+"*The user will learn through what they do* - not because someone has "
+"tried to teach them."
+msgstr "*L'utilisateur apprendra par ce qu'il fait* - et pas parce que quelqu'un a essayé de lui enseigner."
 
-#: c7f1ff94f0544f6ab989d5636cbb9843
+#: 6a3c06f2dec84e2884096d9ee046fadc
 msgid ""
-"In documentation, the special difficulty is that the instructor is condemned"
-" to be absent, and is not there to monitor the learner and correct their "
-"mistakes. The instructor must somehow find a way to be present through "
-"written instruction alone."
-msgstr ""
+"In documentation, the special difficulty is that the instructor is "
+"condemned to be absent, and is not there to monitor the learner and "
+"correct their mistakes. The instructor must somehow find a way to be "
+"present through written instruction alone."
+msgstr "Dans le cas de la documentation, la difficulté particulière est que l'enseignant est condamné à être absent, et n'est pas là pour surveiller l'apprenant et corriger ses erreurs. L'enseignant doit, d'une manière ou d'une autre, trouver un moyen d'être présent uniquement par l'instruction écrite."
 
-#: 0a5d4bb6852248b29475ab0a5cc21312
+#: 905b8d99b72744ffb73cabb6055fa192
 msgid "How-to guides"
-msgstr ""
+msgstr "Guides pratiques"
 
-#: b7f600e4e5344783a5a5eb726e133ec0
+#: e0127bc9147a4f6395b21d1ff5a2ebf0
 msgid ":ref:`How-to guides in more detail <how-to>`"
-msgstr ""
+msgstr ":ref:`Les guides pratiques en détail <how-to>`"
 
-#: 884e3d7c78e848fa91c54d7eb6d356b6
+#: b6bb08c0f2694584b3c282806fb5987a
 msgid ""
 "**A how-to guide addresses a real-world goal or problem**, by providing "
 "practical directions to help the user who is in that situation."
-msgstr ""
+msgstr "**Un guide pratique traite un objectif ou un problème réel**, en fournissant des instructions pratiques pour aider l'utilisateur qui se trouve dans cette situation."
 
-#: a4d83636c1ab406bb0699b599d33b136
+#: 99018831f48d4a4c99334e64113a3728
+#, fuzzy
 msgid ""
-"A how-to guide always addresses an already-competent user, who is expected "
-"to be able to use the guide to help them get their work done. In contrast to"
-" a tutorial, a how-to guide is concerned with *work* rather than *study*."
-msgstr ""
+"A how-to guide always addresses an already-competent user, who is "
+"expected to be able to use the guide to help them get their work done. In"
+" contrast to a tutorial, a how-to guide is concerned with *work* rather "
+"than *study*."
+msgstr "Un guide pratique s'adresse toujours à un utilisateur déjà compétent, supposé capable de se servir du guide pour accomplir son travail. Contrairement à un tutoriel, le guide pratique concerne le *travail* et non l'*étude*."
 
-#: 6a9263f7179f48b7a0c7a7e1cd8b809a
+#: f899c6e4d2e64ca49344fad780492b22
 msgid ""
-"A how-to guide might be: *How to store cellulose nitrate film* (in motion "
-"picture photography) or *How to configure frame profiling* (in software). Or"
-" even: *Troubleshooting deployment problems*."
-msgstr ""
+"A how-to guide might be: *How to store cellulose nitrate film* (in motion"
+" picture photography) or *How to configure frame profiling* (in "
+"software). Or even: *Troubleshooting deployment problems*."
+msgstr "Un guide pratique pourrait être : *Comment conserver le film nitrate de cellulose* (en photographie cinématographique) ou *Comment configurer le profilage des frames* (dans le domain logiciel). Ou même : *Résoudre les problèmes de déploiement*."
 
-#: 9b3d7363b2414ca2ab45f611308feb94
+#: 67fc242a5f2443588ec07b88c3dce9a9
 msgid "Reference"
-msgstr ""
+msgstr "Référence"
 
-#: 89bf413487454ec3aa64b5cd317bf9bc
+#: 3f4be67a3423463daa43f0e52ff49b2d
 msgid ":ref:`Reference in more detail <reference>`"
-msgstr ""
+msgstr ":ref:`La référence en détail <reference>`"
 
-#: fd095dc555254b4c9470384d4dd65e57
+#: 24dfc17d35364b82adb81cca460eeb43
+#, fuzzy
 msgid ""
-"**Reference guides contain the technical description** - facts - that a user"
-" needs in order to do things correctly: accurate, complete, reliable "
+"**Reference guides contain the technical description** - facts - that a "
+"user needs in order to do things correctly: accurate, complete, reliable "
 "information, free of distraction and interpretation. They contain "
 "*propositional or theoretical knowledge*, not guides to action."
-msgstr ""
+msgstr "**Les guides de référence contiennent la description technique** — des faits — dont l'utilisateur a besoin pour agir correctement : des informations précises, complètes et fiables, sans distraction ni interprétation. Ils contiennent du *savoir propositionnel ou théorique*, et pas des guides d'action."
 
-#: ce813a9c134641df9e00c1c51c6b54af
+#: 8f04c770b0be4f77b8ef7516c34f33fb
 msgid ""
 "Like a how-to guide, reference documentation serves the user who is at "
-"*work*, and it's up to the user to be sufficiently competent to interpret "
-"and use it correctly."
-msgstr ""
+"*work*, and it's up to the user to be sufficiently competent to interpret"
+" and use it correctly."
+msgstr "Comme un guide pratique, la référence sert l'utilisateur au *travail*, et il revient à l'utilisateur d'être suffisamment compétent pour l'interpréter et l'utiliser correctement."
 
-#: b22157058df349ceaf7f29ead66f89b9
+#: 62075b7cc801458a996d33ea6e2aded8
+#, fuzzy
 msgid ""
-"*Reference material is neutral.* It is not concerned with what the user is "
-"doing. A marine chart could be used by a ship's navigator to plot a course, "
-"but equally well by a prosecuting magistrate in a legal case."
-msgstr ""
+"*Reference material is neutral.* It is not concerned with what the user "
+"is doing. A marine chart could be used by a ship's navigator to plot a "
+"course, but equally well by an investigating judge."
+msgstr "*Le contenu de référence est neutre.* Elle ne se préoccupe pas de ce que fait l'utilisateur. Une carte marine peut être utilisée par un navigateur pour tracer une route, mais tout aussi bien par un juge d'instruction."
 
-#: 63bc5886793d4796b3cd6f808ae62ac2
+#: d41ebb12e71647e3800871249b66f35c
 msgid ""
-"Where possible, the architecture of reference documentation should reflect "
-"the structure or architecture of the thing it's describing - just like a map"
-" does. If a method is part of a class that belongs to a certain module, then"
-" we should expect to see the same relationship in the documentation too."
-msgstr ""
+"Where possible, the architecture of reference documentation should "
+"reflect the structure or architecture of the thing it's describing - just"
+" like a map does. If a method is part of a class that belongs to a "
+"certain module, then we should expect to see the same relationship in the"
+" documentation too."
+msgstr "Lorsque c'est possible, l'architecture de la référence devrait refléter la structure ou l'architecture de ce qu'elle décrit — tout comme une carte. Si une méthode fait partie d'une classe qui appartient à un certain module, alors nous devrions nous attendre à voir la même relation dans la documentation."
 
-#: ef2b5644f1cd4bf8bcac5f6adee1cf3f
+#: d970483c2366461c90e65299faa5aa57
 msgid "Explanation"
-msgstr ""
+msgstr "Explication"
 
-#: 1a7190dff43f43f7a7e0ae5e451e811c
+#: fa163130c9f24e23bd8ec7380a1b3e9e
 msgid ":ref:`Explanation in more detail <explanation>`"
-msgstr ""
+msgstr ":ref:`L'explication en détail <explanation>`"
 
-#: 0992c868e0684987ac046a2504df8422
+#: b4a05ae759b74713823d3308ddeba2c2
 msgid ""
 ":ref:`Understanding the difference between reference and explanation "
 "<reference-explanation>`"
-msgstr ""
+msgstr ":ref:`Comprendre la différence entre référence et explication <reference-explanation>`"
 
-#: aa7943f04b554e2582a713db1981b214
+#: 559e0a105c2048a7952c7b287841b050
 msgid ""
-"**Explanatory guides provide context and background.** They serve the need "
-"to understand and put things in a bigger picture. Explanation joins things "
-"together, and helps answer the question *why?*"
-msgstr ""
+"**Explanatory guides provide context and background.** They serve the "
+"need to understand and put things in a bigger picture. Explanation joins "
+"things together, and helps answer the question *why?*"
+msgstr "**Les guides d'explication fournissent du contexte et des arrière-plans.** Ils répondent au besoin de comprendre et d'embrasser une perspective plus large. L'explication relie les questions, et aide à répondre à la question *pourquoi ?*"
 
-#: 853008c5c8184493b12e098091f40970
+#: 9aefab12f2534d5792379cf15da269f0
 msgid ""
-"Explanation often needs to circle around its subject, and approach it from "
-"different directions. It can contain opinions and take perspectives."
-msgstr ""
+"Explanation often needs to circle around its subject, and approach it "
+"from different directions. It can contain opinions and take perspectives."
+msgstr "L'explication doit souvent tourner autour de son sujet et l'aborder sous différents angles. Elle peut contenir des opinions et prendre des positions."
 
-#: d35d0a58eabb45438cc28986d352ba14
+#: bdb29df307654d53a0a5c180d4028d9f
 msgid ""
-"Like reference, explanation belongs to the realm of propositional knowledge "
-"rather than action. However its purpose is to serve the user's study - as "
-"tutorials do - and not their work."
-msgstr ""
+"Like reference, explanation belongs to the realm of propositional "
+"knowledge rather than action. However its purpose is to serve the user's "
+"study - as tutorials do - and not their work."
+msgstr "Comme la référence, l'explication relève du savoir propositionnel plutôt que de l'action. Toutefois, son but est de servir l'étude de l'utilisateur — comme le font les tutoriels — et pas son travail."
 
-#: fd7f8c2e1ae543cbadccb79a75b5a23e
+#: 83be036de58347e9b20a96da3be0ca08
 msgid ""
 "Often, writers of tutorials who are anxious that their students should "
 "*know* things overload their tutorials with distracting and unhelpful "
 "explanation. It would be much more useful to give the learner the most "
 "minimal explanation (\"Here, we use HTTPS because it's safer\") and then "
-"link to an in-depth article (*Secure communication using HTTPS encryption*) "
-"for when the user is ready for it."
-msgstr ""
+"link to an in-depth article (*Secure communication using HTTPS "
+"encryption*) for when the user is ready for it."
+msgstr "Souvent, les auteurs de tutoriels, soucieux que leurs élèves *connaissent* les choses, surchargent leurs tutoriels d'explications distrayantes et inutiles. Il serait bien plus utile de fournir à l'apprenant explication minimale (« Ici, nous utilisons HTTPS parce que c'est plus sûr ») puis de pointer vers un article approfondi (*Communication sécurisée à l'aide du chiffrement HTTPS*) pour le moment où l'utilisateur sera prêt."
 
-#: 8b112872a37c4721b095a641413e72a4
+#: d6c5bd94e1fa4a3781382ea54ad331a0
 msgid "The Diátaxis map"
-msgstr ""
+msgstr "La carte Diátaxis"
 
-#: da6c97decd1247fa82cc08d0c60f7a5d
+#: 811fc9664e3f43ab8fd8a237fe95b6b3
 msgid ""
-"The four kinds of documentation and the relationships between them can be "
-"summarised in the Diátaxis map."
-msgstr ""
+"The four kinds of documentation and the relationships between them can be"
+" summarised in the Diátaxis map."
+msgstr "Les quatre types de documentation et les relations entre eux peuvent être résumés dans la carte Diátaxis."
 
-#: e94dd0fa81124780ab3fd0e92354b16a
+#: 8dfc4353b87f406c8556d11d3ae0379a
 msgid ":ref:`The map in more detail <map>`"
-msgstr ""
+msgstr ":ref:`La carte en détail <map>`"
 
-#: 341d8044e2ce4de6ba58211be7289d86
+#: 1941da83c45e4fb7a7f73ed7e49acc47
 msgid ""
 "Diátaxis is not just a list of four different things, but a conceptual "
 "arrangement of them. It shows how the four kinds of documentation are "
 "related to each other, and distinct from each other."
-msgstr ""
+msgstr "Diátaxis n'est pas qu'une liste de quatre choses différentes, mais un agencement conceptuel de ces choses. Il montre comment les quatre types de documentation sont liés entre eux et se distinguent les uns des autres."
 
-#: f2d53abb0c9744e4af435448dbd38086
+#: 2da8f669e66e4b76b7d966eca14d4541
 msgid ""
-"Crossing or blurring the boundaries described in the map is at the heart of "
-"a vast number of problems in documentation."
-msgstr ""
+"Crossing or blurring the boundaries described in the map is at the heart "
+"of a vast number of problems in documentation."
+msgstr "Franchir ou brouiller les frontières décrites dans la carte est au cœur d'une foule de problèmes de documentation."
 
-#: 1e6601becb214514a620e2bc17bc6eb7
+#: 3d090eb903e14c5485f78db53b5ca891
 msgid "Diátaxis"
-msgstr ""
+msgstr "Diátaxis"
 
-#: e51f9f5cd6c64e0788700ab4ae682d5b
+#: 85201d91be784c6c926d661d4055515f
 msgid "The Diátaxis compass"
-msgstr ""
+msgstr "La boussole Diátaxis"
 
-#: 456a0f650df34303baba3c4777ac6da9
+#: 4e61a0371be044a9a542cd679735d4dc
 msgid "As you can see from the map:"
-msgstr ""
+msgstr "Comme on le voit sur la carte :"
 
-#: 89afeff409614010aa753ff535ab134a
+#: 1935be7e620f499582b8b34bff4a50a3
 msgid ""
 "tutorials and how-to guides are concerned with what the user *does* "
 "(**action**)"
-msgstr ""
+msgstr "les tutoriels et les guides pratiques concernent ce que l'utilisateur *fait* (**action**)"
 
-#: 17f8896d4679486ba26bf0458c49aae1
-msgid ""
-"reference and explanation are about what the user *knows* (**cognition**)"
-msgstr ""
+#: 7bacd4375b0b490da9209dce2344d597
+msgid "reference and explanation are about what the user *knows* (**cognition**)"
+msgstr "la référence et l'explication portent sur ce que l'utilisateur *sait* (**cognition**)"
 
-#: 9ff717f99ecb4a5fa30c401f0ee9db37
+#: 7b91b03674304bcd92f1f21ff05e68a7
 msgid "On the other hand:"
-msgstr ""
+msgstr "D'autre part :"
 
-#: f044d418269e473eabe4e2ed4fa04434
+#: 225204e16bc941bdb3848b118ef5bd6a
 msgid ""
 "tutorials and explanation serve the *acquistion* of skill (the user's "
 "**study**)"
-msgstr ""
+msgstr "les tutoriels et l'explication servent l'*acquisition* de compétence (l'**étude** de l'utilisateur)"
 
-#: fa5429ab0b75498d8e675d2657183898
+#: 8e438babd4fd49e9adb973a045f82491
 msgid ""
 "how-to guides and reference serve the *application* of skill (the user's "
 "**work**)"
-msgstr ""
+msgstr "les guides pratiques et la référence servent l'*application* de compétence (le **travail** de l'utilisateur)"
 
-#: 005ca9173abd41e58c30e935093455b1
+#: f52faea58fd843e9824c4f7529404585
 msgid ""
 "But a map doesn't tell you what to *do* - it's reference. To guide your "
-"action you need a different sort of tool, in this case, a kind of Diátaxis "
-"compass."
-msgstr ""
+"action you need a different sort of tool, in this case, a kind of "
+"Diátaxis compass."
+msgstr "Mais une carte ne vous dit pas ce qu'il faut *faire* — c'est de la référence. Pour guider votre action, il vous faut un autre type d'outil, dans ce case, une boussole Diátaxis."
 
-#: 66ab5156159f448b952ff25674db7b49
+#: ee653dbdf0f548098e38d650b4803252
 msgid ":ref:`The compass in more detail <compass>`"
-msgstr ""
+msgstr ":ref:`La boussole en détail <compass>`"
 
-#: a4d0de4518854d1caabeccd6f21f51b6
+#: 0b17923ebb9e400888aff73c47e5a0fc
 msgid "The compass is useful in two different ways."
-msgstr ""
+msgstr "La boussole est utile de deux manières différentes."
 
-#: 3698b3aeff784cb583bc3bf25ad97e95
+#: ba007fe0a10d4d40a70219fcba873cfe
 msgid ""
-"When creating documentation, it helps clarify your own intentions, and helps"
-" make sure you're actually doing what you think you're doing."
-msgstr ""
+"When creating documentation, it helps clarify your own intentions, and "
+"helps make sure you're actually doing what you think you're doing."
+msgstr "Lorsqu'on crée de la documentation, elle permet de clarifier ses propres intentions et à s'assurer qu'on fait bien ce qu'on croit faire."
 
-#: 5854b26cb6a9471e9b22605de25afcf7
+#: 9659da59065f45c5b98bb32bda0e748f
 msgid ""
-"When looking at documentation, it helps understand what's going on in it, "
-"and makes problems stand out."
-msgstr ""
+"When looking at documentation, it helps understand what's going on in it,"
+" and makes problems stand out."
+msgstr "Lorsqu'on examine de la documentation, elle permet de comprendre ce qui s'y passe et fait ressortir les problèmes."
 
-#: affb58055de748aea1682c008f9a2c6b
+#: 4f693ba6d8584a539ab332c815d152ae
 msgid ""
 "The compass is not nearly as eye-catching as the map, but when you're at "
 "work puzzling over a documentation problem it's what will help you move "
 "forward."
-msgstr ""
+msgstr "La boussole est bien moins frappante que la carte, mais quand vous vous cassez la tête au travail sur un problème de documentation, c'est elle qui vous aidera à avancer."
 
-#: dd4bdce7bb6743cd99a1ecae1eabc74d
+#: 7920c2ff212d4301acf34b6df44d0810
 msgid "If the content..."
-msgstr ""
+msgstr "Si le contenu..."
 
-#: 021d1e3adfa647699e1815c46889cdc8
+#: 6e4e6e91c8074c98b92221c275ea00c7
 msgid "...and serves the user's..."
-msgstr ""
+msgstr "...et sert... de l'utilisateur"
 
-#: a69a7da4c6854240b047fe6ddb752914
+#: ede603edbc794df7a3c6f1b75004a19f
 msgid "...then it must belong to..."
-msgstr ""
+msgstr "...alors il doit appartenir à..."
 
-#: bb77ea426975437096de94c7accb6718 0851fe198b684b78aa3dca998645942a
+#: d8ab173327d2489c8cc52daf0d9889d4 f24776ff608c4d459f813626afcc7788
 msgid "informs action"
-msgstr ""
+msgstr "informe l'action"
 
-#: 98026364860f442bb1b9b2a48fb3d7ff bc6d50d3d1674a7d905ff98ca43f715d
+#: 1975933bf9594966855cb81b859d1fe6 245626285e364b9a922b79a637d9d8d3
 msgid "acquisition of skill"
-msgstr ""
+msgstr "acquisition de compétence"
 
-#: 03d26008e5b74dcfbc06a909c2c5a1ff
+#: 9566a8dbcab24879a3654d2efe6d8ffb
 msgid "a tutorial"
-msgstr ""
+msgstr "un tutoriel"
 
-#: 9ee9738a6e024a50896df916276c0741 92ae10ddc01a443b91a4f902274d2385
+#: 0005dc5aef95472788d7f2014f53282e fdf76f0de1904368b2793bd2259203af
 msgid "application of skill"
-msgstr ""
+msgstr "application de compétence"
 
-#: cfdc2c8299104c0b89c6271357069fdb
+#: 32d5842a195543ffb7ba4a7203c70d39
 msgid "a how-to guide"
-msgstr ""
+msgstr "un guide pratique"
 
-#: c105ae3fd6f44dafa617e89135b1d0bd 83f6bc319ff64a3b8ebf541cba5302cb
+#: aae0503de6314aa4b9d094b9a4fa4e6d f311f1226d56490a8c1b35e8bed1447a
 msgid "informs cognition"
-msgstr ""
+msgstr "informe la cognition"
 
-#: a46f36155a024c7a9eb67cb30733f62c
+#: 1628daa2933249999080235ed4c5cd95
 msgid "reference"
-msgstr ""
+msgstr "référence"
 
-#: 4fd3991eaeeb4fd6b2a231fb09057cf7
+#: a83bb1d0fdab45f89779975551dc7c9e
 msgid "explanation"
 msgstr "explication"
 
-#: 7bb0cd7eceee4703912750c8d075d898
+#: a286fd7c4b044d7582d5f9b1f6b0f045
 msgid "Working"
-msgstr ""
+msgstr "Travailler"
 
-#: 6bfae7e6ef4b43d5ba77dcd25d428f9f
+#: 460d5d9dd59649058c20ce880feac20c
 msgid "There is a very simple workflow for Diátaxis."
-msgstr ""
+msgstr "Il existe un flux de travail très simple pour Diátaxis."
 
-#: 22c303df579b453595aece76571a52e6
+#: e7bb7d49fec84f5a9cc9fd16214051de
 msgid ":ref:`how-to-use-diataxis`"
-msgstr ""
+msgstr ":ref:`how-to-use-diataxis`"
 
-#: a2844f1ca2ea4646b5a9b0472f7d7d69
+#: b4164d3ae1d04d849f134a79c3a2dca3
 msgid ""
-"Consider what you see in the documentation, in front of you right now (which"
-" might be literally nothing, if you haven't started yet)."
-msgstr ""
+"Consider what you see in the documentation, in front of you right now "
+"(which might be literally nothing, if you haven't started yet)."
+msgstr "Considérez ce que vous voyez dans la documentation, sous vos yeux (ce qui pourrait n'être littéralement rien, si vous n'avez pas encore commencé)."
 
-#: 434dac0e49854e8d824aac2efa0d7657
+#: 0e45f9ef6fe64495bd44e5dacefc985b
 msgid "Ask: *is there any way in which it could be improved?*"
-msgstr ""
+msgstr "Demandez : *y a-t-il un moyen de l'améliorer ?*"
 
-#: 0eafafa8e0fa47508758b58200bd8d36
+#: 89e7f1fa2557472f9d72ad82457ae9a6
 msgid ""
 "Decide on *one* thing you could do to it right now, however small, that "
 "would improve it."
-msgstr ""
+msgstr "Décidez d'*une* action à y mener tout de suite, aussi minime soit-elle, qui l'améliorerait."
 
-#: eafc3b25dda8468a97b1124921aba49f
+#: d48ca09b602f43859c84977f7df38ae0
 msgid "Do that thing."
-msgstr ""
+msgstr "Faites-le."
 
-#: b658bbe3b3304b2aafceac1be3c499b2
+#: 0677dfd3292c416189fff5b4260f3c67
 msgid "And then repeat."
-msgstr ""
+msgstr "Puis répétez."
 
-#: 7d819d257b5b4463b11c6b66f7b2b801
+#: 40d22bebdfac40f4b782a6cb33d38279
 msgid "That's it."
-msgstr ""
+msgstr "C'est tout."
 
-#: 2c725288a00244df8b4053c063e7481d
+#: af2bce2e5f3f4083b720f310c6da2a3a
 msgid "Do what you like"
-msgstr ""
+msgstr "Faites ce que vous voulez"
 
-#: 07a465b02a2247679c53a01373d63ff7
+#: 5479d4d532f5475aa7028a6c91f64a7a
 msgid ""
-"You can do what you like with Diátaxis. You don't have to believe in it and "
-"there is no exam. It is a wholly pragmatic approach. I think it's *true*, "
-"but what matters is that it actually helps people create better "
+"You can do what you like with Diátaxis. You don't have to believe in it "
+"and there is no exam. It is a wholly pragmatic approach. I think it's "
+"*true*, but what matters is that it actually helps people create better "
 "documentation. If you find one idea or insight in it that seems to be "
 "worthwhile, help yourself to that."
-msgstr ""
+msgstr "Vous pouvez faire ce que vous voulez avec Diátaxis. Vous n'êtes pas obligé d'y croire et il n'y a pas d'examen. C'est une approche entièrement pragmatique. Je pense qu'elle est *vraie*, mais ce qui compte, c'est qu'elle aide en réalité les gens à créer une meilleure documentation. Si vous y trouvez une idée ou un éclairage qui vous semble valable, servez-vous."
 
-#: 5fdb54cab7c149b0b34dae7f41fd98cf
+#: 7dd446badf3a4775aa9c95641663bb78
 msgid ""
 "There is an extensively elaborated theory around Diátaxis, but you don't "
-"need to subscribe to it, or even read about it. Diátaxis doesn't require a "
-"commitment to pursue it to a final end."
-msgstr ""
+"need to subscribe to it, or even read about it. Diátaxis doesn't require "
+"a commitment to pursue it to a final end."
+msgstr "Il existe une théorie amplement développée autour de Diátaxis, mais vous n'avez pas à y souscrire, ni même de la lire. Diátaxis n'exige pas qu'on s'engage à la poursuivre jusqu'à son terme."
 
-#: f1ab45946b26419492910f47369f3194
+#: 74becd393054466584e50685efd15351
 msgid ""
-"You can do just one thing, right now, and even if you do nothing else ever "
-"after, you will at least have made that one improvement. (In practice what "
-"you will find is that each thing you do will give you a clue as to the next "
-"thing to do - you only need to keep doing them.)"
-msgstr ""
+"You can do just one thing, right now, and even if you do nothing else "
+"ever after, you will at least have made that one improvement. (In "
+"practice what you will find is that each thing you do will give you a "
+"clue as to the next thing to do - you only need to keep doing them.)"
+msgstr "Vous pouvez vous contenter d'une seule action, tout de suite : même si vous ne faites plus jamais rien d'autre, vous aurez au moins cette amélioration à votre actif. (À l'usage, chaque action accomplie vous mettra sur la piste de la suivante — il suffit de continuer.)"
 
-#: dda81b36e1314557b4aebd68605d8dbb
+#: 057b79604c114cf4ad56f8695caddb82
 msgid "Get started"
-msgstr ""
+msgstr "Commencer"
 
-#: 0c99d0c6fb384621b665e52f6f414997
+#: c72332e491d34171b7436d52248fe543
 msgid ""
 "At this point, you have read everything you need to get started with "
 "Diátaxis."
-msgstr ""
+msgstr "À ce stade, vous avez lu tout ce qu'il vous faut pour débuter avec Diátaxis."
 
-#: d2e23024803d492c8fbfcbd1f38a222a
+#: 9a7a23ede9ee46789decd0b29b7e6869
 msgid ""
-"You can read more if you want, and eventually you probably should, but *you "
-"will get the most value from the guidance in this website when you turn to "
-"it with a problem or a question*. That's when it comes alive."
-msgstr ""
+"You can read more if you want, and eventually you probably should, but "
+"*you will get the most value from the guidance in this website when you "
+"turn to it with a problem or a question*. That's when it comes alive."
+msgstr "Vous pouvez lire davantage si vous le souhaitez, et à terme vous devriez probablement, mais *vous tirerez le meilleur parti des conseils de ce site lorsque vous l'abordez avec un problème ou une question*. C'est à ce moment-là qu'il prend vie."
