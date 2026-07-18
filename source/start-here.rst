@@ -8,7 +8,7 @@ Start here - Diátaxis in five minutes
 
 ..  sidebar::
 
-    Treat this website as a handbook or a toolbox that you make use of when you need it. 
+    Treat this website as a handbook or a toolbox that you make use of when you need it.
 
 You don't need to read everything on this website to make sense of Diátaxis, or to start using it in practice. In fact I recommend that you don't. **The best way to get started with Diátaxis is by applying it** - to something, however small.
 
@@ -26,7 +26,7 @@ Tutorials
 ---------
 
 ..  sidebar::
-   
+
     * :ref:`Tutorials in more detail <tutorials>`
     * :ref:`Why tutorials are completely different from how-to guides <tutorials-how-to>`
 
@@ -43,12 +43,12 @@ How-to guides
 -------------
 
 ..  sidebar::
-   
+
     * :ref:`How-to guides in more detail <how-to>`
 
-**A how-to guide addresses a real-world goal or problem**, by providing practical directions to help the user who is in that situation. 
+**A how-to guide addresses a real-world goal or problem**, by providing practical directions to help the user who is in that situation.
 
-A how-to guide always addresses an already-competent user, who is expected to be able to use the guide to help them get their work done. In contrast to a tutorial, a how-to guide is concerned with *work* rather than *study*. 
+A how-to guide always addresses an already-competent user, who is expected to be able to use the guide to help them get their work done. In contrast to a tutorial, a how-to guide is concerned with *work* rather than *study*.
 
 A how-to guide might be: *How to store cellulose nitrate film* (in motion picture photography) or *How to configure frame profiling* (in software). Or even: *Troubleshooting deployment problems*.
 
@@ -57,23 +57,23 @@ Reference
 ---------
 
 ..  sidebar::
-   
+
     * :ref:`Reference in more detail <reference>`
 
 **Reference guides contain the technical description** - facts - that a user needs in order to do things correctly: accurate, complete, reliable information, free of distraction and interpretation. They contain *propositional or theoretical knowledge*, not guides to action.
 
 Like a how-to guide, reference documentation serves the user who is at *work*, and it's up to the user to be sufficiently competent to interpret and use it correctly.
 
-*Reference material is neutral.* It is not concerned with what the user is doing. A marine chart could be used by a ship's navigator to plot a course, but equally well by a prosecuting magistrate in a legal case.
+*Reference material is neutral.* It is not concerned with what the user is doing. A marine chart could be used by a ship's navigator to plot a course, but equally well by an investigating judge.
 
-Where possible, the architecture of reference documentation should reflect the structure or architecture of the thing it's describing - just like a map does. If a method is part of a class that belongs to a certain module, then we should expect to see the same relationship in the documentation too.  
+Where possible, the architecture of reference documentation should reflect the structure or architecture of the thing it's describing - just like a map does. If a method is part of a class that belongs to a certain module, then we should expect to see the same relationship in the documentation too.
 
 
 Explanation
 -----------
 
 ..  sidebar::
-   
+
     * :ref:`Explanation in more detail <explanation>`
     * :ref:`Understanding the difference between reference and explanation <reference-explanation>`
 
@@ -92,15 +92,15 @@ Often, writers of tutorials who are anxious that their students should *know* th
 The Diátaxis map
 ================
 
-The four kinds of documentation and the relationships between them can be summarised in the Diátaxis map. 
+The four kinds of documentation and the relationships between them can be summarised in the Diátaxis map.
 
 ..  sidebar::
-   
+
     * :ref:`The map in more detail <map>`
 
 Diátaxis is not just a list of four different things, but a conceptual arrangement of them. It shows how the four kinds of documentation are related to each other, and distinct from each other.
 
-Crossing or blurring the boundaries described in the map is at the heart of a vast number of problems in documentation. 
+Crossing or blurring the boundaries described in the map is at the heart of a vast number of problems in documentation.
 
 .. image:: /images/diataxis.png
    :alt: Diátaxis
@@ -116,7 +116,7 @@ As you can see from the map:
 * tutorials and how-to guides are concerned with what the user *does* (**action**)
 * reference and explanation are about what the user *knows* (**cognition**)
 
-On the other hand: 
+On the other hand:
 
 * tutorials and explanation serve the *acquistion* of skill (the user's **study**)
 * how-to guides and reference serve the *application* of skill (the user's **work**)
@@ -124,7 +124,7 @@ On the other hand:
 But a map doesn't tell you what to *do* - it's reference. To guide your action you need a different sort of tool, in this case, a kind of Diátaxis compass.
 
 ..  sidebar::
-   
+
     * :ref:`The compass in more detail <compass>`
 
 The compass is useful in two different ways.
@@ -167,7 +167,7 @@ Working
 There is a very simple workflow for Diátaxis.
 
 ..  sidebar::
-   
+
     :ref:`how-to-use-diataxis`
 
 1. Consider what you see in the documentation, in front of you right now (which might be literally nothing, if you haven't started yet).
@@ -176,11 +176,11 @@ There is a very simple workflow for Diátaxis.
 
 3. Decide on *one* thing you could do to it right now, however small, that would improve it.
 
-4. Do that thing. 
+4. Do that thing.
 
-And then repeat. 
+And then repeat.
 
-That's it. 
+That's it.
 
 
 -----------
@@ -190,7 +190,7 @@ Do what you like
 
 You can do what you like with Diátaxis. You don't have to believe in it and there is no exam. It is a wholly pragmatic approach. I think it's *true*, but what matters is that it actually helps people create better documentation. If you find one idea or insight in it that seems to be worthwhile, help yourself to that.
 
-There is an extensively elaborated theory around Diátaxis, but you don't need to subscribe to it, or even read about it. Diátaxis doesn't require a commitment to pursue it to a final end. 
+There is an extensively elaborated theory around Diátaxis, but you don't need to subscribe to it, or even read about it. Diátaxis doesn't require a commitment to pursue it to a final end.
 
 You can do just one thing, right now, and even if you do nothing else ever after, you will at least have made that one improvement. (In practice what you will find is that each thing you do will give you a clue as to the next thing to do - you only need to keep doing them.)
 
@@ -198,6 +198,6 @@ You can do just one thing, right now, and even if you do nothing else ever after
 Get started
 ===========
 
-At this point, you have read everything you need to get started with Diátaxis. 
+At this point, you have read everything you need to get started with Diátaxis.
 
-You can read more if you want, and eventually you probably should, but *you will get the most value from the guidance in this website when you turn to it with a problem or a question*. That's when it comes alive. 
+You can read more if you want, and eventually you probably should, but *you will get the most value from the guidance in this website when you turn to it with a problem or a question*. That's when it comes alive.
