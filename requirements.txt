@@ -33,6 +33,6 @@ sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
 sphinxcontrib-spelling==7.3.2
-tornado==6.1
+tornado==6.5.7
 urllib3==1.26.8
 zipp==3.7.0
