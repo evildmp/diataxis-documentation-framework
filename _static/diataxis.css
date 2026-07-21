@@ -251,7 +251,10 @@ div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
 
 /* --------- tables --------- */
 
-.table-wrapper {overflow-x: visible;}
+.table-wrapper,
+[role="main"] .table-wrapper.container.wider {
+    overflow-x: visible;
+}
 table.docutils {box-shadow: none;}
 table.docutils th.head {padding: .5rem 0;}
 table.docutils td, table.docutils th {border-right: 1px solid var(--orange);}
