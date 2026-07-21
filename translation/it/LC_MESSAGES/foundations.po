@@ -1,0 +1,230 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: b4b389137a8c4556876d8f0c817fcf86
+msgid "Foundations"
+msgstr ""
+
+#: 5630713da5ce4a35b24c4e967d8dab4e
+msgid ""
+"Diátaxis is successful because it *works* - both users and creators have "
+"a better experience of documentation as a result. It makes sense and it "
+"feels right."
+msgstr ""
+
+#: ab4e7982dda440a3b476de3aaa1f038f
+msgid ""
+"However, that's not enough to be confident in Diátaxis as a theory of "
+"documentation. As a theory, it needs to show *why* it works. It needs to "
+"show that there is actually some reason why there are exactly four kinds "
+"of documentation, not three or five. It needs to demonstrate rigorous "
+"thinking and analysis, and that it stands on a sound theoretical "
+"foundation."
+msgstr ""
+
+#: 6d0098ef18274db9aafa485ce64c7839
+msgid ""
+"Otherwise, it will be just another useful heuristic approach, and the "
+"strongest claim we can make for it is that \"it seems to work quite "
+"well\"."
+msgstr ""
+
+#: 9efa580e78fe45c292bc386f3be07b0e
+msgid "Two dimensions of craft"
+msgstr ""
+
+#: 5664bce07a21462295f5ac1062b2c7f3
+msgid ""
+"Diátaxis is based on the principle that documentation must serve the "
+"needs of its users. Knowing how to do that means understanding what the "
+"needs of users are."
+msgstr ""
+
+#: 2da5ac0715f947148e2260a7af0b1042
+msgid ""
+"The user whose needs Diátaxis serves is *the practitioner in a domain of "
+"skill*. A domain of skill is defined by a craft - the use of a tool or "
+"product is a craft. So is an entire discipline or profession. Using a "
+"programming language is a craft, as is flying a particular aircraft, or "
+"even being a pilot in general."
+msgstr ""
+
+#: 0fa89def02904c4b8d9d740ca56eded1
+msgid ""
+"Understanding the needs of these users means in turn understanding the "
+"essential characteristics of craft or skill."
+msgstr ""
+
+#: 9b262509d06b4c9e999ecc186885cf7f
+msgid "Action/cognition"
+msgstr ""
+
+#: fafbd4cdad12498685a1e24814de46ed
+msgid ""
+"A skill or craft or practice contains both **action** (practical "
+"knowledge, knowing *how*, what we do) and **cognition** (theoretical "
+"knowledge, knowing *that*, what we think). The two are completely bound "
+"up with each other, but they are counterparts, wholly distinct from each "
+"other, two different aspects of the same thing."
+msgstr ""
+
+#: 7f9c3d28a552414d94f7e9e3271e3607
+msgid "Acquisition/application"
+msgstr ""
+
+#: aff6f3ae246a4f4fb036887e16e03148
+msgid ""
+"Similarly, the relationship of a practitioner with their practice is that"
+" it is something that needs to be both **acquired**, and **applied**. "
+"Being \"at work\" (concerned with applying the skill and knowledge of "
+"their craft) and being \"at study\" (concerned with acquiring them) are "
+"once again counterparts, distinct but bound up with each other."
+msgstr ""
+
+#: e4147f5f2a694c68b3a6d95a06a9d2b3
+msgid "The map of the territory"
+msgstr ""
+
+#: 20bda34e468540a5a19b9456d2fb7429
+msgid ""
+"This gives us two dimensions of skill, that we can lay out on a map - a "
+"map of the territory of craft:"
+msgstr ""
+
+#: 03a971e2da3041bd8d207ede0ee970fa c28f7e16c62a46188475162fa53653a7
+msgid "The territory of craft as a two-dimensional map"
+msgstr ""
+
+#: c4c0b6354a704ed5850b8d24b18a3b68
+msgid ""
+"This is a *complete* map. There are only two dimensions, and they don't "
+"just cover the entire territory, they define it. This is why there are "
+"necessarily four quarters to it, and there could not be three, or five. "
+"It is not an arbitrary number."
+msgstr ""
+
+#: 8a24d0e7860c4745ab4e7b85d8eb1d1e
+msgid ""
+"It also shows us the *qualities* of craft that define each of them. When "
+"the idea that documentation must serve the needs of craft is applied to "
+"this map, it reveals in turn what documentation must be and do to fulfil "
+"those obligations - in four distinct ways."
+msgstr ""
+
+#: e8ee372740f546c6865a1d6280d13c01
+msgid "Serving needs"
+msgstr ""
+
+#: e00a65e784c9480a9618cff80921359a
+msgid ""
+"The map of the territory of craft is what gives us the familiar Diátaxis "
+"map of documentation. The map is in effect an answer to the question: "
+"what must documentation do to align with these qualities of skill, and to"
+" what need is it oriented in each case?"
+msgstr ""
+
+#: 06c07725e21443a8b4bba0d6507c8991
+msgid ""
+"We can see how the map of documentation addresses *needs* across those "
+"two dimensions, each need also defined by the characteristics of its "
+"quarter of the map."
+msgstr ""
+
+#: 00e749a43ccb425fa170cc01c0676529
+msgid "need"
+msgstr ""
+
+#: 0fdabb02f7604241b681aed96f323772
+msgid "addressed in"
+msgstr ""
+
+#: d209957144ab48548cc920ce05f5f837
+msgid "the user"
+msgstr ""
+
+#: 4244d5f61ed04007afb7facad223c255
+msgid "the documentation"
+msgstr ""
+
+#: 0a715b93b21243348c3245e6eec2c3fe
+msgid "learning"
+msgstr ""
+
+#: 82a8d2c619dc4a958268244cc440fd44
+msgid "tutorials"
+msgstr ""
+
+#: 4efd444db4b44147bfa99e8b4ca5bd49 edd36e22210f46fd9355f0ba020e88f1
+msgid "acquires their craft"
+msgstr ""
+
+#: 460818dd88df485ea65f87b562337590 9537fabda9754e1aa94c60f17bef5946
+msgid "informs action"
+msgstr ""
+
+#: 233d00da406a4f7e892a31d5da2943aa
+msgid "goals"
+msgstr ""
+
+#: 15eddc134ce445b694755f09cf536d4e
+msgid "how-to guides"
+msgstr ""
+
+#: 952e9719c7ab4c29af63c51a834dcdf4 d04d7d5600ec44ea9aa4f5a582192262
+msgid "applies their craft"
+msgstr ""
+
+#: 2cc8d13233f54fbe917c5c65b5e7f18a
+msgid "information"
+msgstr ""
+
+#: 518c99af02bf4935b8ebe06ce6c61178
+msgid "reference"
+msgstr ""
+
+#: 475b5bfec016405cab112078d704d027 9c078c4485f44a44b821a91029bcb8d7
+msgid "informs cognition"
+msgstr ""
+
+#: c2d873ded01c4e259a3c3e28b6ca84c9
+msgid "understanding"
+msgstr ""
+
+#: e93098f98ad140a8b9d022ccbdbaafdb
+msgid "explanation"
+msgstr ""
+
+#: ddffda76344e4fa88d6e545f3d1bdf84
+msgid ""
+"The Diátaxis map of documentation is a memorable and approachable idea. "
+"But, a map is only reliable if it adequately describes a reality. "
+"Diátaxis is underpinned by a systematic description and analysis of "
+"generalised **user needs**."
+msgstr ""
+
+#: aadb3fc3f46b47e5819883b4750eacd6
+msgid ""
+"This is why the tutorials, how-to guides, reference and explanation of "
+"Diátaxis are a complete enumeration of the types of documentation that "
+"serve practitioners in a craft. This is why there are four and only four "
+"types of documentation. There is simply no other territory to cover."
+msgstr ""
+

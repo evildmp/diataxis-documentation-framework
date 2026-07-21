@@ -275,7 +275,7 @@ msgstr "D'autre part :"
 
 #: 225204e16bc941bdb3848b118ef5bd6a
 msgid ""
-"tutorials and explanation serve the *acquistion* of skill (the user's "
+"tutorials and explanation serve the *acquisition* of skill (the user's "
 "**study**)"
 msgstr "les tutoriels et l'explication servent l'*acquisition* de compétence (l'**étude** de l'utilisateur)"
 
@@ -325,7 +325,7 @@ msgstr "Si le contenu..."
 
 #: 6e4e6e91c8074c98b92221c275ea00c7
 msgid "...and serves the user's..."
-msgstr "...et sert... de l'utilisateur"
+msgstr "...et sert... "
 
 #: ede603edbc794df7a3c6f1b75004a19f
 msgid "...then it must belong to..."
@@ -383,7 +383,7 @@ msgstr "Considérez ce que vous voyez dans la documentation, sous vos yeux (ce q
 
 #: 0e45f9ef6fe64495bd44e5dacefc985b
 msgid "Ask: *is there any way in which it could be improved?*"
-msgstr "Demandez : *y a-t-il un moyen de l'améliorer ?*"
+msgstr "Demandez-vous : *y a-t-il un moyen de l'améliorer ?*"
 
 #: 89e7f1fa2557472f9d72ad82457ae9a6
 msgid ""

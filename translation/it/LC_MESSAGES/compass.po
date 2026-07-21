@@ -1,0 +1,180 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: 7b3b7f6492cd4b188b9d4bd43d395900
+msgid "The compass"
+msgstr ""
+
+#: 57f1e659cc634786813e4a93fec5c4e4
+msgid ""
+"The Diátaxis map is an effective reminder of the different kinds of "
+"documentation and their relationship, and it accords well with intuitions"
+" about documentation."
+msgstr ""
+
+#: 8c83812972dd43779744ad986ef3bd99
+msgid ""
+"However intuition is not always to be relied upon. Often when working "
+"with documentation, an author is faced with the question: *what form of "
+"documentation is this?* or *what form of documentation is needed here?* -"
+" and no obvious, intuitive answer."
+msgstr ""
+
+#: c15c7bff6f754d8d9883a9c9e50abfd1
+msgid ""
+"Worse, sometimes intuition provides an immediate answer that is also "
+"wrong."
+msgstr ""
+
+#: db5b21a768384969a18b96b864442ed9
+msgid ""
+"A map is most powerful in unfamiliar territory when we also have a "
+"compass to guide us."
+msgstr ""
+
+#: d06a95d56f4e485ba2601b7a59bf96ed
+msgid ""
+"The Diátaxis compass is something like a truth-table or decision-tree of "
+"documentation. It reduces a more complex, two-dimensional problem to its "
+"simpler parts, and provides the author with a course-correction tool."
+msgstr ""
+
+#: 4fab7d755745499492d6bdc877ec965e
+msgid "If the content..."
+msgstr ""
+
+#: def36a4d7c7b48b1acd2548257ce85e6
+msgid "...and serves the user's..."
+msgstr ""
+
+#: d775094d870545c1b0b3830e22d44b29
+msgid "...then it must belong to..."
+msgstr ""
+
+#: 0ba539012a134bb98571b5e9566ccede 968516fced5541d1a95707d94e3692fd
+msgid "informs action"
+msgstr ""
+
+#: 008fc26c93d54e17b999035d6eb32366 2842d53549d441acb7e8ed103ded3c45
+msgid "acquisition of skill"
+msgstr ""
+
+#: 5fe7b66911d7425ebc9c32aa1310811a
+msgid "a tutorial"
+msgstr ""
+
+#: 11c0e73302ab4d9690a6fcff82307d88 2c2fbae486b8427680c8f80df5929770
+msgid "application of skill"
+msgstr ""
+
+#: 9b5959851664423b81b5f7ee08565dfa
+msgid "a how-to guide"
+msgstr ""
+
+#: 097ba11a693b47d79a60c41b5d60a06d 31874a6a37224323a9d5216c86272a4e
+msgid "informs cognition"
+msgstr ""
+
+#: e6a4911be72d48c2991e9476e7bf8f91
+msgid "reference"
+msgstr ""
+
+#: 4c393ac6db014d25836bb5d0bc8f2c6b
+msgid "explanation"
+msgstr ""
+
+#: dfc88096a8f043ff97ca02a6600558c2
+msgid ""
+"The compass can be applied equally to user situations that need "
+"documentation, or to documentation itself that perhaps needs to be moved "
+"or improved. Like many good tools, it's surprisingly banal."
+msgstr ""
+
+#: 71b3ed10c12e4997afd5edd102aaaf88
+msgid ""
+"To use the compass, just two questions need to be asked: *action or "
+"cognition?* *acquisition or application?*"
+msgstr ""
+
+#: 28bc732811ac4cabbc50d87bdac1016f
+msgid "And it yields the answer."
+msgstr ""
+
+#: 1217d6a944a34eaf962d3cad6c4aa4e7
+msgid "Using the compass"
+msgstr ""
+
+#: 202b27dd78944460a2681a714f6ec2a0
+msgid ""
+"The compass is particularly effective when you think that you (or even "
+"the documentation in front of you) are doing one thing - but you are "
+"troubled by a sense of doubt, or by some difficulty in the work. The "
+"compass forces you to stop and reconsider."
+msgstr ""
+
+#: d5e7a6363d7847a1805549d696099d5f
+msgid ""
+"Especially when you are trying to find your initial bearings, use the "
+"compass's terms flexibly; don't get fixated on the exact names."
+msgstr ""
+
+#: 04929fc9cb584120ae96bccf58cc915a
+msgid "*action*: practical steps, doing"
+msgstr ""
+
+#: 94bda28616e94a3c9c276ffb1e3e689e
+msgid "*cognition*: theoretical or propositional knowledge, thinking"
+msgstr ""
+
+#: 6419213447f742b9b9937b1d362eb7a3
+msgid "*acquisition*: study"
+msgstr ""
+
+#: 6f2bb0431c7e469c94fa3ef3bc518d09
+msgid "*application*: work"
+msgstr ""
+
+#: e8f5dfcc7b67497e8ef3c55fea0f5a8f
+msgid "And the questions themselves can also be used in different ways:"
+msgstr ""
+
+#: e41946ae55da4900b46ef81aca379a62
+msgid "Do I think I am writing for *x* or *y*?"
+msgstr ""
+
+#: 91d66a54e64548eaba26ec07e784b217
+msgid "Is this writing in front of me engaged in *x* or *y*?"
+msgstr ""
+
+#: 6fe35cba322e4cddb3631585b1534322
+msgid "Does the user need *x* or *y*?"
+msgstr ""
+
+#: efb63948f923432895f41ad3d0ce7ba8
+msgid "Do I want to *x* or *y*?"
+msgstr ""
+
+#: 9e991a80f58b4ead9160f41b75c53f18
+msgid ""
+"And try applying them close-up, at the level of sentences and words, or "
+"from a wider perspective, considering an entire document."
+msgstr ""
+

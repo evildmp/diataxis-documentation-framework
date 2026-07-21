@@ -278,7 +278,7 @@ msgstr ""
 
 #: 225204e16bc941bdb3848b118ef5bd6a
 msgid ""
-"tutorials and explanation serve the *acquistion* of skill (the user's "
+"tutorials and explanation serve the *acquisition* of skill (the user's "
 "**study**)"
 msgstr ""
 
@@ -469,4 +469,3 @@ msgstr ""
 #~ "plot a course, but equally well by"
 #~ " a prosecuting judge."
 #~ msgstr ""
-

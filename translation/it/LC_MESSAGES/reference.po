@@ -1,0 +1,283 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: 67e4d895945c4d989f0810db6fa11587
+msgid "Reference"
+msgstr ""
+
+#: 41a20d9eb90949a795fe521d46637906
+msgid ""
+"Reference guides are **technical descriptions** of the machinery and how "
+"to operate it. Reference material is **information-oriented**."
+msgstr ""
+
+#: d9f4941d0c124c549ba056ecdc805992
+msgid ""
+"Reference material contains *propositional or theoretical* knowledge that"
+" a user looks to in their *work*."
+msgstr ""
+
+#: 3b151246fc8f403b84c4c841906a1191
+msgid ""
+"The only purpose of a reference guide is to describe, as succinctly as "
+"possible, and in an orderly way. Whereas the content of tutorials and "
+"how-to guides are led by needs of the user, reference material is led by "
+"the product it describes."
+msgstr ""
+
+#: d59a493f4cbf4a98b8a92aef5c831157
+msgid ""
+"Reference - information oriented, theoretical knowledge, that serves our "
+"work"
+msgstr ""
+
+#: 79c6b123e7944b77afb440c5a7031738
+msgid ""
+"In the case of software, reference guides describe the software itself - "
+"APIs, classes, functions and so on - and how to use them."
+msgstr ""
+
+#: 865a990903bd4a908bb899882ec54169
+msgid ""
+"Your users need reference material because they need truth and certainty "
+"- firm platforms on which to stand while they work. Good technical "
+"reference is essential to provide users with the confidence to do their "
+"work."
+msgstr ""
+
+#: 672c4ce3c4e54a75aa476525a3820f28
+msgid "Reference as description"
+msgstr ""
+
+#: fdee1fac90bd4ca792a12a7437cb041c
+msgid ""
+"Reference material describes the machinery. It should be **austere**. One"
+" hardly *reads* reference material; one *consults* it."
+msgstr ""
+
+#: 8d29a411cc67415d8e5007b2be4520b3
+msgid ""
+"There should be no doubt or ambiguity in reference; it should be wholly "
+"authoritative."
+msgstr ""
+
+#: 58756da979e843b0ae23a028cfa67c53
+msgid ""
+"Reference material is like a map. A map tells you what you need to know "
+"about the territory, without having to go out and check the territory for"
+" yourself; a reference guide serves the same purpose for the product and "
+"its internal machinery."
+msgstr ""
+
+#: af81f35a17134e0b8159e883219e94a8
+msgid ""
+"Although reference should not attempt to show how to perform tasks, it "
+"can and often needs to include a description of how something works or "
+"the correct way to use it."
+msgstr ""
+
+#: 6cfaedd3aa6d4df7b715ad1bfa7aee17
+msgid ""
+"Unfortunately, too many software developers think that auto-generated "
+"reference material is all the documentation required."
+msgstr ""
+
+#: 38ba6360547a49a193988c6b13cbb874
+msgid ""
+"Some reference material (such as API documentation) can be generated "
+"automatically by the software it describes, which is a powerful way of "
+"ensuring that it remains faithfully accurate to the code."
+msgstr ""
+
+#: 8811923ffb454c4a9fb7e3d4e0e11fe4
+msgid "Key principles"
+msgstr ""
+
+#: 730611ab289746fb9fd7899b3d330dd1
+msgid "Describe and only describe"
+msgstr ""
+
+#: ca77f237bc654d48983a649ef09bd684
+msgid "*Neutral description* is the key imperative of technical reference."
+msgstr ""
+
+#: 47c971c7c5e34e169bb23f23a3fb366d
+msgid "austere and uncompromising"
+msgstr ""
+
+#: f40e7a21197144a89d11906d5d7166bd
+msgid "neutrality, objectivity, factuality"
+msgstr ""
+
+#: 7f659d9608284ae58bca73d3135bf272
+msgid "structured according to the structure of the machinery itself"
+msgstr ""
+
+#: e5e79c20f34748528c5402bfc49582cd
+msgid ""
+"Unfortunately one of the hardest things to do is to describe something "
+"neutrally. It's not a natural way of communicating. What's natural on the"
+" other hand is to explain, instruct, discuss, opine, and all these things"
+" run counter to the needs of technical reference, which instead demands "
+"accuracy, precision, completeness and clarity."
+msgstr ""
+
+#: ec0b50cab94142a5bc488e5d2d129dd2
+msgid ""
+"It can be tempting to introduce instruction and explanation, simply "
+"because description can seem too inadequate to be useful, and because we "
+"do indeed need these other things. Instead, link to how-to guides, "
+"explanation and introductory tutorials."
+msgstr ""
+
+#: 678d23de01944180a1d8d2f6d2e4c39d
+msgid "Adopt standard patterns"
+msgstr ""
+
+#: dcc56c98965f46a5aaf117040428985b
+msgid ""
+"**Reference material is useful when it is consistent.** Standard patterns"
+" are what allow us to use reference material effectively. Your job is to "
+"place the material that your user needs where they expect to find it, in "
+"a format that they are familiar with."
+msgstr ""
+
+#: 2ff80a08cfbd478bb3e16069e1beb6ab
+msgid ""
+"There are many opportunities in writing to delight your readers with your"
+" extensive vocabulary and command of multiple styles, but reference "
+"material is definitely not one of them."
+msgstr ""
+
+#: c2620b51f5704af286721bab88fdd1da
+msgid "Respect the structure of the machinery"
+msgstr ""
+
+#: 1ea034fabb444b1e9a7003683bbe9481
+msgid ""
+"The way a map corresponds to the territory it represents helps us use the"
+" former to find our way through the latter. It should be the same with "
+"documentation: **the structure of the documentation should mirror the "
+"structure of the product**, so that the user can work their way through "
+"them at the same time."
+msgstr ""
+
+#: 1593bd9e53724252a00bd1f65874b72c
+msgid ""
+"It doesn't mean forcing the documentation into an unnatural structure. "
+"What's important is that the logical, conceptual arrangement of and "
+"relations within the code should help make sense of the documentation."
+msgstr ""
+
+#: f4638cf7b07146a2868462b519ab32b0
+msgid "Provide examples"
+msgstr ""
+
+#: ab5a44eef4a94c16a8f6a2ce5ffb938f
+msgid ""
+"**Examples** are valuable ways of providing illustration that helps "
+"readers understand reference, while avoiding the risk of becoming "
+"distracted from the job of describing. For example, an example of usage "
+"of a command can be a succinct way of illustrating it and its context, "
+"without falling into the trap of trying to explain or instruct."
+msgstr ""
+
+#: ab0d88de4e3a428c85d281ae806f9fea
+msgid "The language of reference guides"
+msgstr ""
+
+#: a56d8e4a62094595b51b455270ce6990
+msgid ""
+"Django's default logging configuration inherits Python's defaults. It's "
+"available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
+"``django/utils/log.py``"
+msgstr ""
+
+#: 294288ccb2ee4067801ff6798362f9bc
+msgid "State facts about the machinery and its behaviour."
+msgstr ""
+
+#: 6adb3bd316d24eacb21b2e9a40eda1c7
+msgid "Sub-commands are: a, b, c, d, e, f."
+msgstr ""
+
+#: 9c6b0feb6f5748659180767846f1c698
+msgid ""
+"List commands, options, operations, features, flags, limitations, error "
+"messages, etc."
+msgstr ""
+
+#: 27f0b004f83644efb2d89b5799055f40
+msgid "You must use a. You must not apply b unless c. Never d."
+msgstr ""
+
+#: a34161a6a8464999b98605cbd39f3c38
+msgid "Provide warnings where appropriate."
+msgstr ""
+
+#: 8d636da19e154db0bb566b1b5b8f60cc
+msgid "Applied to food and cooking"
+msgstr ""
+
+#: c3a62ce41a0a4c17867839db36f3395f
+msgid ""
+"You might check the information on a packet of food, in order to help you"
+" make a decision about what to do."
+msgstr ""
+
+#: 1b2bd23573304f55946810c19b040892
+msgid ""
+"When you're looking for information - relevant facts - you do not want to"
+" be confronted by opinions, speculation, instructions or interpretation."
+msgstr ""
+
+#: 5a64ff06554b499293128326db937e73
+msgid "Information on the back of a packet of lasagne"
+msgstr ""
+
+#: 7dda35e654b44541818a625fb2a848df
+msgid ""
+"You also expect that information to be presented in standard ways, so "
+"that you - when you need to know about something's nutritional "
+"properties, how it should be stored, its ingredients, what health "
+"implications it might have - can find them quickly, and know you can rely"
+" on them."
+msgstr ""
+
+#: fbd25e198d0d4883a24842ec75ce1715
+msgid ""
+"So you expect to see for example: *May contain traces of wheat*. Or: *Net"
+" weight: 1000g*."
+msgstr ""
+
+#: 669158fd32164b63a192b3bcac72660f
+msgid ""
+"You will certainly not expect to find for example recipes or marketing "
+"claims mixed up with this information; that could be literally dangerous."
+msgstr ""
+
+#: 9395967625914595b0339b7e5cd64169
+msgid ""
+"The way reference material is presented on food products is so important "
+"that it's usually governed by law, and the same kind of seriousness "
+"should apply to all reference documentation."
+msgstr ""
+
