@@ -33,7 +33,7 @@ msgstr "Inizia qui - Diátaxis in cinque minuti"
 msgid ""
 "Treat this website as a handbook or a toolbox that you make use of when "
 "you need it."
-msgstr "Considera questo sito come un manuale o una cassetta degli attrezzi da tirare fuori quando serve."
+msgstr "Considerate questo sito come un manuale o una cassetta degli attrezzi da tirare fuori quando serve."
 
 #: 6633846da83d4a758156063d11cc952f
 msgid ""

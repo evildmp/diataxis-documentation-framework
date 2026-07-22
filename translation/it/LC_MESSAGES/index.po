@@ -20,7 +20,7 @@ msgstr ""
 "Generated-By: Babel 2.18.0\n"
 
 msgid "Home"
-msgstr ""
+msgstr "Home"
 
 msgid "Start here"
 msgstr "Inizia qui"
@@ -53,23 +53,23 @@ msgstr ""
 msgid ""
 "Diátaxis is a widely-adopted, pragmatic and systematic approach to "
 "thinking about and creating documentation."
-msgstr ""
+msgstr "Diátaxis è un approccio ampiamente adottato, pragmatico e sistematico per concepire e creare documentazione."
 
 #: e799e6658e7347ea9dd07078f1d2797f
 msgid "documentation, four, kinds, architecture"
-msgstr ""
+msgstr "documentazione, quattro, tipi, architettura"
 
 #: 36bb49d05c744283855aa579f2aa19b2 a233a277d956440eb8f00ff0580c16a3
 msgid "Diátaxis"
-msgstr ""
+msgstr "Diátaxis"
 
 #: d8290f5edb654811a98172b47aa761e2
 msgid "A systematic approach to technical documentation authoring."
-msgstr ""
+msgstr "Un approccio sistematico alla creazione di documentazione tecnica."
 
 #: 4d31ee6360c64bd0ac5ae676433b23ef
 msgid "Diátaxis is a way of thinking about and doing documentation."
-msgstr ""
+msgstr "Diátaxis è un modo di concepire e praticare la documentazione."
 
 #: cc3d9fc31f6142c3b5fb8313bd35f8b3
 msgid ":doc:`Help translate Diátaxis <translation>` into your language."
@@ -80,7 +80,7 @@ msgid ""
 "It prescribes approaches to content, architecture and form that emerge "
 "from a systematic approach to understanding the needs of documentation "
 "users."
-msgstr ""
+msgstr "Prescrive approcci al contenuto, all'architettura e alla forma che emergono da un approccio sistematico alla comprensione delle esigenze degli utenti della documentazione."
 
 #: 8a7ab6fea3104feab814824cddc6b8c5
 msgid ""
@@ -89,20 +89,20 @@ msgid ""
 "*explanation*. It places them in a systematic relationship, and proposes "
 "that documentation should itself be organised around the structures of "
 "those needs."
-msgstr ""
+msgstr "Diátaxis identifica quattro esigenze distinte, e quattro corrispondenti forme di documentazione - *tutoriali*, *guide pratiche*, *riferimento* e *spiegazione*. Le colloca in una relazione sistematica, e propone che la documentazione stessa sia organizzata attorno alle strutture di tali esigenze."
 
 #: a26d2f7ffca14c69935d2c863987adce
 msgid ""
 "*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and "
 "*taxis* (\"arrangement\")."
-msgstr ""
+msgstr "*Diátaxis*, dal greco antico δῐᾰ́τᾰξῐς: *dia* (\"attraverso\") e *taxis* (\"disposizione\")."
 
 #: 551b33af8738477da7e5e89a290e5745
 msgid ""
 "Diátaxis solves problems related to documentation *content* (what to "
 "write), *style* (how to write it) and *architecture* (how to organise "
 "it)."
-msgstr ""
+msgstr "Diátaxis risolve problemi relativi al *contenuto* della documentazione (cosa scrivere), allo *stile* (come scriverla) e all'*architettura* (come organizzarla)."
 
 #: b42934d368c44becb617b7a39a65099b
 msgid ""
@@ -111,7 +111,7 @@ msgid ""
 " and straightforward to apply. It doesn't impose implementation "
 "constraints. It brings an active principle of quality to documentation "
 "that helps maintainers think effectively about their own work."
-msgstr ""
+msgstr "Oltre a servire gli utenti, Diátaxis ha valore per chi crea e mantiene la documentazione. È leggero, facile da comprendere e semplice da applicare. Non impone vincoli di implementazione. Porta nella documentazione un principio attivo di qualità che aiuta chi la mantiene a riflettere efficacemente sul proprio lavoro."
 
 #: 1e3f2ae4ff7844b5be6dff7176d3fc09
 msgid "Contents"
@@ -121,47 +121,47 @@ msgstr ""
 msgid ""
 "The best way to get started with Diátaxis is by applying it after reading"
 " a brief primer."
-msgstr ""
+msgstr "Per avviarsi con Diátaxis, il modo migliore è applicarlo dopo aver letto una breve guida introduttiva."
 
 #: cb7fc770aec549cf9a1150a60477de87
 msgid "These pages will help make immediate, concrete sense of the approach."
-msgstr ""
+msgstr "Queste pagine aiuteranno a comprendere l'approccio in modo immediato e concreto."
 
 #: 45e2dbaeae1a429383526a1a4e57d14a
 msgid ""
 "This section explores the theory and principles of Diátaxis more deeply, "
 "and sets forth the understanding of needs that underpin it."
-msgstr ""
+msgstr "Questa sezione esplora più a fondo la teoria e i principi di Diátaxis, ed espone la comprensione delle esigenze che lo fondano."
 
 #: 92eb228d66fe4dfc91f1d97d49b03d68
 msgid ""
 "Diátaxis is proven in practice. Its principles have been adopted "
 "successfully in hundreds of documentation projects."
-msgstr ""
+msgstr "Diátaxis è comprovato nella pratica. I suoi principi sono stati adottati con successo in centinaia di progetti di documentazione."
 
 #: 7f7aac9145204b119510728d707f084b
 msgid ""
 "Diátaxis has allowed us to build a high-quality set of internal "
 "documentation that our users love, and our contributors love adding to."
-msgstr ""
+msgstr "Diátaxis ci ha permesso di realizzare un insieme di documentazione interna di alta qualità che i nostri utenti amano, e a cui i nostri collaboratori amano contribuire."
 
 #: 4b3d2fa74c014ec8b41f1a0c6bd32f97
 msgid "Greg Frileux, `Vonage <https://vonage.com/>`_"
-msgstr ""
+msgstr "Greg Frileux, `Vonage <https://vonage.com/>`_"
 
 #: 3f43f6a413a343a5a91cb85870d64f5e
 msgid ""
 "At Gatsby we recently reorganized our open-source documentation, and the "
 "Diátaxis framework was our go-to resource throughout the project. The "
-"four quadrants helped us prioritize the user’s goal for each type of "
+"four quadrants helped us prioritize the user's goal for each type of "
 "documentation. By restructuring our documentation around the Diátaxis "
 "framework, we made it easier for users to discover the resources that "
 "they need when they need them."
-msgstr ""
+msgstr "Presso Gatsby abbiamo recentemente riorganizzato la nostra documentazione open source, e il framework Diátaxis è stato la nostra risorsa di riferimento per tutto il progetto. I quattro quadranti ci hanno aiutato a dare priorità all'obiettivo dell'utente per ciascun tipo di documentazione. Ristrutturando la nostra documentazione attorno al framework Diátaxis, abbiamo reso più facile per gli utenti trovare le risorse di cui hanno bisogno, quando ne hanno bisogno."
 
 #: 06d71dafaabf471d82953d41643cbdf1
 msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
-msgstr ""
+msgstr "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
 
 #: 79717db706f84186bc98281e2a35bfee
 msgid ""
@@ -170,8 +170,8 @@ msgid ""
 " information architecture. When we weren't sure where a new piece of "
 "content should fit in, we'd consult the framework. Our documentation is "
 "now clearer than it's ever been, both for readers and contributors."
-msgstr ""
+msgstr "Mentre ridisegnavamo la `documentazione per sviluppatori di Cloudflare <https://developers.cloudflare.com>`_, Diátaxis è diventato la nostra stella polare per l'architettura dell'informazione. Quando non eravamo sicuri di dove dovesse collocarsi un nuovo contenuto, consultavamo il framework. La nostra documentazione ora è più chiara che mai, sia per i lettori che per i collaboratori."
 
 #: 6b96c42709df46c88e6bee451969fb8a
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
-msgstr ""
+msgstr "`Adam Schwartz <https://github.com/adamschwartz>`_"
