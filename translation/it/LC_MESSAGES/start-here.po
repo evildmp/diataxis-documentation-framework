@@ -291,7 +291,7 @@ msgid ""
 "But a map doesn't tell you what to *do* - it's reference. To guide your "
 "action you need a different sort of tool, in this case, a kind of "
 "Diátaxis compass."
-msgstr "Una mappa, però, non vi dirige: è documentazione di riferimento. Per guidare le azioni vi serve uno strumento diverso — in questo caso, una sorta di bussola di Diátaxis."
+msgstr "Una mappa, però, non vi dirige: è documentazione di riferimento. Per guidare le azioni vi serve uno strumento diverso - in questo caso, una sorta di bussola di Diátaxis."
 
 #: 0ee5d6aa9e014a3c9834b7874803ddcc
 msgid ":ref:`The compass in more detail <compass>`"

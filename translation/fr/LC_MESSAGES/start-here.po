@@ -151,7 +151,7 @@ msgid ""
 "user needs in order to do things correctly: accurate, complete, reliable "
 "information, free of distraction and interpretation. They contain "
 "*propositional or theoretical knowledge*, not guides to action."
-msgstr "**Les guides de référence contiennent la description technique** — des faits — dont l'utilisateur a besoin pour agir correctement : des informations précises, complètes et fiables, sans distraction ni interprétation. Ils contiennent du *savoir propositionnel ou théorique*, et pas des guides d'action."
+msgstr "**Les guides de référence contiennent la description technique** - des faits - dont l'utilisateur a besoin pour agir correctement : des informations précises, complètes et fiables, sans distraction ni interprétation. Ils contiennent du *savoir propositionnel ou théorique*, et pas des guides d'action."
 
 #: 8f04c770b0be4f77b8ef7516c34f33fb
 msgid ""
@@ -174,7 +174,7 @@ msgid ""
 " like a map does. If a method is part of a class that belongs to a "
 "certain module, then we should expect to see the same relationship in the"
 " documentation too."
-msgstr "Lorsque c'est possible, l'architecture de la référence devrait refléter la structure ou l'architecture de ce qu'elle décrit — tout comme une carte. Si une méthode fait partie d'une classe qui appartient à un certain module, alors nous devrions nous attendre à voir la même relation dans la documentation."
+msgstr "Lorsque c'est possible, l'architecture de la référence devrait refléter la structure ou l'architecture de ce qu'elle décrit - tout comme une carte. Si une méthode fait partie d'une classe qui appartient à un certain module, alors nous devrions nous attendre à voir la même relation dans la documentation."
 
 #: d970483c2366461c90e65299faa5aa57
 msgid "Explanation"
@@ -208,7 +208,7 @@ msgid ""
 "Like reference, explanation belongs to the realm of propositional "
 "knowledge rather than action. However its purpose is to serve the user's "
 "study - as tutorials do - and not their work."
-msgstr "Comme la référence, l'explication relève du savoir propositionnel plutôt que de l'action. Toutefois, son but est de servir l'étude de l'utilisateur — comme le font les tutoriels — et pas son travail."
+msgstr "Comme la référence, l'explication relève du savoir propositionnel plutôt que de l'action. Toutefois, son but est de servir l'étude de l'utilisateur - comme le font les tutoriels - et pas son travail."
 
 #: 83be036de58347e9b20a96da3be0ca08
 msgid ""
@@ -290,7 +290,7 @@ msgid ""
 "But a map doesn't tell you what to *do* - it's reference. To guide your "
 "action you need a different sort of tool, in this case, a kind of "
 "Diátaxis compass."
-msgstr "Mais une carte ne vous dit pas ce qu'il faut *faire* — c'est de la référence. Pour guider votre action, il vous faut un autre type d'outil, dans ce case, une boussole Diátaxis."
+msgstr "Mais une carte ne vous dit pas ce qu'il faut *faire* - c'est de la référence. Pour guider votre action, il vous faut un autre type d'outil, dans ce case, une boussole Diátaxis."
 
 #: ee653dbdf0f548098e38d650b4803252
 msgid ":ref:`The compass in more detail <compass>`"
@@ -429,7 +429,7 @@ msgid ""
 "ever after, you will at least have made that one improvement. (In "
 "practice what you will find is that each thing you do will give you a "
 "clue as to the next thing to do - you only need to keep doing them.)"
-msgstr "Vous pouvez vous contenter d'une seule action, tout de suite : même si vous ne faites plus jamais rien d'autre, vous aurez au moins cette amélioration à votre actif. (À l'usage, chaque action accomplie vous mettra sur la piste de la suivante — il suffit de continuer.)"
+msgstr "Vous pouvez vous contenter d'une seule action, tout de suite : même si vous ne faites plus jamais rien d'autre, vous aurez au moins cette amélioration à votre actif. (À l'usage, chaque action accomplie vous mettra sur la piste de la suivante - il suffit de continuer.)"
 
 #: 057b79604c114cf4ad56f8695caddb82
 msgid "Get started"
