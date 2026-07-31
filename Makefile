@@ -9,7 +9,7 @@ GETTEXTDIR    = $(BUILDDIR)/gettext
 SPELLINGDIR   = $(BUILDDIR)/spelling
 
 TRANSLATIONSDIR = translation
-TRANSLATIONLANGUAGES = fr it pt_BR de zh_CN
+TRANSLATIONLANGUAGES = fr it pt_BR de zh_CN pl
 
 VENV = env/bin/activate
 PORT = 8090
@@ -50,9 +50,12 @@ html-pt_BR:
 	. $(VENV); $(SPHINXBUILD) -b html -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
 
 html-it:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=it $(SOURCEDIR) $(HTMLDIR)/it
+	. $(VENV); $(SPHINXBUILD) -b html -D language=it $(SOURCEDIR) $(BUILDDIR)/it
 
-html-all: html html-fr html-it html-pt_BR
+html-pl:
+	. $(VENV); $(SPHINXBUILD) -b html -D language=pl $(SOURCEDIR) $(BUILDDIR)/pl
+
+html-all: html html-fr html-it html-pt_BR html-pl
 
 gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -67,7 +70,7 @@ spelling:
 		"$(SPELLINGDIR)/output.txt."
 
 
-.PHONY: help install clean run html html-fr html-it html-pt_BR html-all gettext update-po-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-all gettext update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

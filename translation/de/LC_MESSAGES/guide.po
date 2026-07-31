@@ -2,7 +2,7 @@
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
@@ -49,7 +49,7 @@ msgstr ""
 
 #: 823fffec85aa4be89e86367c25dbae22
 msgid ""
-"generate a ``.pot`` file (\"Portable Object Template\" – essentially, "
+"generate a ``.pot`` file (\"Portable Object Template\" -- essentially, "
 "translation source files)  for each of the pages of your documentation"
 msgstr ""
 

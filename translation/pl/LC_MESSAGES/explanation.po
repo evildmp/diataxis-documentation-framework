@@ -1,0 +1,450 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Piotr Nawrot, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: 2ec11c86f2924d64907051de9fd5a2af
+msgid "Explanation"
+msgstr "Wyjaśnienie"
+
+#: b99c264ad5314bb884769cf9338ced6d
+msgid ""
+"Explanation is a discursive treatment of a subject, that permits "
+"*reflection*. Explanation is **understanding-oriented**."
+msgstr ""
+"Wyjaśnienie to dyskursywne omówienie tematu, które umożliwia *refleksję*. "
+"Wyjaśnienie jest **ukierunkowane na zrozumienie**."
+
+#: e37cb70c43ea40c2a99d298b568ed364
+msgid ""
+"Explanation deepens and broadens the reader's understanding of a subject. It"
+" brings clarity, light and context."
+msgstr ""
+"Wyjaśnienie pogłębia i poszerza zrozumienie czytelnika na temat przedmiotu. "
+"Przynosi jasność, światło i kontekst."
+
+#: 8475420fccef46919a2fcd39d660a859
+msgid ""
+"Explanation - understanding oriented, theoretical knowledge, that serves our"
+" study"
+msgstr ""
+"Wyjaśnienie - ukierunkowane na zrozumienie, wiedza teoretyczna, która służy "
+"naszemu studiowaniu"
+
+#: 070b28f68ba54a9eb46e01e582c232f6
+msgid ""
+"The concept of *reflection* is important. Reflection occurs *after* "
+"something else, and depends on something else, yet at the same time brings "
+"something new - shines a new light - on the subject matter."
+msgstr ""
+"Pojęcie *refleksji* jest ważne. Refleksja występuje *po* czymś innym i "
+"zależy od czegoś innego, ale jednocześnie przynosi coś nowego - rzuca nowe "
+"światło - na temat."
+
+#: c26c0f544855449781fd59a2878f7d91
+msgid ""
+"The perspective of explanation is higher and wider than that of the other "
+"three types. It does not take the user's eye-level view, as in a how-to "
+"guide, or a close-up view of the machinery, like reference material. Its "
+"scope in each case is a topic - \"an area of knowledge\", that somehow has "
+"to be bounded in a reasonable, meaningful way."
+msgstr ""
+"Perspektywa wyjaśnienia jest wyższa i szersza niż pozostałych trzech "
+"rodzajów. Nie przyjmuje punktu widzenia użytkownika, jak w przewodniku krok "
+"po kroku, ani bliskiego widoku mechanizmu, jak materiał referencyjny. W "
+"każdym przypadku jej zakres to temat - \"obszar wiedzy\", który w jakiś "
+"sposób musi być ograniczony w rozsądny, znaczący sposób."
+
+#: 4020becfa1ae40ee933aed3e293e2717
+msgid ""
+"For the user, explanation joins things together. It's an answer to the "
+"question: *Can you tell me about ...?*"
+msgstr ""
+"Dla użytkownika wyjaśnienie łączy rzeczy. To odpowiedź na pytanie: *Czy "
+"możesz mi opowiedzieć o ...?*"
+
+#: 25f5d2bf3fe04c98b607b1b7bb2dcb67
+msgid ""
+"It's documentation that it makes sense to read while away from the product "
+"itself (one could say, explanation is the only kind of documentation that it"
+" might make sense to read in the bath)."
+msgstr ""
+"To dokumentacja, którą ma sens czytać z dala od samego produktu (można "
+"powiedzieć, że wyjaśnienie jest jedynym rodzajem dokumentacji, który może "
+"mieć sens czytać w wannie)."
+
+#: 574c1fff9dd444b5b0635261833708af
+msgid "The value and place of explanation"
+msgstr "Wartość i miejsce wyjaśnienia"
+
+#: f314cbbc482542fab2034be64d3d3ec4
+msgid "Explanation and understanding"
+msgstr "Wyjaśnienie i zrozumienie"
+
+#: b6b6c002df4c4c519f7fbe6e79555ad6
+msgid ""
+"Explanation  is characterised by its distance from the active concerns of "
+"the practitioner. It doesn't have direct implications for what they do, or "
+"for their work. This means that it's sometimes seen as being of lesser "
+"importance. That's a mistake; it may be less *urgent* than the other three, "
+"but it's no less *important*. It's not a luxury. No practitioner of a craft "
+"can afford to be without an understanding of that craft, and needs the "
+"explanatory material that will help weave it together."
+msgstr ""
+"Wyjaśnienie charakteryzuje się swoim dystansem od aktywnych trosk praktyka. "
+"Nie ma bezpośrednich implikacji dla tego, co oni robią, lub dla ich pracy. "
+"Oznacza to, że czasem jest postrzegane jako mniej ważne. To błąd; może być "
+"mniej *pilne* niż pozostałe trzy, ale nie jest mniej *ważne*. To nie jest "
+"luksus. Żaden praktyk rzemiosła nie może sobie pozwolić na brak zrozumienia "
+"tego rzemiosła i potrzebuje materiałów wyjaśniających, które pomogą to "
+"złożyć."
+
+#: e64f1d0b64c34415bbad60c5b306a42c
+msgid ""
+"Your explanation documentation doesn't need to be called *Explanation*. "
+"Alternatives include:"
+msgstr ""
+"Twoja dokumentacja wyjaśniająca nie musi być nazywana *Wyjaśnienie*. "
+"Alternatywy obejmują:"
+
+#: eea813cf28f64bfbbe62411b03236058
+msgid "*Discussion*"
+msgstr "*Dyskusja*"
+
+#: 6b4cfa1e0d3b49ddbf248b20cf1981e0
+msgid "*Background*"
+msgstr "*Tło*"
+
+#: 9d1276d1f9ed4431b35c0c6419207591
+msgid "*Conceptual guides*"
+msgstr "*Przewodniki koncepcyjne*"
+
+#: 27478e699ede430aaeea3bbfba7d1e0c
+msgid "*Topics*"
+msgstr "*Tematy*"
+
+#: 10fbddcee7634a87ae5ef05cb3b05dff
+msgid ""
+"The word *explanation* - and its cognates in other languages - refer to "
+"*unfolding*, the revelation of what is hidden in the folds. So explanation "
+"brings to the light things that were implicit or obscured."
+msgstr ""
+"Słowo *wyjaśnienie* - i jego odpowiedniki w innych językach - odnoszą się do"
+" *rozwijania*, ujawniania tego, co ukryte w fałdach. Więc wyjaśnienie "
+"przynosi na światło dzienne rzeczy, które były implikowane lub zasłonięte."
+
+#: 1ca411424f884148aff6145a623df031
+msgid ""
+"Similarly, words that mean *understanding* share roots in words meaning to "
+"hold or grasp (as in *comprehend*). That's an important part of "
+"understanding, to be able to hold something or be in possession of it. "
+"Understanding seals together the other components of our mastery of a craft,"
+" and makes it safely our own."
+msgstr ""
+"Podobnie, słowa oznaczające *zrozumienie* dzielą rdzenie ze słowami "
+"oznaczającymi trzymanie lub chwytanie (jak w *comprehend*). To ważna część "
+"zrozumienia - umiejętność trzymania czegoś lub bycia w posiadaniu tego. "
+"Zrozumienie scala razem inne składniki naszego mistrzostwa w rzemiośle i "
+"sprawia, że staje się ono bezpiecznie nasze własne."
+
+#: a9570a917dc44d70a48f56776517da82
+msgid ""
+"Understanding doesn't *come from* explanation, but explanation is required "
+"to form that web that helps hold everything together. Without it, the "
+"practitioner's knowledge of their craft is loose and fragmented and fragile,"
+" and their exercise of it is *anxious*."
+msgstr ""
+"Zrozumienie nie *pochodzi* z wyjaśnienia, ale wyjaśnienie jest wymagane, aby"
+" utworzyć tę sieć, która pomaga trzymać wszystko razem. Bez niego wiedza "
+"praktyka o jego rzemiośle jest luźna i fragmentaryczna i krucha, a jego "
+"korzystanie z niej jest *niepokojące*."
+
+#: dee7b8ec0add481f8b21a203cf784dec
+msgid "Explanation and its boundaries"
+msgstr "Wyjaśnienie i jego granice"
+
+#: 718f917508b649fb9cbf74db4ccf2039
+msgid ""
+"Quite often explanation is not explicitly recognised in documentation; and "
+"the idea that things need to be explained is often only faintly expressed. "
+"Instead, explanation tends to be scattered in small parcels in other "
+"sections."
+msgstr ""
+"Dość często wyjaśnienie nie jest wyraźnie rozpoznawane w dokumentacji; a "
+"pomysł, że rzeczy muszą być wyjaśnione, jest często tylko słabo wyrażony. "
+"Zamiast tego, wyjaśnienie ma tendencję do bycia rozproszonym w małych "
+"porcjach w innych sekcjach."
+
+#: 836ecb1d22764bd1af40461fc82452cd
+msgid ""
+"It's not always easy to write good explanatory material. Where does one "
+"start? It's also not clear where to conclude. There is an open-endedness "
+"about it that can give the writer too many possibilities."
+msgstr ""
+"Nie zawsze łatwo jest pisać dobre materiały wyjaśniające. Od czego zacząć? "
+"Nie jest też jasne, gdzie zakończyć. Jest w tym coś otwartego, co może dawać"
+" piszącemu zbyt wiele możliwości."
+
+#: 6e108fbdae2c46b0adb7605f632209e3
+msgid ""
+"Tutorials, how-to-guides and reference are all clearly defined in their "
+"scope by something that is also well-defined: by what you need the user to "
+"learn, what task the user needs to achieve, or just by the scope of the "
+"machine itself."
+msgstr ""
+"Tutoriale, przewodniki krok po kroku i referencje są wszystkie wyraźnie "
+"zdefiniowane w swoim zakresie przez coś, co również jest dobrze "
+"zdefiniowane: przez to, czego użytkownik musi się nauczyć, jakie zadanie "
+"użytkownik musi osiągnąć, lub po prostu przez zakres samej maszyny."
+
+#: 00c563578af64b0bbd5c7b97dfdff3bb
+msgid ""
+"In the case of explanation, it's useful to have a real or imagined *why* "
+"question to serve as a prompt. Otherwise, you simply have to draw some lines"
+" that mark out a reasonable area and be satisfied with that."
+msgstr ""
+"W przypadku wyjaśnienia, przydatne jest mieć prawdziwe lub wyobrażone "
+"*dlaczego* pytanie, które służy jako bodziec. W przeciwnym razie po prostu "
+"musisz narysować jakieś linie, które wyznaczają rozsądny obszar i być "
+"zadowolonym z tego."
+
+#: 853649e00f8f4ab79aac41c1e0a1ee99
+msgid "Writing good explanation"
+msgstr "Pisanie dobrego wyjaśnienia"
+
+#: be044afb681c4513b7a1966dbce6baa7
+msgid "Make connections"
+msgstr "Twórz połączenia"
+
+#: bae037875f2b4477a3ef7bf80efb00d7
+msgid ""
+"When writing explanation you are helping to weave a web of understanding for"
+" your readers. **Make connections** to other things, even to things outside "
+"the immediate topic, if that helps."
+msgstr ""
+"Pisząc wyjaśnienie, pomagasz tkać sieć zrozumienia dla swoich czytelników. "
+"**Twórz połączenia** z innymi rzeczami, nawet z rzeczami spoza "
+"bezpośredniego tematu, jeśli to pomaga."
+
+#: bfd0e4e52b27431a8fad5403d72ac0ef
+msgid "Provide context"
+msgstr "Dostarcz kontekst"
+
+#: f90977860e164f5d8bb6ff711e79b16c
+msgid ""
+"**Provide background and context in your explanation**: explain *why* things"
+" are so - design decisions, historical reasons, technical constraints - draw"
+" implications, mention specific examples."
+msgstr ""
+"**Dostarcz tło i kontekst w swoim wyjaśnieniu**: wyjaśniaj *dlaczego* rzeczy"
+" są takie - decyzje projektowe, powody historyczne, ograniczenia techniczne "
+"- wyciągaj implikacje, wspominaj konkretne przykłady."
+
+#: 6e52d5ff836d4f5cb46e497788797237
+msgid "Talk *about* the subject"
+msgstr "Mów *o* temacie"
+
+#: 100772f7a48a4c26a1fb3db050ff29e9
+msgid "the bigger picture"
+msgstr "większy obraz"
+
+#: c6c44d2be0664bbebaeb8f3d72646e0f
+msgid "history"
+msgstr "historia"
+
+#: 694baa0e4a4c4fd19fe6cead033ff99a
+msgid "choices, alternatives, possibilities"
+msgstr "wybory, alternatywy, możliwości"
+
+#: 4749e2626db74b68ac1b19a7a2c9d957
+msgid "why: reasons and justifications"
+msgstr "dlaczego: powody i uzasadnienia"
+
+#: 023898eaae174668b09c8c68e52c4bcb
+msgid ""
+"Explanation guides are *about* a topic in the sense that they are *around* "
+"it. Even the names of your explanation guides should reflect this; you "
+"should be able to place an implicit (or even explicit) *about* in front of "
+"each title. For example: *About user authentication*, or *About database "
+"connection policies*."
+msgstr ""
+"Przewodniki wyjaśniające są *o* temacie w tym sensie, że są *wokół* niego. "
+"Nawet nazwy twoich przewodników wyjaśniających powinny to odzwierciedlać; "
+"powinieneś być w stanie umieścić implikowane (lub nawet jawne) *o* przed "
+"każdym tytułem. Na przykład: *O autoryzacji użytkownika*, lub *O politykach "
+"połączeń z bazą danych*."
+
+#: 83cc6a73df2f4e1db9e94f1665e46e0a
+msgid "Admit opinion and perspective"
+msgstr "Przyznaj się do opinii i perspektywy"
+
+#: 936922c469204a84bcc97b42420ac8c4
+msgid ""
+"Opinion might seem like a funny thing to introduce into documentation. The "
+"fact is that all human activity and knowledge is invested within opinion, "
+"with beliefs and thoughts. The reality of any human creation is rich with "
+"opinion, and that needs to be part of any understanding of it."
+msgstr ""
+"Opinia może wydawać się dziwną rzeczą do wprowadzenia do dokumentacji. "
+"Faktem jest, że cała ludzka aktywność i wiedza jest osadzona w opinii, z "
+"wierzeniami i myślami. Rzeczywistość każdego ludzkiego dzieła jest bogata w "
+"opinię, i to musi być częścią każdego zrozumienia tego."
+
+#: 60b2d34b065845188bff819ea1ae072f
+msgid ""
+"Similarly, any understanding comes from a perspective, a particular stand-"
+"point - which means that other perspectives and stand-points exist. "
+"**Explanation can and must consider alternatives**, counter-examples or "
+"multiple different approaches to the same question."
+msgstr ""
+"Podobnie, każde zrozumienie pochodzi z perspektywy, z określonego punktu "
+"widzenia - co oznacza, że istnieją inne perspektywy i punkty widzenia. "
+"**Wyjaśnienie może i musi rozważać alternatywy**, kontrprzykłady lub wiele "
+"różnych podejść do tego samego pytania."
+
+#: 10f7aa1134b54615b5c07eabe14b07df
+msgid ""
+"In explanation, you're not giving instruction or describing facts - you're "
+"opening up the topic for consideration. It helps to think of explanation as "
+"discussion: discussions can even consider and weigh up contrary *opinions*."
+msgstr ""
+"W wyjaśnieniu nie dajesz instrukcji ani nie opisujesz faktów - otwierasz "
+"temat do rozważenia. Pomaga myśleć o wyjaśnieniu jako o dyskusji: dyskusje "
+"mogą nawet rozważać i ważyć przeciwne *opinie*."
+
+#: 4ac7034c2b704d8f95ae51f2bbe13237
+msgid "Keep explanation closely bounded"
+msgstr "Utrzymuj wyjaśnienie ściśle ograniczone"
+
+#: d3bbff6d697446d59bb57f616cc30419
+msgid ""
+"One risk of explanation is that it tends to absorb other things. The writer,"
+" intent on covering the topic, feels the urge to include instruction or "
+"technical description related to it. But documentation already has other "
+"places for these, and allowing them to creep in interferes with the "
+"explanation itself, and removes them from view in the correct place."
+msgstr ""
+"Jednym z ryzyk wyjaśnienia jest to, że ma ono tendencję do wchłaniania "
+"innych rzeczy. Piszący, skupiony na omówieniu tematu, odczuwa potrzebę "
+"włączenia instrukcji lub opisu technicznego z nim związanego. Ale "
+"dokumentacja już ma inne miejsca dla tych, i pozwalanie im się wślizgnąć "
+"zakłóca samo wyjaśnienie, i usuwa je z widoku w odpowiednim miejscu."
+
+#: f7f2dc3fb9da4683bcb0d6bdecaff3b4
+msgid "The language of explanation"
+msgstr "Język wyjaśnienia"
+
+#: 17794efd18c545b984602dd4ac4e2afe
+msgid "*The reason for x is because historically, y ...*"
+msgstr "*Powód, dla którego x jest taki, to historycznie y ...*"
+
+#: fcf33d9cd27e4e34b09af953ac7931c1
+msgid "Explain."
+msgstr "Wyjaśnij."
+
+#: 8d5af337387d44a39bb04adfcc3ee457
+msgid "*W is better than z, because ...*"
+msgstr "*W jest lepsze niż z, ponieważ ...*"
+
+#: 7795ab34b6db453e9aa6adbe9f3fb810
+msgid "Offer judgements and even opinions where appropriate.."
+msgstr "Oferuj osądy, a nawet opinie, gdzie to odpowiednie."
+
+#: 40bbc2df97a3461fb46f2f1b54640315
+msgid "*An x in system y is analogous to a w in system z. However ...*"
+msgstr "*X w systemie y jest analogiczne do w w systemie z. Jednak ...*"
+
+#: 115ac6ac3d864ec9a898442a45e05105
+msgid "Provide context that helps the reader."
+msgstr "Dostarcz kontekst, który pomaga czytelnikowi."
+
+#: 2b0f0903ae8742b9b6fcf144f0fe084a
+msgid "*Some users prefer w (because z). This can be a good approach, but...*"
+msgstr ""
+"*Niektórzy użytkownicy wolą w (ponieważ z). To może być dobre podejście, "
+"ale...*"
+
+#: c62474c9713a4c6986827f7f8a6f53bc
+msgid "Weigh up alternatives."
+msgstr "Rozważ alternatywy."
+
+#: 9fd8fe4d4471455e8f0fc50769f744c6
+msgid "*An x interacts with a y as follows: ...*"
+msgstr "*X współdziała z y w następujący sposób: ...*"
+
+#: d86ce82d24be4313bd76f53153fcad97
+msgid ""
+"Unfold the machinery's internal secrets, to help understand why something "
+"does what it does."
+msgstr ""
+"Rozwiń wewnętrzne sekrety maszyny, aby pomóc zrozumieć, dlaczego coś robi "
+"to, co robi."
+
+#: fcab665ed081413e9219403edfcf8e8e
+msgid "Analogy from food and cooking"
+msgstr "Analogia z jedzenia i gotowania"
+
+#: a91080002469451da035f50b80776279
+msgid ""
+"In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
+" cooking*."
+msgstr ""
+"W 1984 `Harold McGee &lt;https://www.curiouscook.com&gt;`_ opublikował *On "
+"food and cooking*."
+
+#: 85271369753b4e4b8defcd31d5d45076
+msgid ""
+"The book doesn't teach how to cook anything. It doesn't contain recipes "
+"(except as historical examples) and it isn't a work of reference. Instead, "
+"it places food and cooking in the context of history, society, science and "
+"technology. It explains for example why we do what we do in the kitchen and "
+"how that has changed."
+msgstr ""
+"Książka nie uczy, jak gotować cokolwiek. Nie zawiera przepisów (poza "
+"przykładami historycznymi) i nie jest dziełem referencyjnym. Zamiast tego "
+"umieszcza jedzenie i gotowanie w kontekście historii, społeczeństwa, nauki i"
+" technologii. Wyjaśnia na przykład, dlaczego robimy to, co robimy w kuchni i"
+" jak to się zmieniało."
+
+#: 0dd787745e5248cab1c75e7f55b819a8
+msgid ""
+"It's clearly not a book we would read *while* cooking. We would read when we"
+" want to reflect on cooking. It illuminates the subject by taking multiple "
+"different perspectives on it, shining light from different angles."
+msgstr ""
+"Jest jasne, że nie jest to książka, którą czytalibyśmy *podczas* gotowania. "
+"Czytalibyśmy ją, gdy chcemy zastanowić się nad gotowaniem. Oświetla temat, "
+"przyjmując wiele różnych perspektyw na niego, rzucając światło z różnych "
+"kątów."
+
+#: 6bba909e369543a79952196c52766c23
+msgid ""
+"After reading a book like *On food and cooking*, our understanding is "
+"changed. Our knowledge is richer and deeper. What we have learned may or may"
+" not be immediately applicable next time we are doing something in the "
+"kitchen, but *it will change how we think about our craft, and will affect "
+"our practice*."
+msgstr ""
+"Po przeczytaniu książki takiej jak *On food and cooking*, nasze zrozumienie "
+"się zmienia. Nasza wiedza jest bogatsza i głębsza. To, czego się "
+"nauczyliśmy, może nie być od razu zastosowane następnym razem, gdy coś "
+"robimy w kuchni, ale *zmieni to, jak myślimy o naszym rzemiośle, i wpłynie "
+"na naszą praktykę*."

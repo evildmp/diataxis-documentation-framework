@@ -1,0 +1,64 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 01:06+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: pl\n"
+"Language-Team: pl <LL@li.org>\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && "
+"(n%100<10 || n%100>=20) ? 1 : 2);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: a65b6614bf1e4e27bf1edadb85581e24
+msgid "Help translate Diátaxis"
+msgstr ""
+
+#: 9e0fe9144beb41358d08049512ed6761
+msgid ""
+"If you'd like to help translate Diátaxis into your language, that would "
+"be very welcome."
+msgstr ""
+
+#: 301b74e8245e4804a86594db4c32e765
+msgid ""
+"See the `staging version of this site with translations <https"
+"://diataxis-translated.readthedocs.io>`_."
+msgstr ""
+
+#: 80a3d6f245f6447e99980f4c357766fc
+msgid ""
+"Currently it's set up for French, Portuguese and German translations, but"
+" others can be added on request."
+msgstr ""
+
+#: 75341d0838c04cf1b07726d938eaf066
+msgid ""
+"As soon as a translation is complete, I will publish it on "
+"https://diataxis.fr."
+msgstr ""
+
+#: 44d08d335abf46158b9ef35133d5e12f
+msgid ""
+"The best way to contribute to translation is via the `Diátaxis page on "
+"Transifex <https://explore.transifex.com/danieleprocida/diataxis/>`_."
+msgstr ""
+
+#: 7b9a9551805f44f4bc77350459d5fb2b
+msgid ""
+"Translation contributions are accepted under the `Creative Commons "
+"Attribution-ShareAlike 4.0 International Public License "
+"<https://github.com/evildmp/diataxis-documentation-"
+"framework/blob/main/LICENSE.rst>`_."
+msgstr ""
+

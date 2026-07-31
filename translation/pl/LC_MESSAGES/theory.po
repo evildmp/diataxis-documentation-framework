@@ -1,0 +1,108 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Piotr Nawrot, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: 83ebd1dd4dbd40f4aeefc08ca6afdad0
+msgid "Understanding Diátaxis"
+msgstr "Zrozumienie Diátaxis"
+
+#: e39889b14ffe4c728a189da1320fe2f4
+msgid "The Grand Unified Theory of Documentation"
+msgstr "Wielka Zunifikowana Teoria Dokumentacji"
+
+#: f2ddd153393141fd97415229973e17d2
+msgid "David Laing"
+msgstr "David Laing"
+
+#: ae2bda0047cd4bc89a190747943b292d
+msgid ""
+"The pages in this section are intended to provide some theoretical grounding"
+" for the practices Diátaxis prescribes, and to explore some of the questions"
+" it raises."
+msgstr ""
+"Strony w tej sekcji mają na celu dostarczenie pewnego teoretycznego podłoża "
+"dla praktyk, które zaleca Diátaxis, oraz zbadanie niektórych pytań, które "
+"podnosi."
+
+#: 2bff41ddebf84110a8357812220189ba
+msgid ""
+"Within the discipline of documentation, discourse tends towards the "
+"practical and concrete. The approach is generally heuristic: guidelines, "
+"rules of thumb, specific imperatives, principles that we know work."
+msgstr ""
+"W ramach dyscypliny dokumentacji dyskurs zmierza ku praktycznemu i "
+"konkretnemu. Podejście jest zazwyczaj heurystyczne: wytyczne, reguły kciuka,"
+" konkretne nakazy, zasady, które wiemy, że działają."
+
+#: 12f3a8b0aee6404087bb950f102d2831
+msgid ""
+"As practitioners, we have much to say about what to do, and how to do it and"
+" how it works, and relatively little to say about *why* it works. Our sense "
+"of the right way to do things is largely based on a combination of intuition"
+" and experience. The theoretical aspect of the discipline receives far less "
+"attention."
+msgstr ""
+"Jako praktycy mamy dużo do powiedzenia na temat tego, co robić, jak to robić"
+" i jak to działa, a stosunkowo niewiele do powiedzenia na temat *dlaczego* "
+"to działa. Nasze poczucie właściwego sposobu robienia rzeczy opiera się w "
+"dużej mierze na połączeniu intuicji i doświadczenia. Teoretyczny aspekt "
+"dyscypliny otrzymuje znacznie mniej uwagi."
+
+#: 9e69aa30b1b945029ad5e9dcb7a24c9a
+msgid ""
+"Diátaxis aims to place documentation practice on a more rigorous theoretical"
+" footing."
+msgstr ""
+"Diátaxis ma na celu umieszczenie praktyki dokumentacji na bardziej "
+"rygorystycznym teoretycznym gruncie."
+
+#: 6bd464cea8be435dbaed7e14d43e72ee
+msgid "In this section"
+msgstr "W tej sekcji"
+
+#: 3e1ada7a84504e70927d950ce6773ba8
+msgid "These pages dig deeper into the thinking that underpins Diátaxis."
+msgstr "Te strony zagłębiają się w myślenie, które stanowi podstawę Diátaxis."
+
+#: dffd24850c3f4be9995dbbb9d7daf620
+msgid ":doc:`foundations` - *why* Diátaxis works"
+msgstr ":doc:`podstawy` - *dlaczego* Diátaxis działa"
+
+#: cfeea000b14a412cb0c6bc0aeb07a59d
+msgid ":doc:`map` - documentation in two dimensions"
+msgstr ":doc:`mapy` - dokumentacja w dwóch wymiarach"
+
+#: 37b3a958f5184c58a7d275d71e3fc4a3
+msgid ":doc:`quality`"
+msgstr ":doc:`jakość`"
+
+#: 45c7ae7cd0d24799803a50ab180df6bb
+msgid "Common problems explored:"
+msgstr "Wspólne problemy zbadane:"
+
+#: cf5397f6a27e44f3b257767f4d127818
+msgid ":doc:`tutorials-how-to`"
+msgstr ":doc:`samouczki-poradniki-krok-po-kroku`"
+
+#: 5a5a093981654c999cfff2aa1ee6de61
+msgid ":doc:`reference-explanation`"
+msgstr ":doc:`dokumentacja-referencyjna-wyjaśnienia`"

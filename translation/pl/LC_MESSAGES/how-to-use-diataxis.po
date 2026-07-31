@@ -1,0 +1,358 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Piotr Nawrot, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: 6dd861bedd3848229ed6c7d8d1557203
+msgid "Diátaxis as a guide to work"
+msgstr "Diátaxis jako przewodnik po pracy"
+
+#: 6b6c0c3f4d484cd2a19db4004d289e33
+msgid ""
+"As well as providing a guide to documentation content, Diátaxis is also a "
+"guide to documentation process and execution."
+msgstr ""
+"Oprócz dostarczania przewodnika po zawartości dokumentacji, Diátaxis jest "
+"również przewodnikiem po procesie i wykonaniu dokumentacji."
+
+#: 892a7b95955f4078aa5e5a4bc2509466
+msgid ""
+"Most people who work on technical documentation must make decisions about "
+"how to work, as they work. In some contexts, documentation must be delivered"
+" once, complete and in its final state, but it's more usual that it's an on-"
+"going project, for example developed alongside a product that itself evolves"
+" and develops. It's also the experience of many people who work on "
+"documentation to find themselves responsible for improving or even "
+"remediating a body of work."
+msgstr ""
+"Większość osób pracujących nad dokumentacją techniczną musi podejmować "
+"decyzje dotyczące sposobu pracy, podczas gdy pracują. W niektórych "
+"kontekstach dokumentacja musi być dostarczona raz, kompletna i w swojej "
+"ostatecznej formie, ale częściej jest to ciągły projekt, na przykład "
+"rozwijany równolegle z produktem, który sam ewoluuje i rozwija się. Wiele "
+"osób pracujących nad dokumentacją doświadcza również odpowiedzialności za "
+"poprawianie lub nawet naprawianie zbioru dokumentacji."
+
+#: 7287c8e0ad8c4f0a9323bf596b602b7a
+msgid ""
+"Diátaxis provides an approach to work that runs counter to much of the "
+"accepted wisdom in documentation. In particular, it discourages planning and"
+" top-down workflows, preferring instead small, responsive iterations from "
+"which overall patterns emerge."
+msgstr ""
+"Diátaxis oferuje podejście do pracy, które stoi w sprzeczności z wieloma "
+"powszechnie akceptowanymi poglądami w dokumentacji. W szczególności "
+"zniechęca do planowania i odgórnych przepływów pracy, preferując zamiast "
+"tego małe, elastyczne iteracje, z których wyłaniają się ogólne wzorce."
+
+#: bcac6e85bf334c948b1e873bd25251ce
+msgid "Use Diátaxis as a guide, not a plan"
+msgstr "Używaj Diátaxis jako przewodnika, a nie planu"
+
+#: 4c7dace3ba554903917768ef221e7f2b
+msgid ""
+"Diátaxis describes a complete picture of documentation. However the "
+"structure it proposes is not intended to be a **plan**, something you must "
+"complete in your documentation. It's a **guide**, a map to help you check "
+"that you're in the right place and going in the right directions."
+msgstr ""
+"Diátaxis opisuje kompletny obraz dokumentacji. Jednak struktura, którą "
+"proponuje, nie jest przeznaczona jako **plan**, coś, co musisz ukończyć w "
+"swojej dokumentacji. To **przewodnik**, mapa, która pomaga sprawdzić, czy "
+"jesteś we właściwym miejscu i idziesz we właściwych kierunkach."
+
+#: af5ac1449a0e451a9226eca0877f7238
+msgid ""
+"The point of Diátaxis is to give you a way to think about and understand "
+"your documentation, so that you can make better sense of what it's doing and"
+" what you're trying to do with it. It provides tools that help assess it, "
+"identify where its problems lie, and judge what you can do to improve it."
+msgstr ""
+"Celem Diátaxis jest dostarczenie ci sposobu myślenia i rozumienia twojej "
+"dokumentacji, abyś mógł lepiej zrozumieć, co ona robi i co próbujesz z nią "
+"zrobić. Dostarcza narzędzia, które pomagają ocenić ją, zidentyfikować, gdzie"
+" leżą jej problemy, i osądzić, co możesz zrobić, aby ją poprawić."
+
+#: 04da6cdee26644f5b0a380673f7277d7
+msgid "Don't worry about structure"
+msgstr "Nie martw się o strukturę"
+
+#: a096802703f54018a0d8c770bf4cc1ac
+msgid ""
+"Although structure is key to documentation, **using Diátaxis means not "
+"spending energy trying to get its structure correct**."
+msgstr ""
+"Chociaż struktura jest kluczowa dla dokumentacji, **korzystanie z Diátaxis "
+"oznacza niepoświęcanie energii na poprawne ustrukturyzowanie jej**."
+
+#: f7be3a2650c3484c8d000b42490d69c0
+msgid ""
+"If you continue to follow the prompts that Diátaxis provides, eventually "
+"your documentation will assume the Diátaxis structure - but it will have "
+"assumed that shape *because* it has been improved. It's not the other way "
+"round, that the structure must be imposed upon documentation to improve it."
+msgstr ""
+"Jeśli będziesz nadal podążać za wskazówkami, które dostarcza Diátaxis, twoja"
+" dokumentacja ostatecznie przyjmie strukturę Diátaxis - ale przyjmie tę "
+"formę *ponieważ* została poprawiona. To nie jest tak, że struktura musi być "
+"narzucona na dokumentację, aby ją poprawić."
+
+#: 6afd75d8f0cd48ec93d9e49b068a2d90
+msgid ""
+"Getting started with Diátaxis does not require you to think about dividing "
+"up your documentation into four sections. **It certainly does not mean that "
+"you should create empty structures for tutorials/howto "
+"guides/reference/explanation with nothing in them.** Don't do that. It's "
+"horrible."
+msgstr ""
+"Rozpoczęcie pracy z Diátaxis nie wymaga od ciebie myślenia o podziale "
+"dokumentacji na cztery sekcje. **Z pewnością nie oznacza to, że powinieneś "
+"tworzyć puste struktury dla tutoriali/przewodników krok po "
+"kroku/referencji/wyjaśnień.** Nie rób tego. To okropne."
+
+#: bd1bd33d46dc402da65f8bdd00837289
+msgid ""
+"Instead, following the workflow described in the next two sections, make "
+"changes where you see opportunities for improvement according to Diátaxis "
+"principles, so that the documentation starts to take a certain shape. At a "
+"certain point, the changes you have made will appear to demand that you move"
+" material under a certain Diátaxis heading - and that is how your top-level "
+"structure will form. In other words, **Diátaxis changes the structure of "
+"your documentation from the inside**."
+msgstr ""
+"Zamiast tego, postępując zgodnie z przepływem pracy opisanym w następnych "
+"dwóch sekcjach, wprowadzaj zmiany, gdzie widzisz możliwości poprawy zgodnie "
+"z zasadami Diátaxis, tak aby dokumentacja zaczęła przybierać pewien kształt."
+" W pewnym momencie wprowadzone zmiany będą wydawać się wymagać, abyś "
+"przeniósł materiał pod określoną sekcją Diátaxis - i w ten sposób uformuje "
+"się twoja struktura najwyższego poziomu. Innymi słowy, **Diátaxis zmienia "
+"strukturę twojej dokumentacji od wewnątrz**."
+
+#: cb07b12f33b7453fa77598f246c2959c
+msgid "Work one step at a time"
+msgstr "Pracuj krok po kroku"
+
+#: bd32ad1d87554122adb36daaa898c2e1
+msgid ""
+"Diátaxis strongly prescribes a structure, but whatever the state of your "
+"existing documentation - even if it's a complete mess by any standards - "
+"it's always possible to improve it, **iteratively**."
+msgstr ""
+"Diátaxis zdecydowanie przepisuje strukturę, ale niezależnie od stanu twojej "
+"istniejącej dokumentacji - nawet jeśli jest kompletnym bałaganem według "
+"wszelkich standardów - zawsze możesz ją poprawić, **iteracyjnie**."
+
+#: 930d59554c9f49a1b4b3d8c767592bde
+msgid ""
+"It's natural to want to complete large tranches of work before you publish "
+"them, so that you have something substantial to show each time. Avoid this "
+"temptation - every step in the right direction is worth publishing "
+"immediately."
+msgstr ""
+"Naturalne jest chęć ukończenia dużych partii pracy przed ich opublikowaniem,"
+" aby za każdym razem mieć coś znaczącego do pokazania. Unikaj tej pokusy - "
+"każdy krok we właściwym kierunku jest wart natychmiastowego opublikowania."
+
+#: 8d113905580b44a8a5d6aaa1c8655750
+msgid ""
+"Although Diátaxis is intended to provide a big picture of documentation, "
+"**don't try to work on the big picture**. It's both unnecessary and "
+"unhelpful. Diátaxis is designed to guide small steps; keep taking small "
+"steps to arrive where you want to go."
+msgstr ""
+"Chociaż Diátaxis ma dostarczyć duży obraz dokumentacji, **nie próbuj "
+"pracować nad dużym obrazem**. To zarówno niepotrzebne, jak i niewłaściwe. "
+"Diátaxis jest zaprojektowana, aby kierować małymi krokami; kontynuuj "
+"wykonywanie małych kroków, aby dotrzeć tam, gdzie chcesz."
+
+#: 6e2b9b322f5c4c4c8f4c016b0e0f8887
+msgid "Just do something"
+msgstr "Po prostu coś zrób"
+
+#: 1ab96f143f4d407aa9789bafc2ec7a5e
+msgid ""
+"If you're tidying up a huge mess, the temptation is to tear it all down and "
+"start again. Again, avoid it. As far as improving documentation in-line with"
+" Diátaxis goes, it isn't necessary to seek out things to improve. Instead, "
+"the best way to apply Diátaxis is as follows:"
+msgstr ""
+"Jeśli sprzątasz ogromny bałagan, pokusa polega na tym, aby wszystko zburzyć "
+"i zacząć od nowa. Ponownie, unikaj tego. Jeśli chodzi o poprawę dokumentacji"
+" zgodnie z Diátaxis, nie jest konieczne szukanie rzeczy do poprawy. Zamiast "
+"tego, najlepszym sposobem na zastosowanie Diátaxis jest:"
+
+#: e3cfb3801ff4415a8c5bd2a2a8c19937
+msgid ""
+"**Choose something** - any piece of the documentation. If you don’t already "
+"have something that you know you want to put right, don't go looking for "
+"outstanding problems. Just look at what you have right in front of you at "
+"that moment: the file you’re in, the last page you read - it doesn’t matter."
+" If there isn’t one just choose something, literally at random."
+msgstr ""
+"**Wybierz coś** - dowolny fragment dokumentacji. Jeśli nie masz jeszcze "
+"czegoś, co chcesz naprawić, nie szukaj wyraźnych problemów. Po prostu spójrz"
+" na to, co masz przed sobą w danym momencie: plik, w którym jesteś, ostatnią"
+" przeczytaną stronę - to nie ma znaczenia. Jeśli nie ma takiego, wybierz coś"
+" losowo."
+
+#: b05e12aaebfc4c52bc1801442333e36a
+msgid ""
+"**Assess it**. Next consider this thing critically. Preferably it’s a small "
+"thing, nothing bigger than a page - or better, even smaller, a paragraph or "
+"a sentence. Challenge it, according to the standards Diátaxis prescribes: "
+"*What user need is represented by this? How well does it serve that need? "
+"What can be added, moved, removed or changed to serve that need better? Do "
+"its language and logic meet the requirements of this mode of documentation?*"
+msgstr ""
+"**Oceń to**. Następnie rozważ ten element krytycznie. Najlepiej, jeśli jest "
+"to coś małego, nie większego niż strona - a jeszcze lepiej, nawet "
+"mniejszego, akapit lub zdanie. Poddaj to próbie zgodnie ze standardami, "
+"które przepisuje Diátaxis: *Jaką potrzebę użytkownika reprezentuje ten "
+"element? Jak dobrze służy tej potrzebie? Co można dodać, przenieść, usunąć "
+"lub zmienić, aby lepiej służył tej potrzebie? Czy jego język i logika "
+"spełniają wymagania tego trybu dokumentacji?*"
+
+#: 52cf3f9b42ec4bc9be31a631727e1ecd
+msgid ""
+"**Decide what to do**. Decide, based on your answers to those questions: "
+"*What single next action will produce an immediate improvement here?*"
+msgstr ""
+"**Zdecyduj, co zrobić**. Zdecyduj, na podstawie odpowiedzi na te pytania: "
+"*Jakie pojedyncze następne działanie przyniesie natychmiastową poprawę "
+"tutaj?*"
+
+#: 4d5ce7cb35e34bfb8f8a8eaf459cfff8
+msgid ""
+"**Do it**. Complete that next single action, *and consider it completed* - "
+"i.e. publish it, or at least commit the change. Don't feel that you need to "
+"do anything else to make a worthy improvement."
+msgstr ""
+
+#: 1bc47f5bba784de39bc1bfdaa9fb74c3
+msgid "And then go back to the beginning of the cycle."
+msgstr ""
+
+#: 00e3487974e8482a9f4419ac02ea9140
+msgid ""
+"Working like this helps reduce the stress of one of the most paralysing and "
+"troublesome aspects of the documentation-writer's work: working out what to "
+"do. It keeps work flowing in the right direction, always towards the desired"
+" end, without having to expend energies on a plan."
+msgstr ""
+"Praca w ten sposób pomaga zmniejszyć stres związany z jednym z najbardziej "
+"paraliżujących i kłopotliwych aspektów pracy autora dokumentacji: "
+"wymyślaniem, co robić. Utrzymuje przepływ pracy we właściwym kierunku, "
+"zawsze w stronę pożądanego celu, bez konieczności wydatkowania energii na "
+"plan."
+
+#: ff277f09b89045f6843a69e1fb9288ef
+msgid "Allow your work to develop organically"
+msgstr "Pozwól swojej pracy rozwijać się organicznie"
+
+#: 05bb0e0393094c4bb5e6567b365bb7dd
+msgid ""
+"There's a strong urge to work in a cycle of planning and execution in order "
+"to work towards results. But it's not the only way, and there are often "
+"better ways when working with documentation."
+msgstr ""
+"Istnieje silna pokusa, aby pracować w cyklu planowania i wykonania, aby "
+"dążyć do wyników. Ale to nie jedyny sposób, i często istnieją lepsze sposoby"
+" pracy z dokumentacją."
+
+#: f8ffb8af66164daf9a8e3fb7c958858f
+msgid "Well-formed organic growth"
+msgstr "Dobrze uformowany wzrost organiczny"
+
+#: 7fd45974cb234e2295355e8574de3f43
+msgid ""
+"A good model for documentation is **well-formed organic growth that adapts "
+"to external conditions**. Organic growth takes place at the cellular level. "
+"The structure of the organism as a whole is guaranteed by the healthy "
+"development of cells, according to rules that are appropriate to each kind "
+"of cell. It's not the other way round, that a structure is imposed on the "
+"organism from above or outside. Good structure develops from within."
+msgstr ""
+"Dobrym modelem dla dokumentacji jest **dobrze uformowany wzrost organiczny, "
+"który dostosowuje się do warunków zewnętrznych**. Wzrost organiczny zachodzi"
+" na poziomie komórkowym. Struktura całego organizmu jest zagwarantowana "
+"przez zdrowy rozwój komórek, zgodnie z zasadami odpowiednimi dla każdego "
+"rodzaju komórki. To nie odwrotnie, że struktura jest narzucana organizmowi z"
+" góry lub z zewnątrz. Dobra struktura rozwija się od wewnątrz."
+
+#: 241227598335484f82db04e2b1ce2953
+msgid ""
+"Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
+"reproduced with kind permission."
+msgstr ""
+"Ilustracja copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
+"reprodukowana za zgodą."
+
+#: 7bb17df83a7648e0b27aa4a514be89d3
+msgid ""
+"It's the same with documentation: by following the principles that Diátaxis "
+"provides, your documentation will attain a healthy structure, because its "
+"internal components themselves are well-formed - like a living organism, it "
+"will have built itself up from the inside-out, one cell at a time."
+msgstr ""
+"To samo dotyczy dokumentacji: przestrzegając zasad, które przepisuje "
+"Diátaxis, Twoja dokumentacja osiągnie zdrową strukturę, ponieważ jej "
+"wewnętrzne składniki same są dobrze uformowane - podobnie jak żywy organizm,"
+" zbuduje się od wewnątrz na zewnątrz, komórka po komórce."
+
+#: 6d636be937a04522a58d443bf09b53d0
+msgid "Complete, not finished"
+msgstr "Kompletne, nie skończone"
+
+#: c2bdd8e401564073b41849e46e63a816
+msgid ""
+"Consider a plant. As a living, growing organism, a plant is **never "
+"finished** - it can always develop further, move on to the next stage of "
+"growth and maturity. But, at every stage of its development, from seed to a "
+"fully-mature tree, it's **always complete** - there's never something "
+"missing from it. At any point, it is in a state that is appropriate to its "
+"stage of development."
+msgstr ""
+"Rozważ roślinę. Jako żywy, rozwijający się organizm, roślina jest **nigdy "
+"nie skończona** - zawsze może dalej się rozwijać, przejść do następnego "
+"etapu wzrostu i dojrzałości. Ale, na każdym etapie swojego rozwoju, od "
+"nasiona do w pełni dojrzałego drzewa, jest **zawsze kompletna** - nigdy nie "
+"brakuje jej czegoś. W każdym momencie jest w stanie odpowiednim do swojego "
+"etapu rozwoju."
+
+#: ca2522f85408439289ce440243ce138f
+msgid ""
+"Similarly, documentation is also never finished, because it always has to "
+"keep adapting and changing to the product and to users' needs, and can "
+"always be developed and improved further."
+msgstr ""
+"Podobnie dokumentacja również nigdy nie jest skończona, ponieważ zawsze musi"
+" dostosowywać się i zmieniać wraz z produktem i potrzebami użytkowników, i "
+"zawsze może być dalej rozwijana i ulepszana."
+
+#: 618194188a6c43749b43b303c25dca23
+msgid ""
+"However it can always be complete: useful to users, appropriate to its "
+"current stage of development, and in a healthy structural state and ready to"
+" go on to the next stage."
+msgstr ""
+"Ale zawsze może być kompletna: użyteczna dla użytkowników, odpowiednia do "
+"swojego obecnego etapu rozwoju, i w zdrowym stanie strukturalnym, gotowa "
+"przejść do następnego etapu."
