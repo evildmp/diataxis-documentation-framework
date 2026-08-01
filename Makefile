@@ -55,7 +55,21 @@ html-it:
 html-pl:
 	. $(VENV); $(SPHINXBUILD) -b html -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
 
+run-fr:
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=fr -a $(HTMLDIR)/fr --host 0.0.0.0 --port $(PORT)
+
+run-it:
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=it -a $(HTMLDIR)/it --host 0.0.0.0 --port $(PORT)
+
+run-pt_BR:
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=pt_BR -a $(HTMLDIR)/pt_BR --host 0.0.0.0 --port $(PORT)
+
+run-pl:
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=pl -a $(HTMLDIR)/pl --host 0.0.0.0 --port $(PORT)
+
 html-all: html html-fr html-it html-pt_BR html-pl
+
+run-all: run run-fr run-it run-pt_BR run-pl
 
 gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -70,7 +84,7 @@ spelling:
 		"$(SPELLINGDIR)/output.txt."
 
 
-.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-all gettext update-po-files spelling quickstart Makefile
+.PHONY: help install clean run run-fr run-it run-pt_BR run-pl html html-fr html-it html-pt_BR html-pl html-all gettext update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
