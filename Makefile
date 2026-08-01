@@ -50,10 +50,10 @@ html-pt_BR:
 	. $(VENV); $(SPHINXBUILD) -b html -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
 
 html-it:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=it $(SOURCEDIR) $(BUILDDIR)/it
+	. $(VENV); $(SPHINXBUILD) -b html -D language=it $(SOURCEDIR) $(HTMLDIR)/it
 
 html-pl:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=pl $(SOURCEDIR) $(BUILDDIR)/pl
+	. $(VENV); $(SPHINXBUILD) -b html -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
 
 html-all: html html-fr html-it html-pt_BR html-pl
 
