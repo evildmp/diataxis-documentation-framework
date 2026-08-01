@@ -86,5 +86,5 @@ redirects = {
 language = "en"
 locale_dirs = ["../translation"]
 gettext_compact = False
-gettext_uuid = True
-gettext_location = False
+gettext_uuid = False
+gettext_location = True

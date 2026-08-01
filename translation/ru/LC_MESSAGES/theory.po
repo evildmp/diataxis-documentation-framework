@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ru\n"
+"Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
+
+#: ../../source/theory.rst:2
+msgid "Understanding Diátaxis"
+msgstr ""
+
+#: ../../source/theory.rst:6
+msgid "The Grand Unified Theory of Documentation"
+msgstr ""
+
+#: ../../source/theory.rst:8
+msgid "David Laing"
+msgstr ""
+
+#: ../../source/theory.rst:12
+msgid ""
+"The pages in this section are intended to provide some theoretical grounding"
+" for the practices Diátaxis prescribes, and to explore some of the questions"
+" it raises."
+msgstr ""
+
+#: ../../source/theory.rst:14
+msgid ""
+"Within the discipline of documentation, discourse tends towards the "
+"practical and concrete. The approach is generally heuristic: guidelines, "
+"rules of thumb, specific imperatives, principles that we know work."
+msgstr ""
+
+#: ../../source/theory.rst:16
+msgid ""
+"As practitioners, we have much to say about what to do, and how to do it and"
+" how it works, and relatively little to say about *why* it works. Our sense "
+"of the right way to do things is largely based on a combination of intuition"
+" and experience. The theoretical aspect of the discipline receives far less "
+"attention."
+msgstr ""
+
+#: ../../source/theory.rst:18
+msgid ""
+"Diátaxis aims to place documentation practice on a more rigorous theoretical"
+" footing."
+msgstr ""
+
+#: ../../source/theory.rst:23
+msgid "In this section"
+msgstr ""
+
+#: ../../source/theory.rst:25
+msgid "These pages dig deeper into the thinking that underpins Diátaxis."
+msgstr ""
+
+#: ../../source/theory.rst:27
+msgid ":doc:`foundations` - *why* Diátaxis works"
+msgstr ""
+
+#: ../../source/theory.rst:28
+msgid ":doc:`map` - documentation in two dimensions"
+msgstr ""
+
+#: ../../source/theory.rst:29
+msgid ":doc:`quality`"
+msgstr ""
+
+#: ../../source/theory.rst:31
+msgid "Common problems explored:"
+msgstr ""
+
+#: ../../source/theory.rst:33
+msgid ":doc:`tutorials-how-to`"
+msgstr ""
+
+#: ../../source/theory.rst:34
+msgid ":doc:`reference-explanation`"
+msgstr ""

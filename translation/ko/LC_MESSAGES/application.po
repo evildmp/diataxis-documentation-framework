@@ -1,0 +1,114 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Jiwon Kwak, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Jiwon Kwak, 2026\n"
+"Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/application.rst:2
+msgid "Applying Diátaxis"
+msgstr "디아탁시스(Diátaxis) 적용하기"
+
+#: ../../source/application.rst:5
+msgid ""
+"The pages in this section are concerned with putting Diátaxis into practice."
+msgstr "본 섹션의 문서들은 Diátaxis 프레임워크를 실제 업무에 적용하는 방법을 다룹니다."
+
+#: ../../source/application.rst:9
+msgid ""
+"Diátaxis is underpinned by :doc:`systematic theoretical principles "
+"<theory>`, but understanding them is not necessary to make effective use of "
+"the system."
+msgstr ""
+"Diátaxis는 :doc:`체계적인 이론적 원칙을 바탕으로 정립되었으나<theory>`, 이론을 완벽히 이해해야만 이 시스템을 "
+"효과적으로 활용할 수 있는 것은 아닙니다."
+
+#: ../../source/application.rst:11
+msgid ""
+"Diátaxis is primarily intended as a pragmatic approach for people working on"
+" documentation. Most of the key principles required to put it into practice "
+"successfully can be grasped intuitively."
+msgstr ""
+"Diátaxis는 문서화 작업을 수행하는 실무자들을 위한 실용적인 접근법을 지향합니다. 성공적인 실무 적용에 필요한 핵심 원칙 대부분은 "
+"직관적으로 파악할 수 있습니다."
+
+#: ../../source/application.rst:13
+msgid ""
+"Don't wait to understand Diátaxis before you start trying to put it into "
+"practice. Not only do you not need to understand it all to make use of it, "
+"you will not understand it until you have started using it (this itself is a"
+" Diátaxis principle)."
+msgstr ""
+"Diátaxis를 완벽히 이해할 때까지 실습을 미루지 마십시오. 활용을 위해 모든 내용을 이해할 필요가 없을 뿐만 아니라, 오히려 실제로"
+" 사용하기 전까지는 이를 온전히 이해할 수 없기 때문입니다 (이 역시 Diátaxis의 핵심 원칙 중 하나입니다)."
+
+#: ../../source/application.rst:15
+msgid ""
+"As soon as you feel you have picked up an idea that seems worth applying to "
+"your work, try applying it. Come back here when you need more clarity or "
+"reassurance. Iterate between your work and reflecting on your work."
+msgstr ""
+"업무에 적용해 볼 만한 가치가 있다고 느껴지는 아이디어를 발견하는 즉시, 곧바로 실행에 옮겨 보십시오. 더 명확한 기준이나 확신이 필요할"
+" 때 언제든 이 문서로 다시 돌아오면 됩니다. 실무 작업과 이에 대한 고찰을 끊임없이 반복(Iterate)해 나가시기 바랍니다."
+
+#: ../../source/application.rst:20
+msgid "In this section"
+msgstr "이 섹션에서 다루는 내용"
+
+#: ../../source/application.rst:22
+msgid ""
+"At the core of Diátaxis are the four different kinds of documentation it "
+"identifies. If you're encountering Diátaxis for the first time, start with "
+"these pages."
+msgstr ""
+"Diátaxis의 핵심은 시스템이 정의하는 네 가지 유형의 문서입니다. Diátaxis를 처음 접하신다면 다음 문서부터 시작해 보십시오."
+
+#: ../../source/application.rst:24
+msgid ":doc:`tutorials` - learning-oriented experiences"
+msgstr ""
+
+#: ../../source/application.rst:25
+msgid ":doc:`how-to-guides` - goal-oriented directions"
+msgstr ""
+
+#: ../../source/application.rst:26
+msgid ":doc:`reference` - information-oriented technical description"
+msgstr ""
+
+#: ../../source/application.rst:27
+msgid ":doc:`explanation` - understanding-oriented discussion"
+msgstr ""
+
+#: ../../source/application.rst:29
+msgid ""
+"Diátaxis prescribes principles that guide action. These translate into "
+"particular ways of working, with implications for documentation process and "
+"execution. Once you've made your first start, the tools and methods outlined"
+" here will help smooth your way."
+msgstr ""
+"Diátaxis는 실무의 지침이 되는 원칙들을 제시합니다. 이는 문서화 프로세스 및 실행 방식에 영향을 미치며, 구체적인 작업 방식으로 "
+"발현됩니다. 첫걸음을 떼고 나면, 이곳에 기재된 도구와 방법론들이 여러분의 여정을 한층 더 수월하게 만들어 줄 것입니다."
+
+#: ../../source/application.rst:31
+msgid ":doc:`compass` - a simple tool for direction-finding"
+msgstr ""
+
+#: ../../source/application.rst:32
+msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
+msgstr ""

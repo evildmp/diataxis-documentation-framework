@@ -1,0 +1,103 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Jiwon Kwak, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Jiwon Kwak, 2026\n"
+"Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/theory.rst:2
+msgid "Understanding Diátaxis"
+msgstr "Diátaxis 이해하기"
+
+#: ../../source/theory.rst:6
+msgid "The Grand Unified Theory of Documentation"
+msgstr "문서화의 대통합 이론"
+
+#: ../../source/theory.rst:8
+msgid "David Laing"
+msgstr "David Laing"
+
+#: ../../source/theory.rst:12
+msgid ""
+"The pages in this section are intended to provide some theoretical grounding"
+" for the practices Diátaxis prescribes, and to explore some of the questions"
+" it raises."
+msgstr ""
+"본 섹션의 문서들은 Diátaxis가 규정하는 실천 체계에 이론적 토대를 제공하고, 나아가 이 체계가 던지는 본질적인 질문들을 탐구하기 "
+"위해 작성되었습니다."
+
+#: ../../source/theory.rst:14
+msgid ""
+"Within the discipline of documentation, discourse tends towards the "
+"practical and concrete. The approach is generally heuristic: guidelines, "
+"rules of thumb, specific imperatives, principles that we know work."
+msgstr ""
+"문서화(Documentation)라는 전문 영역에서 지금까지의 담론은 주로 실용적이고 구체적인 차원에 머물러 있었습니다. 접근 방식 또한"
+" 대체로 휴리스틱(heuristic, 경험에 기반한 발상)에 가까웠습니다. 즉 가이드라인, 경험칙, 구체적인 지침, 그리고 '효과가 "
+"있다고 알려진' 원칙들을 전달하는 식이었습니다."
+
+#: ../../source/theory.rst:16
+msgid ""
+"As practitioners, we have much to say about what to do, and how to do it and"
+" how it works, and relatively little to say about *why* it works. Our sense "
+"of the right way to do things is largely based on a combination of intuition"
+" and experience. The theoretical aspect of the discipline receives far less "
+"attention."
+msgstr ""
+"실무자로서 우리는 무엇을, 어떻게 해야 하는지, 그리고 그것이 어떻게 작동하는지에 대해서는 수많은 말을 남겼지만, 그것이 왜 작동하는가에"
+" 대해서는 상대적으로 말해온 바가 적습니다. 올바른 작업 방식에 대한 우리의 감각은 대개 직관과 경험이 결합된 결과였으며, 이 분야의 "
+"이론적 측면은 훨씬 적은 주목을 받아왔습니다."
+
+#: ../../source/theory.rst:18
+msgid ""
+"Diátaxis aims to place documentation practice on a more rigorous theoretical"
+" footing."
+msgstr "Diátaxis는 문서화의 실천을 보다 엄밀한 이론적 기틀 위에 정립하는 것을 목표로 합니다."
+
+#: ../../source/theory.rst:23
+msgid "In this section"
+msgstr ""
+
+#: ../../source/theory.rst:25
+msgid "These pages dig deeper into the thinking that underpins Diátaxis."
+msgstr ""
+
+#: ../../source/theory.rst:27
+msgid ":doc:`foundations` - *why* Diátaxis works"
+msgstr ""
+
+#: ../../source/theory.rst:28
+msgid ":doc:`map` - documentation in two dimensions"
+msgstr ""
+
+#: ../../source/theory.rst:29
+msgid ":doc:`quality`"
+msgstr ""
+
+#: ../../source/theory.rst:31
+msgid "Common problems explored:"
+msgstr ""
+
+#: ../../source/theory.rst:33
+msgid ":doc:`tutorials-how-to`"
+msgstr ""
+
+#: ../../source/theory.rst:34
+msgid ":doc:`reference-explanation`"
+msgstr ""

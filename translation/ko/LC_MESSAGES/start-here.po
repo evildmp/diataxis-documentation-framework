@@ -1,0 +1,487 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Jiwon Kwak, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Jiwon Kwak, 2026\n"
+"Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ko\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/start-here.rst-1
+msgid ""
+"The best way to get started with Diátaxis is by applying it to documentation"
+" problems."
+msgstr ""
+
+#: ../../source/start-here.rst:7
+msgid "Start here - Diátaxis in five minutes"
+msgstr "시작하기 - 5분 만에 이해하는 Diátaxis"
+
+#: ../../source/start-here.rst:11
+msgid ""
+"Treat this website as a handbook or a toolbox that you make use of when you "
+"need it."
+msgstr "이 웹사이트를 필요할 때마다 꺼내어 쓰는 핸드북이나 도구 상자로 활용하십시오."
+
+#: ../../source/start-here.rst:13
+msgid ""
+"You don't need to read everything on this website to make sense of Diátaxis,"
+" or to start using it in practice. In fact I recommend that you don't. **The"
+" best way to get started with Diátaxis is by applying it** - to something, "
+"however small."
+msgstr ""
+"Diátaxis를 이해하고 실무에 적용하기 위해 이 웹사이트의 모든 내용을 통독할 필요는 없습니다. 실제로 그러지 않기를 권장합니다. "
+"**Diátaxis를 시작하는 가장 좋은 방법**은 아무리 작은 것이라도 지금 당장 무언가에 직접 적용해 보는 것입니다."
+
+#: ../../source/start-here.rst:15
+msgid ""
+"Read this page for a brief primer. Each section contains links to more in-"
+"depth material; refer to that when you need it - when you're actually at "
+"work, or reflecting on the documentation problems you have encountered."
+msgstr ""
+"이 페이지는 간략한 입문서입니다. 각 섹션에는 더 심도 있는 자료로 연결되는 링크가 포함되어 있으니, 실제 업무 중이거나 직면한 문서화 "
+"문제에 대해 고민할 때 필요에 따라 참고하시기 바랍니다."
+
+#: ../../source/start-here.rst:20
+msgid "The four kinds of documentation"
+msgstr "문서의 네 가지 유형"
+
+#: ../../source/start-here.rst:22
+msgid ""
+"The core idea of Diátaxis is that there are fundamentally four identifiable "
+"kinds of documentation, that respond to four different needs. The four kinds"
+" are: *tutorials*, *how-to guides*, *reference* and *explanation*. Each has "
+"a different purpose, and needs to be written in a different way."
+msgstr ""
+"Diátaxis의 핵심 아이디어는 문서가 본질적으로 사용자의 네 가지 서로 다른 요구에 대응하는 네 가지 고유한 유형으로 분류된다는 "
+"점입니다. 그 네 가지는 튜토리얼(Tutorials), 하우투 가이드(How-to guides), 레퍼런스(Reference), "
+"설명(Explanation)입니다. 각 유형은 목적이 다르므로 작성 방식 또한 달라야 합니다."
+
+#: ../../source/start-here.rst:26
+msgid "Tutorials"
+msgstr "튜토리얼"
+
+#: ../../source/start-here.rst:30
+msgid ":ref:`Tutorials in more detail <tutorials>`"
+msgstr ""
+
+#: ../../source/start-here.rst:31
+msgid ""
+":ref:`Why tutorials are completely different from how-to guides <tutorials-"
+"how-to>`"
+msgstr ""
+
+#: ../../source/start-here.rst:33
+msgid ""
+"**A tutorial is a lesson**, that takes a student by the hand through a "
+"learning experience. A tutorial is always *practical*: the user *does* "
+"something, under the guidance of an instructor. A tutorial is designed "
+"around an encounter that the learner can make sense of, in which the "
+"instructor is responsible for the learner's safety and success."
+msgstr ""
+"**튜토리얼은 수업입니다**. 학생의 손을 잡고 학습 경험을 이끌어줍니다. 튜토리얼은 언제나 *실전 중심적*입니다. 사용자는 강사의 "
+"안내에 따라 직접 무언가를 *수행*합니다. 학습자가 직관적으로 이해할 수 있는 경험을 중심으로 설계되며, 강사는 학습자의 안전과 성공적인"
+" 완수를 책임집니다."
+
+#: ../../source/start-here.rst:35
+msgid ""
+"A driving lesson is a good example of a tutorial. The purpose of the lesson "
+"is to develop skills and confidence in the student, not to get from A to B. "
+"A software example could be: *Let's create a simple game in Python*."
+msgstr ""
+"운전 연수가 좋은 예입니다. 연수의 목적은 A 지점에서 B 지점으로 이동하는 것이 아니라, 학생의 기술과 자신감을 기르는 데 있습니다. "
+"소프트웨어를 예로 들면 \"Python으로 간단한 게임 만들기\"가 될 수 있습니다."
+
+#: ../../source/start-here.rst:37
+msgid ""
+"*The user will learn through what they do* - not because someone has tried "
+"to teach them."
+msgstr "사용자는 누군가의 일방적인 가르침을 통해서가 아니라, *자신이 직접 행하는 과정을 통해 배웁니다*."
+
+#: ../../source/start-here.rst:39
+msgid ""
+"In documentation, the special difficulty is that the instructor is condemned"
+" to be absent, and is not there to monitor the learner and correct their "
+"mistakes. The instructor must somehow find a way to be present through "
+"written instruction alone."
+msgstr ""
+"문서화 작업에서 가장 어려운 점은 강사가 현장에 부재하여 학습자를 모니터링하고 오류를 바로잡아 줄 수 없다는 것입니다. 따라서 강사는 "
+"오직 서면 지침만을 통해 학습자의 곁에 존재하는 효과를 구현해 내야 합니다."
+
+#: ../../source/start-here.rst:43
+msgid "How-to guides"
+msgstr "하우투 가이드"
+
+#: ../../source/start-here.rst:47
+msgid ":ref:`How-to guides in more detail <how-to>`"
+msgstr ""
+
+#: ../../source/start-here.rst:49
+msgid ""
+"**A how-to guide addresses a real-world goal or problem**, by providing "
+"practical directions to help the user who is in that situation."
+msgstr "하우투 가이드는 사용자가 직면한 **실제 목표나 문제를 해결**하기 위해 실용적인 방향을 제시합니다."
+
+#: ../../source/start-here.rst:51
+msgid ""
+"A how-to guide always addresses an already-competent user, who is expected "
+"to be able to use the guide to help them get their work done. In contrast to"
+" a tutorial, a how-to guide is concerned with *work* rather than *study*."
+msgstr ""
+"하우투 가이드는 언제나 기본적인 역량을 갖춘 사용자를 대상으로 합니다. 이들은 가이드를 참고하여 자신의 업무를 완수할 수 있는 능력이 "
+"있다고 전제됩니다. 학습에 초점을 맞춘 튜토리얼과 달리, 하우투 가이드는 *학습*이 아닌 *실제 업무*를 다룹니다."
+
+#: ../../source/start-here.rst:53
+msgid ""
+"A how-to guide might be: *How to store cellulose nitrate film* (in motion "
+"picture photography) or *How to configure frame profiling* (in software). Or"
+" even: *Troubleshooting deployment problems*."
+msgstr ""
+"영상 촬영 분야의 *질산셀룰로오스 필름 보관 방법*, 소프트웨어 분야의 *프레임 프로파일링 설정 방법*, 혹은 *배포 문제 트러블슈팅* "
+"등이 이에 해당합니다."
+
+#: ../../source/start-here.rst:57
+msgid "Reference"
+msgstr "레퍼런스"
+
+#: ../../source/start-here.rst:61
+msgid ":ref:`Reference in more detail <reference>`"
+msgstr ""
+
+#: ../../source/start-here.rst:63
+msgid ""
+"**Reference guides contain the technical description** - facts - that a user"
+" needs in order to do things correctly: accurate, complete, reliable "
+"information, free of distraction and interpretation. They contain "
+"*propositional or theoretical knowledge*, not guides to action."
+msgstr ""
+"**레퍼런스 가이드는 사용자가 작업을 정확하게 수행하는 데 필요한 기술적 기술**, 즉 '사실(Facts)'을 담은 가이드입니다. "
+"왜곡이나 해석을 배제하고 정확하며 완전하고 신뢰할 수 있는 정보를 제공해야 합니다. 행위를 유도하는 가이드가 아니라 명제적 혹은 이론적 "
+"지식을 포함합니다."
+
+#: ../../source/start-here.rst:65
+msgid ""
+"Like a how-to guide, reference documentation serves the user who is at "
+"*work*, and it's up to the user to be sufficiently competent to interpret "
+"and use it correctly."
+msgstr ""
+"하우투 가이드와 마찬가지로 레퍼런스 역시 *실무* 사용자를 지원합니다. 정보를 올바르게 해석하고 활용하는 것은 전적으로 사용자의 역량에 "
+"달려 있습니다."
+
+#: ../../source/start-here.rst:67
+msgid ""
+"*Reference material is neutral.* It is not concerned with what the user is "
+"doing. A marine chart could be used by a ship's navigator to plot a course, "
+"but equally well by an investigating judge."
+msgstr ""
+
+#: ../../source/start-here.rst:69
+msgid ""
+"Where possible, the architecture of reference documentation should reflect "
+"the structure or architecture of the thing it's describing - just like a map"
+" does. If a method is part of a class that belongs to a certain module, then"
+" we should expect to see the same relationship in the documentation too."
+msgstr ""
+"가능하다면 레퍼런스 문서의 구조는 지도처럼 서술 대상의 아키텍처나 구조를 그대로 반영해야 합니다. 특정 메서드가 어떤 모듈의 클래스에 "
+"속해 있다면, 문서에서도 동일한 계층 관계로 나타나야 합니다."
+
+#: ../../source/start-here.rst:73
+msgid "Explanation"
+msgstr "설명"
+
+#: ../../source/start-here.rst:77
+msgid ":ref:`Explanation in more detail <explanation>`"
+msgstr ""
+
+#: ../../source/start-here.rst:78
+msgid ""
+":ref:`Understanding the difference between reference and explanation "
+"<reference-explanation>`"
+msgstr ""
+
+#: ../../source/start-here.rst:81
+msgid ""
+"**Explanatory guides provide context and background.** They serve the need "
+"to understand and put things in a bigger picture. Explanation joins things "
+"together, and helps answer the question *why?*"
+msgstr ""
+"**설명은 맥락과 배경지식을 제공하는 가이드입니다.** 사안을 더 큰 관점에서 이해하고 파악하고자 하는 요구를 충족시킵니다. 여러 개념을"
+" 유기적으로 연결하며, \"왜 그런가?\"라는 질문에 답하는 데 도움을 줍니다."
+
+#: ../../source/start-here.rst:83
+msgid ""
+"Explanation often needs to circle around its subject, and approach it from "
+"different directions. It can contain opinions and take perspectives."
+msgstr ""
+"설명은 대상을 다각도로 우회하며 다양한 방향에서 접근해야 할 때가 많습니다. 작성자의 견해나 특정 관점이 포함될 수 있습니다."
+
+#: ../../source/start-here.rst:85
+msgid ""
+"Like reference, explanation belongs to the realm of propositional knowledge "
+"rather than action. However its purpose is to serve the user's study - as "
+"tutorials do - and not their work."
+msgstr ""
+"레퍼런스와 마찬가지로 설명은 행동이 아닌 명제적 지식의 영역에 속합니다. 그러나 목적하는 바는 실무 지원이 아니라, 튜토리얼처럼 사용자의"
+" 연구와 학습을 돕는 것입니다."
+
+#: ../../source/start-here.rst:87
+msgid ""
+"Often, writers of tutorials who are anxious that their students should "
+"*know* things overload their tutorials with distracting and unhelpful "
+"explanation. It would be much more useful to give the learner the most "
+"minimal explanation (\"Here, we use HTTPS because it's safer\") and then "
+"link to an in-depth article (*Secure communication using HTTPS encryption*) "
+"for when the user is ready for it."
+msgstr ""
+"종종 튜토리얼 작성자들은 학습자에게 너무 많은 것을 알려주려는 조급함 때문에 튜토리얼에 불필요하고 방해되는 설명을 과도하게 집어넣곤 "
+"합니다. 이럴 때는 최소한의 설명(*안전성을 위해 여기서는 HTTPS를 사용합니다*)만 제공하고, 사용자가 준비되었을 때 읽을 수 있도록"
+" 심층 문서(*HTTPS 암호화를 사용한 안전한 통신*)의 링크를 걸어두는 것이 훨씬 유용합니다."
+
+#: ../../source/start-here.rst:93
+msgid "The Diátaxis map"
+msgstr "Diátaxis 지도"
+
+#: ../../source/start-here.rst:95
+msgid ""
+"The four kinds of documentation and the relationships between them can be "
+"summarised in the Diátaxis map."
+msgstr "문서의 네 가지 유형과 그 관계는 'Diátaxis 지도'로 요약할 수 있습니다."
+
+#: ../../source/start-here.rst:99
+msgid ":ref:`The map in more detail <map>`"
+msgstr ""
+
+#: ../../source/start-here.rst:101
+msgid ""
+"Diátaxis is not just a list of four different things, but a conceptual "
+"arrangement of them. It shows how the four kinds of documentation are "
+"related to each other, and distinct from each other."
+msgstr ""
+"Diátaxis는 단순히 네 가지 요소를 나열한 것이 아니라 이들의 개념적 배치도입니다. 각 문서 유형이 서로 어떻게 연결되어 있고, "
+"어떻게 구별되는지 보여줍니다. "
+
+#: ../../source/start-here.rst:103
+msgid ""
+"Crossing or blurring the boundaries described in the map is at the heart of "
+"a vast number of problems in documentation."
+msgstr "이 지도에 표시된 경계를 넘나들거나 경계를 모호하게 만드는 것이 문서화에서 발생하는 수많은 문제의 근본 원인입니다."
+
+#: ../../source/start-here.rst:105
+msgid "Diátaxis"
+msgstr ""
+
+#: ../../source/start-here.rst:112
+msgid "The Diátaxis compass"
+msgstr "Diátaxis 나침반"
+
+#: ../../source/start-here.rst:114
+msgid "As you can see from the map:"
+msgstr "지도에서 볼 수 있듯이 두 가지 축이 존재합니다."
+
+#: ../../source/start-here.rst:116
+msgid ""
+"tutorials and how-to guides are concerned with what the user *does* "
+"(**action**)"
+msgstr "튜토리얼과 하우투 가이드는 사용자의 *행동*(**action**)과 관련이 있습니다."
+
+#: ../../source/start-here.rst:117
+msgid ""
+"reference and explanation are about what the user *knows* (**cognition**)"
+msgstr "레퍼런스와 설명은 사용자의 *지식*(**cognition**)와 관련이 있습니다."
+
+#: ../../source/start-here.rst:119
+msgid "On the other hand:"
+msgstr "반면에"
+
+#: ../../source/start-here.rst:121
+msgid ""
+"tutorials and explanation serve the *acquisition* of skill (the user's "
+"**study**)"
+msgstr ""
+
+#: ../../source/start-here.rst:122
+msgid ""
+"how-to guides and reference serve the *application* of skill (the user's "
+"**work**)"
+msgstr "하우투 가이드와 레퍼런스는 기술의 *적용*(사용자의 **업무**)을 지원합니다."
+
+#: ../../source/start-here.rst:124
+msgid ""
+"But a map doesn't tell you what to *do* - it's reference. To guide your "
+"action you need a different sort of tool, in this case, a kind of Diátaxis "
+"compass."
+msgstr ""
+"지도는 구조를 보여줄 뿐 행동을 지시하지는 않습니다. 지도는 일종의 레퍼런스이기 때문입니다. 실무에서 행동 지침을 얻으려면 다른 종류의 "
+"도구인 Diátaxis 나침반이 필요합니다."
+
+#: ../../source/start-here.rst:128
+msgid ":ref:`The compass in more detail <compass>`"
+msgstr ""
+
+#: ../../source/start-here.rst:130
+msgid "The compass is useful in two different ways."
+msgstr "나침반은 두 가지 방식으로 유용하게 쓰입니다."
+
+#: ../../source/start-here.rst:132
+msgid ""
+"When creating documentation, it helps clarify your own intentions, and helps"
+" make sure you're actually doing what you think you're doing."
+msgstr "문서를 작성할 때 저자 자신의 의도를 명확히 하고, 스스로 의도한 대로 정확히 집필하고 있는지 검증하는 데 도움을 줍니다."
+
+#: ../../source/start-here.rst:134
+msgid ""
+"When looking at documentation, it helps understand what's going on in it, "
+"and makes problems stand out."
+msgstr "기존 문서를 검토할 때 문서 내부의 구조를 파악하고, 어디에 문제가 있는지 명확히 짚어내도록 돕습니다."
+
+#: ../../source/start-here.rst:136
+msgid ""
+"The compass is not nearly as eye-catching as the map, but when you're at "
+"work puzzling over a documentation problem it's what will help you move "
+"forward."
+msgstr ""
+"나침반은 지도처럼 시각적으로 눈에 띄지는 않지만, 문서화 문제로 골머리를 앓고 있을 때 앞으로 나아갈 길을 제시해 주는 실질적인 "
+"도구입니다."
+
+#: ../../source/start-here.rst:144
+msgid "If the content..."
+msgstr "콘텐츠의 성격이..."
+
+#: ../../source/start-here.rst:145
+msgid "...and serves the user's..."
+msgstr ""
+
+#: ../../source/start-here.rst:146
+msgid "...then it must belong to..."
+msgstr ""
+
+#: ../../source/start-here.rst:147 ../../source/start-here.rst:150
+msgid "informs action"
+msgstr ""
+
+#: ../../source/start-here.rst:148 ../../source/start-here.rst:157
+msgid "acquisition of skill"
+msgstr ""
+
+#: ../../source/start-here.rst:149
+msgid "a tutorial"
+msgstr ""
+
+#: ../../source/start-here.rst:151 ../../source/start-here.rst:154
+msgid "application of skill"
+msgstr ""
+
+#: ../../source/start-here.rst:152
+msgid "a how-to guide"
+msgstr ""
+
+#: ../../source/start-here.rst:153 ../../source/start-here.rst:156
+msgid "informs cognition"
+msgstr ""
+
+#: ../../source/start-here.rst:155
+msgid "reference"
+msgstr ""
+
+#: ../../source/start-here.rst:158
+msgid "explanation"
+msgstr ""
+
+#: ../../source/start-here.rst:165
+msgid "Working"
+msgstr ""
+
+#: ../../source/start-here.rst:167
+msgid "There is a very simple workflow for Diátaxis."
+msgstr ""
+
+#: ../../source/start-here.rst:171
+msgid ":ref:`how-to-use-diataxis`"
+msgstr ""
+
+#: ../../source/start-here.rst:173
+msgid ""
+"Consider what you see in the documentation, in front of you right now (which"
+" might be literally nothing, if you haven't started yet)."
+msgstr ""
+
+#: ../../source/start-here.rst:175
+msgid "Ask: *is there any way in which it could be improved?*"
+msgstr ""
+
+#: ../../source/start-here.rst:177
+msgid ""
+"Decide on *one* thing you could do to it right now, however small, that "
+"would improve it."
+msgstr ""
+
+#: ../../source/start-here.rst:179
+msgid "Do that thing."
+msgstr ""
+
+#: ../../source/start-here.rst:181
+msgid "And then repeat."
+msgstr ""
+
+#: ../../source/start-here.rst:183
+msgid "That's it."
+msgstr ""
+
+#: ../../source/start-here.rst:189
+msgid "Do what you like"
+msgstr ""
+
+#: ../../source/start-here.rst:191
+msgid ""
+"You can do what you like with Diátaxis. You don't have to believe in it and "
+"there is no exam. It is a wholly pragmatic approach. I think it's *true*, "
+"but what matters is that it actually helps people create better "
+"documentation. If you find one idea or insight in it that seems to be "
+"worthwhile, help yourself to that."
+msgstr ""
+
+#: ../../source/start-here.rst:193
+msgid ""
+"There is an extensively elaborated theory around Diátaxis, but you don't "
+"need to subscribe to it, or even read about it. Diátaxis doesn't require a "
+"commitment to pursue it to a final end."
+msgstr ""
+
+#: ../../source/start-here.rst:195
+msgid ""
+"You can do just one thing, right now, and even if you do nothing else ever "
+"after, you will at least have made that one improvement. (In practice what "
+"you will find is that each thing you do will give you a clue as to the next "
+"thing to do - you only need to keep doing them.)"
+msgstr ""
+
+#: ../../source/start-here.rst:199
+msgid "Get started"
+msgstr ""
+
+#: ../../source/start-here.rst:201
+msgid ""
+"At this point, you have read everything you need to get started with "
+"Diátaxis."
+msgstr ""
+
+#: ../../source/start-here.rst:203
+msgid ""
+"You can read more if you want, and eventually you probably should, but *you "
+"will get the most value from the guidance in this website when you turn to "
+"it with a problem or a question*. That's when it comes alive."
+msgstr ""
