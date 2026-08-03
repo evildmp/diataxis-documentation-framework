@@ -310,5 +310,3 @@ The conflation of tutorials and how-to guides is by no means the only one made b
 documentation, but it's one of the easiest to make. It's also a particularly harmful one, because it risks getting in
 the way of those newcomers whom we hope to turn into committed users. For the sake of those users, and of our own
 product, getting the distinction right is a key to success.
-
-

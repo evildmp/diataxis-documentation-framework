@@ -41,41 +41,26 @@ test:
 	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=en $(SOURCEDIR) $(HTMLDIR)
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=en $(SOURCEDIR) $(HTMLDIR)
 
 html-fr:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
 
 html-pt_BR:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
 
 html-it:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=it $(SOURCEDIR) $(HTMLDIR)/it
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=it $(SOURCEDIR) $(HTMLDIR)/it
 
 html-pl:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
 
 html-ja:
-	. $(VENV); $(SPHINXBUILD) -b html -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
 
-run-fr:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=fr -a $(HTMLDIR)/fr --host 0.0.0.0 --port $(PORT)
+html-all: html html-pl
 
-run-it:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=it -a $(HTMLDIR)/it --host 0.0.0.0 --port $(PORT)
-
-run-pt_BR:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=pt_BR -a $(HTMLDIR)/pt_BR --host 0.0.0.0 --port $(PORT)
-
-run-pl:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=pl -a $(HTMLDIR)/pl --host 0.0.0.0 --port $(PORT)
-
-run-ja:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -D language=ja -a $(HTMLDIR)/ja --host 0.0.0.0 --port $(PORT)
-
-html-all: html html-fr html-it html-pt_BR html-pl html-ja
-
-run-all: run run-fr run-it run-pt_BR run-pl run-ja
+run-all: html-all run
 
 gettext:
 	. $(VENV); $(SPHINXBUILD) -M gettext "$(SOURCEDIR)" "$(BUILDDIR)" $(SPHINXOPTS) $(O)
@@ -90,7 +75,7 @@ spelling:
 		"$(SPELLINGDIR)/output.txt."
 
 
-.PHONY: help install clean run run-fr run-it run-pt_BR run-pl run-ja html html-fr html-it html-pt_BR html-pl html-ja html-all gettext update-po-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-ja html-all run-all gettext update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
