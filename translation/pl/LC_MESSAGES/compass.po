@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Piotr Nawrot, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: 7b3b7f6492cd4b188b9d4bd43d395900
+#: ../../source/compass.rst:4
 msgid "The compass"
 msgstr "Kompas"
 
-#: 57f1e659cc634786813e4a93fec5c4e4
+#: ../../source/compass.rst:10
 msgid ""
 "The Diátaxis map is an effective reminder of the different kinds of "
 "documentation and their relationship, and it accords well with intuitions "
@@ -34,7 +34,7 @@ msgstr ""
 "Mapa Diátaxis jest skutecznym przypomnieniem różnych rodzajów dokumentacji i"
 " ich relacji, i dobrze współgra z intuicjami na temat dokumentacji."
 
-#: 8c83812972dd43779744ad986ef3bd99
+#: ../../source/compass.rst:14
 msgid ""
 "However intuition is not always to be relied upon. Often when working with "
 "documentation, an author is faced with the question: *what form of "
@@ -46,14 +46,14 @@ msgstr ""
 "lub *jaką formę dokumentacji potrzebujemy tutaj?* - i nie ma oczywistej, "
 "intuicyjnej odpowiedzi."
 
-#: c15c7bff6f754d8d9883a9c9e50abfd1
+#: ../../source/compass.rst:19
 msgid ""
 "Worse, sometimes intuition provides an immediate answer that is also wrong."
 msgstr ""
 "Gorzej, czasami intuicja dostarcza natychmiastową odpowiedź, która jest "
 "również błędna."
 
-#: db5b21a768384969a18b96b864442ed9
+#: ../../source/compass.rst:21
 msgid ""
 "A map is most powerful in unfamiliar territory when we also have a compass "
 "to guide us."
@@ -61,7 +61,7 @@ msgstr ""
 "Mapa jest najpotężniejsza na nieznanym terenie, gdy mamy również kompas, "
 "który nas prowadzi."
 
-#: d06a95d56f4e485ba2601b7a59bf96ed
+#: ../../source/compass.rst:24
 msgid ""
 "The Diátaxis compass is something like a truth-table or decision-tree of "
 "documentation. It reduces a more complex, two-dimensional problem to its "
@@ -71,51 +71,51 @@ msgstr ""
 "dokumentacji. Redukuje bardziej złożony, dwuwymiarowy problem do jego "
 "prostszych części i dostarcza autorowi narzędzie do korekty kursu."
 
-#: 4fab7d755745499492d6bdc877ec965e
+#: ../../source/compass.rst:35
 msgid "If the content..."
 msgstr "Jeśli treść..."
 
-#: def36a4d7c7b48b1acd2548257ce85e6
+#: ../../source/compass.rst:36
 msgid "...and serves the user's..."
 msgstr "...i służy użytkownikowi..."
 
-#: d775094d870545c1b0b3830e22d44b29
+#: ../../source/compass.rst:37
 msgid "...then it must belong to..."
 msgstr "...to musi należeć do..."
 
-#: 968516fced5541d1a95707d94e3692fd 0ba539012a134bb98571b5e9566ccede
+#: ../../source/compass.rst:38 ../../source/compass.rst:41
 msgid "informs action"
 msgstr "informuje działanie"
 
-#: 008fc26c93d54e17b999035d6eb32366 2842d53549d441acb7e8ed103ded3c45
+#: ../../source/compass.rst:39 ../../source/compass.rst:48
 msgid "acquisition of skill"
 msgstr "nabycie umiejętności"
 
-#: 5fe7b66911d7425ebc9c32aa1310811a
+#: ../../source/compass.rst:40
 msgid "a tutorial"
 msgstr "tutorial"
 
-#: 2c2fbae486b8427680c8f80df5929770 11c0e73302ab4d9690a6fcff82307d88
+#: ../../source/compass.rst:42 ../../source/compass.rst:45
 msgid "application of skill"
 msgstr "zastosowanie umiejętności"
 
-#: 9b5959851664423b81b5f7ee08565dfa
+#: ../../source/compass.rst:43
 msgid "a how-to guide"
 msgstr "przewodnik krok po kroku"
 
-#: 31874a6a37224323a9d5216c86272a4e 097ba11a693b47d79a60c41b5d60a06d
+#: ../../source/compass.rst:44 ../../source/compass.rst:47
 msgid "informs cognition"
 msgstr "informuje poznanie"
 
-#: e6a4911be72d48c2991e9476e7bf8f91
+#: ../../source/compass.rst:46
 msgid "reference"
 msgstr "referencja"
 
-#: 4c393ac6db014d25836bb5d0bc8f2c6b
+#: ../../source/compass.rst:49
 msgid "explanation"
 msgstr "wyjaśnienie"
 
-#: dfc88096a8f043ff97ca02a6600558c2
+#: ../../source/compass.rst:51
 msgid ""
 "The compass can be applied equally to user situations that need "
 "documentation, or to documentation itself that perhaps needs to be moved or "
@@ -126,7 +126,7 @@ msgstr ""
 "przeniesienia lub poprawy. Jak wiele dobrych narzędzi, jest zaskakująco "
 "banalny."
 
-#: 71b3ed10c12e4997afd5edd102aaaf88
+#: ../../source/compass.rst:53
 msgid ""
 "To use the compass, just two questions need to be asked: *action or "
 "cognition?* *acquisition or application?*"
@@ -134,15 +134,15 @@ msgstr ""
 "Aby użyć kompasu, wystarczy zadać dwa pytania: *działanie czy poznanie?* "
 "*nabycie czy zastosowanie?*"
 
-#: 28bc732811ac4cabbc50d87bdac1016f
+#: ../../source/compass.rst:55
 msgid "And it yields the answer."
 msgstr "I daje odpowiedź."
 
-#: 1217d6a944a34eaf962d3cad6c4aa4e7
+#: ../../source/compass.rst:59
 msgid "Using the compass"
 msgstr "Używanie kompasu"
 
-#: 202b27dd78944460a2681a714f6ec2a0
+#: ../../source/compass.rst:61
 msgid ""
 "The compass is particularly effective when you think that you (or even the "
 "documentation in front of you) are doing one thing - but you are troubled by"
@@ -154,7 +154,7 @@ msgstr ""
 "napotykasz trudności w pracy. Kompas zmusza cię do zatrzymania się i "
 "ponownego rozważenia."
 
-#: d5e7a6363d7847a1805549d696099d5f
+#: ../../source/compass.rst:63
 msgid ""
 "Especially when you are trying to find your initial bearings, use the "
 "compass's terms flexibly; don't get fixated on the exact names."
@@ -162,43 +162,43 @@ msgstr ""
 "Szczególnie gdy próbujesz znaleźć swoje początkowe orientacje, używaj "
 "terminów kompasu elastycznie; nie skupiaj się na dokładnych nazwach."
 
-#: 04929fc9cb584120ae96bccf58cc915a
+#: ../../source/compass.rst:65
 msgid "*action*: practical steps, doing"
 msgstr "*działanie*: praktyczne kroki, robienie"
 
-#: 94bda28616e94a3c9c276ffb1e3e689e
+#: ../../source/compass.rst:66
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
 msgstr "*poznanie*: wiedza teoretyczna lub propozycyjna, myślenie"
 
-#: 6419213447f742b9b9937b1d362eb7a3
+#: ../../source/compass.rst:67
 msgid "*acquisition*: study"
 msgstr "*nabycie*: studiowanie"
 
-#: 6f2bb0431c7e469c94fa3ef3bc518d09
+#: ../../source/compass.rst:68
 msgid "*application*: work"
 msgstr "*zastosowanie*: praca"
 
-#: e8f5dfcc7b67497e8ef3c55fea0f5a8f
+#: ../../source/compass.rst:70
 msgid "And the questions themselves can also be used in different ways:"
 msgstr "I same pytania mogą być również używane na różne sposoby:"
 
-#: e41946ae55da4900b46ef81aca379a62
+#: ../../source/compass.rst:72
 msgid "Do I think I am writing for *x* or *y*?"
 msgstr "Czy myślę, że piszę dla *x* czy *y*?"
 
-#: 91d66a54e64548eaba26ec07e784b217
+#: ../../source/compass.rst:73
 msgid "Is this writing in front of me engaged in *x* or *y*?"
 msgstr "Czy to pisanie przede mną zajmuje się *x* czy *y*?"
 
-#: 6fe35cba322e4cddb3631585b1534322
+#: ../../source/compass.rst:74
 msgid "Does the user need *x* or *y*?"
 msgstr "Czy użytkownik potrzebuje *x* czy *y*?"
 
-#: efb63948f923432895f41ad3d0ce7ba8
+#: ../../source/compass.rst:75
 msgid "Do I want to *x* or *y*?"
 msgstr "Czy chcę *x* czy *y*?"
 
-#: 9e991a80f58b4ead9160f41b75c53f18
+#: ../../source/compass.rst:77
 msgid ""
 "And try applying them close-up, at the level of sentences and words, or from"
 " a wider perspective, considering an entire document."

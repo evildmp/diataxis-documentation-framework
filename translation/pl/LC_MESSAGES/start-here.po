@@ -366,12 +366,16 @@ msgid ""
 "tutorials and explanation serve the *acquisition* of skill (the user's "
 "**study**)"
 msgstr ""
+"tutoriale i wyjaśnienia służą *zdobywaniu* umiejętności (proces **nauki** "
+"użytkownika)"
 
 #: ../../source/start-here.rst:122
 msgid ""
 "how-to guides and reference serve the *application* of skill (the user's "
 "**work**)"
 msgstr ""
+"poradniki krok po kroku i dokumentacja referencyjna służą *stosowaniu* "
+"umiejętności (praca użytkownika)"
 
 #: ../../source/start-here.rst:124
 msgid ""
@@ -379,26 +383,33 @@ msgid ""
 "action you need a different sort of tool, in this case, a kind of Diátaxis "
 "compass."
 msgstr ""
+"Ale mapa nie mówi ci, co *robić* - jest dokumentacją referencyjną. Aby "
+"pokierować działaniem, potrzebne jest inne narzędzie, w tym przypadku rodzaj"
+" kompasu Diátaxis."
 
 #: ../../source/start-here.rst:128
 msgid ":ref:`The compass in more detail <compass>`"
-msgstr ""
+msgstr ":ref:`Kompas w większym szczególe <compass>`"
 
 #: ../../source/start-here.rst:130
 msgid "The compass is useful in two different ways."
-msgstr ""
+msgstr "Kompas jest przydatny na dwa różne sposoby."
 
 #: ../../source/start-here.rst:132
 msgid ""
 "When creating documentation, it helps clarify your own intentions, and helps"
 " make sure you're actually doing what you think you're doing."
 msgstr ""
+"Podczas tworzenia dokumentacji pomaga wyjaśnić własne intencje i upewnić "
+"się, że robisz to, co myślisz, że robisz."
 
 #: ../../source/start-here.rst:134
 msgid ""
 "When looking at documentation, it helps understand what's going on in it, "
 "and makes problems stand out."
 msgstr ""
+"Podczas przeglądania dokumentacji pomaga zrozumieć, co się w niej dzieje, i "
+"sprawia, że problemy stają się widoczne."
 
 #: ../../source/start-here.rst:136
 msgid ""
@@ -406,6 +417,9 @@ msgid ""
 "work puzzling over a documentation problem it's what will help you move "
 "forward."
 msgstr ""
+"Kompas nie jest tak przyciągający wzrok jak mapa, ale gdy jesteś w trakcie "
+"pracy i zastanawiasz się nad problemem związanym z dokumentacją, to właśnie "
+"on pomoże ci ruszyć do przodu."
 
 #: ../../source/start-here.rst:144
 msgid "If the content..."
@@ -453,47 +467,51 @@ msgstr "wyjaśnienie"
 
 #: ../../source/start-here.rst:165
 msgid "Working"
-msgstr ""
+msgstr "Praca"
 
 #: ../../source/start-here.rst:167
 msgid "There is a very simple workflow for Diátaxis."
-msgstr ""
+msgstr "Istnieje bardzo prosty przepływ pracy dla Diátaxis."
 
 #: ../../source/start-here.rst:171
 msgid ":ref:`how-to-use-diataxis`"
-msgstr ""
+msgstr ":ref:`how-to-use-diataxis`"
 
 #: ../../source/start-here.rst:173
 msgid ""
 "Consider what you see in the documentation, in front of you right now (which"
 " might be literally nothing, if you haven't started yet)."
 msgstr ""
+"Rozważ to, co widzisz w dokumentacji, przed sobą w tej chwili (co może być "
+"dosłownie niczym, jeśli jeszcze nie zacząłeś)."
 
 #: ../../source/start-here.rst:175
 msgid "Ask: *is there any way in which it could be improved?*"
-msgstr ""
+msgstr "Zapytaj: *Czy jest jakiś sposób, w jaki można by to poprawić?*"
 
 #: ../../source/start-here.rst:177
 msgid ""
 "Decide on *one* thing you could do to it right now, however small, that "
 "would improve it."
 msgstr ""
+"Zdecyduj na *jedną* rzecz, którą mógłbyś zrobić z nią w tej chwili, choćby "
+"najmniejszą, która by ją poprawiła."
 
 #: ../../source/start-here.rst:179
 msgid "Do that thing."
-msgstr ""
+msgstr "Zrób to."
 
 #: ../../source/start-here.rst:181
 msgid "And then repeat."
-msgstr ""
+msgstr "A potem powtórz."
 
 #: ../../source/start-here.rst:183
 msgid "That's it."
-msgstr ""
+msgstr "To wszystko."
 
 #: ../../source/start-here.rst:189
 msgid "Do what you like"
-msgstr ""
+msgstr "Rób, co chcesz"
 
 #: ../../source/start-here.rst:191
 msgid ""
@@ -503,6 +521,11 @@ msgid ""
 "documentation. If you find one idea or insight in it that seems to be "
 "worthwhile, help yourself to that."
 msgstr ""
+"Możesz robić z Diátaxis, co chcesz. Nie musisz w nią wierzyć i nie ma "
+"żadnego egzaminu. Jest to całkowicie pragmatyczne podejście. Myślę, że jest "
+"*prawdziwa*, ale ważne jest to, że naprawdę pomaga ludziom tworzyć lepszą "
+"dokumentację. Jeśli znajdziesz jeden pomysł lub spostrzeżenie w niej, które "
+"wydaje się wartościowe, weź je sobie."
 
 #: ../../source/start-here.rst:193
 msgid ""
@@ -510,6 +533,9 @@ msgid ""
 "need to subscribe to it, or even read about it. Diátaxis doesn't require a "
 "commitment to pursue it to a final end."
 msgstr ""
+"Istnieje obszernie rozwinięta teoria wokół Diátaxis, ale nie musisz się z "
+"nią zgadzać, ani nawet o niej czytać. Diátaxis nie wymaga zobowiązania do "
+"jej kontynuowania do końca."
 
 #: ../../source/start-here.rst:195
 msgid ""
@@ -518,16 +544,22 @@ msgid ""
 "you will find is that each thing you do will give you a clue as to the next "
 "thing to do - you only need to keep doing them.)"
 msgstr ""
+"Możesz zrobić tylko jedną rzecz, w tej chwili, i nawet jeśli potem już nic "
+"więcej nie zrobisz, to przynajmniej dokonasz tej jednej poprawy. (W praktyce"
+" okaże się, że każda rzecz, którą zrobisz, da ci wskazówkę, co zrobić "
+"następnie - wystarczy, że będziesz je robić)."
 
 #: ../../source/start-here.rst:199
 msgid "Get started"
-msgstr ""
+msgstr "Zacznij"
 
 #: ../../source/start-here.rst:201
 msgid ""
 "At this point, you have read everything you need to get started with "
 "Diátaxis."
 msgstr ""
+"W tym momencie przeczytałeś wszystko, co potrzebujesz, aby zacząć korzystać "
+"z Diátaxis."
 
 #: ../../source/start-here.rst:203
 msgid ""
@@ -535,3 +567,6 @@ msgid ""
 "will get the most value from the guidance in this website when you turn to "
 "it with a problem or a question*. That's when it comes alive."
 msgstr ""
+"Możesz czytać więcej, jeśli chcesz, i ostatecznie prawdopodobnie powinieneś,"
+" ale *największą wartość z przewodnika na tej stronie uzyskasz, gdy zwrócisz"
+" się do niego z problemem lub pytaniem*. Wtedy ożywa."

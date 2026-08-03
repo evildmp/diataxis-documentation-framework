@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Piotr Nawrot, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: 6dd861bedd3848229ed6c7d8d1557203
+#: ../../source/how-to-use-diataxis.rst:4
 msgid "Diátaxis as a guide to work"
 msgstr "Diátaxis jako przewodnik po pracy"
 
-#: 6b6c0c3f4d484cd2a19db4004d289e33
+#: ../../source/how-to-use-diataxis.rst:6
 msgid ""
 "As well as providing a guide to documentation content, Diátaxis is also a "
 "guide to documentation process and execution."
@@ -33,7 +33,7 @@ msgstr ""
 "Oprócz dostarczania przewodnika po zawartości dokumentacji, Diátaxis jest "
 "również przewodnikiem po procesie i wykonaniu dokumentacji."
 
-#: 892a7b95955f4078aa5e5a4bc2509466
+#: ../../source/how-to-use-diataxis.rst:8
 msgid ""
 "Most people who work on technical documentation must make decisions about "
 "how to work, as they work. In some contexts, documentation must be delivered"
@@ -51,7 +51,7 @@ msgstr ""
 "osób pracujących nad dokumentacją doświadcza również odpowiedzialności za "
 "poprawianie lub nawet naprawianie zbioru dokumentacji."
 
-#: 7287c8e0ad8c4f0a9323bf596b602b7a
+#: ../../source/how-to-use-diataxis.rst:10
 msgid ""
 "Diátaxis provides an approach to work that runs counter to much of the "
 "accepted wisdom in documentation. In particular, it discourages planning and"
@@ -63,11 +63,11 @@ msgstr ""
 "zniechęca do planowania i odgórnych przepływów pracy, preferując zamiast "
 "tego małe, elastyczne iteracje, z których wyłaniają się ogólne wzorce."
 
-#: bcac6e85bf334c948b1e873bd25251ce
+#: ../../source/how-to-use-diataxis.rst:14
 msgid "Use Diátaxis as a guide, not a plan"
 msgstr "Używaj Diátaxis jako przewodnika, a nie planu"
 
-#: 4c7dace3ba554903917768ef221e7f2b
+#: ../../source/how-to-use-diataxis.rst:16
 msgid ""
 "Diátaxis describes a complete picture of documentation. However the "
 "structure it proposes is not intended to be a **plan**, something you must "
@@ -79,7 +79,7 @@ msgstr ""
 "swojej dokumentacji. To **przewodnik**, mapa, która pomaga sprawdzić, czy "
 "jesteś we właściwym miejscu i idziesz we właściwych kierunkach."
 
-#: af5ac1449a0e451a9226eca0877f7238
+#: ../../source/how-to-use-diataxis.rst:20
 msgid ""
 "The point of Diátaxis is to give you a way to think about and understand "
 "your documentation, so that you can make better sense of what it's doing and"
@@ -91,11 +91,11 @@ msgstr ""
 "zrobić. Dostarcza narzędzia, które pomagają ocenić ją, zidentyfikować, gdzie"
 " leżą jej problemy, i osądzić, co możesz zrobić, aby ją poprawić."
 
-#: 04da6cdee26644f5b0a380673f7277d7
+#: ../../source/how-to-use-diataxis.rst:26
 msgid "Don't worry about structure"
 msgstr "Nie martw się o strukturę"
 
-#: a096802703f54018a0d8c770bf4cc1ac
+#: ../../source/how-to-use-diataxis.rst:28
 msgid ""
 "Although structure is key to documentation, **using Diátaxis means not "
 "spending energy trying to get its structure correct**."
@@ -103,7 +103,7 @@ msgstr ""
 "Chociaż struktura jest kluczowa dla dokumentacji, **korzystanie z Diátaxis "
 "oznacza niepoświęcanie energii na poprawne ustrukturyzowanie jej**."
 
-#: f7be3a2650c3484c8d000b42490d69c0
+#: ../../source/how-to-use-diataxis.rst:31
 msgid ""
 "If you continue to follow the prompts that Diátaxis provides, eventually "
 "your documentation will assume the Diátaxis structure - but it will have "
@@ -115,7 +115,7 @@ msgstr ""
 "formę *ponieważ* została poprawiona. To nie jest tak, że struktura musi być "
 "narzucona na dokumentację, aby ją poprawić."
 
-#: 6afd75d8f0cd48ec93d9e49b068a2d90
+#: ../../source/how-to-use-diataxis.rst:35
 msgid ""
 "Getting started with Diátaxis does not require you to think about dividing "
 "up your documentation into four sections. **It certainly does not mean that "
@@ -128,7 +128,7 @@ msgstr ""
 "tworzyć puste struktury dla tutoriali/przewodników krok po "
 "kroku/referencji/wyjaśnień.** Nie rób tego. To okropne."
 
-#: bd1bd33d46dc402da65f8bdd00837289
+#: ../../source/how-to-use-diataxis.rst:37
 msgid ""
 "Instead, following the workflow described in the next two sections, make "
 "changes where you see opportunities for improvement according to Diátaxis "
@@ -146,11 +146,11 @@ msgstr ""
 "się twoja struktura najwyższego poziomu. Innymi słowy, **Diátaxis zmienia "
 "strukturę twojej dokumentacji od wewnątrz**."
 
-#: cb07b12f33b7453fa77598f246c2959c
+#: ../../source/how-to-use-diataxis.rst:45
 msgid "Work one step at a time"
 msgstr "Pracuj krok po kroku"
 
-#: bd32ad1d87554122adb36daaa898c2e1
+#: ../../source/how-to-use-diataxis.rst:47
 msgid ""
 "Diátaxis strongly prescribes a structure, but whatever the state of your "
 "existing documentation - even if it's a complete mess by any standards - "
@@ -160,7 +160,7 @@ msgstr ""
 "istniejącej dokumentacji - nawet jeśli jest kompletnym bałaganem według "
 "wszelkich standardów - zawsze możesz ją poprawić, **iteracyjnie**."
 
-#: 930d59554c9f49a1b4b3d8c767592bde
+#: ../../source/how-to-use-diataxis.rst:50
 msgid ""
 "It's natural to want to complete large tranches of work before you publish "
 "them, so that you have something substantial to show each time. Avoid this "
@@ -171,7 +171,7 @@ msgstr ""
 " aby za każdym razem mieć coś znaczącego do pokazania. Unikaj tej pokusy - "
 "każdy krok we właściwym kierunku jest wart natychmiastowego opublikowania."
 
-#: 8d113905580b44a8a5d6aaa1c8655750
+#: ../../source/how-to-use-diataxis.rst:53
 msgid ""
 "Although Diátaxis is intended to provide a big picture of documentation, "
 "**don't try to work on the big picture**. It's both unnecessary and "
@@ -183,11 +183,11 @@ msgstr ""
 "Diátaxis jest zaprojektowana, aby kierować małymi krokami; kontynuuj "
 "wykonywanie małych kroków, aby dotrzeć tam, gdzie chcesz."
 
-#: 6e2b9b322f5c4c4c8f4c016b0e0f8887
+#: ../../source/how-to-use-diataxis.rst:59
 msgid "Just do something"
 msgstr "Po prostu coś zrób"
 
-#: 1ab96f143f4d407aa9789bafc2ec7a5e
+#: ../../source/how-to-use-diataxis.rst:61
 msgid ""
 "If you're tidying up a huge mess, the temptation is to tear it all down and "
 "start again. Again, avoid it. As far as improving documentation in-line with"
@@ -199,7 +199,7 @@ msgstr ""
 " zgodnie z Diátaxis, nie jest konieczne szukanie rzeczy do poprawy. Zamiast "
 "tego, najlepszym sposobem na zastosowanie Diátaxis jest:"
 
-#: e3cfb3801ff4415a8c5bd2a2a8c19937
+#: ../../source/how-to-use-diataxis.rst:65
 msgid ""
 "**Choose something** - any piece of the documentation. If you don’t already "
 "have something that you know you want to put right, don't go looking for "
@@ -213,7 +213,7 @@ msgstr ""
 " przeczytaną stronę - to nie ma znaczenia. Jeśli nie ma takiego, wybierz coś"
 " losowo."
 
-#: b05e12aaebfc4c52bc1801442333e36a
+#: ../../source/how-to-use-diataxis.rst:70
 msgid ""
 "**Assess it**. Next consider this thing critically. Preferably it’s a small "
 "thing, nothing bigger than a page - or better, even smaller, a paragraph or "
@@ -230,7 +230,7 @@ msgstr ""
 "lub zmienić, aby lepiej służył tej potrzebie? Czy jego język i logika "
 "spełniają wymagania tego trybu dokumentacji?*"
 
-#: 52cf3f9b42ec4bc9be31a631727e1ecd
+#: ../../source/how-to-use-diataxis.rst:75
 msgid ""
 "**Decide what to do**. Decide, based on your answers to those questions: "
 "*What single next action will produce an immediate improvement here?*"
@@ -239,18 +239,21 @@ msgstr ""
 "*Jakie pojedyncze następne działanie przyniesie natychmiastową poprawę "
 "tutaj?*"
 
-#: 4d5ce7cb35e34bfb8f8a8eaf459cfff8
+#: ../../source/how-to-use-diataxis.rst:78
 msgid ""
 "**Do it**. Complete that next single action, *and consider it completed* - "
 "i.e. publish it, or at least commit the change. Don't feel that you need to "
 "do anything else to make a worthy improvement."
 msgstr ""
+"**Zrób to**. Wykonaj to pojedyncze działanie i **uznaj je za zakończone** - "
+"tzn. opublikuj je, lub przynajmniej zatwierdź zmianę. Nie czuj, że musisz "
+"zrobić coś więcej, aby dokonać wartościowej poprawy."
 
-#: 1bc47f5bba784de39bc1bfdaa9fb74c3
+#: ../../source/how-to-use-diataxis.rst:81
 msgid "And then go back to the beginning of the cycle."
-msgstr ""
+msgstr "A następnie wróć do początku cyklu."
 
-#: 00e3487974e8482a9f4419ac02ea9140
+#: ../../source/how-to-use-diataxis.rst:83
 msgid ""
 "Working like this helps reduce the stress of one of the most paralysing and "
 "troublesome aspects of the documentation-writer's work: working out what to "
@@ -263,11 +266,11 @@ msgstr ""
 "zawsze w stronę pożądanego celu, bez konieczności wydatkowania energii na "
 "plan."
 
-#: ff277f09b89045f6843a69e1fb9288ef
+#: ../../source/how-to-use-diataxis.rst:89
 msgid "Allow your work to develop organically"
 msgstr "Pozwól swojej pracy rozwijać się organicznie"
 
-#: 05bb0e0393094c4bb5e6567b365bb7dd
+#: ../../source/how-to-use-diataxis.rst:91
 msgid ""
 "There's a strong urge to work in a cycle of planning and execution in order "
 "to work towards results. But it's not the only way, and there are often "
@@ -277,11 +280,11 @@ msgstr ""
 "dążyć do wyników. Ale to nie jedyny sposób, i często istnieją lepsze sposoby"
 " pracy z dokumentacją."
 
-#: f8ffb8af66164daf9a8e3fb7c958858f
+#: ../../source/how-to-use-diataxis.rst:95
 msgid "Well-formed organic growth"
 msgstr "Dobrze uformowany wzrost organiczny"
 
-#: 7fd45974cb234e2295355e8574de3f43
+#: ../../source/how-to-use-diataxis.rst:97
 msgid ""
 "A good model for documentation is **well-formed organic growth that adapts "
 "to external conditions**. Organic growth takes place at the cellular level. "
@@ -297,7 +300,7 @@ msgstr ""
 "rodzaju komórki. To nie odwrotnie, że struktura jest narzucana organizmowi z"
 " góry lub z zewnątrz. Dobra struktura rozwija się od wewnątrz."
 
-#: 241227598335484f82db04e2b1ce2953
+#: ../../source/how-to-use-diataxis.rst:106
 msgid ""
 "Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
 "reproduced with kind permission."
@@ -305,7 +308,7 @@ msgstr ""
 "Ilustracja copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
 "reprodukowana za zgodą."
 
-#: 7bb17df83a7648e0b27aa4a514be89d3
+#: ../../source/how-to-use-diataxis.rst:108
 msgid ""
 "It's the same with documentation: by following the principles that Diátaxis "
 "provides, your documentation will attain a healthy structure, because its "
@@ -317,11 +320,11 @@ msgstr ""
 "wewnętrzne składniki same są dobrze uformowane - podobnie jak żywy organizm,"
 " zbuduje się od wewnątrz na zewnątrz, komórka po komórce."
 
-#: 6d636be937a04522a58d443bf09b53d0
+#: ../../source/how-to-use-diataxis.rst:113
 msgid "Complete, not finished"
 msgstr "Kompletne, nie skończone"
 
-#: c2bdd8e401564073b41849e46e63a816
+#: ../../source/how-to-use-diataxis.rst:115
 msgid ""
 "Consider a plant. As a living, growing organism, a plant is **never "
 "finished** - it can always develop further, move on to the next stage of "
@@ -337,7 +340,7 @@ msgstr ""
 "brakuje jej czegoś. W każdym momencie jest w stanie odpowiednim do swojego "
 "etapu rozwoju."
 
-#: ca2522f85408439289ce440243ce138f
+#: ../../source/how-to-use-diataxis.rst:120
 msgid ""
 "Similarly, documentation is also never finished, because it always has to "
 "keep adapting and changing to the product and to users' needs, and can "
@@ -347,7 +350,7 @@ msgstr ""
 " dostosowywać się i zmieniać wraz z produktem i potrzebami użytkowników, i "
 "zawsze może być dalej rozwijana i ulepszana."
 
-#: 618194188a6c43749b43b303c25dca23
+#: ../../source/how-to-use-diataxis.rst:123
 msgid ""
 "However it can always be complete: useful to users, appropriate to its "
 "current stage of development, and in a healthy structural state and ready to"

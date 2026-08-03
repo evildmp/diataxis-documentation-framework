@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Piotr Nawrot, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
@@ -21,11 +21,11 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: b4b389137a8c4556876d8f0c817fcf86
+#: ../../source/foundations.rst:2
 msgid "Foundations"
 msgstr "Fundamenty"
 
-#: 5630713da5ce4a35b24c4e967d8dab4e
+#: ../../source/foundations.rst:4
 msgid ""
 "Diátaxis is successful because it *works* - both users and creators have a "
 "better experience of documentation as a result. It makes sense and it feels "
@@ -35,7 +35,7 @@ msgstr ""
 "twórcy mają lepsze doświadczenie z dokumentacją w wyniku tego. Ma sens i "
 "wydaje się właściwy."
 
-#: ab4e7982dda440a3b476de3aaa1f038f
+#: ../../source/foundations.rst:6
 msgid ""
 "However, that's not enough to be confident in Diátaxis as a theory of "
 "documentation. As a theory, it needs to show *why* it works. It needs to "
@@ -49,7 +49,7 @@ msgstr ""
 "pięć. Musi zademonstrować rygorystyczne myślenie i analizę oraz to, że "
 "opiera się na solidnej podstawie teoretycznej."
 
-#: 6d0098ef18274db9aafa485ce64c7839
+#: ../../source/foundations.rst:8
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
@@ -58,11 +58,11 @@ msgstr ""
 "podejściem, a najsilniejszym argumentem, jaki możemy wysunąć na jego "
 "korzyść, jest to, że *wydaje się działać całkiem dobrze*."
 
-#: 9efa580e78fe45c292bc386f3be07b0e
+#: ../../source/foundations.rst:12
 msgid "Two dimensions of craft"
 msgstr "Dwa wymiary rzemiosła"
 
-#: 5664bce07a21462295f5ac1062b2c7f3
+#: ../../source/foundations.rst:14
 msgid ""
 "Diátaxis is based on the principle that documentation must serve the needs "
 "of its users. Knowing how to do that means understanding what the needs of "
@@ -72,7 +72,7 @@ msgstr ""
 "użytkowników. Wiedza, jak to robić, oznacza zrozumienie, jakie są potrzeby "
 "użytkowników."
 
-#: 2da5ac0715f947148e2260a7af0b1042
+#: ../../source/foundations.rst:16
 msgid ""
 "The user whose needs Diátaxis serves is *the practitioner in a domain of "
 "skill*. A domain of skill is defined by a craft - the use of a tool or "
@@ -86,7 +86,7 @@ msgstr ""
 "dyscyplina lub zawód. Używanie języka programowania jest rzemiosłem, "
 "podobnie jak latanie konkretnym samolotem, lub nawet bycie pilotem w ogóle."
 
-#: 0fa89def02904c4b8d9d740ca56eded1
+#: ../../source/foundations.rst:18
 msgid ""
 "Understanding the needs of these users means in turn understanding the "
 "essential characteristics of craft or skill."
@@ -94,11 +94,11 @@ msgstr ""
 "Zrozumienie potrzeb tych użytkowników oznacza z kolei zrozumienie istotnych "
 "cech rzemiosła lub umiejętności."
 
-#: 9b262509d06b4c9e999ecc186885cf7f
+#: ../../source/foundations.rst:22
 msgid "Action/cognition"
 msgstr "Działanie/poznanie"
 
-#: fafbd4cdad12498685a1e24814de46ed
+#: ../../source/foundations.rst:24
 msgid ""
 "A skill or craft or practice contains both **action** (practical knowledge, "
 "knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing"
@@ -112,11 +112,11 @@ msgstr ""
 "ale są odpowiednikami, całkowicie odrębnymi od siebie, dwoma różnymi "
 "aspektami tej samej rzeczy."
 
-#: 7f9c3d28a552414d94f7e9e3271e3607
+#: ../../source/foundations.rst:28
 msgid "Acquisition/application"
 msgstr "Nabycie/zastosowanie"
 
-#: aff6f3ae246a4f4fb036887e16e03148
+#: ../../source/foundations.rst:30
 msgid ""
 "Similarly, the relationship of a practitioner with their practice is that it"
 " is something that needs to be both **acquired**, and **applied**. Being "
@@ -130,11 +130,11 @@ msgstr ""
 "nauce\" (zajętym nabywaniem ich) są ponownie odpowiednikami, odrębnymi, ale "
 "ściśle ze sobą związanymi."
 
-#: e4147f5f2a694c68b3a6d95a06a9d2b3
+#: ../../source/foundations.rst:34
 msgid "The map of the territory"
 msgstr "Mapa terytorium"
 
-#: 20bda34e468540a5a19b9456d2fb7429
+#: ../../source/foundations.rst:36
 msgid ""
 "This gives us two dimensions of skill, that we can lay out on a map - a map "
 "of the territory of craft:"
@@ -142,11 +142,11 @@ msgstr ""
 "Daje nam to dwie wymiary umiejętności, które możemy rozłożyć na mapie - "
 "mapie terytorium rzemiosła:"
 
-#: c28f7e16c62a46188475162fa53653a7 03a971e2da3041bd8d207ede0ee970fa
+#: ../../source/foundations.rst:38 ../../source/foundations.rst:51
 msgid "The territory of craft as a two-dimensional map"
 msgstr "Terytorium rzemiosła jako dwuwymiarowa mapa"
 
-#: c4c0b6354a704ed5850b8d24b18a3b68
+#: ../../source/foundations.rst:41
 msgid ""
 "This is a *complete* map. There are only two dimensions, and they don't just"
 " cover the entire territory, they define it. This is why there are "
@@ -157,7 +157,7 @@ msgstr ""
 "terytorium, ale je definiują. Dlatego koniecznie są cztery ćwiartki, i nie "
 "mogłoby być trzech, lub pięciu. Nie jest to liczba arbitralna."
 
-#: 8a24d0e7860c4745ab4e7b85d8eb1d1e
+#: ../../source/foundations.rst:43
 msgid ""
 "It also shows us the *qualities* of craft that define each of them. When the"
 " idea that documentation must serve the needs of craft is applied to this "
@@ -169,11 +169,11 @@ msgstr ""
 " tej mapy, ujawnia z kolei, czym dokumentacja musi być i co musi robić, aby "
 "wypełnić te obowiązki - w czterech odrębny sposobach."
 
-#: e8ee372740f546c6865a1d6280d13c01
+#: ../../source/foundations.rst:47
 msgid "Serving needs"
 msgstr "Służenie potrzebom"
 
-#: e00a65e784c9480a9618cff80921359a
+#: ../../source/foundations.rst:49
 msgid ""
 "The map of the territory of craft is what gives us the familiar Diátaxis map"
 " of documentation. The map is in effect an answer to the question: what must"
@@ -185,7 +185,7 @@ msgstr ""
 "dokumentacja, aby być zgodną z tymi jakościami umiejętności, i do jakiej "
 "potrzeby jest zorientowana w każdym przypadku?"
 
-#: 06c07725e21443a8b4bba0d6507c8991
+#: ../../source/foundations.rst:54
 msgid ""
 "We can see how the map of documentation addresses *needs* across those two "
 "dimensions, each need also defined by the characteristics of its quarter of "
@@ -195,82 +195,90 @@ msgstr ""
 "dwóch wymiarów, każda potrzeba również zdefiniowana przez cechy jej ćwiartki"
 " na mapie."
 
-#: 00e749a43ccb425fa170cc01c0676529
+#: ../../source/foundations.rst:61
 msgid "need"
 msgstr "potrzeba"
 
-#: 0fdabb02f7604241b681aed96f323772
+#: ../../source/foundations.rst:62
 msgid "addressed in"
 msgstr "zaspokojona w"
 
-#: d209957144ab48548cc920ce05f5f837
+#: ../../source/foundations.rst:63
 msgid "the user"
 msgstr "użytkowniku"
 
-#: 4244d5f61ed04007afb7facad223c255
+#: ../../source/foundations.rst:64
 msgid "the documentation"
 msgstr "dokumentacji"
 
-#: 0a715b93b21243348c3245e6eec2c3fe
+#: ../../source/foundations.rst:65
 msgid "learning"
 msgstr "uczenie się"
 
-#: 82a8d2c619dc4a958268244cc440fd44
+#: ../../source/foundations.rst:66
 msgid "tutorials"
-msgstr ""
+msgstr "tutoriale"
 
-#: 4efd444db4b44147bfa99e8b4ca5bd49 edd36e22210f46fd9355f0ba020e88f1
+#: ../../source/foundations.rst:67 ../../source/foundations.rst:79
 msgid "acquires their craft"
-msgstr ""
+msgstr "nabywa swoje rzemiosło"
 
-#: 9537fabda9754e1aa94c60f17bef5946 460818dd88df485ea65f87b562337590
+#: ../../source/foundations.rst:68 ../../source/foundations.rst:72
 msgid "informs action"
-msgstr ""
+msgstr "informuje działanie"
 
-#: 233d00da406a4f7e892a31d5da2943aa
+#: ../../source/foundations.rst:69
 msgid "goals"
-msgstr ""
+msgstr "cele"
 
-#: 15eddc134ce445b694755f09cf536d4e
+#: ../../source/foundations.rst:70
 msgid "how-to guides"
-msgstr ""
+msgstr "przewodniki krok po kroku"
 
-#: 952e9719c7ab4c29af63c51a834dcdf4 d04d7d5600ec44ea9aa4f5a582192262
+#: ../../source/foundations.rst:71 ../../source/foundations.rst:75
 msgid "applies their craft"
-msgstr ""
+msgstr "stosuje swoje rzemiosło"
 
-#: 2cc8d13233f54fbe917c5c65b5e7f18a
+#: ../../source/foundations.rst:73
 msgid "information"
-msgstr ""
+msgstr "informacja"
 
-#: 518c99af02bf4935b8ebe06ce6c61178
+#: ../../source/foundations.rst:74
 msgid "reference"
-msgstr ""
+msgstr "referencja"
 
-#: 9c078c4485f44a44b821a91029bcb8d7 475b5bfec016405cab112078d704d027
+#: ../../source/foundations.rst:76 ../../source/foundations.rst:80
 msgid "informs cognition"
-msgstr ""
+msgstr "informuje poznanie"
 
-#: c2d873ded01c4e259a3c3e28b6ca84c9
+#: ../../source/foundations.rst:77
 msgid "understanding"
-msgstr ""
+msgstr "zrozumienie"
 
-#: e93098f98ad140a8b9d022ccbdbaafdb
+#: ../../source/foundations.rst:78
 msgid "explanation"
-msgstr ""
+msgstr "wyjaśnienie"
 
-#: ddffda76344e4fa88d6e545f3d1bdf84
+#: ../../source/foundations.rst:83
 msgid ""
 "The Diátaxis map of documentation is a memorable and approachable idea. But,"
 " a map is only reliable if it adequately describes a reality. Diátaxis is "
 "underpinned by a systematic description and analysis of generalised **user "
 "needs**."
 msgstr ""
+"Mapa Diátaxis dokumentacji jest zapadającym w pamięć i przystępnym pomysłem."
+" Ale mapa jest wiarygodna tylko wtedy, gdy odpowiednio opisuje "
+"rzeczywistość. Diátaxis opiera się na systematycznym opisie i analizie "
+"uogólnionych **potrzeb użytkowników**."
 
-#: aadb3fc3f46b47e5819883b4750eacd6
+#: ../../source/foundations.rst:85
 msgid ""
 "This is why the tutorials, how-to guides, reference and explanation of "
 "Diátaxis are a complete enumeration of the types of documentation that serve"
 " practitioners in a craft. This is why there are four and only four types of"
 " documentation. There is simply no other territory to cover."
 msgstr ""
+"Dlatego tutoriale, przewodniki krok po kroku, referencje i wyjaśnienia "
+"Diátaxis są kompletnym wyliczeniem rodzajów dokumentacji, które służą "
+"praktykom w rzemiośle. Dlatego są tylko cztery rodzaje dokumentacji. Po "
+"prostu nie ma innego terytorium do pokrycia."
