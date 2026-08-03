@@ -3,9 +3,9 @@ Help translate Diátaxis
 
 If you'd like to help translate Diátaxis into your language, that would be very welcome.
 
-See the `staging version of this site with translations <https://diataxis-translated.readthedocs.io>`_.
+Currently, the only other language available is Polish.
 
-Currently it's set up for French, Italian, Portuguese and Polish, but others can be added on request and will be published there when more translations are added.
+Translation is in progress for various other languages, including French, Italian, Portuguese, Chinese, Korean and Japanese. Others can be added on request and will be published there when more translations are added.
 
 As soon as a translation is complete, I will publish it on https://diataxis.fr.
 
