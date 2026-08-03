@@ -40,12 +40,12 @@ html_js_files = ["language-switcher.js"]
 language_switcher = [
     ["en", "English"],
     ["pl", "Polski"],
-    # ["fr", "Français"],
-    # ["it", "Italiano"],
-    # ["pt_BR", "Português"],
-    # ["zh_CN", "简体中文"],
-    # ["de", "Deutsche"],
-    # ["ja", "日本語"],
+    ["fr", "Français"],
+    ["it", "Italiano"],
+    ["pt_BR", "Português"],
+    ["zh_CN", "简体中文"],
+    ["de", "Deutsche"],
+    ["ja", "日本語"],
 ]
 html_context = {
     "language_switcher": language_switcher,
