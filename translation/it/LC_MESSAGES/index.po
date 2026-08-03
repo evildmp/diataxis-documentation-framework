@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
 "Language-Team: Italian (https://app.transifex.com/danieleprocida/teams/120528/it/)\n"
@@ -21,37 +21,47 @@ msgstr ""
 "Language: it\n"
 "Plural-Forms: nplurals=3; plural=n == 1 ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
+#: ../../source/index.rst:11
 msgid "Home"
 msgstr "Home"
 
+#: ../../source/index.rst:64
 msgid "Start here"
 msgstr "Inizia qui"
 
+#: ../../source/index.rst:78
 msgid "Tutorials"
-msgstr ""
+msgstr "Tutorial"
 
+#: ../../source/index.rst:78
 msgid "How-to guides"
-msgstr ""
+msgstr "Guide pratiche"
 
+#: ../../source/index.rst:78
 msgid "Reference"
-msgstr ""
+msgstr "Riferimento"
 
+#: ../../source/index.rst:78
 msgid "Explanation"
-msgstr ""
+msgstr "Spiegazione"
 
+#: ../../source/index.rst:78
 msgid "Workflow"
-msgstr ""
+msgstr "Flusso di lavoro"
 
+#: ../../source/index.rst:98
 msgid "Quality"
-msgstr ""
+msgstr "Qualità"
 
+#: ../../source/index.rst:98
 msgid "Tutorials and how-to guides"
-msgstr ""
+msgstr "Tutorial e guide pratiche"
 
+#: ../../source/index.rst:98
 msgid "Reference and explanation"
-msgstr ""
+msgstr "Riferimento e spiegazione"
 
-#: d6105de1126d4a239e178c2eed2e1890
+#: ../../source/index.rst-1
 msgid ""
 "Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking "
 "about and creating documentation."
@@ -59,27 +69,27 @@ msgstr ""
 "Diátaxis è un approccio ampiamente adottato, pragmatico e sistematico per "
 "concepire e creare documentazione."
 
-#: e799e6658e7347ea9dd07078f1d2797f
+#: ../../source/index.rst-1
 msgid "documentation, four, kinds, architecture"
 msgstr "documentazione, quattro, tipi, architettura"
 
-#: 36bb49d05c744283855aa579f2aa19b2 a233a277d956440eb8f00ff0580c16a3
+#: ../../source/index.rst:9 ../../source/index.rst:33
 msgid "Diátaxis"
 msgstr "Diátaxis"
 
-#: d8290f5edb654811a98172b47aa761e2
+#: ../../source/index.rst:19
 msgid "A systematic approach to technical documentation authoring."
 msgstr "Un approccio sistematico alla creazione di documentazione tecnica."
 
-#: 4d31ee6360c64bd0ac5ae676433b23ef
+#: ../../source/index.rst:22
 msgid "Diátaxis is a way of thinking about and doing documentation."
 msgstr "Diátaxis è un modo di concepire e praticare la documentazione."
 
-#: cc3d9fc31f6142c3b5fb8313bd35f8b3
+#: ../../source/index.rst:26
 msgid ":doc:`Help translate Diátaxis <translation>` into your language."
 msgstr ""
 
-#: 9e9fa248fac041119dd907442c939dcf
+#: ../../source/index.rst:28
 msgid ""
 "It prescribes approaches to content, architecture and form that emerge from "
 "a systematic approach to understanding the needs of documentation users."
@@ -88,7 +98,7 @@ msgstr ""
 "da un approccio sistematico alla comprensione delle esigenze degli utenti "
 "della documentazione."
 
-#: 8a7ab6fea3104feab814824cddc6b8c5
+#: ../../source/index.rst:31
 msgid ""
 "Diátaxis identifies four distinct needs, and four corresponding forms of "
 "documentation - *tutorials*, *how-to guides*, *technical reference* and "
@@ -97,12 +107,12 @@ msgid ""
 " needs."
 msgstr ""
 "Diátaxis identifica quattro esigenze distinte, e quattro corrispondenti "
-"forme di documentazione - *tutoriali*, *guide pratiche*, *riferimento* e "
+"forme di documentazione - *tutorial*, *guide pratiche*, *riferimento* e "
 "*spiegazione*. Le colloca in una relazione sistematica, e propone che la "
 "documentazione stessa sia organizzata attorno alle strutture di tali "
 "esigenze."
 
-#: a26d2f7ffca14c69935d2c863987adce
+#: ../../source/index.rst:39
 msgid ""
 "*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and *taxis*"
 " (\"arrangement\")."
@@ -110,7 +120,7 @@ msgstr ""
 "*Diátaxis*, dal greco antico δῐᾰ́τᾰξῐς: *dia* (\"attraverso\") e *taxis* "
 "(\"disposizione\")."
 
-#: 551b33af8738477da7e5e89a290e5745
+#: ../../source/index.rst:41
 msgid ""
 "Diátaxis solves problems related to documentation *content* (what to write),"
 " *style* (how to write it) and *architecture* (how to organise it)."
@@ -119,7 +129,7 @@ msgstr ""
 " scrivere), allo *stile* (come scriverla) e all'*architettura* (come "
 "organizzarla)."
 
-#: b42934d368c44becb617b7a39a65099b
+#: ../../source/index.rst:43
 msgid ""
 "As well as serving the users of documentation, Diátaxis has value for "
 "documentation creators and maintainers. It is light-weight, easy to grasp "
@@ -133,11 +143,11 @@ msgstr ""
 "principio attivo di qualità che aiuta chi la mantiene a riflettere "
 "efficacemente sul proprio lavoro."
 
-#: 1e3f2ae4ff7844b5be6dff7176d3fc09
+#: ../../source/index.rst:48
 msgid "Contents"
 msgstr ""
 
-#: 17a179a561f3432ebc8d589fdb51d0b8
+#: ../../source/index.rst:58
 msgid ""
 "The best way to get started with Diátaxis is by applying it after reading a "
 "brief primer."
@@ -145,13 +155,13 @@ msgstr ""
 "Per avviarsi con Diátaxis, il modo migliore è applicarlo dopo aver letto una"
 " breve guida introduttiva."
 
-#: cb7fc770aec549cf9a1150a60477de87
+#: ../../source/index.rst:72
 msgid "These pages will help make immediate, concrete sense of the approach."
 msgstr ""
 "Queste pagine aiuteranno a comprendere l'approccio in modo immediato e "
 "concreto."
 
-#: 45e2dbaeae1a429383526a1a4e57d14a
+#: ../../source/index.rst:92
 msgid ""
 "This section explores the theory and principles of Diátaxis more deeply, and"
 " sets forth the understanding of needs that underpin it."
@@ -159,7 +169,7 @@ msgstr ""
 "Questa sezione esplora più a fondo la teoria e i principi di Diátaxis, ed "
 "espone la comprensione delle esigenze che lo fondano."
 
-#: 92eb228d66fe4dfc91f1d97d49b03d68
+#: ../../source/index.rst:111
 msgid ""
 "Diátaxis is proven in practice. Its principles have been adopted "
 "successfully in hundreds of documentation projects."
@@ -167,7 +177,7 @@ msgstr ""
 "Diátaxis è comprovato nella pratica. I suoi principi sono stati adottati con"
 " successo in centinaia di progetti di documentazione."
 
-#: 7f7aac9145204b119510728d707f084b
+#: ../../source/index.rst:116
 msgid ""
 "Diátaxis has allowed us to build a high-quality set of internal "
 "documentation that our users love, and our contributors love adding to."
@@ -176,11 +186,11 @@ msgstr ""
 "di alta qualità che i nostri utenti amano, e a cui i nostri collaboratori "
 "amano contribuire."
 
-#: 4b3d2fa74c014ec8b41f1a0c6bd32f97
+#: ../../source/index.rst:118
 msgid "Greg Frileux, `Vonage <https://vonage.com/>`_"
 msgstr "Greg Frileux, `Vonage <https://vonage.com/>`_"
 
-#: 3f43f6a413a343a5a91cb85870d64f5e
+#: ../../source/index.rst:122
 msgid ""
 "At Gatsby we recently reorganized our open-source documentation, and the "
 "Diátaxis framework was our go-to resource throughout the project. The four "
@@ -192,16 +202,16 @@ msgstr ""
 "Presso Gatsby abbiamo recentemente riorganizzato la nostra documentazione "
 "open source, e il framework Diátaxis è stato la nostra risorsa di "
 "riferimento per tutto il progetto. I quattro quadranti ci hanno aiutato a "
-"dare priorità all'obiettivo dell'utente per ciascun tipo di "
-"documentazione. Ristrutturando la nostra documentazione attorno al "
-"framework Diátaxis, abbiamo reso più facile per gli utenti trovare le "
-"risorse di cui hanno bisogno, quando ne hanno bisogno."
+"dare priorità all'obiettivo dell'utente per ciascun tipo di documentazione. "
+"Ristrutturando la nostra documentazione attorno al framework Diátaxis, "
+"abbiamo reso più facile per gli utenti trovare le risorse di cui hanno "
+"bisogno, quando ne hanno bisogno."
 
-#: 06d71dafaabf471d82953d41643cbdf1
+#: ../../source/index.rst:127
 msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
 msgstr "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
 
-#: 79717db706f84186bc98281e2a35bfee
+#: ../../source/index.rst:132
 msgid ""
 "While redesigning the `Cloudflare developer docs "
 "<https://developers.cloudflare.com>`_, Diátaxis became our north star for "
@@ -216,6 +226,6 @@ msgstr ""
 "nostra documentazione ora è più chiara che mai, sia per i lettori che per i "
 "collaboratori."
 
-#: 6b96c42709df46c88e6bee451969fb8a
+#: ../../source/index.rst:134
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
 msgstr "`Adam Schwartz <https://github.com/adamschwartz>`_"
