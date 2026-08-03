@@ -32,7 +32,7 @@ Translating
 
 Once you've been added to the team, you'll see an overview of the available languages. You can see all of them, but can only translate the one whose team you're in.
 
-Translation takes place page by page and then string by string - little fragments of the overall text. When you save a transalation string, it's marked as translated. I get notifications of these, and periodically I'll pull them down into the repository and publish a new version of the site containing them.
+Translation takes place page by page and then string by string - little fragments of the overall text. When you save a translation string, it's marked as translated. I get notifications of these, and periodically I'll pull them down into the repository and publish a new version of the site containing them.
 
 
 References and file names
@@ -83,7 +83,7 @@ I expect that translation will be collaborative work involving multiple translat
 
 If you see something that's clearly wrong (spelling, grammar, punctuation, lost meaning, unidiomatic rendering) correct it.
 
-If it's more complex, and seems like a stylistic choice or a question of judgement, it would be good to discuss it first. There is a `Transifex forum for this project <https://app.transifex.com/danieleprocida/teams/120528/discussions/>`_, or you cqn raise the question with me.
+If it's more complex, and seems like a stylistic choice or a question of judgement, it would be good to discuss it first. There is a `Transifex forum for this project <https://app.transifex.com/danieleprocida/teams/120528/discussions/>`_, or you can raise the question with me.
 
 -------
 
