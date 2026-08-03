@@ -40,12 +40,12 @@ html_context = {
     "language_switcher": [
         ["en", "English"],
         ["pl", "Polski"],
-        ["fr", "Français"],
-        ["it", "Italiano"],
-        ["pt_BR", "Português"],
-        ["zh_CN", "简体中文"],
-        ["de", "Deutsche"],
-        ["ja", "日本語"],
+        # ["fr", "Français"],
+        # ["it", "Italiano"],
+        # ["pt_BR", "Português"],
+        # ["zh_CN", "简体中文"],
+        # ["de", "Deutsche"],
+        # ["ja", "日本語"],
     ],
     "default_language": "en",
 }
