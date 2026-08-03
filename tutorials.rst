@@ -79,7 +79,7 @@ It's not an easy problem, but neither is it a mystery. The principles outlined b
 
 Still, there are straightforward, effective ways to address the problems of pedagogy in practice.
 
-..  sidebar:: Anti-pedagogical temptations
+..  sidebar:: Non-didactic temptations
 
     * abstraction, generalisation
     * explanation
