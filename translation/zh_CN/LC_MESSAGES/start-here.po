@@ -56,7 +56,7 @@ msgstr ""
 
 #: ../../source/start-here.rst:20
 msgid "The four kinds of documentation"
-msgstr ""
+msgstr "四类文档"
 
 #: ../../source/start-here.rst:22
 msgid ""
@@ -65,14 +65,17 @@ msgid ""
 " are: *tutorials*, *how-to guides*, *reference* and *explanation*. Each has "
 "a different purpose, and needs to be written in a different way."
 msgstr ""
+"Diátaxis "
+"的核心思想是：从根本上说，文档有四种泾渭分明的类型，它们分别回应了四种的不同的需求。四种类型是：*教程*，*实践指南*，*参考资料*和*解释说明* "
+"。每一种都有不同的目的，撰写方式也各有不同。"
 
 #: ../../source/start-here.rst:26
 msgid "Tutorials"
-msgstr ""
+msgstr "教程"
 
 #: ../../source/start-here.rst:30
 msgid ":ref:`Tutorials in more detail <tutorials>`"
-msgstr ""
+msgstr ":ref:`教程的更多详细信息 <tutorials>`"
 
 #: ../../source/start-here.rst:31
 msgid ""

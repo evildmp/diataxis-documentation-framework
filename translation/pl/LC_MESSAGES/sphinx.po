@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Piotr Nawrot, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Piotr Nawrot, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,26 +21,26 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: 6cc1ed9bcc704664bdeaf600b4587135
+#: ../../_templates/page.html:30
 msgid "Next"
-msgstr ""
+msgstr "Następny"
 
-#: 54223e4f473e4489a8388533568f1c05
+#: ../../_templates/page.html:42
 msgid "Previous"
-msgstr ""
+msgstr "Poprzedni"
 
-#: 883a077a1b714f3ebf8ea64a03bc3cce
+#: ../../_templates/page.html:45
 msgid "Home"
-msgstr ""
+msgstr "Strona główna"
 
-#: 5161842a3fe74e72b32deb9eefc13d91
+#: ../../_templates/page.html:58
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
-msgstr ""
+msgstr "1Copyright1 © %(copyright)s"
 
-#: 6f1be3bc2637429b859c21f4c37c6268
+#: ../../_templates/page.html:62
 msgid "Copyright &#169; %(copyright)s"
-msgstr ""
+msgstr "Copyright © %(copyright)s"
 
-#: 3d017c7edf0947bf90d4d046470217b5
+#: ../../_templates/page.html:71
 msgid "Last updated on %(last_updated)s"
-msgstr ""
+msgstr "Ostatnia aktualizacja na %(last_updated)s"

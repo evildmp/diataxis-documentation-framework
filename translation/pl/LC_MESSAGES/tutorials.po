@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Piotr Nawrot, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-19 00:30+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Piotr Nawrot, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,40 +21,49 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: f9e3bbdf4b394321a4d723b8c6bb4ea6
+#: ../../source/tutorials.rst:4
 msgid "Tutorials"
-msgstr ""
+msgstr "Tutoriale"
 
-#: e9497c8c1ba74db28180fc1dd07241e8
+#: ../../source/tutorials.rst:7
 msgid ""
 "A tutorial is an **experience** that takes place under the guidance of a "
 "tutor. A tutorial is always **learning-oriented**."
 msgstr ""
+"Samouczek to **doświadczenie**, które odbywa się pod kierunkiem tutora. "
+"Samouczek jest zawsze **ukierunkowany na naukę**."
 
-#: fc43fb54032f4b2ea8502f4339c9201b
+#: ../../source/tutorials.rst:10
 msgid ""
 "A tutorial is a *practical activity*, in which the student learns by doing "
 "something meaningful, towards some achievable goal."
 msgstr ""
+"Samouczek to *praktyczna aktywność*, w której uczeń uczy się przez robienie "
+"czegoś znaczącego, w kierunku jakiegoś osiągalnego celu."
 
-#: e2ae1e7787fe43c1ab8a18ce00237f5c
+#: ../../source/tutorials.rst:12
 msgid ""
 "A tutorial serves the user's *acquisition* of skills and knowledge - their "
 "study. Its purpose is not to help the user get something done, but to help "
 "them learn."
 msgstr ""
+"Samouczek służy *nabywaniu* umiejętności i wiedzy użytkownika - jego nauce. "
+"Jego celem nie jest pomoc użytkownikowi w zrobieniu czegoś, ale pomoc mu w "
+"nauce."
 
-#: 6e8a8fa5e4084408b1ddfceea52f1fe7
+#: ../../source/tutorials.rst:14
 msgid ""
 "Tutorials - learning-oriented guides that describe practical steps and are "
 "intended to serve our study."
 msgstr ""
+"Samouczki - przewodniki ukierunkowane na naukę, które opisują praktyczne "
+"kroki i są przeznaczone do służenia naszej nauce."
 
-#: c3b70704437a488a9516dd581e1f02a8
+#: ../../source/tutorials.rst:18
 msgid "A tutorial in other words is a lesson."
-msgstr ""
+msgstr "Samouczek to, innymi słowy, lekcja."
 
-#: 0f84bcae0bc9487fa1abc7df2c14bddb
+#: ../../source/tutorials.rst:20
 msgid ""
 "It's important to understand that while a student will learn by doing, what "
 "the student *does* is not necessarily what they *learn*. Through doing, they"
@@ -59,40 +72,54 @@ msgid ""
 "and how to interact with them. They will learn the names of things, the use "
 "of tools, workflows, concepts, commands. And so on."
 msgstr ""
+"Ważne jest zrozumienie, że chociaż uczeń będzie się uczył przez działanie, "
+"to, co uczeń *robi*, niekoniecznie jest tym, czego się *uczy*. Poprzez "
+"działanie nabędzie wiedzy teoretycznej (tj. faktów), zrozumienia, "
+"znajomości. Nauczy się, jak rzeczy są ze sobą powiązane i oddziałują, oraz "
+"jak z nimi oddziaływać. Nauczy się nazw rzeczy, użycia narzędzi, przepływów "
+"pracy, pojęć, poleceń. I tak dalej."
 
-#: 27f69cec911a439e9569107418f2353f
+#: ../../source/tutorials.rst:27
 msgid "The tutorial as a lesson"
-msgstr ""
+msgstr "Samouczek jako lekcja"
 
-#: 05ee2d6256e541f187aec9bc82605edf
+#: ../../source/tutorials.rst:29
 msgid ""
 "A lesson entails a relationship between a teacher and a pupil. In all "
 "learning of this kind, *learning takes place as the pupil applies themself "
 "to tasks under the instructor's guidance*."
 msgstr ""
+"Lekcja obejmuje relację między nauczycielem a uczniem. We wszelkiego rodzaju"
+" nauce *nauka odbywa się, gdy uczeń stosuje się do zadań pod kierunkiem "
+"instruktora*."
 
-#: 9562591e08044f74a2b6a1031062f233
+#: ../../source/tutorials.rst:31
 msgid ""
 "A lesson is a *learning experience*. In a learning experience, what matters "
 "is what the learner does and what happens. By contrast, the teacher's "
 "explanations and recitations of fact are far less important."
 msgstr ""
+"Lekcja to *doświadczenie nauki*. W doświadczeniu nauki ważne jest to, co "
+"robi uczący się i co się dzieje. W przeciwieństwie do tego, wyjaśnienia "
+"nauczyciela i recytowanie faktów są znacznie mniej ważne."
 
-#: 974ffae632284f588cef83649eb3b218
+#: ../../source/tutorials.rst:33
 msgid ""
 "A good lesson gives the learner confidence, by showing them that they can be"
 " successful in a certain skill or with a certain product."
 msgstr ""
+"Dobra lekcja daje uczącemu się pewność siebie, pokazując mu, że może odnieść"
+" sukces w danej umiejętności lub z danym produktem."
 
-#: 1d6130c12499497b9e9be85b16123314
+#: ../../source/tutorials.rst:37
 msgid "Obligations of the teacher"
-msgstr ""
+msgstr "Obowiązki nauczyciela"
 
-#: 60f27de5fe25469fbd70ae379a19fb38
+#: ../../source/tutorials.rst:41
 msgid "It's not easy being a teacher."
-msgstr ""
+msgstr "Bycie nauczycielem nie jest łatwe."
 
-#: 8949220584334501a1d0ffe2106eb27d
+#: ../../source/tutorials.rst:43
 msgid ""
 "A lesson is a kind of contract between teacher and student, in which nearly "
 "all the responsibility falls upon the teacher. The teacher has "
@@ -102,64 +129,85 @@ msgid ""
 "follow the teacher's directions as closely as they can. There is no "
 "responsibility on the pupil to learn, understand or remember."
 msgstr ""
+"Lekcja to rodzaj umowy między nauczycielem a uczniem, w której niemal cała "
+"odpowiedzialność spoczywa na nauczycielu. Nauczyciel odpowiada za to, czego "
+"uczeń ma się nauczyć, co uczeń będzie robił, aby się tego nauczyć, oraz za "
+"sukces ucznia. Tymczasem jedynym obowiązkiem ucznia w tej umowie jest bycie "
+"uważnym i jak najdokładniejsze podążanie za wskazówkami nauczyciela. Na "
+"uczniu nie spoczywa obowiązek nauki, zrozumienia czy zapamiętania."
 
-#: a492a6d6ee074489ad327da0fbc82f13
+#: ../../source/tutorials.rst:45
 msgid "At the same time, the exercise you put your pupils through must be:"
-msgstr ""
+msgstr "Jednocześnie ćwiczenie, które stawiasz przed uczniami, musi być:"
 
-#: 23e18ec2bf1d45b98c6c1fa16aabba33
+#: ../../source/tutorials.rst:47
 msgid "*meaningful* - the pupil needs to have a sense of achievement"
-msgstr ""
+msgstr "*znaczące* - uczeń musi mieć poczucie osiągnięcia"
 
-#: 60cdb00696a2460994ab2341fc7c0884
+#: ../../source/tutorials.rst:48
 msgid "*successful* - the pupil needs to be able to complete it"
-msgstr ""
+msgstr "*udane* - uczeń musi być w stanie je ukończyć"
 
-#: f1d96aaaa73d43d2a74038c3023ed39a
+#: ../../source/tutorials.rst:49
 msgid ""
 "*logical* - the path that the pupil takes through it needs to make sense"
-msgstr ""
+msgstr "*logiczne* - ścieżka, którą podąża uczeń, musi mieć sens"
 
-#: 79923bb7170e4f748466adc19ec80106
+#: ../../source/tutorials.rst:50
 msgid ""
 "*usefully complete* - the pupil must have an encounter with all of the "
 "actions, concepts and tools they need to become familiar with"
 msgstr ""
+"*w pełni użyteczne* - uczeń musi zetknąć się ze wszystkimi działaniami, "
+"pojęciami i narzędziami, które musi poznać"
 
-#: 8f3b5503c9694684b29b9db3020df913
+#: ../../source/tutorials.rst:54
 msgid "The problem of tutorials"
-msgstr ""
+msgstr "Problem samouczków"
 
-#: f2f173b463f0435180a82ae913382248
+#: ../../source/tutorials.rst:56
 msgid ""
 "Tutorials are rarely done well, partly because they are genuinely difficult "
 "to do well, and partly because they are not well understood. In software, "
 "many products lack good tutorials, or lack tutorials completely; tutorials "
 "are often conflated with how-to guides."
 msgstr ""
+"Samouczki rzadko są dobrze wykonane, częściowo dlatego, że są naprawdę "
+"trudne do wykonania, a częściowo dlatego, że nie są dobrze rozumiane. W "
+"oprogramowaniu wiele produktów nie ma dobrych samouczków lub nie ma ich "
+"wcale; samouczki są często mylone z poradnikami krok po kroku."
 
-#: f94d42252e43443da673eee7b4030638
+#: ../../source/tutorials.rst:58
 msgid ""
 "In an ideal lesson, the teacher is present and interacts with and responds "
 "to the student, correcting their mistakes and checking their learning. In "
 "documentation, none of this is possible."
 msgstr ""
+"W idealnej lekcji nauczyciel jest obecny i wchodzi w interakcje z uczniem, "
+"odpowiadając na niego, poprawiając jego błędy i sprawdzając jego naukę. W "
+"dokumentacji żadna z tych rzeczy nie jest możliwa."
 
-#: 61d67c83a80c477bb24a13bc37c48d83
+#: ../../source/tutorials.rst:62
 msgid ""
 "Writing and maintaining tutorials can consume a remarkable amount of effort "
 "and time."
 msgstr ""
+"Pisanie i utrzymywanie samouczków może pochłonąć zadziwiającą ilość wysiłku "
+"i czasu."
 
-#: 4e09781426ab44e0be1f51d318ce851a
+#: ../../source/tutorials.rst:64
 msgid ""
 "It's hard enough to put together a learning experience that meets all the "
 "standards described above; in many contexts the product itself evolves "
 "rapidly, meaning that all that work needs to be done again to ensure that "
 "the tutorial still performs its required functions."
 msgstr ""
+"Już samo złożenie doświadczenia nauki, które spełnia wszystkie opisane "
+"powyżej standardy, jest trudne; w wielu kontekstach sam produkt szybko "
+"ewoluuje, co oznacza, że cała ta praca musi być wykonana ponownie, aby "
+"zapewnić, że samouczek nadal spełnia swoje wymagane funkcje."
 
-#: d79857794e54455da95058d55e8027b2
+#: ../../source/tutorials.rst:66
 msgid ""
 "You will also often find that no other part of your documentation is subject"
 " to revisions the way your tutorials are. Elsewhere in documentation, "
@@ -167,8 +215,13 @@ msgid ""
 "where the end-to-end learning journey must make sense, they often cascade "
 "through the entire story."
 msgstr ""
+"Często również okazuje się, że żadna inna część twojej dokumentacji nie "
+"podlega rewizjom w taki sposób, jak twoje samouczki. Gdzie indziej w "
+"dokumentacji zmiany i ulepszenia można zazwyczaj wprowadzać dyskretnie; w "
+"samouczkach, gdzie cała ścieżka nauki od początku do końca musi mieć sens, "
+"często kaskadują przez całą historię."
 
-#: fec15a28622e4801aa535d165803674c
+#: ../../source/tutorials.rst:68
 msgid ""
 "Finally, tutorials contain the additional complication of the distinction "
 "between *what is to be learned* and *what is to be done*. Not only must the "
@@ -176,46 +229,56 @@ msgid ""
 "when, they must also devise a meaningful learning journey that somehow "
 "delivers all that."
 msgstr ""
+"Ostatecznie samouczki zawierają dodatkową komplikację rozróżnienia między "
+"*tym, czego należy się nauczyć*, a *tym, co należy zrobić*. Twórca samouczka"
+" musi nie tylko dobrze rozumieć, czego użytkownik musi się nauczyć i kiedy, "
+"ale także opracować znaczącą ścieżkę nauki, która w jakiś sposób dostarcza "
+"to wszystko."
 
-#: 43beec3a16394512a68d943bcc3d84bf
+#: ../../source/tutorials.rst:74
 msgid "Key principles"
-msgstr ""
+msgstr "Kluczowe zasady"
 
-#: ce63fd2674fd4d3b9d0c51a7ca762b22
+#: ../../source/tutorials.rst:76
 msgid "A tutorial is a pedagogical problem."
-msgstr ""
+msgstr "Samouczek to problem pedagogiczny."
 
-#: 3deee346e4a340699ced875ff12ebd86
+#: ../../source/tutorials.rst:78
 msgid ""
 "It's not an easy problem, but neither is it a mystery. The principles "
 "outlined below - repetition, action, small steps, results early and often, "
 "concreteness and so on - are not secrets, but they are not always well "
 "understood."
 msgstr ""
+"Nie jest to łatwy problem, ale nie jest też tajemnicą. Zasady nakreślone "
+"poniżej - powtarzanie, działanie, małe kroki, wczesne i częste wyniki, "
+"konkretność itp. - nie są sekretami, ale nie zawsze są dobrze rozumiane."
 
-#: 08acb146617b43119247e78e1b7b6f2c
+#: ../../source/tutorials.rst:80
 msgid ""
 "Still, there are straightforward, effective ways to address the problems of "
 "pedagogy in practice."
 msgstr ""
+"Mimo to istnieją bezpośrednie i skuteczne sposoby radzenia sobie z "
+"problemami pedagogiki w praktyce."
 
-#: 222de73173d945f68a1bfc6d35fecf2a
+#: ../../source/tutorials.rst:84
 msgid "abstraction, generalisation"
-msgstr ""
+msgstr "abstrakcja, uogólnienie"
 
-#: b06fec19931d4425aa9b00908e8b5a4a
+#: ../../source/tutorials.rst:85
 msgid "explanation"
-msgstr ""
+msgstr "wyjaśnienie"
 
-#: 81a3b13718b74022a0469e3689d6c48c
+#: ../../source/tutorials.rst:86
 msgid "choices"
-msgstr ""
+msgstr "wybory"
 
-#: db48442ef1344acc85a6e355a1a13c0c
+#: ../../source/tutorials.rst:87
 msgid "information"
-msgstr ""
+msgstr "informacja"
 
-#: 906fb65cca88472e87a7964b98f79a8e
+#: ../../source/tutorials.rst:89
 msgid ""
 "The first rule of teaching is simply: **don't try to teach**. Your job, as a"
 " teacher, is to provide the learner with an experience that will allow them "
@@ -223,8 +286,14 @@ msgid ""
 "and understanding, but if you give into it and try to teach by telling and "
 "explaining, you will jeopardise the learning experience."
 msgstr ""
+"Pierwsza zasada nauczania jest po prostu: **nie próbuj nauczać**. Twoim "
+"zadaniem, jako nauczyciela, jest dostarczenie uczącemu się doświadczenia, "
+"które pozwoli mu się uczyć. Nauczyciel nieuchronnie odczuwa pewien rodzaj "
+"niepokoju, aby przekazać wiedzę i zrozumienie, ale jeśli ulegnie temu i "
+"będzie próbował nauczać przez mówienie i wyjaśnianie, zagrozi to "
+"doświadczeniu nauki."
 
-#: 7252276c52d44e85a053471cce720ee0
+#: ../../source/tutorials.rst:91
 msgid ""
 "Instead, *allow learning to take place*, and trust that it will. Give your "
 "learner things to *do*, through which they can learn. Only your pupil can "
@@ -232,38 +301,53 @@ msgid ""
 "your pupil. You cannot make them learn. All you can do is make it so *they* "
 "can learn."
 msgstr ""
+"Zamiast tego, *pozwól, aby nauka miała miejsce*, i ufaj, że tak będzie. Daj "
+"uczącemu się rzeczy do *zrobienia*, przez które mogą się uczyć. Tylko uczeń "
+"może się uczyć. Niestety, niezależnie od tego, jak bardzo tego pragniesz, "
+"nie będziesz w stanie uczyć się za swojego ucznia. Nie możesz sprawić, że "
+"będą się uczyć. Wszystko, co możesz zrobić, to sprawić, że *oni* będą mogli "
+"się uczyć."
 
-#: 8112da24ef2147f2ac5de0e09f127b29
+#: ../../source/tutorials.rst:95
 msgid "Show the learner where they'll be going"
-msgstr ""
+msgstr "Pokaż uczącemu się, dokąd będą zmierzać"
 
-#: 61da3592b1944e75bb104719394221c4
+#: ../../source/tutorials.rst:97
 msgid ""
 "It's important to allow the learner to form an idea of what they will "
 "achieve right from the start. As well as helping to set expectations, it "
 "allows them to see themselves building towards the completed goal as they "
 "work."
 msgstr ""
+"Ważne jest, aby od samego początku pozwolić uczącemu się uformować sobie "
+"ideę, co osiągną. Oprócz pomocy w ustawieniu oczekiwań, pozwala im to "
+"zobaczyć siebie, jak budują ku ukończonemu celowi, pracując nad tym."
 
-#: 1c1d5c66b14c4e4ca36da3c3b8171d9f
+#: ../../source/tutorials.rst:99
 msgid ""
 "Providing the picture the learner needs in a tutorial can be as simple as "
 "informing them at the outset: *In this tutorial we will create and deploy a "
 "scalable web application. Along the way we will encounter containerisation "
 "tools and services.*"
 msgstr ""
+"Dostarczenie obrazu, którego uczący się potrzebuje w samouczku, może być tak"
+" proste, jak poinformowanie ich na początku: *W tym samouczku stworzymy i "
+"wdrożymy skalowalną aplikację webową. Po drodze spotkamy się z narzędziami i"
+" usługami do konteneryzacji.*"
 
-#: 0df75c24bdd94c2c8187eb541d1fad24
+#: ../../source/tutorials.rst:101
 msgid ""
 "This is not the same as saying: *In this tutorial you will learn...* - which"
 " is presumptuous and a very poor pattern."
 msgstr ""
+"Nie jest to to samo, co powiedzenie: *W tym samouczku nauczysz się...* - co "
+"jest zuchwałe i bardzo zły wzorzec."
 
-#: 91cffb9738354525a1ef7b83dc1dd082
+#: ../../source/tutorials.rst:105
 msgid "Deliver visible results early and often"
 msgstr ""
 
-#: c6c32be9274d4d288d32b8a236d41b90
+#: ../../source/tutorials.rst:107
 msgid ""
 "Your learner is probably doing new and strange things that they don't fully "
 "understand. Understanding comes from being able to make connections between "
@@ -272,17 +356,17 @@ msgid ""
 "the user can see as meaningful."
 msgstr ""
 
-#: 224ebb7af75947df9209f1eddaa2606b
+#: ../../source/tutorials.rst:109
 msgid ""
 "Every step the learner follows should produce a comprehensible result, "
 "however small."
 msgstr ""
 
-#: 412a408b07b7440494911611836d2e76
+#: ../../source/tutorials.rst:113
 msgid "Maintain a narrative of the expected"
 msgstr ""
 
-#: d5427911522d4b18a6fb0acd951b72d3
+#: ../../source/tutorials.rst:115
 msgid ""
 "At every step of a tutorial, the user experiences a moment of anxiety: will "
 "this action produce the correct result? Part of the work of a successful "
@@ -290,32 +374,32 @@ msgid ""
 "on the right path."
 msgstr ""
 
-#: 6b479f1ef0b3418b887d5a56696689a7
+#: ../../source/tutorials.rst:117
 msgid ""
 "Keep up a narrative of expectations: \"You will notice that ...\"; \"After a"
 " few moments, the server responds with ...\". Show the user actual example "
 "output, or even the exact expected output."
 msgstr ""
 
-#: 2fc93bceb9834ddba4c830b75809336a
+#: ../../source/tutorials.rst:119
 msgid ""
 "If you know in advance what the likely signs of going wrong are, consider "
 "flagging them: \"If the output doesn't show ..., you have probably forgotten"
 " to ...\"."
 msgstr ""
 
-#: bc7a8d1ae9544f48a323054a42aab0dd
+#: ../../source/tutorials.rst:121
 msgid ""
 "It's helpful to prepare the user for possibly surprising actions: \"The "
 "command will probably return several hundred lines of logs in your "
 "terminal.\""
 msgstr ""
 
-#: 01334c3a00094c03843f72bc39eb6202
+#: ../../source/tutorials.rst:125
 msgid "Point out what the learner should notice"
 msgstr ""
 
-#: b9240a2a98bb4c69954d80c668830894
+#: ../../source/tutorials.rst:127
 msgid ""
 "Learning requires reflection. This happens at multiple levels and depths, "
 "but one of the first is when the learner  observes the signs in their "
@@ -323,77 +407,77 @@ msgid ""
 "are doing to notice them, unless they are prompted by the teacher."
 msgstr ""
 
-#: 393650317ccf459eb153c49754de9caf
+#: ../../source/tutorials.rst:129
 msgid ""
 "Your job as teacher is to close the loops of learning by pointing things "
 "out, in passing, as the lesson moves along. This can be as simple as "
 "pointing out how a command line prompt changes, for example."
 msgstr ""
 
-#: 2df3fc8b3d8b4b80ace89e1e9d7bd9c3
+#: ../../source/tutorials.rst:131
 msgid ""
 "Observing is an active part of a craft, not a merely passive one. It means "
 "paying attention to the environment, a skill in itself. It's often "
 "neglected."
 msgstr ""
 
-#: e3c5ce63b268445c9abd43deec569912
+#: ../../source/tutorials.rst:135
 msgid "Target *the feeling of doing*"
 msgstr ""
 
-#: b9c041becca24c278c6822398237f9de
+#: ../../source/tutorials.rst:137
 msgid ""
 "In all skill or craft, the accomplished practitioner experiences a *feeling "
 "of doing*, a joined-up purpose, action, thinking and result."
 msgstr ""
 
-#: 7532f93b4fe24eabbba38e17fa3a1554
+#: ../../source/tutorials.rst:139
 msgid ""
 "As skill develops, it flows in a confident rhythm and becomes a kind of "
 "pleasure. It's the pleasure of walking, for example."
 msgstr ""
 
-#: a8967c135c814ff187701faf0a823f62
+#: ../../source/tutorials.rst:143
 msgid ""
 "Pay attention to your own *feeling of doing* in your work. What is it like "
 "to perform a particular operation?"
 msgstr ""
 
-#: 7c192eb1dea44fc2b9e925d683992e01
+#: ../../source/tutorials.rst:145
 msgid ""
 "Your learner's skill depends upon their discovering this feeling, and its "
 "becoming a pleasure."
 msgstr ""
 
-#: bc7911ea8f4f4181b23daa4f0d5e4e92
+#: ../../source/tutorials.rst:147
 msgid ""
 "Your challenge as the creator of a tutorial is to ensure that its tasks tie "
 "together purpose and action so they become a cradle for this feeling."
 msgstr ""
 
-#: 12d5dcd28b424192ad66d9108864b365
+#: ../../source/tutorials.rst:151
 msgid "Encourage and permit repetition"
 msgstr ""
 
-#: 7ee1c165af3f4ae9a9c5d7ae5ae5b01a
+#: ../../source/tutorials.rst:153
 msgid ""
 "Learners will return to and repeat an exercise that gives them success, for "
 "the pleasure they find in getting the expected result. Doing so reaffirms to"
 " them that they can do it, and that it works."
 msgstr ""
 
-#: 6952adf4b8cc465dad3da8d43708d977
+#: ../../source/tutorials.rst:155
 msgid ""
 "Repetition is a key to establishing the feeling of doing; being at home with"
 " that feeling is a foundational layer of learning."
 msgstr ""
 
-#: 1482a91187404a6e82d76bd695dbc79f
+#: ../../source/tutorials.rst:159
 msgid ""
 "Repetition is not the best teacher - sometimes it's the *only* teacher."
 msgstr ""
 
-#: e76d9212a6894339821bb2dfb479c273
+#: ../../source/tutorials.rst:161
 msgid ""
 "In your tutorial, try to make it possible for a particular step and result "
 "to be repeated. This can be difficult, for example in operations that are "
@@ -403,11 +487,11 @@ msgid ""
 "see that the same thing really does happen again."
 msgstr ""
 
-#: a55e05c049e24dd9988804dd1e1a7d58
+#: ../../source/tutorials.rst:165
 msgid "Ruthlessly minimise explanation"
 msgstr ""
 
-#: a828f8882ed64faebb28cb9127dc95c2
+#: ../../source/tutorials.rst:167
 msgid ""
 "*A tutorial is not the place for explanation.* In a tutorial, the user is "
 "focused on correctly following your directions and getting the expected "
@@ -416,7 +500,7 @@ msgid ""
 "from that, and blocks their learning."
 msgstr ""
 
-#: c584b861a6884943b21dd77011e39632
+#: ../../source/tutorials.rst:169
 msgid ""
 "For example, it's quite enough to say something like: *We're using HTTPS "
 "because it's more secure.* There is a place for extended discussion and "
@@ -424,13 +508,13 @@ msgid ""
 "that explanation, so that it's available, but doesn't get in the way."
 msgstr ""
 
-#: 9905cf68630c439581751fcf57ecfe4b
+#: ../../source/tutorials.rst:173
 msgid ""
 "Explanation is only pertinent at the moment the *user* wants it. It is not "
 "for the documentation author to decide."
 msgstr ""
 
-#: 6325f20f6b434e93812284dfe633b792
+#: ../../source/tutorials.rst:175
 msgid ""
 "Explanation is one of the hardest temptations for a teacher to resist; even "
 "experienced teachers find it difficult to accept that their students' "
@@ -442,31 +526,31 @@ msgid ""
 "how successful learning or teaching works."
 msgstr ""
 
-#: abd31809b2ac4bc98d8736494cce29ba
+#: ../../source/tutorials.rst:177
 msgid ""
 "One must see it for oneself, to see the focused attention of a student "
 "dissolve into air, when a teacher's well-intentioned explanation breaks the "
 "magic spell of learning."
 msgstr ""
 
-#: 330dffefd6a249c7adace64c875deead
+#: ../../source/tutorials.rst:181
 msgid "... and focus on the concrete"
 msgstr ""
 
-#: afdf5635fb76460b93e4fbf279e01af7
+#: ../../source/tutorials.rst:183
 msgid ""
 "In a learning situation, your student is in the moment, a moment composed of"
 " concrete things. You are responsible for setting up and maintaining the "
 "student's flow, from one concrete action and result to another."
 msgstr ""
 
-#: 136e30c5991940428104aa7daaa61338
+#: ../../source/tutorials.rst:185
 msgid ""
 "Focus on *this* problem, *this* action, *this* result, in such a way that "
 "you lead the learner from step to concrete step."
 msgstr ""
 
-#: 4691fd9855994cf08fecdd0b06e4dc8e
+#: ../../source/tutorials.rst:187
 msgid ""
 "It might seem that by maintaining focus on the concrete and particular that "
 "you deny the student the opportunity to see or grasp the larger general "
@@ -476,11 +560,11 @@ msgid ""
 "general and abstract. The latter *will* emerge from the former."
 msgstr ""
 
-#: f6351e2d65a34281a8d57bacc4c72765
+#: ../../source/tutorials.rst:191
 msgid "Ignore options and alternatives"
 msgstr ""
 
-#: 1a026701ec064fe7b99cbd0793506de6
+#: ../../source/tutorials.rst:193
 msgid ""
 "Your job is to guide the learner to a successful conclusion. There may be "
 "many interesting diversions along the way (different options for the command"
@@ -490,23 +574,23 @@ msgid ""
 " be left for another time."
 msgstr ""
 
-#: 25d37142a40d4a8c93549426e79c64e9
+#: ../../source/tutorials.rst:195
 msgid ""
 "Doing this helps keep your tutorial shorter and crisper, and saves both you "
 "and the reader from having to do extra cognitive work."
 msgstr ""
 
-#: 08ffb610d513440ebd61556b26ceaa6c
+#: ../../source/tutorials.rst:199
 msgid "Aspire to perfect reliability"
 msgstr ""
 
-#: 80efd05e555247009810d7fd784d162b
+#: ../../source/tutorials.rst:201
 msgid ""
 "All of the above are general principles of pedagogy, but there is a special "
 "burden on the creator of a tutorial."
 msgstr ""
 
-#: e090e4f9169f4865ac72795d14e101e5
+#: ../../source/tutorials.rst:203
 msgid ""
 "A tutorial must inspire confidence. Confidence can only be built up layer by"
 " layer, and is easily shaken. At every stage, when you ask your student to "
@@ -515,11 +599,11 @@ msgid ""
 "confidence, in the tutorial, the tutor and themselves."
 msgstr ""
 
-#: 4a7ad19e41024a828da9cd901cd65853
+#: ../../source/tutorials.rst:207
 msgid "You are required to be present, but condemned to be absent."
 msgstr ""
 
-#: 448233b21c604c40bcbaccdf9a3cc234
+#: ../../source/tutorials.rst:209
 msgid ""
 "A teacher who's there with the learner can rescue them when things go wrong."
 " In a tutorial, you can't do that. Your tutorial ought to be so well "
@@ -527,13 +611,13 @@ msgid ""
 " user, every time."
 msgstr ""
 
-#: ae7ad4854cb247d3ab3dae6789ded4ef
+#: ../../source/tutorials.rst:211
 msgid ""
 "It's hard work to create a reliable experience, but that is what you must "
 "aspire to in creating a tutorial."
 msgstr ""
 
-#: b9378d9147d64d71a012f2096649fa39
+#: ../../source/tutorials.rst:213
 msgid ""
 "Your tutorial will have flaws and gaps, however carefully it is written. You"
 " won't discover them all by yourself, you will have to rely on users to "
@@ -542,104 +626,104 @@ msgid ""
 " and observation."
 msgstr ""
 
-#: c221052d8fe947a18441ee641efd6081
+#: ../../source/tutorials.rst:219
 msgid "The language of tutorials"
 msgstr ""
 
-#: e9c3eb5656e14694a528e67212c3d193
+#: ../../source/tutorials.rst:221
 msgid "We ..."
 msgstr ""
 
-#: da95636bd0894234baf7cbc631dbe39d
+#: ../../source/tutorials.rst:222
 msgid ""
 "The first-person plural affirms the relationship between tutor and learner: "
 "you are not alone; we are in this together."
 msgstr ""
 
-#: 563c09769a70410e8158a3d30f3d4b8f
+#: ../../source/tutorials.rst:223
 msgid "In this tutorial, we will ..."
 msgstr ""
 
-#: 71f3b846af4444c497f9f53d3a1da567
+#: ../../source/tutorials.rst:224
 msgid "Describe what the learner will accomplish."
 msgstr ""
 
-#: b9b89ad0750f451092174cf0f3b6a985
+#: ../../source/tutorials.rst:225
 msgid "First, do x. Now, do y. Now that you have done y, do z."
 msgstr ""
 
-#: 77ed31e7c6d347d2bef14b6db35c569a
+#: ../../source/tutorials.rst:226
 msgid "No room for ambiguity or doubt."
 msgstr ""
 
-#: 2bbd55fcdbab45719137dc1fff33c1b3
+#: ../../source/tutorials.rst:227
 msgid ""
 "We must always do x before we do y because... (see Explanation for more "
 "details)."
 msgstr ""
 
-#: 9059d36c89504ebfa1daffb9134eeb21
+#: ../../source/tutorials.rst:228
 msgid ""
 "Provide minimal explanation of actions in the most basic language possible. "
 "Link to more detailed explanation."
 msgstr ""
 
-#: 121ba9b603604c439bbd314b08e63605
+#: ../../source/tutorials.rst:229
 msgid "The output should look something like ..."
 msgstr ""
 
-#: 5fa061f180c14437b08cd3ef0368fab5
+#: ../../source/tutorials.rst:230
 msgid "Give your learner clear expectations."
 msgstr ""
 
-#: 1d215b9c872544969d1d699fa19e1271
+#: ../../source/tutorials.rst:231
 msgid "Notice that ... Remember that ... Let's check ..."
 msgstr ""
 
-#: 7bd65fe8ad3b4632ba62a03014fe2b13
+#: ../../source/tutorials.rst:232
 msgid ""
 "Give your learner plenty of clues to help confirm they are on the right "
 "track and orient themselves."
 msgstr ""
 
-#: 3c3c7bf63b94452eb2e240b83e389bce
+#: ../../source/tutorials.rst:233
 msgid "You have built a secure, three-layer hylomorphic stasis engine..."
 msgstr ""
 
-#: ad4fc9a5264448ee81044f1b5134f37c
+#: ../../source/tutorials.rst:234
 msgid ""
 "Describe (and admire, in a mild way) what your learner has accomplished."
 msgstr ""
 
-#: df52bb0b18344bb0a7d9a171f13b3e40
+#: ../../source/tutorials.rst:240
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "Zastosowane do jedzenia i gotowania"
 
-#: b2e52622ca464b16a0228fad62e1c344
+#: ../../source/tutorials.rst:242
 msgid "A child proudly showing a dish he has helped prepare"
 msgstr ""
 
-#: 960aa13e5af34c3790797d2fa2a38ee6
+#: ../../source/tutorials.rst:245
 msgid ""
 "Someone who has had the experience of teaching a child to cook will "
 "understand what matters in a tutorial, and just as importantly, the things "
 "that don't matter at all."
 msgstr ""
 
-#: 3c80d233c5d44058990da8f4ac90579e
+#: ../../source/tutorials.rst:247
 msgid ""
 "It really doesn't matter what the child makes, or how correctly they do it. "
 "The value of a lesson lies in what the child gains, not what they produce."
 msgstr ""
 
-#: b8ae9fe2ede24c7696613ec9307e634b
+#: ../../source/tutorials.rst:249
 msgid ""
 "Success in a cooking lesson with a child is not the culinary outcome, or "
 "whether the child can now repeat the processes on their own. Success is when"
 " the child acquires the knowledge and skills you were hoping to impart."
 msgstr ""
 
-#: 6b3c17d1481f4729ba1648da85c7d635
+#: ../../source/tutorials.rst:251
 msgid ""
 "It's a crucial condition of this that the child discovers pleasure in the "
 "experience of being in the kitchen with you, and wants to return to it. "
@@ -647,7 +731,7 @@ msgid ""
 "required."
 msgstr ""
 
-#: 6a38b0386999487493a884fd57affa2e
+#: ../../source/tutorials.rst:253
 msgid ""
 "Meanwhile, the cooking lesson might be framed around the idea of learning "
 "how to prepare a particular dish, but what we actually need the child to "
@@ -656,14 +740,14 @@ msgid ""
 "called*, *how to time and measure things*."
 msgstr ""
 
-#: 78ba7e413fc343eba4403cd8cecf2318
+#: ../../source/tutorials.rst:255
 msgid ""
 "The child learns all this by working alongside you in the kitchen; in its "
 "own time, at its own pace, **through the activities** you do together, and "
 "not from the things you say or show."
 msgstr ""
 
-#: 7eb06fa0bd3b47abb09b2274909e0d55
+#: ../../source/tutorials.rst:257
 msgid ""
 "With a young child, you will often find that the lesson suddenly has to end "
 "before you'd completed what you set out to do. This is normal and expected; "
