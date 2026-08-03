@@ -36,19 +36,17 @@ html_static_path = ["../_static"]
 html_logo = "images/diataxis-white-416.png"
 html_css_files = ["diataxis.css"]
 html_js_files = ["language-switcher.js"]
-# html_js_files = []
-language_switcher = [
-    ["en", "English"],
-    ["pl", "Polski"],
-    ["fr", "Français"],
-    ["it", "Italiano"],
-    ["pt_BR", "Português"],
-    ["zh_CN", "简体中文"],
-    ["de", "Deutsche"],
-    ["ja", "日本語"],
-]
 html_context = {
-    "language_switcher": language_switcher,
+    "language_switcher": [
+        ["en", "English"],
+        ["pl", "Polski"],
+        ["fr", "Français"],
+        ["it", "Italiano"],
+        ["pt_BR", "Português"],
+        ["zh_CN", "简体中文"],
+        ["de", "Deutsche"],
+        ["ja", "日本語"],
+    ],
     "default_language": "en",
 }
 html_sidebars = {

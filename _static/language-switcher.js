@@ -1,99 +1,27 @@
+// Progressive enhancement: preserve the current URL hash across language
+// switches. The switcher links are server-rendered with real hrefs, so they
+// work without JavaScript. This script appends the page's current hash to
+// each link so that, e.g. switching language on `/application/#diagram`
+// lands on `/pl/application/#diagram` rather than dropping the anchor.
 (function () {
-  function configuredLanguages() {
-    return Array.prototype.map.call(
-      document.querySelectorAll(".language-switcher a[data-language-code]"),
-      function (link, index) {
-        var code = link.getAttribute("data-language-code");
-        return {
-          code: code,
-          prefix: index === 0 ? "" : code,
-        };
-      }
-    );
-  }
-
-  var languages = configuredLanguages();
-
-  function currentLanguageAndBasePath() {
-    var path = window.location.pathname;
-    var isFileUrl = window.location.protocol === "file:";
-
-    if (isFileUrl) {
-      for (var i = 0; i < languages.length; i += 1) {
-        var language = languages[i];
-        if (!language.prefix) {
-          continue;
-        }
-        var marker = "/_build/html/" + language.prefix + "/";
-        if (path.includes(marker)) {
-          return {
-            current: language.code,
-            basePath: path.replace(marker, "/_build/html/"),
-          };
-        }
-      }
-      return { current: languages[0] ? languages[0].code : "", basePath: path };
-    }
-
-    for (var j = 0; j < languages.length; j += 1) {
-      var lang = languages[j];
-      if (!lang.prefix) {
-        continue;
-      }
-      if (path === "/" + lang.prefix || path.startsWith("/" + lang.prefix + "/")) {
-        return {
-          current: lang.code,
-          basePath: path.replace(new RegExp("^/" + lang.prefix + "(?=/|$)"), "") || "/",
-        };
-      }
-    }
-
-    return { current: languages[0] ? languages[0].code : "", basePath: path };
-  }
-
-  function urlFor(language, basePath) {
+  function updateLinks() {
     var search = window.location.search || "";
     var hash = window.location.hash || "";
-    var path = basePath || "/";
-    var isFileUrl = window.location.protocol === "file:";
-
-    if (!language.prefix) {
-      return path + search + hash;
-    }
-
-    if (isFileUrl && path.includes("/_build/html/")) {
-      return path.replace("/_build/html/", "/_build/html/" + language.prefix + "/") + search + hash;
-    }
-
-    if (path === "/") {
-      return "/" + language.prefix + "/" + search + hash;
-    }
-
-    return "/" + language.prefix + path + search + hash;
-  }
-
-  function updateSwitcherLinks() {
-    var state = currentLanguageAndBasePath();
-
-    document.querySelectorAll(".language-switcher a[data-language-code]").forEach(function (link, index) {
-      var language = languages[index];
-      if (!language) {
+    document.querySelectorAll(".language-switcher a").forEach(function (link) {
+      var href = link.getAttribute("href");
+      if (!href) {
         return;
       }
-
-      link.href = urlFor(language, state.basePath);
-
-      if (language.code === state.current) {
-        link.setAttribute("aria-current", "page");
-      } else {
-        link.removeAttribute("aria-current");
-      }
+      var path = href.split("?")[0].split("#")[0];
+      link.setAttribute("href", path + search + hash);
     });
   }
 
   if (document.readyState === "loading") {
-    document.addEventListener("DOMContentLoaded", updateSwitcherLinks);
+    document.addEventListener("DOMContentLoaded", updateLinks);
   } else {
-    updateSwitcherLinks();
+    updateLinks();
   }
+  window.addEventListener("hashchange", updateLinks);
+  window.addEventListener("popstate", updateLinks);
 })();

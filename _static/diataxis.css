@@ -74,7 +74,7 @@ input.sidebar-search {border: none;}
     white-space: nowrap;
 }
 
-.language-switcher a[aria-current="page"] {
+.language-switcher a[aria-current="true"] {
     color: var(--orange);
     font-weight: 700;
 }
