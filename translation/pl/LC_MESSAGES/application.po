@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# evildmp <daniele@vurt.org>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: ../../source/application.rst:2
+msgid "Applying Diátaxis"
+msgstr "Stosowanie Diátaxis"
+
+#: ../../source/application.rst:5
+msgid ""
+"The pages in this section are concerned with putting Diátaxis into practice."
+msgstr "Strony w tej sekcji dotyczą praktycznego zastosowania Diátaxis."
+
+#: ../../source/application.rst:9
+msgid ""
+"Diátaxis is underpinned by :doc:`systematic theoretical principles "
+"<theory>`, but understanding them is not necessary to make effective use of "
+"the system."
+msgstr ""
+"Diátaxis opiera się na :doc:`systematycznych zasadach teoretycznych "
+"<theory>`, ale ich zrozumienie nie jest konieczne do efektywnego korzystania"
+" z systemu."
+
+#: ../../source/application.rst:11
+msgid ""
+"Diátaxis is primarily intended as a pragmatic approach for people working on"
+" documentation. Most of the key principles required to put it into practice "
+"successfully can be grasped intuitively."
+msgstr ""
+"Diátaxis jest przede wszystkim przeznaczony jako pragmatyczne podejście dla "
+"osób pracujących nad dokumentacją. Większość kluczowych zasad niezbędnych do"
+" skutecznego zastosowania można zrozumieć intuicyjnie."
+
+#: ../../source/application.rst:13
+msgid ""
+"Don't wait to understand Diátaxis before you start trying to put it into "
+"practice. Not only do you not need to understand it all to make use of it, "
+"you will not understand it until you have started using it (this itself is a"
+" Diátaxis principle)."
+msgstr ""
+"Nie czekaj na zrozumienie Diátaxis, zanim zaczniesz go stosować. Nie tylko "
+"nie musisz rozumieć wszystkiego, aby z niego korzystać, ale nie zrozumiesz "
+"go, dopóki nie zaczniesz używać (to samo w sobie jest zasadą Diátaxis)."
+
+#: ../../source/application.rst:15
+msgid ""
+"As soon as you feel you have picked up an idea that seems worth applying to "
+"your work, try applying it. Come back here when you need more clarity or "
+"reassurance. Iterate between your work and reflecting on your work."
+msgstr ""
+"Gdy tylko poczujesz, że przyswoiłeś sobie pomysł, który wydaje się wart "
+"zastosowania w pracy, spróbuj go zastosować. Wróć tutaj, gdy potrzebujesz "
+"większej jasności lub potwierdzenia. Iteruj między pracą a refleksją nad "
+"nią."
+
+#: ../../source/application.rst:20
+msgid "In this section"
+msgstr "W tej sekcji"
+
+#: ../../source/application.rst:22
+msgid ""
+"At the core of Diátaxis are the four different kinds of documentation it "
+"identifies. If you're encountering Diátaxis for the first time, start with "
+"these pages."
+msgstr ""
+"W centrum Diátaxis znajdują się cztery różne rodzaje dokumentacji, które "
+"identyfikuje. Jeśli spotykasz się z Diátaxis po raz pierwszy, zacznij od "
+"tych stron."
+
+#: ../../source/application.rst:24
+msgid ":doc:`tutorials` - learning-oriented experiences"
+msgstr ":doc:`tutorials` - doświadczenia związane z nauką"
+
+#: ../../source/application.rst:25
+msgid ":doc:`how-to-guides` - goal-oriented directions"
+msgstr ":doc:`how-to-guides` - ukierunkowane na cel wskazówki"
+
+#: ../../source/application.rst:26
+msgid ":doc:`reference` - information-oriented technical description"
+msgstr ":doc:`reference` - techniczny opis o charakterze informacyjnym"
+
+#: ../../source/application.rst:27
+msgid ":doc:`explanation` - understanding-oriented discussion"
+msgstr ":doc:`explanation` - dyskusja ukierunkowana na zrozumienie"
+
+#: ../../source/application.rst:29
+msgid ""
+"Diátaxis prescribes principles that guide action. These translate into "
+"particular ways of working, with implications for documentation process and "
+"execution. Once you've made your first start, the tools and methods outlined"
+" here will help smooth your way."
+msgstr ""
+"Diátaxis określa zasady, które kierują działaniem. Przekładają się one na "
+"konkretne sposoby pracy, z implikacjami dla procesu i wykonania "
+"dokumentacji. Po pierwszym kroku, narzędzia i metody przedstawione tutaj "
+"pomogą usprawnić pracę."
+
+#: ../../source/application.rst:31
+msgid ":doc:`compass` - a simple tool for direction-finding"
+msgstr ":doc:`compass` - proste narzędzie do wyznaczania kierunku"
+
+#: ../../source/application.rst:32
+msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
+msgstr ":doc:`Workflow <how-to-use-diataxis>` w Diátaxis"

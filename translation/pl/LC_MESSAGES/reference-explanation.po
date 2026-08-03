@@ -1,0 +1,210 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# evildmp <daniele@vurt.org>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: ../../source/reference-explanation.rst:4
+msgid "The difference between reference and explanation"
+msgstr "Różnica między referencją a wyjaśnieniem"
+
+#: ../../source/reference-explanation.rst:6
+msgid ""
+"Explanation and reference both belong to the *theory* half of the Diátaxis "
+"map - they don't contain steps to guide the reader, they contain theoretical"
+" knowledge."
+msgstr ""
+"Wyjaśnienie i referencja należą do *teoretycznej* części mapy Diátaxis - nie"
+" zawierają kroków, które mają prowadzić czytelnika, zawierają wiedzę "
+"teoretyczną."
+
+#: ../../source/reference-explanation.rst:9
+msgid ""
+"The difference between them is - just as in the difference between tutorials"
+" and how-to guides - the difference between the *acquisition* of skill and "
+"knowledge, and its *application*. In other words it's the distinction "
+"between *study* and *work*."
+msgstr ""
+"Różnica między nimi to - podobnie jak w różnicy między tutorialami a "
+"przewodnikami krok po kroku - różnica między *nabyciem* umiejętności i "
+"wiedzy, a jej *zastosowaniem*. Innymi słowy, to rozróżnienie między *nauką* "
+"a *pracą*."
+
+#: ../../source/reference-explanation.rst:15
+msgid "A straightforward distinction, *mostly*"
+msgstr "Proste rozróżnienie, *zazwyczaj*"
+
+#: ../../source/reference-explanation.rst:17
+msgid ""
+"Mostly it's fairly straightforward to recognise whether you're dealing with "
+"one or the other. *Reference*, as a form of writing, is well understood; "
+"it's used in distinctions we make about writing from an early age."
+msgstr ""
+"Zazwyczaj dość łatwo jest rozpoznać, czy mamy do czynienia z jednym, czy z "
+"drugim. *Referencja*, jako forma pisania, jest dobrze rozumiana; jest "
+"używana w rozróżnieniach, które wprowadzamy od wczesnego wieku."
+
+#: ../../source/reference-explanation.rst:21
+msgid ""
+"In addition, examples of writing are themselves often clearly one or the "
+"other. A tidal chart, with its tables of figures, is clearly reference "
+"material. An article that explains *why* there are tides and how they behave"
+" is self-evidently explanation."
+msgstr ""
+"Dodatkowo, przykłady pisania są same w sobie często wyraźnie jednym lub "
+"drugim. Tabela pływów, z jej tabelami liczb, jest wyraźnie materiałem "
+"referencyjnym. Artykuł, który wyjaśnia *dlaczego* występują pływy i jak się "
+"zachowują, jest oczywiście wyjaśnieniem."
+
+#: ../../source/reference-explanation.rst:25
+msgid "There are good rules of thumb:"
+msgstr "Istnieją dobre reguły kciuka:"
+
+#: ../../source/reference-explanation.rst:27
+msgid "**If it's boring and unmemorable** it's probably *reference*."
+msgstr ""
+"**Jeśli jest nudne i niezapadające w pamięć** to prawdopodobnie "
+"*referencja*."
+
+#: ../../source/reference-explanation.rst:29
+msgid ""
+"**Lists of things** (such as classes or methods or attributes), and **tables"
+" of information**, will generally turn out to belong in *reference*."
+msgstr ""
+"**Listy rzeczy** (takie jak klasy lub metody lub atrybuty), i **tabele "
+"informacji**, zazwyczaj okażą się należeć do *referencji*."
+
+#: ../../source/reference-explanation.rst:31
+msgid ""
+"On the other hand **if you can imagine reading something in the bath**, "
+"probably, it's *explanation* (even if really there is no accounting for what"
+" people might read in the bath)."
+msgstr ""
+"Z drugiej strony **jeśli możesz sobie wyobrazić czytanie czegoś w wannie**, "
+"prawdopodobnie jest to *wyjaśnienie* (nawet jeśli tak naprawdę nie ma mowy o"
+" tym, co ludzie mogą czytać w wannie)."
+
+#: ../../source/reference-explanation.rst:33
+msgid ""
+"Imagine asking a friend, while out for a walk or over a drink, **Can you "
+"tell me more about <topic>?** - the answer or discussion that follows is "
+"most likely going to be an *explanation* of it."
+msgstr ""
+"Wyobraź sobie, że pytasz przyjaciela, podczas spaceru lub przy drinku, **Czy"
+" możesz mi więcej powiedzieć o 1?** - odpowiedź lub dyskusja, która "
+"następuje, najprawdopodobniej będzie *wyjaśnieniem* tego."
+
+#: ../../source/reference-explanation.rst:39
+msgid "... but intuition isn't reliable enough"
+msgstr "... ale intuicja nie jest wystarczająco niezawodna"
+
+#: ../../source/reference-explanation.rst:41
+msgid ""
+"Mostly we can rely safely on intuition to manage the distinction between "
+"reference and explanations. But only *mostly* - because it's also quite easy"
+" to slip between one form and the other."
+msgstr ""
+"Zazwyczaj możemy bezpiecznie polegać na intuicji, aby zarządzać "
+"rozróżnieniem między referencją a wyjaśnieniami. Ale tylko *zazwyczaj* - "
+"ponieważ również dość łatwo jest przejść z jednej formy do drugiej."
+
+#: ../../source/reference-explanation.rst:45
+msgid ""
+"It usually happens while writing reference material that starts to become "
+"expansive. For example, it's perfectly reasonable to include illustrative "
+"examples in reference (just as an encyclopaedia might contain illustrations)"
+" - but examples are fun things to develop, and it can be tempting to develop"
+" them into explanation (using them to say *why*, or show *what if*, or how "
+"it came to be)."
+msgstr ""
+"Zwykle dzieje się to podczas pisania materiału referencyjnego, który zaczyna"
+" się rozrastać. Na przykład całkiem rozsądne jest włączenie ilustracyjnych "
+"przykładów do referencji (podobnie jak encyklopedia może zawierać "
+"ilustracje) - ale przykłady są fajnymi rzeczami do rozwijania, i może być "
+"kuszące rozwijać je w wyjaśnienie (używając ich, aby powiedzieć *dlaczego*, "
+"lub *co jeśli*, lub jak to się stało)."
+
+#: ../../source/reference-explanation.rst:50
+msgid ""
+"As a result one often finds explanatory material sprinkled into reference. "
+"This is bad for the reference, interrupted and obscured by digressions. But "
+"it's bad for the explanation too, because it's not allowed to develop "
+"appropriately and do its own work."
+msgstr ""
+"W rezultacie często znajduje się materiał wyjaśniający rozsypany w "
+"referencji. To szkodzi referencji, przerywanej i zasłanianej dygresjami. Ale"
+" szkodzi to również wyjaśnieniu, ponieważ nie jest ono dozwolone, aby "
+"rozwijać się odpowiednio i robić swoją własną pracę."
+
+#: ../../source/reference-explanation.rst:56
+msgid "Work and study"
+msgstr "Praca i nauka"
+
+#: ../../source/reference-explanation.rst:58
+msgid ""
+"The real test, though, if we're in doubt about whether something is supposed"
+" to be reference or explanation is: is this something someone would turn to "
+"while working, that is, while actually getting something done, executing a "
+"task? Or is it something they'd need once they have stepped away from the "
+"work, and want to think about it?"
+msgstr ""
+"Prawdziwy test, jeśli mamy wątpliwości, czy coś powinno być referencją czy "
+"wyjaśnieniem, to: czy to coś, do czego ktoś by sięgnął podczas pracy, czyli "
+"podczas rzeczywistego wykonywania czegoś, realizacji zadania? Czy to coś, "
+"czego potrzebowaliby, gdy odeszli od pracy i chcieli o tym pomyśleć?"
+
+#: ../../source/reference-explanation.rst:64
+msgid ""
+"These are two very fundamentally different *needs* of the reader, that "
+"reflect how, at that moment, the reader stands in relation to the craft in "
+"question, in a relationship of *work* or *study*."
+msgstr ""
+"Są to dwa bardzo fundamentalnie różne *potrzeby* czytelnika, które "
+"odzwierciedlają, jak w danym momencie czytelnik stoi w relacji do rzemiosła "
+"w kwestii, w relacji *pracy* lub *nauki*."
+
+#: ../../source/reference-explanation.rst:69
+msgid "To help avoid being misled by intuition, see :ref:`compass`."
+msgstr "Aby pomóc uniknąć zmylenia przez intuicję, zobacz :ref:`compass`."
+
+#: ../../source/reference-explanation.rst:71
+msgid ""
+"**Reference** is what a user needs in order help *apply* knowledge and "
+"skill, while they are working."
+msgstr ""
+"**Referencja** to coś, czego użytkownik potrzebuje, aby pomóc *zastosować* "
+"wiedzę i umiejętność, podczas gdy pracuje."
+
+#: ../../source/reference-explanation.rst:74
+msgid ""
+"**Explanation** is what someone will turn to to help them *acquire* "
+"knowledge and skill - \"study\"."
+msgstr ""
+"**Wyjaśnienie** to coś, do czego ktoś sięgnie, aby pomóc mu *nabyć* wiedzę i"
+" umiejętność - *nauka*."
+
+#: ../../source/reference-explanation.rst:78
+msgid ""
+"Understanding those two relationships and responding to the needs in them is"
+" the key to creating effective reference and explanation."
+msgstr ""
+"Zrozumienie tych dwóch relacji i odpowiadanie na potrzeby w nich jest "
+"kluczem do tworzenia skutecznej referencji i wyjaśnienia."

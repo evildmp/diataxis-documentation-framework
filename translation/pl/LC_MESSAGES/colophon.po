@@ -1,0 +1,192 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# evildmp <daniele@vurt.org>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-07 20:49+0000\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: ../../source/colophon.rst:2
+msgid "Colophon"
+msgstr "Kolofon"
+
+#: ../../source/colophon.rst:4
+msgid "Diátaxis is the work of `Daniele Procida <https://vurt.eu>`_."
+msgstr "Diátaxis jest dziełem `Daniele Procida <https://vurt.eu>`_."
+
+#: ../../source/colophon.rst:6
+msgid ""
+"It has been developed over a number of years, and continues to be elaborated"
+" and explored."
+msgstr ""
+"Został opracowany na przestrzeni kilku lat i nadal jest rozwijany i "
+"eksplorowany."
+
+#: ../../source/colophon.rst:12
+msgid "Contact me"
+msgstr "Skontaktuj się ze mną"
+
+#: ../../source/colophon.rst:14
+msgid ""
+"`Email me <daniele@vurt.org>`_. I enjoy hearing about other people's "
+"experiences with Diátaxis and read everything I receive."
+msgstr ""
+"`Wyślij e-mail <daniele@vurt.org>`_. Lubię słyszeć o doświadczeniach innych "
+"osób z Diátaxis i czytam wszystko, co otrzymuję."
+
+#: ../../source/colophon.rst:16
+msgid ""
+"I appreciate all the interest and do my best to reply, but I get a "
+"considerable quantity of email related to Diátaxis and I can't promise to "
+"respond to every message."
+msgstr ""
+"Doceniam wszystkie zainteresowanie i staram się odpowiadać, ale otrzymuję "
+"znaczną ilość e-maili związanych z Diátaxis i nie mogę obiecać odpowiedzi na"
+" każdą wiadomość."
+
+#: ../../source/colophon.rst:18
+msgid ""
+"If you'd like to discuss Diátaxis with other users, please see the "
+"*#diataxis* channel on the `Write the Docs Slack group "
+"<https://www.writethedocs.org/slack/>`_, or the `Discussions "
+"<https://github.com/evildmp/diataxis-documentation-framework/discussions>`_ "
+"section of the `GitHub repository for this website "
+"<https://github.com/evildmp/diataxis-documentation-framework>`_."
+msgstr ""
+"Jeśli chcesz omówić Diátaxis z innymi użytkownikami, proszę zobacz kanał "
+"*#diataxis* w grupie `Write the Docs Slack "
+"<https://www.writethedocs.org/slack/>`_, lub sekcję `Discussions "
+"<https://github.com/evildmp/diataxis-documentation-framework/discussions>`_ "
+"w `repositorium GitHub dla tej strony <https://github.com/evildmp/diataxis-"
+"documentation-framework>`_."
+
+#: ../../source/colophon.rst:25
+msgid "Origins and development"
+msgstr "Pochodzenie i rozwój"
+
+#: ../../source/colophon.rst:27
+msgid ""
+"You can find `an earlier presentation of some of these ideas "
+"<https://documentation.divio.com>`_, that I created while working at Divio "
+"between 2014-2021. I still agree with most of it, though there are several "
+"aspects that I now think I got wrong."
+msgstr ""
+"Możesz znaleźć `wcześniejszą prezentację niektórych z tych pomysłów "
+"<https://documentation.divio.com>`_, którą stworzyłem pracując w Divio w "
+"latach 2014-2021. Nadal zgadzam się z większością z nich, choć są pewne "
+"aspekty, które teraz uważam za błędne."
+
+#: ../../source/colophon.rst:29
+msgid ""
+"The original context for the Diátaxis approach was limited to software "
+"product documentation."
+msgstr ""
+"Pierwotny kontekst podejścia Diátaxis był ograniczony do dokumentacji "
+"produktów oprogramowania."
+
+#: ../../source/colophon.rst:31
+msgid ""
+"In 2021 I was awarded a Fellowship of the `Software Sustainability Institute"
+" <http://software.ac.uk/blog/sorry-state-usable-software-open-science-"
+"results-open-science-retreat>`_, to explore its application in scientific "
+"research contexts. More recently I've explored its application in internal "
+"corporate documentation, organisational management and education, and also "
+"its application at scale. This work is on-going."
+msgstr ""
+"W 2021 roku otrzymałem stypendium `Software Sustainability Institute "
+"<http://software.ac.uk/blog/sorry-state-usable-software-open-science-"
+"results-open-science-retreat>`_, aby zbadać jego zastosowanie w kontekstach "
+"badań naukowych. Ostatnio badałem jego zastosowanie w wewnętrznej "
+"dokumentacji korporacyjnej, zarządzaniu organizacją i edukacji, a także jego"
+" zastosowanie na dużą skalę. Praca ta jest kontynuowana."
+
+#: ../../source/colophon.rst:33
+msgid ""
+"Other people have corresponded with me to share their experience of applying"
+" Diátaxis to note-taking systems and even as part of a systematic approach "
+"to household management."
+msgstr ""
+"Inne osoby kontaktowały się ze mną, aby podzielić się swoim doświadczeniem "
+"stosowania Diátaxis w systemach notatek, a nawet jako część systematycznego "
+"podejścia do zarządzania gospodarstwem domowym."
+
+#: ../../source/colophon.rst:37
+msgid "Citation and contribution"
+msgstr "Cytowanie i wkład"
+
+#: ../../source/colophon.rst:39
+msgid ""
+"To cite Diátaxis, please refer to :doc:`this website, diataxis.fr <index>`."
+msgstr ""
+"Aby cytować Diátaxis, proszę odnieść się do :doc:`tej strony, diataxis.fr "
+"<index>`."
+
+#: ../../source/colophon.rst:41
+msgid ""
+"The Git repository for the source material contains a citation file, "
+"`CITATION.cff <https://github.com/evildmp/diataxis-documentation-"
+"framework/blob/main/CITATION.cff>`_."
+msgstr ""
+"Repozytorium Git dla materiałów źródłowych zawiera plik cytowania, "
+"`CITATION.cff <https://github.com/evildmp/diataxis-documentation-"
+"framework/blob/main/CITATION.cff>`_."
+
+#: ../../source/colophon.rst:44
+msgid ""
+"APA and BibTeX metadata are available from the *Cite this repository* option"
+" at https://github.com/evildmp/diataxis-documentation-framework."
+msgstr ""
+"Metadane APA i BibTeX są dostępne z opcji *Cite this repository* w "
+"https://github.com/evildmp/diataxis-documentation-framework."
+
+#: ../../source/colophon.rst:47
+msgid ""
+"You can also submit a pull request to suggest an improvement or correction, "
+"or `file an issue <https://github.com/evildmp/diataxis-documentation-"
+"framework/issues>`_."
+msgstr ""
+"Możesz również przesłać pull request, aby zasugerować ulepszenie lub "
+"poprawkę, lub `zgłosić problem <https://github.com/evildmp/diataxis-"
+"documentation-framework/issues>`_."
+
+#: ../../source/colophon.rst:50
+msgid ""
+"Diátaxis is now used in several hundred projects and it is no longer "
+"possible for me to keep up with requests to have projects listed here as "
+"examples of Diátaxis adoption."
+msgstr ""
+"Diátaxis jest teraz używany w setkach projektów i nie jest już możliwe dla "
+"mnie nadążanie za prośbami o umieszczenie projektów tutaj jako przykładów "
+"przyjęcia Diátaxis."
+
+#: ../../source/colophon.rst:54
+msgid "Website"
+msgstr "Strona internetowa"
+
+#: ../../source/colophon.rst:56
+msgid ""
+"This website is built with `Sphinx <https://www.sphinx-doc.org>`_ and hosted"
+" on `Read the Docs <http://readthedocs.org>`_, using a modified version of "
+"`Pradyun Gedam <https://pradyunsg.me/>`_'s `Furo "
+"<https://github.com/pradyunsg/furo>`_ theme."
+msgstr ""
+"Ta strona jest zbudowana z `Sphinx <https://www.sphinx-doc.org>`_ i "
+"hostowana na `Read the Docs <http://readthedocs.org>`_, używając "
+"zmodyfikowanej wersji `Pradyun Gedam <https://pradyunsg.me/>`_'s `Furo "
+"<https://github.com/pradyunsg/furo>`_ theme."

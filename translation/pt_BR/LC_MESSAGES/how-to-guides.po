@@ -1,0 +1,442 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pt\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
+
+#: 4892972a2e2f47f09632680bfd8aae7f
+msgid "How-to guides"
+msgstr ""
+
+#: 58b6dfd2c4f34deebb76c9dcb33cc9dd
+msgid ""
+"How-to guides are **directions** that guide the reader through a problem or "
+"towards a result. How-to guides are **goal-oriented**."
+msgstr ""
+
+#: 13f78e9ba1fb4f87a9a2bcad799e6755
+msgid ""
+"A how-to guide helps the user get something done, correctly and safely; it "
+"guides the user's *action*."
+msgstr ""
+
+#: a5df78efd18142dbbb7c05f63ddbb15e
+msgid ""
+"It's concerned with *work* - navigating from one side to the other of a "
+"real-world problem-field."
+msgstr ""
+
+#: c01f2307bfca4e4797c4c60e78156bf6
+msgid "How-to guides - task oriented, practical steps, that serve our work"
+msgstr ""
+
+#: b9825fa2897048dea98fda2598a50fff
+msgid ""
+"Examples could be: *how to calibrate the radar array*; *how to use fixtures "
+"in pytest*; *how to configure reconnection back-off policies*. On the other "
+"hand, *how to build a web application* is not - that's not addressing a "
+"specific goal or problem, it's a vastly open-ended sphere of skill."
+msgstr ""
+
+#: 4dbd846f9ecb4ceea718c9230be8b0c3
+msgid ""
+"How-to guides matter not just because users need to be able to accomplish "
+"things: the list of how-to guides in your documentation helps frame the "
+"picture of what your product can actually *do*. A rich list of how-to guides"
+" is an encouraging suggestion of a product's capabilities."
+msgstr ""
+
+#: 85615afb69ee4ad994d0a005ed877957
+msgid ""
+"Well-written how-to guides that address the right questions are likely to be"
+" the most-read sections of your documentation."
+msgstr ""
+
+#: 82d62997397d409bacafb22183fddea4
+msgid "How-to guides addressed to problems"
+msgstr ""
+
+#: 76f8e868fc5c431a97f035adae9c17fa
+msgid ""
+"**How-to guides must be written from the perspective of the user, not of the"
+" machinery.** A how-to guide represents something that someone needs to get "
+"done. It's defined in other words by the needs of a user. Every how-to guide"
+" should answer to a human project, in other words. It should show what the "
+"human needs to do, with the tools at hand, to obtain the result they need."
+msgstr ""
+
+#: 1b1750f30d11485b93c56d4b069bf406
+msgid ""
+"This is in strong contrast to common pattern for how-to guides that often "
+"prevails, in which how-to guides are defined by operations that can be "
+"performed with a tool or system. The problem with this latter pattern is "
+"that it offers little value to the user; it is not addressed to any need the"
+" user has. Instead, it's focused on the tool, on taking the machinery "
+"through its motions."
+msgstr ""
+
+#: 6add27ca266a408ca5cd8d8927aba17d
+msgid ""
+"This is fundamentally a distinction of *meaningfulness*. Meaning is given by"
+" purpose and need. There is no purpose or need in the functionality of a "
+"machine. It is merely a series of causes and effects, inputs and outputs."
+msgstr ""
+
+#: c7d3ce6e758741389e553ebf48bdae78
+msgid "Consider:"
+msgstr ""
+
+#: 9026718874214fa9968363bc2de29db9
+msgid "\"To shut off the flow of water, turn the tap clockwise.\""
+msgstr ""
+
+#: 72d2ff2161284b5fa579ca9cde0efb49
+msgid ""
+"\"To deploy the desired database configuration, select the appropriate "
+"options and press **Deploy**.\""
+msgstr ""
+
+#: 33b513d576014028bb315ebb471a1a75
+msgid ""
+"We really do not need to be informed that we turn on a device using the "
+"power switch, but it is shocking how often how-to guides in software "
+"documentation are written at this level."
+msgstr ""
+
+#: d30070c71ae14da3a7ef3e1b003751cf
+msgid "The examples above *look* like examples of guidance, but they are not."
+msgstr ""
+
+#: e415c90ff0da4a40a5269a2b9ae8e829
+msgid ""
+"They represent mostly useless information that anyone with basic competence "
+"- anyone who is working in this domain - should be expected to know. Between"
+" them, standardised interfaces and generally-expected knowledge should make "
+"it quite clear what effect most actions will have."
+msgstr ""
+
+#: f97b2d0395864d5ba8ca5be332d3830a
+msgid ""
+"Secondly, they are disconnected from purpose. What the user needs to know "
+"might be things like:"
+msgstr ""
+
+#: 99bf91cdf2fc4c948001d0e2959788f2
+msgid ""
+"how much water to run, and how vigorously to run it, for a certain purpose"
+msgstr ""
+
+#: e620e41560074495a8a681ef3c298c3c
+msgid ""
+"what database configuration options align with particular real-world needs"
+msgstr ""
+
+#: a57edb52af3e4b489107ad8444b48269
+msgid "How-to guides are about goals, projects and problems, not about tools."
+msgstr ""
+
+#: a32e030cfc49466fa5d8285ecd5795bd
+msgid ""
+"Tools appear in how-to guides as incidental bit-players, the means to the "
+"user's end. Sometimes of course, a particular end is closely aligned with a "
+"particular tool or part of the system, and then you will find that a how-to "
+"guide indeed concentrates on that. Just as often, a how-to guide will cut "
+"across different tools or parts of a system, joining them up together in a "
+"series of activities defined by something a human being needs to get done. "
+"In either case, it is that project that defines what a how-to guide must "
+"cover."
+msgstr ""
+
+#: 4555045bdcae42459f5dde9273872ef1
+msgid "What how-to guides are not"
+msgstr ""
+
+#: 37d6b9a01f9e4875805473203f1fe659
+msgid ""
+"**How-to guides are wholly distinct from tutorials**. They are often "
+"confused, but the user needs that they serve are quite different. Conflating"
+" them is at the root of many difficulties that afflict documentation. See "
+":ref:`tutorials-how-to` for a discussion of this distinction."
+msgstr ""
+
+#: 918a781040094ca498369d3d6ddd4212
+msgid ""
+"In another confusion, how-to guides are often construed merely as procedural"
+" guides. But solving a problem or accomplishing a task cannot always be "
+"reduced to a procedure. Real-world problems do not always offer themselves "
+"up to linear solutions. The sequences of action in a how-to guide sometimes "
+"need to fork and overlap, and they have multiple entry and exit-points. "
+"Often, a how-to guide will need the user to rely on their judgement in "
+"applying the guidance it can provide."
+msgstr ""
+
+#: 0502dd6c726041fa9d1b293d357579b2
+msgid "Key principles"
+msgstr ""
+
+#: 19335aa833544ddea449e809f9f04628
+msgid ""
+"A how to-guide is concerned with work - a task or problem, with a practical "
+"goal. *Maintain focus on that goal*."
+msgstr ""
+
+#: fac3a862012745fd9d6be242bd0b5850
+msgid "focused on tasks or problems"
+msgstr ""
+
+#: 80e8b055329f430ca7c446f4ac96ed56
+msgid "assume the user knows what they want to achieve"
+msgstr ""
+
+#: 85285c4289484db09b5a0f219e0add15
+msgid "action and only action"
+msgstr ""
+
+#: c4329686160949f9bfefa29866b70ea3
+msgid "no digression, explanation, teaching"
+msgstr ""
+
+#: a94526ba943e4b96aab402e085617ae1
+msgid ""
+"Anything else that's added distracts both you and the user and dilutes the "
+"useful power of the guide. Typically, the temptations are to explain or to "
+"provide reference for completeness. Neither of these are part of guiding the"
+" user in their work. They get in the way of the action; if they're "
+"important, link to them."
+msgstr ""
+
+#: 780bf79e382c44bdbd1fba104706b197
+msgid ""
+"A how-to guide serves the work of the already-competent user, whom you can "
+"assume to know what they want to do, and to be able to follow your "
+"instructions correctly."
+msgstr ""
+
+#: 1129b09312814da5a8c8b350cff43f6b
+msgid "Address real-world complexity"
+msgstr ""
+
+#: 795647caea034e7c8ae45b5c215dd2e7
+msgid ""
+"**A how-to guide needs to be adaptable to real-world use-cases**. One that "
+"is useless for any purpose except *exactly* the narrow one you have "
+"addressed is rarely valuable. You can't address every possible case, so you "
+"must find ways to remain open to the range of possibilities, in such a way "
+"that the user can adapt your guidance to their needs."
+msgstr ""
+
+#: faf9ae4505a34e12ab43d350fb67feda
+msgid "Omit the unnecessary"
+msgstr ""
+
+#: c65d9c580e004a0e9d4736d1d3fb8ba1
+msgid ""
+"In how-to guides, **practical usability is more helpful than completeness.**"
+" Whereas a tutorial needs to be a complete, end-to-end guide, a how-to guide"
+" does not. It should start and end in some reasonable, meaningful place, and"
+" require the reader to join it up to their own work."
+msgstr ""
+
+#: a248e099243f4e798c083ce5adcb7478
+msgid "Provide a set of instructions"
+msgstr ""
+
+#: c9bed956e7bf4665906153a74c03f5c3
+msgid ""
+"A how-to guide describes an *executable solution* to a real-world problem or"
+" task. It's in the form of a contract: if you're facing this situation, then"
+" you can work your way through it by taking the steps outlined in this "
+"approach. The steps are in the form of *actions*."
+msgstr ""
+
+#: 74ed6b7ff9ec4e20964ff98ee0d21bde
+msgid ""
+"\"Actions\" in this context includes physical acts, but also thinking and "
+"judgement - solving a problem involves thinking it through. A how-to guide "
+"should address how the user thinks as well as what the user does."
+msgstr ""
+
+#: 823fb24d7256466381fcce2e6571ea83
+msgid "Describe a logical sequence"
+msgstr ""
+
+#: fc073b23fca14372846657a460ad532e
+msgid ""
+"The fundamental structure of a how-to guide is a *sequence*. It implies "
+"logical ordering in time, that there is a sense and meaning to this "
+"particular order."
+msgstr ""
+
+#: b878d93c23dc45ceb6d5368177a7ab39
+msgid ""
+"In many cases, the ordering is simply imposed by the way things must be "
+"(step two requires completion of step one, for example). In this case it's "
+"obvious what order your directions should take."
+msgstr ""
+
+#: e7940f1389254d82981e4fe86183574e
+msgid ""
+"Sometimes the need is more subtle - it might be possible to *perform* two "
+"operations in either order, but if for example one operation helps set up "
+"the user's working environment or even their thinking in a way that benefits"
+" the other, that's a good reason for putting it first."
+msgstr ""
+
+#: c051febfaa704a7393c349a1255df1df
+msgid "Seek flow"
+msgstr ""
+
+#: 422aa3c652664c8b87ab7e36777390fb
+msgid ""
+"At all times, try to ground your sequences in the patterns of the *user's* "
+"activities and thinking, in such a way that the guide acquires *flow*: "
+"smooth progress."
+msgstr ""
+
+#: b323e01351dc4a05a4e7d5cb6eb39115
+msgid ""
+"Achieving flow means successfully understanding the user. Paying attention "
+"to sense and meaning in ordering requires paying attention to the way human "
+"beings think and act, and the needs of someone following directions."
+msgstr ""
+
+#: 28931798b2d447a398535713cddf01aa
+msgid ""
+"Again, this can be somewhat obvious: a workflow that has the user repeatedly"
+" switching between contexts and tools is clearly clumsy and inefficient. But"
+" you should look more deeply than this. What are you asking the user to "
+"think about, and how will their thinking flow from subject to subject during"
+" their work? How long do you require the user to hold thoughts open before "
+"they can be resolved in action? If you require the user to jump back to "
+"earlier concerns, is this necessary or avoidable?"
+msgstr ""
+
+#: 01eef272d9bd4ae8bbf98a55808c6e67
+msgid ""
+"A how-to guide is concerned not just with logical ordering in time, but "
+"action taking place in time. Action, and a guide to it, has pace and rhythm."
+" Badly-judged pace or disrupted rhythm are both damaging to flow."
+msgstr ""
+
+#: fc723b39d1d74a199ecb94fe3ddf5861
+msgid ""
+"At its best, how-to documentation gives the user flow. There is a distinct "
+"experience of encountering a guide that appears to *anticipate* the user - "
+"the documentation equivalent of a helper who has the tool you were about to "
+"reach for, ready to place it in your hand."
+msgstr ""
+
+#: bf7b3d69136b4ed3a063372f1f0a9b5b
+msgid "Pay attention to naming"
+msgstr ""
+
+#: bca1f59dc3fa4efd9ed5e39f0ed8eb97
+msgid "**Choose titles that say exactly what a how-to guide shows.**"
+msgstr ""
+
+#: 0b2b5cf730e94d47b74cf40a016e9c07
+msgid "good: *How to integrate application performance monitoring*"
+msgstr ""
+
+#: 018b88521f1e4aeb850b7b93d5589004
+msgid ""
+"bad: *Integrating application performance monitoring* (maybe the document is"
+" about how to decide whether you should, not about how to do it)"
+msgstr ""
+
+#: 28413c9e4252402bac7d878ece42c78a
+msgid ""
+"very bad: *Application performance monitoring* (maybe it's about *how* - but"
+" maybe it's about *whether*, or even just an explanation of *what* it is)"
+msgstr ""
+
+#: 9635747b84be4620a974c49176b5a6dc
+msgid ""
+"Note that search engines appreciate good titles just as much as humans do."
+msgstr ""
+
+#: d3c2d7de5f894d828d5abdeb9b38e323
+msgid "The language of how-to guides"
+msgstr ""
+
+#: cf9d0fdad1a446dc8b05b50ace172f62
+msgid "*This guide shows you how to...*"
+msgstr ""
+
+#: 5e6fe20c1f2e4cd0ba8e6daac56f0ff2
+msgid ""
+"Describe clearly the problem or task that the guide shows the user how to "
+"solve."
+msgstr ""
+
+#: 8a13a304a6bb4cd0b34dcf1ca83db674
+msgid "*If you want x, do y. To achieve w, do z.*"
+msgstr ""
+
+#: 025fce88293b43878a6de862ccacc929
+msgid "Use conditional imperatives."
+msgstr ""
+
+#: 174759fb09e1434e8ecfbb33ae13a575
+msgid "*Refer to the x reference guide for a full list of options.*"
+msgstr ""
+
+#: 900b24af012c49c18b56a9d615ac072c
+msgid ""
+"Don't pollute your practical how-to guide with every possible thing the user"
+" might do related to x."
+msgstr ""
+
+#: b7029e53851640efa952095b520a1983
+msgid "Applied to food and cooking"
+msgstr ""
+
+#: 5f857581fa034118b16f6e9d69f4bd77
+msgid ""
+"Consider a recipe, an excellent model for a how-to guide. A recipe clearly "
+"defines what will be achieved by following it, and **addresses a specific "
+"question** (*How do I make...?* or *What can I make with...?*)."
+msgstr ""
+
+#: da7086e0a75a404381a579d2a6513b6f
+msgid "A recipe contains a list of ingredients and a list of steps."
+msgstr ""
+
+#: b64b352a36054ffd95862b5fccfd3c6c
+msgid ""
+"It's not the responsibility of a recipe to *teach* you how to make "
+"something. A professional chef who has made exactly the same thing multiple "
+"times before may still follow a recipe - even if they *created* the recipe "
+"themselves - to ensure that they do it correctly."
+msgstr ""
+
+#: f06beffe4b2d4bb6be138c349edbe184
+msgid ""
+"Even following a recipe **requires at least basic competence**. Someone who "
+"has never cooked before should not be expected to follow a recipe with "
+"success, so a recipe is not a substitute for a cooking lesson."
+msgstr ""
+
+#: 9de01fec08614f49ab76ec09549d0882
+msgid ""
+"Someone who expected to be provided with a recipe, and is given instead a "
+"cooking lesson, will be disappointed and annoyed. Similarly, while it's "
+"interesting to read about the context or history of a particular dish, the "
+"one time you don't want to be faced with that is while you are in the middle"
+" of trying to make it. A good recipe follows a well-established format, that"
+" excludes both teaching and discussion, and focuses only on **how** to make "
+"the dish concerned."
+msgstr ""

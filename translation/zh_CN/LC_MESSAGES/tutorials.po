@@ -1,0 +1,678 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# yms, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: yms, 2026\n"
+"Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: ../../source/tutorials.rst:4
+msgid "Tutorials"
+msgstr "教程"
+
+#: ../../source/tutorials.rst:7
+msgid ""
+"A tutorial is an **experience** that takes place under the guidance of a "
+"tutor. A tutorial is always **learning-oriented**."
+msgstr ""
+
+#: ../../source/tutorials.rst:10
+msgid ""
+"A tutorial is a *practical activity*, in which the student learns by doing "
+"something meaningful, towards some achievable goal."
+msgstr ""
+
+#: ../../source/tutorials.rst:12
+msgid ""
+"A tutorial serves the user's *acquisition* of skills and knowledge - their "
+"study. Its purpose is not to help the user get something done, but to help "
+"them learn."
+msgstr ""
+
+#: ../../source/tutorials.rst:14
+msgid ""
+"Tutorials - learning-oriented guides that describe practical steps and are "
+"intended to serve our study."
+msgstr ""
+
+#: ../../source/tutorials.rst:18
+msgid "A tutorial in other words is a lesson."
+msgstr ""
+
+#: ../../source/tutorials.rst:20
+msgid ""
+"It's important to understand that while a student will learn by doing, what "
+"the student *does* is not necessarily what they *learn*. Through doing, they"
+" will acquire theoretical knowledge (i.e. facts), understanding, "
+"familiarity. They will learn how things relate to each other and interact, "
+"and how to interact with them. They will learn the names of things, the use "
+"of tools, workflows, concepts, commands. And so on."
+msgstr ""
+
+#: ../../source/tutorials.rst:27
+msgid "The tutorial as a lesson"
+msgstr ""
+
+#: ../../source/tutorials.rst:29
+msgid ""
+"A lesson entails a relationship between a teacher and a pupil. In all "
+"learning of this kind, *learning takes place as the pupil applies themself "
+"to tasks under the instructor's guidance*."
+msgstr ""
+
+#: ../../source/tutorials.rst:31
+msgid ""
+"A lesson is a *learning experience*. In a learning experience, what matters "
+"is what the learner does and what happens. By contrast, the teacher's "
+"explanations and recitations of fact are far less important."
+msgstr ""
+
+#: ../../source/tutorials.rst:33
+msgid ""
+"A good lesson gives the learner confidence, by showing them that they can be"
+" successful in a certain skill or with a certain product."
+msgstr ""
+
+#: ../../source/tutorials.rst:37
+msgid "Obligations of the teacher"
+msgstr ""
+
+#: ../../source/tutorials.rst:41
+msgid "It's not easy being a teacher."
+msgstr ""
+
+#: ../../source/tutorials.rst:43
+msgid ""
+"A lesson is a kind of contract between teacher and student, in which nearly "
+"all the responsibility falls upon the teacher. The teacher has "
+"responsibility for what the pupil is to learn, what the pupil will do in "
+"order to learn it, and for the pupil's success. Meanwhile, the only "
+"responsibility of the pupil in this contract is to be attentive and to "
+"follow the teacher's directions as closely as they can. There is no "
+"responsibility on the pupil to learn, understand or remember."
+msgstr ""
+
+#: ../../source/tutorials.rst:45
+msgid "At the same time, the exercise you put your pupils through must be:"
+msgstr ""
+
+#: ../../source/tutorials.rst:47
+msgid "*meaningful* - the pupil needs to have a sense of achievement"
+msgstr ""
+
+#: ../../source/tutorials.rst:48
+msgid "*successful* - the pupil needs to be able to complete it"
+msgstr ""
+
+#: ../../source/tutorials.rst:49
+msgid ""
+"*logical* - the path that the pupil takes through it needs to make sense"
+msgstr ""
+
+#: ../../source/tutorials.rst:50
+msgid ""
+"*usefully complete* - the pupil must have an encounter with all of the "
+"actions, concepts and tools they need to become familiar with"
+msgstr ""
+
+#: ../../source/tutorials.rst:54
+msgid "The problem of tutorials"
+msgstr ""
+
+#: ../../source/tutorials.rst:56
+msgid ""
+"Tutorials are rarely done well, partly because they are genuinely difficult "
+"to do well, and partly because they are not well understood. In software, "
+"many products lack good tutorials, or lack tutorials completely; tutorials "
+"are often conflated with how-to guides."
+msgstr ""
+
+#: ../../source/tutorials.rst:58
+msgid ""
+"In an ideal lesson, the teacher is present and interacts with and responds "
+"to the student, correcting their mistakes and checking their learning. In "
+"documentation, none of this is possible."
+msgstr ""
+
+#: ../../source/tutorials.rst:62
+msgid ""
+"Writing and maintaining tutorials can consume a remarkable amount of effort "
+"and time."
+msgstr ""
+
+#: ../../source/tutorials.rst:64
+msgid ""
+"It's hard enough to put together a learning experience that meets all the "
+"standards described above; in many contexts the product itself evolves "
+"rapidly, meaning that all that work needs to be done again to ensure that "
+"the tutorial still performs its required functions."
+msgstr ""
+
+#: ../../source/tutorials.rst:66
+msgid ""
+"You will also often find that no other part of your documentation is subject"
+" to revisions the way your tutorials are. Elsewhere in documentation, "
+"changes and improvements can generally be made discretely; in tutorials, "
+"where the end-to-end learning journey must make sense, they often cascade "
+"through the entire story."
+msgstr ""
+
+#: ../../source/tutorials.rst:68
+msgid ""
+"Finally, tutorials contain the additional complication of the distinction "
+"between *what is to be learned* and *what is to be done*. Not only must the "
+"creator of a tutorial have a good sense of what the user must learn, and "
+"when, they must also devise a meaningful learning journey that somehow "
+"delivers all that."
+msgstr ""
+
+#: ../../source/tutorials.rst:74
+msgid "Key principles"
+msgstr ""
+
+#: ../../source/tutorials.rst:76
+msgid "A tutorial is a pedagogical problem."
+msgstr ""
+
+#: ../../source/tutorials.rst:78
+msgid ""
+"It's not an easy problem, but neither is it a mystery. The principles "
+"outlined below - repetition, action, small steps, results early and often, "
+"concreteness and so on - are not secrets, but they are not always well "
+"understood."
+msgstr ""
+
+#: ../../source/tutorials.rst:80
+msgid ""
+"Still, there are straightforward, effective ways to address the problems of "
+"pedagogy in practice."
+msgstr ""
+
+#: ../../source/tutorials.rst:84
+msgid "abstraction, generalisation"
+msgstr ""
+
+#: ../../source/tutorials.rst:85
+msgid "explanation"
+msgstr ""
+
+#: ../../source/tutorials.rst:86
+msgid "choices"
+msgstr ""
+
+#: ../../source/tutorials.rst:87
+msgid "information"
+msgstr ""
+
+#: ../../source/tutorials.rst:89
+msgid ""
+"The first rule of teaching is simply: **don't try to teach**. Your job, as a"
+" teacher, is to provide the learner with an experience that will allow them "
+"to learn. A teacher inevitably feels a kind of anxiety to impart knowledge "
+"and understanding, but if you give into it and try to teach by telling and "
+"explaining, you will jeopardise the learning experience."
+msgstr ""
+
+#: ../../source/tutorials.rst:91
+msgid ""
+"Instead, *allow learning to take place*, and trust that it will. Give your "
+"learner things to *do*, through which they can learn. Only your pupil can "
+"learn. Sadly, however much you desire it, you will not be able to learn for "
+"your pupil. You cannot make them learn. All you can do is make it so *they* "
+"can learn."
+msgstr ""
+
+#: ../../source/tutorials.rst:95
+msgid "Show the learner where they'll be going"
+msgstr ""
+
+#: ../../source/tutorials.rst:97
+msgid ""
+"It's important to allow the learner to form an idea of what they will "
+"achieve right from the start. As well as helping to set expectations, it "
+"allows them to see themselves building towards the completed goal as they "
+"work."
+msgstr ""
+
+#: ../../source/tutorials.rst:99
+msgid ""
+"Providing the picture the learner needs in a tutorial can be as simple as "
+"informing them at the outset: *In this tutorial we will create and deploy a "
+"scalable web application. Along the way we will encounter containerisation "
+"tools and services.*"
+msgstr ""
+
+#: ../../source/tutorials.rst:101
+msgid ""
+"This is not the same as saying: *In this tutorial you will learn...* - which"
+" is presumptuous and a very poor pattern."
+msgstr ""
+
+#: ../../source/tutorials.rst:105
+msgid "Deliver visible results early and often"
+msgstr ""
+
+#: ../../source/tutorials.rst:107
+msgid ""
+"Your learner is probably doing new and strange things that they don't fully "
+"understand. Understanding comes from being able to make connections between "
+"causes and effects, so let them see the results and make the connections "
+"rapidly and repeatedly. Each one of those results should be something that "
+"the user can see as meaningful."
+msgstr ""
+
+#: ../../source/tutorials.rst:109
+msgid ""
+"Every step the learner follows should produce a comprehensible result, "
+"however small."
+msgstr ""
+
+#: ../../source/tutorials.rst:113
+msgid "Maintain a narrative of the expected"
+msgstr ""
+
+#: ../../source/tutorials.rst:115
+msgid ""
+"At every step of a tutorial, the user experiences a moment of anxiety: will "
+"this action produce the correct result? Part of the work of a successful "
+"tutorial is to keep providing feedback to the learner that they are indeed "
+"on the right path."
+msgstr ""
+
+#: ../../source/tutorials.rst:117
+msgid ""
+"Keep up a narrative of expectations: \"You will notice that ...\"; \"After a"
+" few moments, the server responds with ...\". Show the user actual example "
+"output, or even the exact expected output."
+msgstr ""
+
+#: ../../source/tutorials.rst:119
+msgid ""
+"If you know in advance what the likely signs of going wrong are, consider "
+"flagging them: \"If the output doesn't show ..., you have probably forgotten"
+" to ...\"."
+msgstr ""
+
+#: ../../source/tutorials.rst:121
+msgid ""
+"It's helpful to prepare the user for possibly surprising actions: \"The "
+"command will probably return several hundred lines of logs in your "
+"terminal.\""
+msgstr ""
+
+#: ../../source/tutorials.rst:125
+msgid "Point out what the learner should notice"
+msgstr ""
+
+#: ../../source/tutorials.rst:127
+msgid ""
+"Learning requires reflection. This happens at multiple levels and depths, "
+"but one of the first is when the learner  observes the signs in their "
+"environment. In a lesson, a learner is typically too focused on what they "
+"are doing to notice them, unless they are prompted by the teacher."
+msgstr ""
+
+#: ../../source/tutorials.rst:129
+msgid ""
+"Your job as teacher is to close the loops of learning by pointing things "
+"out, in passing, as the lesson moves along. This can be as simple as "
+"pointing out how a command line prompt changes, for example."
+msgstr ""
+
+#: ../../source/tutorials.rst:131
+msgid ""
+"Observing is an active part of a craft, not a merely passive one. It means "
+"paying attention to the environment, a skill in itself. It's often "
+"neglected."
+msgstr ""
+
+#: ../../source/tutorials.rst:135
+msgid "Target *the feeling of doing*"
+msgstr ""
+
+#: ../../source/tutorials.rst:137
+msgid ""
+"In all skill or craft, the accomplished practitioner experiences a *feeling "
+"of doing*, a joined-up purpose, action, thinking and result."
+msgstr ""
+
+#: ../../source/tutorials.rst:139
+msgid ""
+"As skill develops, it flows in a confident rhythm and becomes a kind of "
+"pleasure. It's the pleasure of walking, for example."
+msgstr ""
+
+#: ../../source/tutorials.rst:143
+msgid ""
+"Pay attention to your own *feeling of doing* in your work. What is it like "
+"to perform a particular operation?"
+msgstr ""
+
+#: ../../source/tutorials.rst:145
+msgid ""
+"Your learner's skill depends upon their discovering this feeling, and its "
+"becoming a pleasure."
+msgstr ""
+
+#: ../../source/tutorials.rst:147
+msgid ""
+"Your challenge as the creator of a tutorial is to ensure that its tasks tie "
+"together purpose and action so they become a cradle for this feeling."
+msgstr ""
+
+#: ../../source/tutorials.rst:151
+msgid "Encourage and permit repetition"
+msgstr ""
+
+#: ../../source/tutorials.rst:153
+msgid ""
+"Learners will return to and repeat an exercise that gives them success, for "
+"the pleasure they find in getting the expected result. Doing so reaffirms to"
+" them that they can do it, and that it works."
+msgstr ""
+
+#: ../../source/tutorials.rst:155
+msgid ""
+"Repetition is a key to establishing the feeling of doing; being at home with"
+" that feeling is a foundational layer of learning."
+msgstr ""
+
+#: ../../source/tutorials.rst:159
+msgid ""
+"Repetition is not the best teacher - sometimes it's the *only* teacher."
+msgstr ""
+
+#: ../../source/tutorials.rst:161
+msgid ""
+"In your tutorial, try to make it possible for a particular step and result "
+"to be repeated. This can be difficult, for example in operations that are "
+"not reversible (making it hard to go back to a previous step) - but seek it "
+"wherever you can. Watching a user follow a tutorial, you may often be amazed"
+" to see how often they choose to repeat a step. They are doing it just to "
+"see that the same thing really does happen again."
+msgstr ""
+
+#: ../../source/tutorials.rst:165
+msgid "Ruthlessly minimise explanation"
+msgstr ""
+
+#: ../../source/tutorials.rst:167
+msgid ""
+"*A tutorial is not the place for explanation.* In a tutorial, the user is "
+"focused on correctly following your directions and getting the expected "
+"results. *Later*, when they are ready, they will seek explanation, but right"
+" now they are concerned with *doing*. Explanation distracts their attention "
+"from that, and blocks their learning."
+msgstr ""
+
+#: ../../source/tutorials.rst:169
+msgid ""
+"For example, it's quite enough to say something like: *We're using HTTPS "
+"because it's more secure.* There is a place for extended discussion and "
+"explanation of HTTPS, but not now. Instead, provide a link or reference to "
+"that explanation, so that it's available, but doesn't get in the way."
+msgstr ""
+
+#: ../../source/tutorials.rst:173
+msgid ""
+"Explanation is only pertinent at the moment the *user* wants it. It is not "
+"for the documentation author to decide."
+msgstr ""
+
+#: ../../source/tutorials.rst:175
+msgid ""
+"Explanation is one of the hardest temptations for a teacher to resist; even "
+"experienced teachers find it difficult to accept that their students' "
+"learning does not depend on explanation. This is perfectly natural. Once we "
+"have grasped something, we rely on the power of abstraction to frame it to "
+"ourselves - and that's how we want to frame it to others. Understanding "
+"means grasping general ideas, and abstraction is the logical form of "
+"understanding - but these are not what we need in a tutorial, and it's not "
+"how successful learning or teaching works."
+msgstr ""
+
+#: ../../source/tutorials.rst:177
+msgid ""
+"One must see it for oneself, to see the focused attention of a student "
+"dissolve into air, when a teacher's well-intentioned explanation breaks the "
+"magic spell of learning."
+msgstr ""
+
+#: ../../source/tutorials.rst:181
+msgid "... and focus on the concrete"
+msgstr ""
+
+#: ../../source/tutorials.rst:183
+msgid ""
+"In a learning situation, your student is in the moment, a moment composed of"
+" concrete things. You are responsible for setting up and maintaining the "
+"student's flow, from one concrete action and result to another."
+msgstr ""
+
+#: ../../source/tutorials.rst:185
+msgid ""
+"Focus on *this* problem, *this* action, *this* result, in such a way that "
+"you lead the learner from step to concrete step."
+msgstr ""
+
+#: ../../source/tutorials.rst:187
+msgid ""
+"It might seem that by maintaining focus on the concrete and particular that "
+"you deny the student the opportunity to see or grasp the larger general "
+"patterns, but the contrary is true. The one thing our minds do spectacularly"
+" well is to perceive general patterns from concrete examples. All learning "
+"moves in one direction: from the concrete and particular, towards the "
+"general and abstract. The latter *will* emerge from the former."
+msgstr ""
+
+#: ../../source/tutorials.rst:191
+msgid "Ignore options and alternatives"
+msgstr ""
+
+#: ../../source/tutorials.rst:193
+msgid ""
+"Your job is to guide the learner to a successful conclusion. There may be "
+"many interesting diversions along the way (different options for the command"
+" you're using, different ways to use the API, different approaches to the "
+"task you're describing) - ignore them. *Your guidance needs to remain "
+"focused on what's required to reach the conclusion*, and everything else can"
+" be left for another time."
+msgstr ""
+
+#: ../../source/tutorials.rst:195
+msgid ""
+"Doing this helps keep your tutorial shorter and crisper, and saves both you "
+"and the reader from having to do extra cognitive work."
+msgstr ""
+
+#: ../../source/tutorials.rst:199
+msgid "Aspire to perfect reliability"
+msgstr ""
+
+#: ../../source/tutorials.rst:201
+msgid ""
+"All of the above are general principles of pedagogy, but there is a special "
+"burden on the creator of a tutorial."
+msgstr ""
+
+#: ../../source/tutorials.rst:203
+msgid ""
+"A tutorial must inspire confidence. Confidence can only be built up layer by"
+" layer, and is easily shaken. At every stage, when you ask your student to "
+"do something, they must see the result you promise. A learner who follows "
+"your directions and doesn't get the expected results will quickly lose "
+"confidence, in the tutorial, the tutor and themselves."
+msgstr ""
+
+#: ../../source/tutorials.rst:207
+msgid "You are required to be present, but condemned to be absent."
+msgstr ""
+
+#: ../../source/tutorials.rst:209
+msgid ""
+"A teacher who's there with the learner can rescue them when things go wrong."
+" In a tutorial, you can't do that. Your tutorial ought to be so well "
+"constructed that things *can't* go wrong, that your tutorial works for every"
+" user, every time."
+msgstr ""
+
+#: ../../source/tutorials.rst:211
+msgid ""
+"It's hard work to create a reliable experience, but that is what you must "
+"aspire to in creating a tutorial."
+msgstr ""
+
+#: ../../source/tutorials.rst:213
+msgid ""
+"Your tutorial will have flaws and gaps, however carefully it is written. You"
+" won't discover them all by yourself, you will have to rely on users to "
+"discover them for you. The only way to learn what they are is by finding out"
+" what actually happens when users do the tutorial, through extensive testing"
+" and observation."
+msgstr ""
+
+#: ../../source/tutorials.rst:219
+msgid "The language of tutorials"
+msgstr ""
+
+#: ../../source/tutorials.rst:221
+msgid "We ..."
+msgstr ""
+
+#: ../../source/tutorials.rst:222
+msgid ""
+"The first-person plural affirms the relationship between tutor and learner: "
+"you are not alone; we are in this together."
+msgstr ""
+
+#: ../../source/tutorials.rst:223
+msgid "In this tutorial, we will ..."
+msgstr ""
+
+#: ../../source/tutorials.rst:224
+msgid "Describe what the learner will accomplish."
+msgstr ""
+
+#: ../../source/tutorials.rst:225
+msgid "First, do x. Now, do y. Now that you have done y, do z."
+msgstr ""
+
+#: ../../source/tutorials.rst:226
+msgid "No room for ambiguity or doubt."
+msgstr ""
+
+#: ../../source/tutorials.rst:227
+msgid ""
+"We must always do x before we do y because... (see Explanation for more "
+"details)."
+msgstr ""
+
+#: ../../source/tutorials.rst:228
+msgid ""
+"Provide minimal explanation of actions in the most basic language possible. "
+"Link to more detailed explanation."
+msgstr ""
+
+#: ../../source/tutorials.rst:229
+msgid "The output should look something like ..."
+msgstr ""
+
+#: ../../source/tutorials.rst:230
+msgid "Give your learner clear expectations."
+msgstr ""
+
+#: ../../source/tutorials.rst:231
+msgid "Notice that ... Remember that ... Let's check ..."
+msgstr ""
+
+#: ../../source/tutorials.rst:232
+msgid ""
+"Give your learner plenty of clues to help confirm they are on the right "
+"track and orient themselves."
+msgstr ""
+
+#: ../../source/tutorials.rst:233
+msgid "You have built a secure, three-layer hylomorphic stasis engine..."
+msgstr ""
+
+#: ../../source/tutorials.rst:234
+msgid ""
+"Describe (and admire, in a mild way) what your learner has accomplished."
+msgstr ""
+
+#: ../../source/tutorials.rst:240
+msgid "Applied to food and cooking"
+msgstr ""
+
+#: ../../source/tutorials.rst:242
+msgid "A child proudly showing a dish he has helped prepare"
+msgstr ""
+
+#: ../../source/tutorials.rst:245
+msgid ""
+"Someone who has had the experience of teaching a child to cook will "
+"understand what matters in a tutorial, and just as importantly, the things "
+"that don't matter at all."
+msgstr ""
+
+#: ../../source/tutorials.rst:247
+msgid ""
+"It really doesn't matter what the child makes, or how correctly they do it. "
+"The value of a lesson lies in what the child gains, not what they produce."
+msgstr ""
+
+#: ../../source/tutorials.rst:249
+msgid ""
+"Success in a cooking lesson with a child is not the culinary outcome, or "
+"whether the child can now repeat the processes on their own. Success is when"
+" the child acquires the knowledge and skills you were hoping to impart."
+msgstr ""
+
+#: ../../source/tutorials.rst:251
+msgid ""
+"It's a crucial condition of this that the child discovers pleasure in the "
+"experience of being in the kitchen with you, and wants to return to it. "
+"Learning a skill is never a once and for all matter. Repetition is always "
+"required."
+msgstr ""
+
+#: ../../source/tutorials.rst:253
+msgid ""
+"Meanwhile, the cooking lesson might be framed around the idea of learning "
+"how to prepare a particular dish, but what we actually need the child to "
+"learn might be things like: *that we wash our hands before handling food*; "
+"*how to hold a knife*; *why the oil must be hot*; *what this utensil is "
+"called*, *how to time and measure things*."
+msgstr ""
+
+#: ../../source/tutorials.rst:255
+msgid ""
+"The child learns all this by working alongside you in the kitchen; in its "
+"own time, at its own pace, **through the activities** you do together, and "
+"not from the things you say or show."
+msgstr ""
+
+#: ../../source/tutorials.rst:257
+msgid ""
+"With a young child, you will often find that the lesson suddenly has to end "
+"before you'd completed what you set out to do. This is normal and expected; "
+"children have short attention spans. But as long as the child managed to "
+"achieve something - however small - and enjoyed doing it, it will have laid "
+"down something in the construction of its technical expertise, that can be "
+"returned to and built upon next time."
+msgstr ""

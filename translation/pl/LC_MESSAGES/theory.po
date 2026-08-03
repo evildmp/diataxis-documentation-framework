@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# Piotr Nawrot, 2026
+# evildmp <daniele@vurt.org>, 2026
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: pl\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
+
+#: ../../source/theory.rst:2
+msgid "Understanding Diátaxis"
+msgstr "Zrozumienie Diátaxis"
+
+#: ../../source/theory.rst:6
+msgid "The Grand Unified Theory of Documentation"
+msgstr "Wielka Zunifikowana Teoria Dokumentacji"
+
+#: ../../source/theory.rst:8
+msgid "David Laing"
+msgstr "David Laing"
+
+#: ../../source/theory.rst:12
+msgid ""
+"The pages in this section are intended to provide some theoretical grounding"
+" for the practices Diátaxis prescribes, and to explore some of the questions"
+" it raises."
+msgstr ""
+"Strony w tej sekcji mają na celu dostarczenie pewnego teoretycznego podłoża "
+"dla praktyk, które zaleca Diátaxis, oraz zbadanie niektórych pytań, które "
+"podnosi."
+
+#: ../../source/theory.rst:14
+msgid ""
+"Within the discipline of documentation, discourse tends towards the "
+"practical and concrete. The approach is generally heuristic: guidelines, "
+"rules of thumb, specific imperatives, principles that we know work."
+msgstr ""
+"W ramach dyscypliny dokumentacji dyskurs zmierza ku praktycznemu i "
+"konkretnemu. Podejście jest zazwyczaj heurystyczne: wytyczne, reguły kciuka,"
+" konkretne nakazy, zasady, które wiemy, że działają."
+
+#: ../../source/theory.rst:16
+msgid ""
+"As practitioners, we have much to say about what to do, and how to do it and"
+" how it works, and relatively little to say about *why* it works. Our sense "
+"of the right way to do things is largely based on a combination of intuition"
+" and experience. The theoretical aspect of the discipline receives far less "
+"attention."
+msgstr ""
+"Jako praktycy mamy dużo do powiedzenia na temat tego, co robić, jak to robić"
+" i jak to działa, a stosunkowo niewiele do powiedzenia na temat *dlaczego* "
+"to działa. Nasze poczucie właściwego sposobu robienia rzeczy opiera się w "
+"dużej mierze na połączeniu intuicji i doświadczenia. Teoretyczny aspekt "
+"dyscypliny otrzymuje znacznie mniej uwagi."
+
+#: ../../source/theory.rst:18
+msgid ""
+"Diátaxis aims to place documentation practice on a more rigorous theoretical"
+" footing."
+msgstr ""
+"Diátaxis ma na celu umieszczenie praktyki dokumentacji na bardziej "
+"rygorystycznym teoretycznym gruncie."
+
+#: ../../source/theory.rst:23
+msgid "In this section"
+msgstr "W tej sekcji"
+
+#: ../../source/theory.rst:25
+msgid "These pages dig deeper into the thinking that underpins Diátaxis."
+msgstr "Te strony zagłębiają się w myślenie, które stanowi podstawę Diátaxis."
+
+#: ../../source/theory.rst:27
+msgid ":doc:`foundations` - *why* Diátaxis works"
+msgstr ":doc:`foundations` - *dlaczego* Diátaxis działa"
+
+#: ../../source/theory.rst:28
+msgid ":doc:`map` - documentation in two dimensions"
+msgstr ":doc:`map` - dokumentacja w dwóch wymiarach"
+
+#: ../../source/theory.rst:29
+msgid ":doc:`quality`"
+msgstr ":doc:`quality`"
+
+#: ../../source/theory.rst:31
+msgid "Common problems explored:"
+msgstr "Wspólne problemy zbadane:"
+
+#: ../../source/theory.rst:33
+msgid ":doc:`tutorials-how-to`"
+msgstr ":doc:`tutorials-how-to`"
+
+#: ../../source/theory.rst:34
+msgid ":doc:`reference-explanation`"
+msgstr ":doc:`reference-explanation`"

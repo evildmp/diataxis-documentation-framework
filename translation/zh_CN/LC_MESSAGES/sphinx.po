@@ -1,0 +1,42 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-07-10 08:57+0200\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh-Hans\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: 51465188c69646a0bbedad2eb3417d9b
+msgid "Next"
+msgstr ""
+
+#: 729a61b8697941bb9ad1ffa0d928e81b
+msgid "Previous"
+msgstr ""
+
+#: 85bd2d30aeb3433d80caa3bc5614b4e0
+msgid "Home"
+msgstr ""
+
+#: 486690d3d9984baf89bf4f789a36b5e0
+msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
+msgstr ""
+
+#: 74792d06efb14cd8984df83bdc066d38
+msgid "Copyright &#169; %(copyright)s"
+msgstr ""
+
+#: ce36840190774eb2ba9f9f90897ecb44
+msgid "Last updated on %(last_updated)s"
+msgstr ""

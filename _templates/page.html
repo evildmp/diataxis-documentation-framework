@@ -5,6 +5,32 @@
   {{ super() }}
   {% endblock %}
 
+  {% block extrahead %}
+  {{ super() }}
+  {% endblock %}
+
+  {% block content %}
+  <nav class="language-switcher" aria-label="Language">
+    {% for code, label in language_switcher %}
+    {%- if code == default_language -%}
+      {%- set lang_prefix = '' -%}
+    {%- else -%}
+      {%- set lang_prefix = '/' ~ code -%}
+    {%- endif -%}
+    {%- if pagename == 'index' -%}
+      {%- set lang_href = lang_prefix ~ '/' -%}
+    {%- else -%}
+      {%- set lang_href = lang_prefix ~ '/' ~ pagename ~ '/' -%}
+    {%- endif -%}
+    <a href="{{ lang_href }}" lang="{{ code }}"{% if code == language %} aria-current="true"{% endif %}>
+      <span class="language-switcher-full-label">{{ label }}</span>
+      <span class="language-switcher-short-label">{{ code|upper }}</span>
+    </a>
+    {% endfor %}
+  </nav>
+  {{ body }}
+  {% endblock %}
+
   {% block footer %}
   <div class="related-pages">
     {% if next -%}
