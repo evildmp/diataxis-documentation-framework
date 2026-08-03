@@ -145,3 +145,4 @@ Diátaxis is proven in practice. Its principles have been adopted successfully i
 
    colophon
    translation
+   news
