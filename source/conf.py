@@ -46,6 +46,7 @@ language_switcher = [
     # ["zh_CN", "简体中文"],
     # ["de", "Deutsche"],
     ["pl", "Polski"],
+    ["ja", "日本語"],
 ]
 html_context = {
     "language_switcher": language_switcher,
