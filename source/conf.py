@@ -1,10 +1,15 @@
+import os
+import sys
+
+sys.path.insert(0, os.path.abspath("../extensions"))
+
 html_title = full_title = project = "Diátaxis"
 copyright = "Daniele Procida"
 author = "Daniele Procida"
 
 # -- General configuration ---------------------------------------------------
 
-extensions = ["sphinx_design", "sphinx_reredirects"]
+extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed"]
 
 templates_path = ["../_templates"]
 
@@ -87,3 +92,9 @@ locale_dirs = ["../translation"]
 gettext_compact = False
 gettext_uuid = False
 gettext_location = True
+
+# -- Atom feed configuration ---------------------------------------------------
+
+atom_feed_base_url = "https://diataxis.fr"
+atom_feed_source = "news"
+atom_feed_author = author
