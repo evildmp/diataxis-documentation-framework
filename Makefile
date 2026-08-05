@@ -35,7 +35,7 @@ clean:
 	-rm -rf $(BUILDDIR)/*
 
 run:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -a $(HTMLDIR) --host 0.0.0.0 --port $(PORT)
+	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -a $(HTMLDIR) --host 127.0.0.1 --port $(PORT)
 
 test:
 	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
