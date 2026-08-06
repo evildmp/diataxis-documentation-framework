@@ -1,0 +1,1 @@
+../../../how-to-use-diataxis.rst
