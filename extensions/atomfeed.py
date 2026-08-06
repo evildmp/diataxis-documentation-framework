@@ -383,6 +383,26 @@ def build_feed(app):
     out_path.write_bytes(xml_bytes)
 
 
+def on_html_page_context(app, pagename, templatename, context, doctree):
+    """Inject an Atom auto-discovery <link> into the page head.
+
+    Sphinx themes render ``context['metatags']`` inside <head>, so appending
+    here is the canonical way to add feed discovery without a custom template.
+    """
+    base_url = app.config.atom_feed_base_url or ""
+    if not base_url:
+        return
+    language = app.config.language or "en"
+    lang_prefix = f"{language}/" if language != "en" else ""
+    href = absolute_url(base_url, f"{lang_prefix}atom.xml")
+    title = app.config.html_title or app.config.project or "Feed"
+    context["metatags"] = context.get("metatags", "") + (
+        f'<link rel="alternate" type="application/atom+xml" '
+        f'title="{html.escape(title, quote=True)}" '
+        f'href="{html.escape(href, quote=True)}"/>'
+    )
+
+
 def on_build_finished(app, exception):
     if exception is not None:
         return
@@ -408,6 +428,7 @@ def setup(app):
     app.add_config_value("atom_feed_author", None, "env")
 
     app.connect("doctree-resolved", collect_entries)
+    app.connect("html-page-context", on_html_page_context)
     app.connect("build-finished", on_build_finished)
 
     return {"version": __version__, "parallel_read_safe": True}

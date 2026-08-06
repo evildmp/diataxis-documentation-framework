@@ -14,13 +14,3 @@ News & Updates
     Other translations are in progress.
 
     :doc:`More information about translating Diátaxis <translation>`
-
-Heading
--------
-
-Date
-
-Entry
-marker 1785963858
-
-.. comment 1785963887.4449122

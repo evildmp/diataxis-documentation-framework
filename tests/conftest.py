@@ -52,19 +52,15 @@ Welcome
 """
 
 
-@pytest.fixture
-def built_atom_xml(tmp_path: Path) -> Path:
-    """Build a Sphinx project for the given language and return the outdir.
-
-    Yields the path to the generated ``atom.xml``.
-    """
+def _build(tmp_path: Path, language: str) -> Path:
+    """Build a Sphinx project for the given language; return the outdir."""
     src = tmp_path / "src"
     out = tmp_path / "out"
     doctree = tmp_path / "doctrees"
 
     src.mkdir()
     (src / "conf.py").write_text(
-        CONF_PY.format(language="pl"), encoding="utf-8"
+        CONF_PY.format(language=language), encoding="utf-8"
     )
     (src / "index.rst").write_text(INDEX_RST, encoding="utf-8")
     (src / "news.rst").write_text(NEWS_RST, encoding="utf-8")
@@ -83,7 +79,19 @@ def built_atom_xml(tmp_path: Path) -> Path:
         freshenv=True,
     )
     app.build()
+    return out
 
+
+@pytest.fixture
+def built_atom_xml(tmp_path: Path) -> Path:
+    """Path to the generated ``atom.xml`` for a Polish build."""
+    out = _build(tmp_path, "pl")
     atom_path = out / "atom.xml"
     assert atom_path.exists(), "atom.xml was not generated"
     return atom_path
+
+
+@pytest.fixture
+def built_outdir(tmp_path: Path) -> Path:
+    """Built Sphinx outdir for a Polish build (for inspecting rendered HTML)."""
+    return _build(tmp_path, "pl")

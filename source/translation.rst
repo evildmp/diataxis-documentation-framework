@@ -5,7 +5,7 @@ If you'd like to help translate Diátaxis into your language, that would be very
 
 Currently, the only other language available is Polish.
 
-Translation is in progress for various other languages, including French, Italian, Portuguese, Chinese, Korean and Japanese. Others can be added on request and will be published there when more translations are added.
+Translation is in progress for various other languages, including French, Italian, Portuguese (Brazil), Chinese (Simplified), Korean and Japanese. Others can be added on request and will be published there when more translations are added.
 
 As soon as a translation is complete, I will publish it on https://diataxis.fr.
 
