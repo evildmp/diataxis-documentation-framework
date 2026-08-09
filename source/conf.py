@@ -9,7 +9,7 @@ author = "Daniele Procida"
 
 # -- General configuration ---------------------------------------------------
 
-extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed"]
+extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed", "diataxis_diagram"]
 
 templates_path = ["../_templates"]
 
@@ -39,7 +39,7 @@ html_theme_options = {
 }
 html_static_path = ["../_static"]
 html_logo = "images/diataxis-white-416.png"
-html_css_files = ["diataxis.css"]
+html_css_files = ["diataxis.css", "skia-font.css"]
 html_js_files = ["language-switcher.js"]
 html_context = {
     "language_switcher": [
@@ -51,6 +51,7 @@ html_context = {
         # ["zh_CN", "简体中文"],
         # ["de", "Deutsche"],
         # ["ja", "日本語"],
+        # ["ko", "한국어"],
     ],
     "default_language": "en",
 }
@@ -85,13 +86,25 @@ redirects = {
      "colofon": "/colophon",
 }
 
-# Translation settings
+# -- Translation settings ---------------------------------------------------
 
 language = "en"
 locale_dirs = ["../translation"]
 gettext_compact = False
 gettext_uuid = False
 gettext_location = True
+
+diataxis_diagram_typography = {
+    "en": {"quadrant": 104, "orientation": 44, "axis": 44},
+    "pl": {"quadrant": 57, "orientation": 44, "axis": 44},
+    # "it": {"quadrant": 100, "orientation": 44, "axis": 44},
+    # "fr": {"quadrant": 100, "orientation": 44, "axis": 44},
+    # "zh_CN": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
+    # "pt_BR": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
+    # "ko": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
+    # "ja": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
+
+}
 
 # -- Atom feed configuration ---------------------------------------------------
 

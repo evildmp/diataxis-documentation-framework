@@ -150,7 +150,7 @@ article .sidebar p.sidebar-title {
     article aside.sidebar {border: none;}
     article .sidebar>*,
     article .sidebar .sidebar-title {padding-left: 0; padding-right: 0;}
-    img.wider, table.wider, figure.wider {
+    img.wider, table.wider, figure.wider, .diataxis-diagram.wider {
         width: 50em; max-width: 50em;
         margin: 2em 0;
         left: -14em;
@@ -180,7 +180,7 @@ article .sidebar p.sidebar-title {
     article .sidebar,
     h2,
     .news-item-aside {width: 14rem;}
-    img.wider, table.wider, figure.wider {
+    img.wider, table.wider, figure.wider, .diataxis-diagram.wider {
         width: 52em; max-width: 52em;
         margin: 2em 0;
         left: -16em;
@@ -221,7 +221,50 @@ div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
 
 
 
-/* --------- embed --------- */
+.diataxis-diagram { width: 100%; }
+.diataxis-diagram svg { display: block; width: 100%; height: auto; }
+
+/* --------- diataxis diagram (inlined SVG text styling) ---------
+   The diagram SVG (source/images/diataxis-diagram-template.svg) is inlined
+   into the page as raw HTML by extensions/diataxis_diagram, so these class rules
+   reach its <text> nodes through the page stylesheet. The @font-face for
+   "Skia" lives in _static/skia-font.css.
+
+   Font sizes are deliberately NOT given a fallback in the var() calls below.
+   The values are emitted per-locale as a `style` attribute on the wrapping
+   <div class="diataxis-diagram"> by extensions/diataxis_diagram, sourced from the
+   `diataxis_diagram_typography` config in conf.py. A locale missing from
+   that config is a fatal build error (see the extension), so the var() is
+   always resolved at render time — a fallback here would just duplicate
+   conf.py's `en` defaults and silently drift. */
+
+.axis {
+    font-family: "Skia", sans-serif;
+    font-weight: 500;
+    font-variation-settings: "wght" 1.3, "wdth" 1.0;
+    font-size: var(--diagram-axis-size);
+    letter-spacing: 2.2px;
+    text-rendering: geometricPrecision;
+}
+
+.quadrant {
+    font-family: "Skia", sans-serif;
+    font-weight: 230;
+    font-variation-settings: "wght" 0.6, "wdth" 1.0;
+    font-size: var(--diagram-quadrant-size);
+    text-transform: uppercase;
+}
+
+.orientation {
+    font-family: "Skia", sans-serif;
+    font-weight: 500;
+    font-variation-settings: "wght" 1.3, "wdth" 1.0;
+    font-size: var(--diagram-orientation-size);
+    fill: #FF9300;
+    text-transform: uppercase;
+    text-rendering: geometricPrecision;
+    letter-spacing: 2.2px;
+}
 
 .embed-responsive {
   position: relative;

@@ -9,7 +9,8 @@ GETTEXTDIR    = $(BUILDDIR)/gettext
 SPELLINGDIR   = $(BUILDDIR)/spelling
 
 TRANSLATIONSDIR = translation
-TRANSLATIONLANGUAGES = fr it pt_BR de zh_CN pl ja
+#TRANSLATIONLANGUAGES = fr it pt_BR de zh_CN pl ja ko
+TRANSLATIONLANGUAGES = pl
 
 VENV = env/bin/activate
 PORT = 8090
@@ -35,28 +36,34 @@ clean:
 	-rm -rf $(BUILDDIR)/*
 
 run:
-	. $(VENV); sphinx-autobuild $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -a $(HTMLDIR) --host 127.0.0.1 --port $(PORT)
+	. $(VENV); sphinx-autobuild -W $(ALLSPHINXOPTS) --ignore ".git/*" --ignore "*.scss" $(SOURCEDIR) -b dirhtml -a $(HTMLDIR) --host 127.0.0.1 --port $(PORT)
 
 test:
-	. $(VENV); $(SPHINXBUILD) -b html $(SOURCEDIR) $(HTMLDIR)
+	. $(VENV); $(SPHINXBUILD) -W -b html $(SOURCEDIR) $(HTMLDIR)
 
 html:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=en $(SOURCEDIR) $(HTMLDIR)
+	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=en $(SOURCEDIR) $(HTMLDIR)
 
-html-fr:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
+#html-fr:
+#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
 
-html-pt_BR:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
+#html-pt_BR:
+#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
 
-html-it:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=it $(SOURCEDIR) $(HTMLDIR)/it
+#html-it:
+#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=it $(SOURCEDIR) $(HTMLDIR)/it
 
 html-pl:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
+	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
 
-html-ja:
-	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
+#html-ja:
+#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
+
+#html-zh_CN:
+#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=zh_CN $(SOURCEDIR) $(HTMLDIR)/zh_CN
+
+#html-ko:
+#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=ko $(SOURCEDIR) $(HTMLDIR)/ko
 
 html-all: html html-pl
 
@@ -75,7 +82,7 @@ spelling:
 		"$(SPELLINGDIR)/output.txt."
 
 
-.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-ja html-all run-all gettext update-po-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-ja html-zh_CN html-ko html-all run-all gettext update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).
