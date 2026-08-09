@@ -1,4 +1,4 @@
-"""Shared pytest fixtures for the atomfeed extension tests.
+"""Pytest fixtures for the atomfeed extension tests.
 
 The tests build a tiny Sphinx project in a temp directory and inspect the
 generated ``atom.xml``. We use Sphinx's own build API rather than shelling
@@ -7,8 +7,7 @@ out to ``sphinx-build`` so the tests stay fast and self-contained.
 
 from __future__ import annotations
 
-import shutil
-import textwrap
+import sys
 from pathlib import Path
 
 import pytest
@@ -52,8 +51,26 @@ Welcome
 """
 
 
-def _build(tmp_path: Path, language: str) -> Path:
-    """Build a Sphinx project for the given language; return the outdir."""
+def _project_root() -> Path:
+    """Path to the repository root (makes the in-tree extensions importable)."""
+    return Path(__file__).resolve().parents[2]
+
+
+def _ensure_extensions_importable() -> None:
+    root = _project_root()
+    if str(root) not in sys.path:
+        sys.path.insert(0, str(root))
+
+
+def _build(
+    tmp_path: Path,
+    language: str,
+    *,
+    buildername: str = "html",
+) -> tuple[Sphinx, Path]:
+    """Build a Sphinx project for the given language; return (app, outdir)."""
+    _ensure_extensions_importable()
+
     src = tmp_path / "src"
     out = tmp_path / "out"
     doctree = tmp_path / "doctrees"
@@ -65,27 +82,22 @@ def _build(tmp_path: Path, language: str) -> Path:
     (src / "index.rst").write_text(INDEX_RST, encoding="utf-8")
     (src / "news.rst").write_text(NEWS_RST, encoding="utf-8")
 
-    # Make the in-tree extensions/ importable as "extensions.atomfeed".
-    project_root = Path(__file__).resolve().parent.parent
-    import sys
-    sys.path.insert(0, str(project_root))
-
     app = Sphinx(
         srcdir=str(src),
         confdir=str(src),
         outdir=str(out),
         doctreedir=str(doctree),
-        buildername="html",
+        buildername=buildername,
         freshenv=True,
     )
     app.build()
-    return out
+    return app, out
 
 
 @pytest.fixture
 def built_atom_xml(tmp_path: Path) -> Path:
     """Path to the generated ``atom.xml`` for a Polish build."""
-    out = _build(tmp_path, "pl")
+    _app, out = _build(tmp_path, "pl")
     atom_path = out / "atom.xml"
     assert atom_path.exists(), "atom.xml was not generated"
     return atom_path
@@ -94,4 +106,11 @@ def built_atom_xml(tmp_path: Path) -> Path:
 @pytest.fixture
 def built_outdir(tmp_path: Path) -> Path:
     """Built Sphinx outdir for a Polish build (for inspecting rendered HTML)."""
-    return _build(tmp_path, "pl")
+    _app, out = _build(tmp_path, "pl")
+    return out
+
+
+@pytest.fixture
+def built_gettext(tmp_path: Path) -> tuple[Sphinx, Path]:
+    """Run the gettext builder; return (app, outdir) with the .pot files."""
+    return _build(tmp_path, "en", buildername="gettext")

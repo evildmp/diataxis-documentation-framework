@@ -406,6 +406,12 @@ def on_html_page_context(app, pagename, templatename, context, doctree):
 def on_build_finished(app, exception):
     if exception is not None:
         return
+    # The feed is an HTML artifact; only HTML builders expose the
+    # ``docwriter`` we render fragments with. Other builders (notably
+    # ``MessageCatalogBuilder`` from ``make gettext``) don't, and would
+    # raise ``'MessageCatalogBuilder' object has no attribute 'docwriter'``.
+    if getattr(app.builder, "format", None) != "html":
+        return
     build_feed(app)
 
 
