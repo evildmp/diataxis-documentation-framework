@@ -406,6 +406,8 @@ def on_html_page_context(app, pagename, templatename, context, doctree):
 def on_build_finished(app, exception):
     if exception is not None:
         return
+    if app.builder.format != "html":
+        return
     build_feed(app)
 
 
