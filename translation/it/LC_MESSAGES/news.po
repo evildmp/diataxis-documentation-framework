@@ -1,0 +1,52 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) Daniele Procida
+# This file is distributed under the same license as the Diátaxis package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Diátaxis \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-08-08 10:50+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language: it\n"
+"Language-Team: it <LL@li.org>\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
+
+#: ../../source/news.rst:2
+msgid "News & Updates"
+msgstr ""
+
+#: ../../source/news.rst:-1
+msgid "6 August 2026"
+msgstr ""
+
+#: ../../source/news.rst:7
+msgid "Added an atom feed, https://diataxis.fr/atom.xml."
+msgstr ""
+
+#: ../../source/news.rst:-1
+msgid "4 August 2026"
+msgstr ""
+
+#: ../../source/news.rst:12
+msgid ""
+"`Diátaxis is now available in Polish <https://diataxis.fr/pl>`_, courtesy"
+" of the translation efforts of `Piotr Nawrot "
+"<https://piotrnawrot.com/>`_."
+msgstr ""
+
+#: ../../source/news.rst:14
+msgid "Other translations are in progress."
+msgstr ""
+
+#: ../../source/news.rst:16
+msgid ":doc:`More information about translating Diátaxis <translation>`"
+msgstr ""
+

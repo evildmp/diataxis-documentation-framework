@@ -1,23 +1,25 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# daisuke osada (daiskeh) <dosada@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis \n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: daisuke osada (daiskeh) <dosada@gmail.com>, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/danieleprocida/teams/120528/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/theory.rst:2
 msgid "Understanding Diátaxis"
@@ -33,9 +35,9 @@ msgstr ""
 
 #: ../../source/theory.rst:12
 msgid ""
-"The pages in this section are intended to provide some theoretical "
-"grounding for the practices Diátaxis prescribes, and to explore some of "
-"the questions it raises."
+"The pages in this section are intended to provide some theoretical grounding"
+" for the practices Diátaxis prescribes, and to explore some of the questions"
+" it raises."
 msgstr ""
 
 #: ../../source/theory.rst:14
@@ -47,22 +49,22 @@ msgstr ""
 
 #: ../../source/theory.rst:16
 msgid ""
-"As practitioners, we have much to say about what to do, and how to do it "
-"and how it works, and relatively little to say about *why* it works. Our "
-"sense of the right way to do things is largely based on a combination of "
-"intuition and experience. The theoretical aspect of the discipline "
-"receives far less attention."
+"As practitioners, we have much to say about what to do, and how to do it and"
+" how it works, and relatively little to say about *why* it works. Our sense "
+"of the right way to do things is largely based on a combination of intuition"
+" and experience. The theoretical aspect of the discipline receives far less "
+"attention."
 msgstr ""
 
 #: ../../source/theory.rst:18
 msgid ""
-"Diátaxis aims to place documentation practice on a more rigorous "
-"theoretical footing."
+"Diátaxis aims to place documentation practice on a more rigorous theoretical"
+" footing."
 msgstr ""
 
 #: ../../source/theory.rst:23
 msgid "In this section"
-msgstr ""
+msgstr "In this section"
 
 #: ../../source/theory.rst:25
 msgid "These pages dig deeper into the thinking that underpins Diátaxis."
@@ -91,4 +93,3 @@ msgstr ""
 #: ../../source/theory.rst:34
 msgid ":doc:`reference-explanation`"
 msgstr ""
-

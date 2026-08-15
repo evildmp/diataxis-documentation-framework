@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-10 08:57+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,26 +21,26 @@ msgstr ""
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: 51465188c69646a0bbedad2eb3417d9b
+#: ../../_templates/page.html:30
 msgid "Next"
-msgstr ""
+msgstr "下一页"
 
-#: 729a61b8697941bb9ad1ffa0d928e81b
+#: ../../_templates/page.html:42
 msgid "Previous"
-msgstr ""
+msgstr "上一页"
 
-#: 85bd2d30aeb3433d80caa3bc5614b4e0
+#: ../../_templates/page.html:45
 msgid "Home"
-msgstr ""
+msgstr "主页"
 
-#: 486690d3d9984baf89bf4f789a36b5e0
+#: ../../_templates/page.html:58
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
-msgstr ""
+msgstr "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
 
-#: 74792d06efb14cd8984df83bdc066d38
+#: ../../_templates/page.html:62
 msgid "Copyright &#169; %(copyright)s"
-msgstr ""
+msgstr "Copyright &#169; %(copyright)s"
 
-#: ce36840190774eb2ba9f9f90897ecb44
+#: ../../_templates/page.html:71
 msgid "Last updated on %(last_updated)s"
-msgstr ""
+msgstr "最近更新于 %(last_updated)s"

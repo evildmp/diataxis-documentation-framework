@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,36 +21,36 @@ msgstr ""
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: 564bf820ef394671bd084e3875ce83e8
+#: ../../source/explanation.rst:4
 msgid "Explanation"
-msgstr ""
+msgstr "解释说明"
 
-#: 0572a5290b7847b0ae71b1a0458aa713
+#: ../../source/explanation.rst:8
 msgid ""
 "Explanation is a discursive treatment of a subject, that permits "
 "*reflection*. Explanation is **understanding-oriented**."
-msgstr ""
+msgstr "解释是对某一主题的论述性阐述，引人 *反思*。解释 *以理解为导向*。"
 
-#: 33382bbf6f004641a6904459081b7229
+#: ../../source/explanation.rst:11
 msgid ""
 "Explanation deepens and broadens the reader's understanding of a subject. It"
 " brings clarity, light and context."
-msgstr ""
+msgstr "解释能深化并拓展读者对主题的理解，带来澄清、启示与上下文。"
 
-#: 053c8d50814e42e2b9af9ca773a86ed4
+#: ../../source/explanation.rst:13
 msgid ""
 "Explanation - understanding oriented, theoretical knowledge, that serves our"
 " study"
-msgstr ""
+msgstr "解释，以理解为导向，包含理论知识，服务于我们的学习。"
 
-#: b8e7ce4fb16c4db686468a1e32080bbc
+#: ../../source/explanation.rst:17
 msgid ""
 "The concept of *reflection* is important. Reflection occurs *after* "
 "something else, and depends on something else, yet at the same time brings "
 "something new - shines a new light - on the subject matter."
-msgstr ""
+msgstr "*反思* 这一概念至关重要。反思发生于其他事物之后，并依赖于其他事物，但与此同时又能推陈出新，以新的视角观照主题。 "
 
-#: c8f42c26db8945eb907912e41566a8cb
+#: ../../source/explanation.rst:19
 msgid ""
 "The perspective of explanation is higher and wider than that of the other "
 "three types. It does not take the user's eye-level view, as in a how-to "
@@ -54,29 +58,31 @@ msgid ""
 "scope in each case is a topic - \"an area of knowledge\", that somehow has "
 "to be bounded in a reasonable, meaningful way."
 msgstr ""
+"解释的视角升华且广于其它三种类型的文档。它不同于操作指南中用户平视的视角，也不像参考材料那样近距离的审视。解释在每种情况下的着眼点都是一个主题，即 "
+"*领域知识*，这些内容必须以合理且有意义的方式加以界定。"
 
-#: 53fe9cf3cb054041bf0c7625f968fb81
+#: ../../source/explanation.rst:21
 msgid ""
 "For the user, explanation joins things together. It's an answer to the "
 "question: *Can you tell me about ...?*"
-msgstr ""
+msgstr "对用户而言，解释将各方面融会贯通。它回答的是这样一个问题：*能否为我讲解关于 ……？*"
 
-#: 7da3d8ce5a0c442dbc8e551d46b3edb5
+#: ../../source/explanation.rst:23
 msgid ""
 "It's documentation that it makes sense to read while away from the product "
 "itself (one could say, explanation is the only kind of documentation that it"
 " might make sense to read in the bath)."
-msgstr ""
+msgstr "它是一种离开产品本身阅读也顺理成章的文档（可以说，解释是唯一一种在浴缸里读也无妨的文档）。"
 
-#: 68ca2d8af17244e2a0c227d92fbab3de
+#: ../../source/explanation.rst:28
 msgid "The value and place of explanation"
-msgstr ""
+msgstr "解释的价值和定位"
 
-#: 56e0ff7ef8564350b1bcd2b23eabcb63
+#: ../../source/explanation.rst:31
 msgid "Explanation and understanding"
-msgstr ""
+msgstr "解释和理解"
 
-#: 32876774ecd748cbbc4f3f8ea26af1e6
+#: ../../source/explanation.rst:33
 msgid ""
 "Explanation  is characterised by its distance from the active concerns of "
 "the practitioner. It doesn't have direct implications for what they do, or "
@@ -86,37 +92,39 @@ msgid ""
 "can afford to be without an understanding of that craft, and needs the "
 "explanatory material that will help weave it together."
 msgstr ""
+"解释的特点在于它与实践者当下的关切保持距离。它对实践者所做的事或工作没有直接影响，因此，它有时被视为没那么重要，这显然是一种误解；它或许不如其他三者 "
+"*紧迫*，但 *重要性* 则毫不逊色。它并非奢侈品，无论哪位手艺人都不能缺少对技艺的理解，都需要解释性的材料来助其融会贯通。"
 
-#: 2c35d6b5f7f04af8b90c0a1d8bd305b5
+#: ../../source/explanation.rst:38
 msgid ""
 "Your explanation documentation doesn't need to be called *Explanation*. "
 "Alternatives include:"
-msgstr ""
+msgstr "你的解释类文档不必称为 *解释*。其它可选的名称包括："
 
-#: b5734e7b1d1a4a9790f2ae8d67a752df
+#: ../../source/explanation.rst:40
 msgid "*Discussion*"
-msgstr ""
+msgstr "*讨论*"
 
-#: 4d2def3f86524f14baf08ad138fb85de
+#: ../../source/explanation.rst:41
 msgid "*Background*"
-msgstr ""
+msgstr "*背景*"
 
-#: 3e795cb977e948fb986cc99385979771
+#: ../../source/explanation.rst:42
 msgid "*Conceptual guides*"
-msgstr ""
+msgstr "*概念指南*"
 
-#: 03a18b6e20814cc89e83f35b7dc86c99
+#: ../../source/explanation.rst:43
 msgid "*Topics*"
-msgstr ""
+msgstr "*主题*"
 
-#: 75fbefacfdd146f5a75e7877755d7b65
+#: ../../source/explanation.rst:45
 msgid ""
 "The word *explanation* - and its cognates in other languages - refer to "
 "*unfolding*, the revelation of what is hidden in the folds. So explanation "
 "brings to the light things that were implicit or obscured."
-msgstr ""
+msgstr "*解释* 一词，以及它在其它语言中的同源词，均指 *展开*，即揭示隐藏在褶皱中的事物。因此，解释将原本隐晦或模糊之处昭示于众。"
 
-#: fd5940d708164914aa91e169058fc9af
+#: ../../source/explanation.rst:47
 msgid ""
 "Similarly, words that mean *understanding* share roots in words meaning to "
 "hold or grasp (as in *comprehend*). That's an important part of "
@@ -124,96 +132,102 @@ msgid ""
 "Understanding seals together the other components of our mastery of a craft,"
 " and makes it safely our own."
 msgstr ""
+"同样地，表示 *理解* 的词语，与意为持有或抓住的词同源（如 "
+"*comprehend*）。能够把握某物或将其纳入掌中，是理解的重要一环。理解将我们掌握一门技艺的其他要素紧密联结，使之真正化为己有。"
 
-#: 10febbb631314858bf41eea11acd77ea
+#: ../../source/explanation.rst:49
 msgid ""
 "Understanding doesn't *come from* explanation, but explanation is required "
 "to form that web that helps hold everything together. Without it, the "
 "practitioner's knowledge of their craft is loose and fragmented and fragile,"
 " and their exercise of it is *anxious*."
 msgstr ""
+"理解并非 *源于* 解释，但解释对于编织那张将一切紧密联结的网则不可或缺。没有它，实践者对其技艺的认知便松散零碎、脆弱不堪，运用之时也会 *提心吊胆*。"
 
-#: 44891fbe078f4ce4a58220dae36dbb86
+#: ../../source/explanation.rst:55
 msgid "Explanation and its boundaries"
-msgstr ""
+msgstr "解释及其边界"
 
-#: 49e39514eb6c408192a17d4338576d75
+#: ../../source/explanation.rst:57
 msgid ""
 "Quite often explanation is not explicitly recognised in documentation; and "
 "the idea that things need to be explained is often only faintly expressed. "
 "Instead, explanation tends to be scattered in small parcels in other "
 "sections."
 msgstr ""
+"解释在文档中往往未被明确识别为一种独立的类型；而事物需要被解释这一观念，通常也只是被隐约提及。相反，解释常常零散地分布在其他章节的小片段中。"
 
-#: 81edd35b01ca46bfb0a67b016a0d5823
+#: ../../source/explanation.rst:61
 msgid ""
 "It's not always easy to write good explanatory material. Where does one "
 "start? It's also not clear where to conclude. There is an open-endedness "
 "about it that can give the writer too many possibilities."
-msgstr ""
+msgstr "撰写优秀的解释性文档并非总是易事。从何入手？又该在何处收笔，难有定数。解释所具有的开放性，会给作者带来过多的可能性。"
 
-#: 9dda24bc621349b0a810d3aa86a60149
+#: ../../source/explanation.rst:64
 msgid ""
 "Tutorials, how-to-guides and reference are all clearly defined in their "
 "scope by something that is also well-defined: by what you need the user to "
 "learn, what task the user needs to achieve, or just by the scope of the "
 "machine itself."
-msgstr ""
+msgstr "教程、操作指南和参考文档，其范围均由某个同样明确的事物所清晰界定：即用户需要学习的内容、用户需要完成的任务，或是机器本身的范畴。"
 
-#: 449553c7190a498f84fd3b2d56557eed
+#: ../../source/explanation.rst:67
 msgid ""
 "In the case of explanation, it's useful to have a real or imagined *why* "
 "question to serve as a prompt. Otherwise, you simply have to draw some lines"
 " that mark out a reasonable area and be satisfied with that."
 msgstr ""
+"就解释而言，用一个 *为什么* "
+"的问题作为切入点，将大有裨益，无论这个问题源于真实还是设想。否则，你只能自行划定界限，圈出一个合理的范围，固步自封，画地为牢。"
 
-#: 22de809c101b4176a70d961444eecb36
+#: ../../source/explanation.rst:75
 msgid "Writing good explanation"
-msgstr ""
+msgstr "编写优秀的解释"
 
-#: bd8c026b464a4db1b1f0edf1305e6efb
+#: ../../source/explanation.rst:78
 msgid "Make connections"
-msgstr ""
+msgstr "建立连接"
 
-#: f5b5fa3b8d71473899f8baea9273fb8c
+#: ../../source/explanation.rst:80
 msgid ""
 "When writing explanation you are helping to weave a web of understanding for"
 " your readers. **Make connections** to other things, even to things outside "
 "the immediate topic, if that helps."
-msgstr ""
+msgstr "撰写解释的时候，你是在帮助读者编织一张理解之网。去 **建立连接**，与其他事物相联系，乃至于延伸至当前主题之外，只要它有所裨益。"
 
-#: c054f2f734ec4e53b3211272a7cd61dc
+#: ../../source/explanation.rst:85
 msgid "Provide context"
-msgstr ""
+msgstr "提供上下文"
 
-#: 4af74eb3249545c29504463bd509b798
+#: ../../source/explanation.rst:87
 msgid ""
 "**Provide background and context in your explanation**: explain *why* things"
 " are so - design decisions, historical reasons, technical constraints - draw"
 " implications, mention specific examples."
-msgstr ""
+msgstr "**在解释中提供背景与上下文**：解释事物为何如此，包括设计决策、历史原因、技术约束，阐明其影响，并举出具体示例。"
 
-#: c32bfe715a734b1d84542a5abff627f7
+#: ../../source/explanation.rst:92
 msgid "Talk *about* the subject"
-msgstr ""
+msgstr "*关于* 这个主题本身的讨论"
 
-#: 9984ca3974ab4213a649ee37c78615c5
+#: ../../source/explanation.rst:96
 msgid "the bigger picture"
-msgstr ""
+msgstr "更广阔的图景"
 
-#: 51873967deda419987e4c10fd58ec6c0
+#: ../../source/explanation.rst:97
 msgid "history"
-msgstr ""
+msgstr "历史"
 
-#: 5f90cafdb8a1450a81f953d66953af6d
+#: ../../source/explanation.rst:98
 msgid "choices, alternatives, possibilities"
-msgstr ""
+msgstr "抉择、替代方案与可能性"
 
-#: efea7e33ea2e41c7813dae336448d937
+#: ../../source/explanation.rst:99
 msgid "why: reasons and justifications"
-msgstr ""
+msgstr "为什么：理由和依据"
 
-#: a038d942958b4a938788f11e1957395a
+#: ../../source/explanation.rst:101
 msgid ""
 "Explanation guides are *about* a topic in the sense that they are *around* "
 "it. Even the names of your explanation guides should reflect this; you "
@@ -221,39 +235,45 @@ msgid ""
 "each title. For example: *About user authentication*, or *About database "
 "connection policies*."
 msgstr ""
+"解释指南是 *关于* 某个主题的，也就是说，它们是围绕该主题 *展开* "
+"的。解释指南的名称也应体现这一点；你应该能在每个标题前加上一个隐含的（甚至明确的）*关于*。例如：*《关于用户认证》* 或 *《关于数据库连接策略》* "
+"。"
 
-#: 7bad92f28053497a866a0413b6f903b0
+#: ../../source/explanation.rst:107
 msgid "Admit opinion and perspective"
-msgstr ""
+msgstr "容纳观点与视角"
 
-#: bea81332871b4ad0a46c4b99f5aff929
+#: ../../source/explanation.rst:109
 msgid ""
 "Opinion might seem like a funny thing to introduce into documentation. The "
 "fact is that all human activity and knowledge is invested within opinion, "
 "with beliefs and thoughts. The reality of any human creation is rich with "
 "opinion, and that needs to be part of any understanding of it."
 msgstr ""
+"将观点引入文档，似乎有些奇怪。事实上，所有人类活动与知识都浸润在观点、信念和思想之中。任何人类创造物的现实都富含观点，而理解它，就必须将这一点纳入其中。"
 
-#: f3ba701d6170422786bc9b0f993cd24e
+#: ../../source/explanation.rst:111
 msgid ""
 "Similarly, any understanding comes from a perspective, a particular stand-"
 "point - which means that other perspectives and stand-points exist. "
 "**Explanation can and must consider alternatives**, counter-examples or "
 "multiple different approaches to the same question."
 msgstr ""
+"同样地，任何理解都出自某一视角、某一特定立场，这意味着其他视角与立场同样存在。**解释能够且必须考虑** "
+"替代方案、反例，或对同一问题的多种不同处理方式。"
 
-#: 6215f03b8cd047f0a3ae232f7e2602eb
+#: ../../source/explanation.rst:113
 msgid ""
 "In explanation, you're not giving instruction or describing facts - you're "
 "opening up the topic for consideration. It helps to think of explanation as "
 "discussion: discussions can even consider and weigh up contrary *opinions*."
-msgstr ""
+msgstr "在解释中，你并非发号施令，亦非陈述事实，而是将主题展开，引人思考。将解释视为讨论不无裨益：讨论甚至能够考量并权衡相反的 *观点*。"
 
-#: 6430b6b7720f488bbb9d9d8daaf2cc86
+#: ../../source/explanation.rst:117
 msgid "Keep explanation closely bounded"
-msgstr ""
+msgstr "严格划定解释的边界"
 
-#: 5577a2ff61de45b19739b397ed836aa0
+#: ../../source/explanation.rst:119
 msgid ""
 "One risk of explanation is that it tends to absorb other things. The writer,"
 " intent on covering the topic, feels the urge to include instruction or "
@@ -261,64 +281,65 @@ msgid ""
 "places for these, and allowing them to creep in interferes with the "
 "explanation itself, and removes them from view in the correct place."
 msgstr ""
+"解释的一个风险是，它往往会将其他内容吸纳进来。作者一心想要全面论述该主题，便容易产生冲动，将相关的操作指令或技术性的描述一并纳入。但文档中自有其他位置安置这些内容；任由它们渗入解释，不仅干扰解释本身，还会让这些内容在正确的位置上隐没不见。"
 
-#: 3fbc1fc69de94496a1bd3ddf94be430e
+#: ../../source/explanation.rst:125
 msgid "The language of explanation"
-msgstr ""
+msgstr "解释的语言"
 
-#: 87fffa4547cc48c59907042c0e121b27
+#: ../../source/explanation.rst:127
 msgid "*The reason for x is because historically, y ...*"
-msgstr ""
+msgstr "*x 之所以如此，在于历史原因，那时 y ……*"
 
-#: 88edefa8aa91478c8d6cc63fa7a8a5b7
+#: ../../source/explanation.rst:128
 msgid "Explain."
-msgstr ""
+msgstr "解释。"
 
-#: ccf86a492f39469f97d604759cdc3c99
+#: ../../source/explanation.rst:129
 msgid "*W is better than z, because ...*"
-msgstr ""
+msgstr "*W 比 z 好，因为 ……*"
 
-#: 26de3569c6ef483dbcd2bfcddfc667dd
+#: ../../source/explanation.rst:130
 msgid "Offer judgements and even opinions where appropriate.."
-msgstr ""
+msgstr "在适当的地方提供判断乃至观点 ……"
 
-#: 646dabdb1e6f45e7b79e49d0ada80919
+#: ../../source/explanation.rst:131
 msgid "*An x in system y is analogous to a w in system z. However ...*"
-msgstr ""
+msgstr "*系统 y 中的 x 与系统 z 中的 w 类似。然而……*"
 
-#: bb7db9f835b54329b4e656103c594f1c
+#: ../../source/explanation.rst:132
 msgid "Provide context that helps the reader."
-msgstr ""
+msgstr "提供有助于读者的上下文。"
 
-#: 292297786b1b4cb2b8c396806b88c5d4
+#: ../../source/explanation.rst:133
 msgid "*Some users prefer w (because z). This can be a good approach, but...*"
-msgstr ""
+msgstr "*一些用户倾向于 w（因为 z）。这不失为一种好办法，但 ……*"
 
-#: 3f033821080244d3aafd90fa9f550018
+#: ../../source/explanation.rst:134
 msgid "Weigh up alternatives."
-msgstr ""
+msgstr "权衡各种替代方案。"
 
-#: bd09e725edf84151a08e19789de4b898
+#: ../../source/explanation.rst:135
 msgid "*An x interacts with a y as follows: ...*"
-msgstr ""
+msgstr "*x 与 y 的交互方式如下：……*"
 
-#: 0989770b13394279bc197739b44a4eae
+#: ../../source/explanation.rst:136
 msgid ""
 "Unfold the machinery's internal secrets, to help understand why something "
 "does what it does."
-msgstr ""
+msgstr "揭示系统内部的奥秘，有助于理解其行为背后的原因。"
 
-#: 1b3f375c83e24be69c3da53e939def76
+#: ../../source/explanation.rst:141
 msgid "Analogy from food and cooking"
-msgstr ""
+msgstr "以食品与烹饪类比"
 
-#: c2396a3dff21424a906c66c42c289692
+#: ../../source/explanation.rst:144
 msgid ""
 "In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
 " cooking*."
-msgstr ""
+msgstr "1984 年，`Harold McGee <https://www.curiouscook.com>`_ 出版了 *《食物与烹饪》*。"
 
-#: 2a9bfc41289945bd9762a7e1d41c026e
+#: ../../source/explanation.rst:150
 msgid ""
 "The book doesn't teach how to cook anything. It doesn't contain recipes "
 "(except as historical examples) and it isn't a work of reference. Instead, "
@@ -326,15 +347,17 @@ msgid ""
 "technology. It explains for example why we do what we do in the kitchen and "
 "how that has changed."
 msgstr ""
+"该书并不教人烹饪任何菜肴，也不含食谱（仅作为历史示例出现），更非参考手册。相反，它将食物与烹饪置于历史、社会、科学和技术的背景之中。例如，它解释了我们在厨房中的种种做法为何如此，以及这些做法如何演变。"
 
-#: bba9c870918047b59dbb23cce68c5ca8
+#: ../../source/explanation.rst:152
 msgid ""
 "It's clearly not a book we would read *while* cooking. We would read when we"
 " want to reflect on cooking. It illuminates the subject by taking multiple "
 "different perspectives on it, shining light from different angles."
 msgstr ""
+"这显然不是一本在 *烹饪时* 阅读的书，而更适合在想要反思烹饪本身时阅读它。它通过从多个不同视角审视这一主题，从不同角度照亮它，使其更加透彻清晰。"
 
-#: 0373b7874d004e40ba72107922e280e0
+#: ../../source/explanation.rst:154
 msgid ""
 "After reading a book like *On food and cooking*, our understanding is "
 "changed. Our knowledge is richer and deeper. What we have learned may or may"
@@ -342,3 +365,5 @@ msgid ""
 "kitchen, but *it will change how we think about our craft, and will affect "
 "our practice*."
 msgstr ""
+"读过 *《食物与烹饪》* 这样的书之后，我们的理解会发生变化，知识也会更加丰富与深入。所学内容未必能在下一次下厨时立即派上用场，但 "
+"*它将改变我们看待这门技艺的方式，进而影响我们的实践*。"

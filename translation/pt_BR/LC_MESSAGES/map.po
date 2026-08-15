@@ -3,77 +3,103 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Rodrigo de Avila <rdeavila@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: 3a18b540013c4f1ea16ff82a81a45965
+#: ../../source/map.rst:4
 msgid "The map"
-msgstr ""
+msgstr "O mapa"
 
-#: e68407b893db4bcbae2f833cb586fddd
+#: ../../source/map.rst:7
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr ""
+"Uma razão pela qual o Diátaxis é eficaz como um guia para organizar a "
+"documentação é que ele descreve uma **estrutura bidimensional**, em vez de "
+"uma *lista*."
 
-#: a60f20d9a4a64db48ffa5dd0cd1dd237
+#: ../../source/map.rst:14
 msgid ""
 "It specifies its types of documentation in such a way that the structure "
 "naturally helps guide and shape the material it contains."
 msgstr ""
+"Ele especifica seus tipos de documentação de tal forma que a estrutura ajuda"
+" naturalmente a guiar e moldar o material que ela contém."
 
-#: ea46c096a2fe441090662418b6e67ef0
+#: ../../source/map.rst:17
 msgid ""
 "As a map, it places the different forms of documentation into relationships "
 "with each other. Each one occupies a space in the mental territory it "
 "outlines, and the boundaries between them highlight their distinctions."
 msgstr ""
+"Como um mapa, ele coloca as diferentes formas de documentação em relação "
+"umas com as outras. Cada uma ocupa um espaço no território mental que ele "
+"delineia, e as fronteiras entre elas destacam suas distinções."
 
-#: 28b66fe2dfa841edbecde3374c209dcb
+#: ../../source/map.rst:23
 msgid "The problem of structure"
-msgstr ""
+msgstr "O problema da estrutura"
 
-#: 04b0d063499846d9a19510a10b5f1fb2
+#: ../../source/map.rst:25
 msgid ""
 "When documentation fails to attain a good structure, it's rarely just a "
 "problem of structure (though it's bad enough that it makes it harder to use "
 "and maintain). Architectural faults infect and undermine content too."
 msgstr ""
+"Quando a documentação falha em atingir uma boa estrutura, raramente é apenas"
+" um problema de estrutura (embora seja ruim o suficiente para torná-la mais "
+"difícil de usar e manter). Falhas arquiteturais também infectam e minam o "
+"conteúdo."
 
-#: f8ba12790b56458380fddbfb4192286d
+#: ../../source/map.rst:27
 msgid ""
 "In the absence of a clear, generalised documentation architecture, "
 "documentation creators will often try to structure their work around "
 "features of a product."
 msgstr ""
+"Na ausência de uma arquitetura de documentação clara e generalizada, os "
+"criadores de documentação frequentemente tentarão estruturar seu trabalho em"
+" torno das funcionalidades de um produto."
 
-#: b6a9a7312d494a6598ca2d67a32a5546
+#: ../../source/map.rst:29
 msgid ""
 "This is rarely successful, even in a single instance. In a portfolio of "
 "documentation instances, the results are wild inconsistency. Much better is "
 "the adoption of a scheme that tries to provide an answer to the question: "
 "how to arrange documentation *in general?*"
 msgstr ""
+"Isso raramente é bem-sucedido, mesmo em um único caso. Em um portfólio de "
+"instâncias de documentação, os resultados são de uma inconsistência extrema."
+" Muito melhor é a adoção de um esquema que tente fornecer uma resposta à "
+"pergunta: como organizar a documentação *em geral?*"
 
-#: 2b0b9e41214d4443ad187573f57175a9
+#: ../../source/map.rst:34
 msgid ""
 "In fact any orderly attempt to organise documentation into clear content "
 "categories will help improve it (for authors as well as users), by providing"
 " lists of content types."
 msgstr ""
+"De fato, qualquer tentativa ordenada de organizar a documentação em "
+"categorias de conteúdo claras ajudará a melhorá-la (tanto para autores "
+"quanto para usuários), ao fornecer listas de tipos de conteúdo."
 
-#: e7c862e3d4c946b1836e41f27df271d4
+#: ../../source/map.rst:38
 msgid ""
 "Even so, authors often find themselves needing to write particular "
 "documentation content that fails to fit well within the categories put "
@@ -82,221 +108,241 @@ msgid ""
 "themselves working with - why this particular list of content types rather "
 "than another? And if another competing list is proposed, which to adopt?"
 msgstr ""
+"Ainda assim, os autores frequentemente se veem na necessidade de escrever "
+"conteúdos de documentação específicos que não se ajustam bem às categorias "
+"propostas por um esquema, ou enfrentam dificuldades para reescrever "
+"materiais existentes. Frequentemente, há uma sensação de arbitrariedade em "
+"relação à estrutura com a qual se veem trabalhando — por que esta lista "
+"específica de tipos de conteúdo em vez de outra? E se outra lista "
+"concorrente for proposta, qual adotar?"
 
-#: f5891811e7154cf68715187b669984e1
+#: ../../source/map.rst:48
 msgid "Expectations and guidance"
-msgstr ""
+msgstr "Expectativas e orientações"
 
-#: e5e755af73354bb4929eeea4dede69f2
+#: ../../source/map.rst:50
 msgid ""
 "A clear advantage of organising material this way is that it provides both "
 "clear *expectations* (to the reader) and *guidance* (to the author). It's "
 "clear what the purpose of any particular piece of content is, it specifies "
 "how it should be written and it shows where it should be placed."
 msgstr ""
+"Uma vantagem clara de organizar o material desta forma é que proporciona "
+"tanto *expectativas* claras (para o leitor) quanto *orientação* (para o "
+"autor). Fica claro qual é o propósito de qualquer conteúdo específico, ele "
+"especifica como deve ser escrito e mostra onde deve ser colocado."
 
-#: c738a82259e04f128b20e24fde831b26
+#: ../../source/map.rst:62
 msgid "\\"
-msgstr ""
+msgstr "\\"
 
-#: 16814e77378e4022acbd168162336be6
+#: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"
-msgstr ""
+msgstr ":ref:`Tutoriais <tutorials>`"
 
-#: 785f82cd59c048dfb02b7b47e70e09b8
+#: ../../source/map.rst:64
 msgid ":ref:`How-to guides <how-to>`"
-msgstr ""
+msgstr ":ref:`Guias práticos <how-to>`"
 
-#: a537a79644fc4a128b1a2741f5880484
+#: ../../source/map.rst:65
 msgid ":ref:`Reference <reference>`"
-msgstr ""
+msgstr ":ref:`Referência <reference>`"
 
-#: 60730f8fbc0b4f4083dfea70dfe287a9
+#: ../../source/map.rst:66
 msgid ":ref:`Explanation <explanation>`"
-msgstr ""
+msgstr ":ref:`Explicação <explanation>`"
 
-#: 9b18cf7da81742dbb28377d4e39e569d
+#: ../../source/map.rst:67
 msgid "what they do"
-msgstr ""
+msgstr "o que eles fazem"
 
-#: f5827a8912fa4633b9e0d16db8a7b266
+#: ../../source/map.rst:68
 msgid "introduce, educate, lead"
-msgstr ""
+msgstr "apresentar, educar, liderar"
 
-#: 9c9ecd6927694272a7ddba17c9b997a0
+#: ../../source/map.rst:69
 msgid "guide"
-msgstr ""
+msgstr "guia"
 
-#: c13f65e238564e56ad55cb02ce5390db
+#: ../../source/map.rst:70
 msgid "state, describe, inform"
-msgstr ""
+msgstr "declarar, descrever, informar"
 
-#: 8ff67795b38546b29430c6b2e2ffac14
+#: ../../source/map.rst:71
 msgid "explain, clarify, discuss"
-msgstr ""
+msgstr "explicar, esclarecer, discutir"
 
-#: 33395b4e7714488685ea32dee41d363a
+#: ../../source/map.rst:72
 msgid "answers the question"
-msgstr ""
+msgstr "responde à pergunta"
 
-#: 52ea36d8943b491d8746c88bcf482ece
+#: ../../source/map.rst:73
 msgid "\"Can you teach me to...?\""
-msgstr ""
+msgstr "\"Você pode me ensinar a...?\""
 
-#: 428b401aae3c45d2815666f2451e87bd
+#: ../../source/map.rst:74
 msgid "\"How do I...?\""
-msgstr ""
+msgstr "\"Como eu...?\""
 
-#: 193a4fa5609c4328bd832bcb56840ed5
+#: ../../source/map.rst:75
 msgid "\"What is...?\""
-msgstr ""
+msgstr "\"O que é...?\""
 
-#: e9add9b73ca446fb8c9d184db1fb0e98
+#: ../../source/map.rst:76
 msgid "\"Why...?\""
-msgstr ""
+msgstr "\"Porque...?\""
 
-#: be46d5c5a5634a3b8b38ffd4f7062afd
+#: ../../source/map.rst:77
 msgid "oriented to"
-msgstr ""
+msgstr "orientado a"
 
-#: 0cdc6255e66b4a7682114b486c218bb8
+#: ../../source/map.rst:78
 msgid "learning"
-msgstr ""
+msgstr "aprendizado"
 
-#: 566f181247624c689a9ddac917c6f54a
+#: ../../source/map.rst:79
 msgid "goals"
-msgstr ""
+msgstr "objetivos"
 
-#: 6cfface8e2e7469e971b993475ccb224
+#: ../../source/map.rst:80
 msgid "information"
-msgstr ""
+msgstr "informação"
 
-#: 9ad7c501aa1347d3a383cd45e9033b29
+#: ../../source/map.rst:81
 msgid "understanding"
-msgstr ""
+msgstr "entendimento"
 
-#: 055f65ac349441d489bd8b900859188c
+#: ../../source/map.rst:82
 msgid "purpose"
-msgstr ""
+msgstr "propósito"
 
-#: 3eff5eae84554a2c87ffc4cbba78e2e0
+#: ../../source/map.rst:83
 msgid "to provide a learning experience"
-msgstr ""
+msgstr "proporcionar uma experiência de aprendizagem"
 
-#: 8c0b97dbacf4427c99926e35cf602522
+#: ../../source/map.rst:84
 msgid "to help achieve a particular goal"
-msgstr ""
+msgstr "para ajudar a alcançar um objetivo específico"
 
-#: 8f94eaffea9b4cd8bcd850e10863daab
+#: ../../source/map.rst:85
 msgid "to describe the machinery"
-msgstr ""
+msgstr "para descrever o maquinário"
 
-#: 9a847694818843f38f5034867524192a
+#: ../../source/map.rst:86
 msgid "to illuminate a topic"
-msgstr ""
+msgstr "iluminar um assunto"
 
-#: de851fe9bbf3410a920018c4b1595438
+#: ../../source/map.rst:87
 msgid "form"
-msgstr ""
+msgstr "forma"
 
-#: 5be8913867464d0bb9157ff8beb7783d
+#: ../../source/map.rst:88
 msgid "a lesson"
-msgstr ""
+msgstr "uma lição"
 
-#: 7bbc62dcc4d74f1fa0f71f342788885e
+#: ../../source/map.rst:89
 msgid "a series of steps"
-msgstr ""
+msgstr "uma série de passos"
 
-#: f0d39408018e489d9c268b1c7e769d63
+#: ../../source/map.rst:90
 msgid "dry description"
-msgstr ""
+msgstr "descrição seca"
 
-#: 059d95e1125e474ab84e9227b9744609
+#: ../../source/map.rst:91
 msgid "discursive explanation"
-msgstr ""
+msgstr "explicação discursiva"
 
-#: c28a0a00d5cc497c9ebddbbc07f95475
+#: ../../source/map.rst:92
 msgid "analogy"
-msgstr ""
+msgstr "analogia"
 
-#: 091db0ed33ab40a58821dc0e2fb4333c
+#: ../../source/map.rst:93
 msgid "teaching a child how to cook"
-msgstr ""
+msgstr "ensinando uma criança a cozinhar"
 
-#: a808d2f6def74ed89132fbc445748920
+#: ../../source/map.rst:94
 msgid "a recipe in a cookery book"
-msgstr ""
+msgstr "uma receita em um livro de culinária"
 
-#: 9e5a3cba0fbe496e85e9337bd0923967
+#: ../../source/map.rst:95
 msgid "information on the back of a food packet"
-msgstr ""
+msgstr "informações no verso de um pacote de alimentos"
 
-#: ffcaa2532d20403b945d2d106852f9ba
+#: ../../source/map.rst:96
 msgid "an article on culinary social history"
-msgstr ""
+msgstr "um artigo sobre história social da culinária"
 
-#: 8b881170cb244b2ca5e1b533369c907b
+#: ../../source/map.rst:98
 msgid ""
 "Each piece of content is of a kind that not only has one particular job to "
 "do, that job is also clearly distinguished from and contrasted with the "
 "other functions of documentation."
 msgstr ""
+"Cada peça de conteúdo é de um tipo que não apenas tem uma função específica "
+"a desempenhar, esse trabalho também é claramente distinguido e contrastado "
+"com as outras funções da documentação."
 
-#: ee84b0f58fea4579b1ebb64bf12f7e7c
+#: ../../source/map.rst:103
 msgid "Blur"
-msgstr ""
+msgstr "Desfoque"
 
-#: 6dd4e2a432eb44edad4774e1ca886695
+#: ../../source/map.rst:105
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
 msgstr ""
+"A maioria dos sistemas de documentação e autores reconhece pelo menos "
+"algumas dessas distinções e tenta observá-las na prática."
 
-#: 5b872b614aac41b6b3ffd93632dce794
+#: ../../source/map.rst:108
 msgid "Partial collapse of the structure"
-msgstr ""
+msgstr "Desabamento parcial da estrutura"
 
-#: ef043829731c4dbfad3b5ac61d71069c
+#: ../../source/map.rst:112
 msgid ""
 "However, there is a kind of natural affinity between each of the different "
 "forms of documentation and its neighbours on the map, and a natural tendency"
 " to blur the distinctions (that can be seen repeatedly in examples of "
 "documentation)."
 msgstr ""
+"No entanto, há uma espécie de afinidade natural entre cada uma das "
+"diferentes formas de documentação e seus vizinhos no mapa, e uma tendência "
+"natural de borrar as distinções (que pode ser vista repetidamente em "
+"exemplos de documentação)."
 
-#: 717421ee00a7486a9a4145cadfc0a263
+#: ../../source/map.rst:120
 msgid "guide action"
-msgstr ""
+msgstr "guiar ação"
 
-#: c07ad59641e147f897aa1c6ad03fcf35 8b06e11c49274d29926916926fde74aa
+#: ../../source/map.rst:121 ../../source/map.rst:130
 msgid "tutorials"
-msgstr ""
+msgstr "tutoriais"
 
-#: 4ff83d46628c43a594f10e924e33c200 1000489ce90a4ad487b12e4e4e35a68e
+#: ../../source/map.rst:122 ../../source/map.rst:125
 msgid "how-to guides"
-msgstr ""
+msgstr "guias práticos"
 
-#: 5c67fa2ff28d484f96f6cc3eaa8e97ac
+#: ../../source/map.rst:123
 msgid "serve the application of skill"
-msgstr ""
+msgstr "servir à aplicação de habilidade"
 
-#: d9b691d316d342498b80bbe0eb761423 838d21b8a2134fa693f16ed75925d2d1
+#: ../../source/map.rst:124 ../../source/map.rst:127
 msgid "reference"
-msgstr ""
+msgstr "referencia"
 
-#: a69c11a755554b7592cc6db972c448b9
+#: ../../source/map.rst:126
 msgid "contain propositional knowledge"
-msgstr ""
+msgstr "conter conhecimento proposicional"
 
-#: cbd265062069444ba049053d0c03fe8e 4ccd8a00fc8046d381a57a6257cf322b
+#: ../../source/map.rst:128 ../../source/map.rst:131
 msgid "explanation"
-msgstr ""
+msgstr "explanação"
 
-#: a66d21149c764fa4b0c3eac98ba17f60
+#: ../../source/map.rst:129
 msgid "serve the acquisition of skill"
-msgstr ""
+msgstr "servir para a aquisição de habilidades"
 
-#: 160ab1dbcda3455ea46d144fcdc16085
+#: ../../source/map.rst:133
 msgid ""
 "When these distinctions are allowed to blur, the different kinds of "
 "documentation bleed into each other. Writing style and content make their "
@@ -304,29 +350,38 @@ msgid ""
 "make it even more difficult to maintain the discipline of appropriate "
 "writing."
 msgstr ""
+"Quando se permite que essas distinções se confundam, os diferentes tipos de "
+"documentação se misturam. O estilo de escrita e o conteúdo acabam se "
+"infiltrando em locais inadequados. Isso também causa problemas estruturais, "
+"o que torna ainda mais difícil manter a disciplina da escrita adequada."
 
-#: 76c274eca1944c3a9af87cda73b709db
+#: ../../source/map.rst:135
 msgid "Total collapse of the structure"
-msgstr ""
+msgstr "Colapso total da estrutura"
 
-#: 12d41fe188bc4849b09fcbb55ca259f3
+#: ../../source/map.rst:139
 msgid ""
 "In the worst case there is a complete or partial collapse of tutorials and "
 "how-to guides into each other, making it impossible to meet the needs served"
 " by either."
 msgstr ""
+"No pior caso, ocorre um colapso completo ou parcial de tutoriais e guias "
+"práticos uns nos outros, tornando impossível atender às necessidades "
+"atendidas por qualquer um deles."
 
-#: f21285fb505842eca265e95c50d0b959
+#: ../../source/map.rst:145
 msgid "The journey around the map"
-msgstr ""
+msgstr "A jornada ao redor do mapa"
 
-#: 47def3815c8c4b8893515dfa9e80a16f
+#: ../../source/map.rst:147
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
 msgstr ""
+"O Diátaxis tem o objetivo de ajudar a documentação a atender melhor os "
+"usuários em seu *ciclo de interação* com um produto."
 
-#: 02e865b8d403415aba0cb6b304d689fc
+#: ../../source/map.rst:149
 msgid ""
 "This phrase should not be understood too literally. It is not the case that "
 "a user must encounter the different kinds of documentation in the order "
@@ -335,44 +390,66 @@ msgid ""
 "guidance on some particular subject, and what they want to read will change "
 "from moment to moment as they use your documentation."
 msgstr ""
+"Esta frase não deve ser interpretada de forma muito literal. Não é o caso de"
+" que um usuário deva encontrar os diferentes tipos de documentação na ordem "
+"*tutoriais* > *guias práticos* > *referência técnica* > *explicação*. Na "
+"prática, um usuário real pode acessar a documentação em qualquer ponto em "
+"busca de orientação sobre algum assunto específico, e o que ele deseja ler "
+"mudará de momento para momento conforme ele utiliza sua documentação."
 
-#: f1f3540644fc4fd796eb1cc7d668e0ad
+#: ../../source/map.rst:154
 msgid ""
 "However, the idea of a cycle of documentation needs, that proceeds through "
 "different phases, is sound and corresponds to the way that people actually "
 "do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
+"No entanto, a ideia de um ciclo de necessidades de documentação, que passa "
+"por diferentes fases, é sólida e corresponde à maneira como as pessoas "
+"realmente se tornam especialistas em um ofício. Há um sentido e um "
+"significado nesta ordenação."
 
-#: 7e2b987545ef4a5495f4c9caf646dd4b
+#: ../../source/map.rst:157
 msgid "Moving around the map"
-msgstr ""
+msgstr "Movendo-se pelo mapa"
 
-#: 92753d7671e948d99383f15cd28c9ba1
+#: ../../source/map.rst:162
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
 msgstr ""
+"*fase orientada para a aprendizagem*: Começamos aprendendo, e aprender uma "
+"habilidade significa mergulhar de cabeça para fazê-la - sob a orientação de "
+"um professor, se tivermos sorte."
 
-#: 6a5115944134439b95a70f61363f64d9
+#: ../../source/map.rst:164
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr ""
+"*fase orientada a objetivos*: Em seguida, queremos colocar a habilidade em "
+"prática."
 
-#: 688b2991ec5c41a4a5a4f2e3a4576d60
+#: ../../source/map.rst:165
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
 msgstr ""
+"*fase orientada à informação*: Assim que o nosso trabalho exige conhecimento"
+" que já não tenhamos na cabeça, ele nos exige consultar referências "
+"técnicas."
 
-#: 1d1c53bd5eca46dda11113bb6bdc5afa
+#: ../../source/map.rst:167
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
 msgstr ""
+"*fase orientada à explicação*: Finalmente, longe do trabalho, refletimos "
+"sobre nossa prática e conhecimento para compreender o todo."
 
-#: f9d887a57f3c48b1922a403d28532d06
+#: ../../source/map.rst:170
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."
 msgstr ""
+"E então volta-se ao início, talvez para compreender algo novo, ou para "
+"penetrar mais profundamente."

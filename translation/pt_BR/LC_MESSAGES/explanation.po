@@ -3,50 +3,63 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Rodrigo de Avila <rdeavila@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: 564bf820ef394671bd084e3875ce83e8
+#: ../../source/explanation.rst:4
 msgid "Explanation"
-msgstr ""
+msgstr "Explicação"
 
-#: 0572a5290b7847b0ae71b1a0458aa713
+#: ../../source/explanation.rst:8
 msgid ""
 "Explanation is a discursive treatment of a subject, that permits "
 "*reflection*. Explanation is **understanding-oriented**."
 msgstr ""
+"A explicação é um tratamento discursivo de um assunto, que permite a "
+"*reflexão*. A explicação é **orientada para a compreensão**."
 
-#: 33382bbf6f004641a6904459081b7229
+#: ../../source/explanation.rst:11
 msgid ""
 "Explanation deepens and broadens the reader's understanding of a subject. It"
 " brings clarity, light and context."
 msgstr ""
+"A explicação aprofunda e amplia a compreensão do leitor sobre um assunto. "
+"Ela traz clareza, luz e contexto."
 
-#: 053c8d50814e42e2b9af9ca773a86ed4
+#: ../../source/explanation.rst:13
 msgid ""
 "Explanation - understanding oriented, theoretical knowledge, that serves our"
 " study"
 msgstr ""
+"Explicação - orientada para a compreensão, conhecimento teórico, que serve "
+"ao nosso estudo"
 
-#: b8e7ce4fb16c4db686468a1e32080bbc
+#: ../../source/explanation.rst:17
 msgid ""
 "The concept of *reflection* is important. Reflection occurs *after* "
 "something else, and depends on something else, yet at the same time brings "
 "something new - shines a new light - on the subject matter."
 msgstr ""
+"O conceito de *reflexão* é importante. A reflexão ocorre *depois* de outra "
+"coisa, e depende de outra coisa, mas ao mesmo tempo traz algo novo - lança "
+"uma nova luz - sobre o assunto."
 
-#: c8f42c26db8945eb907912e41566a8cb
+#: ../../source/explanation.rst:19
 msgid ""
 "The perspective of explanation is higher and wider than that of the other "
 "three types. It does not take the user's eye-level view, as in a how-to "
@@ -54,29 +67,40 @@ msgid ""
 "scope in each case is a topic - \"an area of knowledge\", that somehow has "
 "to be bounded in a reasonable, meaningful way."
 msgstr ""
+"A perspectiva da explicação é mais elevada e abrangente do que a dos outros "
+"três tipos. Ela não adota a visão ao nível dos olhos do usuário, como em um "
+"guia prático, nem uma visão detalhada do maquinário, como em um material de "
+"referência. Seu escopo, em cada caso, é um tópico — \"uma área de "
+"conhecimento\", que de alguma forma precisa ser delimitado de maneira "
+"razoável e significativa."
 
-#: 53fe9cf3cb054041bf0c7625f968fb81
+#: ../../source/explanation.rst:21
 msgid ""
 "For the user, explanation joins things together. It's an answer to the "
 "question: *Can you tell me about ...?*"
 msgstr ""
+"Para o usuário, a explicação conecta as coisas. É uma resposta à pergunta: "
+"*Você pode me falar sobre ...?*"
 
-#: 7da3d8ce5a0c442dbc8e551d46b3edb5
+#: ../../source/explanation.rst:23
 msgid ""
 "It's documentation that it makes sense to read while away from the product "
 "itself (one could say, explanation is the only kind of documentation that it"
 " might make sense to read in the bath)."
 msgstr ""
+"É uma documentação que faz sentido ler enquanto se está longe do próprio "
+"produto (pode-se dizer que a explicação é o único tipo de documentação que "
+"pode fazer sentido ler na banheira)."
 
-#: 68ca2d8af17244e2a0c227d92fbab3de
+#: ../../source/explanation.rst:28
 msgid "The value and place of explanation"
-msgstr ""
+msgstr "O valor e o lugar da explicação"
 
-#: 56e0ff7ef8564350b1bcd2b23eabcb63
+#: ../../source/explanation.rst:31
 msgid "Explanation and understanding"
-msgstr ""
+msgstr "Explicação e compreensão"
 
-#: 32876774ecd748cbbc4f3f8ea26af1e6
+#: ../../source/explanation.rst:33
 msgid ""
 "Explanation  is characterised by its distance from the active concerns of "
 "the practitioner. It doesn't have direct implications for what they do, or "
@@ -86,37 +110,49 @@ msgid ""
 "can afford to be without an understanding of that craft, and needs the "
 "explanatory material that will help weave it together."
 msgstr ""
+"A explicação caracteriza-se pelo seu distanciamento das preocupações ativas "
+"do profissional. Ela não tem implicações diretas para o que ele faz, ou para"
+" o seu trabalho. Isso significa que, às vezes, ela é vista como sendo de "
+"menor importância. Isso é um erro; pode ser menos *urgente* do que as outras"
+" três, mas não é menos *importante*. Não é um luxo. Nenhum profissional de "
+"um ofício pode se dar ao luxo de não ter a compreensão desse ofício, e "
+"precisa do material explicativo que ajudará a entrelaçá-lo."
 
-#: 2c35d6b5f7f04af8b90c0a1d8bd305b5
+#: ../../source/explanation.rst:38
 msgid ""
 "Your explanation documentation doesn't need to be called *Explanation*. "
 "Alternatives include:"
 msgstr ""
+"Sua documentação explicativa não precisa se chamar *Explicação*. "
+"Alternativas incluem:"
 
-#: b5734e7b1d1a4a9790f2ae8d67a752df
+#: ../../source/explanation.rst:40
 msgid "*Discussion*"
-msgstr ""
+msgstr "*Discussão*"
 
-#: 4d2def3f86524f14baf08ad138fb85de
+#: ../../source/explanation.rst:41
 msgid "*Background*"
-msgstr ""
+msgstr "*Background*"
 
-#: 3e795cb977e948fb986cc99385979771
+#: ../../source/explanation.rst:42
 msgid "*Conceptual guides*"
-msgstr ""
+msgstr "*Guias conceituais*"
 
-#: 03a18b6e20814cc89e83f35b7dc86c99
+#: ../../source/explanation.rst:43
 msgid "*Topics*"
-msgstr ""
+msgstr "*Tópicos*"
 
-#: 75fbefacfdd146f5a75e7877755d7b65
+#: ../../source/explanation.rst:45
 msgid ""
 "The word *explanation* - and its cognates in other languages - refer to "
 "*unfolding*, the revelation of what is hidden in the folds. So explanation "
 "brings to the light things that were implicit or obscured."
 msgstr ""
+"A palavra *explicação* - e seus cognatos em outros idiomas - referem-se ao "
+"*desdobramento*, a revelação do que está escondido nas dobras. Assim, a "
+"explicação traz à luz coisas que estavam implícitas ou obscurecidas."
 
-#: fd5940d708164914aa91e169058fc9af
+#: ../../source/explanation.rst:47
 msgid ""
 "Similarly, words that mean *understanding* share roots in words meaning to "
 "hold or grasp (as in *comprehend*). That's an important part of "
@@ -124,96 +160,126 @@ msgid ""
 "Understanding seals together the other components of our mastery of a craft,"
 " and makes it safely our own."
 msgstr ""
+"Da mesma forma, palavras que significam *compreensão* compartilham raízes "
+"com palavras que significam segurar ou agarrar (como em *compreender*). Essa"
+" é uma parte importante da compreensão, ser capaz de segurar algo ou estar "
+"em posse disso. A compreensão sela os outros componentes do nosso domínio de"
+" um ofício e o torna, com segurança, nosso."
 
-#: 10febbb631314858bf41eea11acd77ea
+#: ../../source/explanation.rst:49
 msgid ""
 "Understanding doesn't *come from* explanation, but explanation is required "
 "to form that web that helps hold everything together. Without it, the "
 "practitioner's knowledge of their craft is loose and fragmented and fragile,"
 " and their exercise of it is *anxious*."
 msgstr ""
+"A compreensão não *vem da* explicação, mas a explicação é necessária para "
+"formar aquela teia que ajuda a manter tudo unido. Sem ela, o conhecimento do"
+" praticante sobre seu ofício é solto e fragmentado e frágil, e o seu "
+"exercício dele é *ansioso*."
 
-#: 44891fbe078f4ce4a58220dae36dbb86
+#: ../../source/explanation.rst:55
 msgid "Explanation and its boundaries"
-msgstr ""
+msgstr "Explicação e seus limites"
 
-#: 49e39514eb6c408192a17d4338576d75
+#: ../../source/explanation.rst:57
 msgid ""
 "Quite often explanation is not explicitly recognised in documentation; and "
 "the idea that things need to be explained is often only faintly expressed. "
 "Instead, explanation tends to be scattered in small parcels in other "
 "sections."
 msgstr ""
+"Com frequência, a explicação não é explicitamente reconhecida na "
+"documentação; e a ideia de que as coisas precisam ser explicadas é, muitas "
+"vezes, expressa apenas de forma vaga. Em vez disso, a explicação tende a "
+"estar espalhada em pequenos fragmentos em outras seções."
 
-#: 81edd35b01ca46bfb0a67b016a0d5823
+#: ../../source/explanation.rst:61
 msgid ""
 "It's not always easy to write good explanatory material. Where does one "
 "start? It's also not clear where to conclude. There is an open-endedness "
 "about it that can give the writer too many possibilities."
 msgstr ""
+"Nem sempre é fácil escrever um bom material explicativo. Por onde se começa?"
+" Também não está claro onde concluir. Há uma certa indefinição nisso que "
+"pode dar ao escritor possibilidades demais."
 
-#: 9dda24bc621349b0a810d3aa86a60149
+#: ../../source/explanation.rst:64
 msgid ""
 "Tutorials, how-to-guides and reference are all clearly defined in their "
 "scope by something that is also well-defined: by what you need the user to "
 "learn, what task the user needs to achieve, or just by the scope of the "
 "machine itself."
 msgstr ""
+"Tutoriais, guias práticos e referência têm seus escopos claramente definidos"
+" por algo que também é bem definido: pelo que você precisa que o usuário "
+"aprenda, pela tarefa que o usuário precisa realizar ou apenas pelo escopo da"
+" própria máquina."
 
-#: 449553c7190a498f84fd3b2d56557eed
+#: ../../source/explanation.rst:67
 msgid ""
 "In the case of explanation, it's useful to have a real or imagined *why* "
 "question to serve as a prompt. Otherwise, you simply have to draw some lines"
 " that mark out a reasonable area and be satisfied with that."
 msgstr ""
+"No caso de uma explicação, é útil ter uma pergunta de *por que* real ou "
+"imaginária para servir como um estímulo. Caso contrário, você simplesmente "
+"tem que traçar algumas linhas que delimitem uma área razoável e ficar "
+"satisfeito com isso."
 
-#: 22de809c101b4176a70d961444eecb36
+#: ../../source/explanation.rst:75
 msgid "Writing good explanation"
-msgstr ""
+msgstr "Escrever uma boa explicação"
 
-#: bd8c026b464a4db1b1f0edf1305e6efb
+#: ../../source/explanation.rst:78
 msgid "Make connections"
-msgstr ""
+msgstr "Faça conexões"
 
-#: f5b5fa3b8d71473899f8baea9273fb8c
+#: ../../source/explanation.rst:80
 msgid ""
 "When writing explanation you are helping to weave a web of understanding for"
 " your readers. **Make connections** to other things, even to things outside "
 "the immediate topic, if that helps."
 msgstr ""
+"Ao escrever explicações, você está ajudando a tecer uma teia de compreensão "
+"para seus leitores. **Faça conexões** com outras coisas, até mesmo com "
+"coisas fora do tópico imediato, se isso ajudar."
 
-#: c054f2f734ec4e53b3211272a7cd61dc
+#: ../../source/explanation.rst:85
 msgid "Provide context"
-msgstr ""
+msgstr "Forneça contexto"
 
-#: 4af74eb3249545c29504463bd509b798
+#: ../../source/explanation.rst:87
 msgid ""
 "**Provide background and context in your explanation**: explain *why* things"
 " are so - design decisions, historical reasons, technical constraints - draw"
 " implications, mention specific examples."
 msgstr ""
+"**Forneça contexto e histórico em sua explicação**: explique *por que* as "
+"coisas são assim - decisões de design, razões históricas, restrições "
+"técnicas - tire implicações, mencione exemplos específicos."
 
-#: c32bfe715a734b1d84542a5abff627f7
+#: ../../source/explanation.rst:92
 msgid "Talk *about* the subject"
-msgstr ""
+msgstr "Fale *sobre* o assunto"
 
-#: 9984ca3974ab4213a649ee37c78615c5
+#: ../../source/explanation.rst:96
 msgid "the bigger picture"
-msgstr ""
+msgstr "o quadro geral"
 
-#: 51873967deda419987e4c10fd58ec6c0
+#: ../../source/explanation.rst:97
 msgid "history"
-msgstr ""
+msgstr "história"
 
-#: 5f90cafdb8a1450a81f953d66953af6d
+#: ../../source/explanation.rst:98
 msgid "choices, alternatives, possibilities"
-msgstr ""
+msgstr "escolhas, alternativas, possibilidades"
 
-#: efea7e33ea2e41c7813dae336448d937
+#: ../../source/explanation.rst:99
 msgid "why: reasons and justifications"
-msgstr ""
+msgstr "por que: razões e justificativas"
 
-#: a038d942958b4a938788f11e1957395a
+#: ../../source/explanation.rst:101
 msgid ""
 "Explanation guides are *about* a topic in the sense that they are *around* "
 "it. Even the names of your explanation guides should reflect this; you "
@@ -221,39 +287,56 @@ msgid ""
 "each title. For example: *About user authentication*, or *About database "
 "connection policies*."
 msgstr ""
+"Guias de explicação são *sobre* um tópico no sentido de que eles estão *em "
+"torno* dele. Até mesmo os nomes dos seus guias de explicação devem refletir "
+"isso; deve ser possível colocar um *sobre* implícito (ou até mesmo "
+"explícito) na frente de cada título. Por exemplo: *Sobre autenticação de "
+"usuário*, ou *Sobre políticas de conexão de banco de dados*."
 
-#: 7bad92f28053497a866a0413b6f903b0
+#: ../../source/explanation.rst:107
 msgid "Admit opinion and perspective"
-msgstr ""
+msgstr "Admitir opinião e perspectiva"
 
-#: bea81332871b4ad0a46c4b99f5aff929
+#: ../../source/explanation.rst:109
 msgid ""
 "Opinion might seem like a funny thing to introduce into documentation. The "
 "fact is that all human activity and knowledge is invested within opinion, "
 "with beliefs and thoughts. The reality of any human creation is rich with "
 "opinion, and that needs to be part of any understanding of it."
 msgstr ""
+"Opinião pode parecer algo curioso para se introduzir em uma documentação. O "
+"fato é que toda atividade e conhecimento humanos estão investidos em "
+"opiniões, com crenças e pensamentos. A realidade de qualquer criação humana "
+"é rica em opiniões, e isso precisa fazer parte de qualquer compreensão sobre"
+" ela."
 
-#: f3ba701d6170422786bc9b0f993cd24e
+#: ../../source/explanation.rst:111
 msgid ""
 "Similarly, any understanding comes from a perspective, a particular stand-"
 "point - which means that other perspectives and stand-points exist. "
 "**Explanation can and must consider alternatives**, counter-examples or "
 "multiple different approaches to the same question."
 msgstr ""
+"Da mesma forma, qualquer compreensão vem de uma perspectiva, de um ponto de "
+"vista particular - o que significa que outras perspectivas e pontos de vista"
+" existem. **A explicação pode e deve considerar alternativas**, "
+"contraexemplos ou múltiplas abordagens diferentes para a mesma questão."
 
-#: 6215f03b8cd047f0a3ae232f7e2602eb
+#: ../../source/explanation.rst:113
 msgid ""
 "In explanation, you're not giving instruction or describing facts - you're "
 "opening up the topic for consideration. It helps to think of explanation as "
 "discussion: discussions can even consider and weigh up contrary *opinions*."
 msgstr ""
+"Na explicação, você não está dando instruções ou descrevendo fatos - você "
+"está abrindo o tema para consideração. Ajuda pensar na explicação como uma "
+"discussão: discussões podem até considerar e ponderar *opiniões* contrárias."
 
-#: 6430b6b7720f488bbb9d9d8daaf2cc86
+#: ../../source/explanation.rst:117
 msgid "Keep explanation closely bounded"
-msgstr ""
+msgstr "Mantenha a explicação estritamente delimitada"
 
-#: 5577a2ff61de45b19739b397ed836aa0
+#: ../../source/explanation.rst:119
 msgid ""
 "One risk of explanation is that it tends to absorb other things. The writer,"
 " intent on covering the topic, feels the urge to include instruction or "
@@ -261,64 +344,75 @@ msgid ""
 "places for these, and allowing them to creep in interferes with the "
 "explanation itself, and removes them from view in the correct place."
 msgstr ""
+"Um risco da explicação é que ela tende a absorver outras coisas. O escritor,"
+" empenhado em cobrir o tópico, sente o impulso de incluir instruções ou "
+"descrições técnicas relacionadas a ele. Mas a documentação já possui outros "
+"lugares para elas, e permitir que elas se infiltrem interfere na própria "
+"explicação e as retira de vista do local correto."
 
-#: 3fbc1fc69de94496a1bd3ddf94be430e
+#: ../../source/explanation.rst:125
 msgid "The language of explanation"
-msgstr ""
+msgstr "A linguagem da explicação"
 
-#: 87fffa4547cc48c59907042c0e121b27
+#: ../../source/explanation.rst:127
 msgid "*The reason for x is because historically, y ...*"
-msgstr ""
+msgstr "*A razão de x é porque, historicamente, y ...*"
 
-#: 88edefa8aa91478c8d6cc63fa7a8a5b7
+#: ../../source/explanation.rst:128
 msgid "Explain."
-msgstr ""
+msgstr "Explique."
 
-#: ccf86a492f39469f97d604759cdc3c99
+#: ../../source/explanation.rst:129
 msgid "*W is better than z, because ...*"
-msgstr ""
+msgstr "*W é melhor que z, porque ...*"
 
-#: 26de3569c6ef483dbcd2bfcddfc667dd
+#: ../../source/explanation.rst:130
 msgid "Offer judgements and even opinions where appropriate.."
-msgstr ""
+msgstr "Ofereça julgamentos e até mesmo opiniões onde for apropriado.."
 
-#: 646dabdb1e6f45e7b79e49d0ada80919
+#: ../../source/explanation.rst:131
 msgid "*An x in system y is analogous to a w in system z. However ...*"
-msgstr ""
+msgstr "*Um x no sistema y é análogo a um w no sistema z. No entanto ...*"
 
-#: bb7db9f835b54329b4e656103c594f1c
+#: ../../source/explanation.rst:132
 msgid "Provide context that helps the reader."
-msgstr ""
+msgstr "Forneça contexto que ajude o leitor."
 
-#: 292297786b1b4cb2b8c396806b88c5d4
+#: ../../source/explanation.rst:133
 msgid "*Some users prefer w (because z). This can be a good approach, but...*"
 msgstr ""
+"*Alguns usuários preferem w (porque z). Isso pode ser uma boa abordagem, "
+"mas...*"
 
-#: 3f033821080244d3aafd90fa9f550018
+#: ../../source/explanation.rst:134
 msgid "Weigh up alternatives."
-msgstr ""
+msgstr "Pesar as alternativas."
 
-#: bd09e725edf84151a08e19789de4b898
+#: ../../source/explanation.rst:135
 msgid "*An x interacts with a y as follows: ...*"
-msgstr ""
+msgstr "*Um x interage com um y da seguinte forma: ...*"
 
-#: 0989770b13394279bc197739b44a4eae
+#: ../../source/explanation.rst:136
 msgid ""
 "Unfold the machinery's internal secrets, to help understand why something "
 "does what it does."
 msgstr ""
+"Desvende os segredos internos da maquinaria, para ajudar a entender por que "
+"algo faz o que faz."
 
-#: 1b3f375c83e24be69c3da53e939def76
+#: ../../source/explanation.rst:141
 msgid "Analogy from food and cooking"
-msgstr ""
+msgstr "Analogia de comida e culinária"
 
-#: c2396a3dff21424a906c66c42c289692
+#: ../../source/explanation.rst:144
 msgid ""
 "In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
 " cooking*."
 msgstr ""
+"Em 1984 `Harold McGee <https://www.curiouscook.com>`_ publicou *On food and "
+"cooking*."
 
-#: 2a9bfc41289945bd9762a7e1d41c026e
+#: ../../source/explanation.rst:150
 msgid ""
 "The book doesn't teach how to cook anything. It doesn't contain recipes "
 "(except as historical examples) and it isn't a work of reference. Instead, "
@@ -326,15 +420,24 @@ msgid ""
 "technology. It explains for example why we do what we do in the kitchen and "
 "how that has changed."
 msgstr ""
+"O livro não ensina a cozinhar nada. Não contém receitas (exceto como "
+"exemplos históricos) e não é uma obra de referência. Em vez disso, ele situa"
+" a comida e a culinária no contexto da história, da sociedade, da ciência e "
+"da tecnologia. Ele explica, por exemplo, por que fazemos o que fazemos na "
+"cozinha e como isso mudou."
 
-#: bba9c870918047b59dbb23cce68c5ca8
+#: ../../source/explanation.rst:152
 msgid ""
 "It's clearly not a book we would read *while* cooking. We would read when we"
 " want to reflect on cooking. It illuminates the subject by taking multiple "
 "different perspectives on it, shining light from different angles."
 msgstr ""
+"Claramente não é um livro que leríamos *enquanto* cozinhamos. Leríamos "
+"quando quiséssemos refletir sobre a culinária. Ele ilumina o assunto ao "
+"adotar múltiplas perspectivas diferentes sobre ele, lançando luz de "
+"diferentes ângulos."
 
-#: 0373b7874d004e40ba72107922e280e0
+#: ../../source/explanation.rst:154
 msgid ""
 "After reading a book like *On food and cooking*, our understanding is "
 "changed. Our knowledge is richer and deeper. What we have learned may or may"
@@ -342,3 +445,8 @@ msgid ""
 "kitchen, but *it will change how we think about our craft, and will affect "
 "our practice*."
 msgstr ""
+"Após ler um livro como *On food and cooking*, nossa compreensão muda. Nosso "
+"conhecimento torna-se mais rico e profundo. O que aprendemos pode ou não ser"
+" imediatamente aplicável na próxima vez que estivermos fazendo algo na "
+"cozinha, mas *isso mudará a forma como pensamos sobre o nosso ofício e "
+"afetará a nossa prática*."

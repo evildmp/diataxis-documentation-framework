@@ -3,6 +3,10 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jiwon Kwak, 2026
+# tii, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: tii, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,29 +24,30 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:4
 msgid "How-to guides"
-msgstr ""
+msgstr "하우투 가이드"
 
 #: ../../source/how-to-guides.rst:7
 msgid ""
 "How-to guides are **directions** that guide the reader through a problem or "
 "towards a result. How-to guides are **goal-oriented**."
 msgstr ""
+"하우투 가이드는 독자가 문제를 헤쳐 나가도록, 또는 결과에 이르도록 이끄는 **지침**입니다. 하우투 가이드는 **목표 지향적**입니다."
 
 #: ../../source/how-to-guides.rst:10
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
-msgstr ""
+msgstr "하우투 가이드는 사용자가 무언가를 올바르고 안전하게 완수하도록 돕습니다. 즉, 사용자의 *행동*을 안내합니다."
 
 #: ../../source/how-to-guides.rst:12
 msgid ""
 "It's concerned with *work* - navigating from one side to the other of a "
 "real-world problem-field."
-msgstr ""
+msgstr "이는 *업무*, 즉 현실의 문제 영역의 한쪽 끝에서 반대쪽 끝까지 나아가는 일에 관한 것입니다."
 
 #: ../../source/how-to-guides.rst:14
 msgid "How-to guides - task oriented, practical steps, that serve our work"
-msgstr ""
+msgstr "하우투 가이드 - 과제 지향적이고, 우리 업무를 지원하는 실천적인 단계"
 
 #: ../../source/how-to-guides.rst:18
 msgid ""
@@ -50,6 +56,9 @@ msgid ""
 "hand, *how to build a web application* is not - that's not addressing a "
 "specific goal or problem, it's a vastly open-ended sphere of skill."
 msgstr ""
+"예를 들면 *레이더 배열을 보정하는 방법*, *pytest에서 픽스처를 사용하는 방법*, *재연결 백오프 정책을 설정하는 방법* 같은 "
+"것들입니다. 반면 *웹 애플리케이션을 만드는 방법*은 여기에 해당하지 않습니다. 이는 특정한 목표나 문제를 다루는 것이 아니라, 끝없이 "
+"열려 있는 방대한 기술 영역이기 때문입니다."
 
 #: ../../source/how-to-guides.rst:22
 msgid ""
@@ -58,16 +67,18 @@ msgid ""
 "picture of what your product can actually *do*. A rich list of how-to guides"
 " is an encouraging suggestion of a product's capabilities."
 msgstr ""
+"하우투 가이드가 중요한 이유는 사용자가 무언가를 해낼 수 있어야 하기 때문만이 아닙니다. 문서에 실린 하우투 가이드 목록은 제품이 실제로"
+" 무엇을 *할 수 있는지* 윤곽을 잡아 줍니다. 목록이 풍부하다면 그만큼 제품의 역량이 든든하다는 신호가 됩니다."
 
 #: ../../source/how-to-guides.rst:26
 msgid ""
 "Well-written how-to guides that address the right questions are likely to be"
 " the most-read sections of your documentation."
-msgstr ""
+msgstr "올바른 질문을 다루는, 잘 작성된 하우투 가이드는 문서에서 가장 많이 읽히는 부분이 될 가능성이 높습니다."
 
 #: ../../source/how-to-guides.rst:31
 msgid "How-to guides addressed to problems"
-msgstr ""
+msgstr "문제를 겨냥한 하우투 가이드"
 
 #: ../../source/how-to-guides.rst:33
 msgid ""
@@ -77,6 +88,9 @@ msgid ""
 " should answer to a human project, in other words. It should show what the "
 "human needs to do, with the tools at hand, to obtain the result they need."
 msgstr ""
+"**하우투 가이드는 시스템이 아니라 사용자의 관점에서 작성해야 합니다.** 하우투 가이드는 누군가 해내야 하는 일을 담습니다. 다시 말해"
+" 그 내용은 사용자의 필요에 따라 결정됩니다. 모든 하우투 가이드는 사람이 하려는 일에 답해야 합니다. 원하는 결과를 얻기 위해 사람이 "
+"주어진 도구로 무엇을 해야 하는지 보여주어야 합니다."
 
 #: ../../source/how-to-guides.rst:35
 msgid ""
@@ -87,6 +101,9 @@ msgid ""
 " user has. Instead, it's focused on the tool, on taking the machinery "
 "through its motions."
 msgstr ""
+"이는  하우투 가이드에서 흔히 통용되는 방식과 뚜렷이 대비됩니다. 그러한 방식에서는 도구나 시스템으로 수행할 수 있는 동작이 가이드의 "
+"내용을 결정합니다. 이런 방식의 문제는 사용자에게 별 가치를 주지 못한다는 점입니다. 사용자가 갖는 어떠한 필요도 다루지 않기 "
+"때문입니다. 대신 도구 그 자체, 시스템을 정해진 동작대로 작동시키는 데에만 초점을 맞춥니다."
 
 #: ../../source/how-to-guides.rst:37
 msgid ""
@@ -94,20 +111,22 @@ msgid ""
 " purpose and need. There is no purpose or need in the functionality of a "
 "machine. It is merely a series of causes and effects, inputs and outputs."
 msgstr ""
+"이는 근본적으로 *유의미함*에 따른 구분입니다. 의미는 목적과 필요에서 나옵니다. 기계의 기능에는 목적도 필요도 존재하지 않습니다. 그저"
+" 원인과 결과, 입력과 출력이 이어질 뿐입니다."
 
 #: ../../source/how-to-guides.rst:39
 msgid "Consider:"
-msgstr ""
+msgstr "다음을 살펴보십시오."
 
 #: ../../source/how-to-guides.rst:41
 msgid "\"To shut off the flow of water, turn the tap clockwise.\""
-msgstr ""
+msgstr "\"물을 잠그려면 수도꼭지를 시계 방향으로 돌리십시오.\""
 
 #: ../../source/how-to-guides.rst:42
 msgid ""
 "\"To deploy the desired database configuration, select the appropriate "
 "options and press **Deploy**.\""
-msgstr ""
+msgstr "\"원하는 데이터베이스 설정을 배포하려면 알맞은 옵션을 선택한 뒤 **Deploy**를 누르십시오.\""
 
 #: ../../source/how-to-guides.rst:46
 msgid ""
@@ -115,10 +134,12 @@ msgid ""
 "power switch, but it is shocking how often how-to guides in software "
 "documentation are written at this level."
 msgstr ""
+"전원 스위치로 기기를 켠다는 사실까지 굳이 알려 줄 필요는 없습니다. 그런데도 소프트웨어 문서의 하우투 가이드가 이런 수준으로 쓰이는 "
+"경우가 얼마나 많은지 놀라울 따름입니다."
 
 #: ../../source/how-to-guides.rst:48
 msgid "The examples above *look* like examples of guidance, but they are not."
-msgstr ""
+msgstr "위의 예시들은 안내처럼 *보이지만*, 실제로는 안내가 아닙니다."
 
 #: ../../source/how-to-guides.rst:50
 msgid ""
@@ -127,26 +148,28 @@ msgid ""
 " them, standardised interfaces and generally-expected knowledge should make "
 "it quite clear what effect most actions will have."
 msgstr ""
+"대부분 쓸모없는 정보이며, 기본적인 역량을 갖춘 사람이라면, 그러니까 이 분야에서 일하는 사람이라면 당연히 알고 있어야 할 내용입니다. "
+"표준화된 인터페이스와 일반적으로 통용되는 지식만으로도 대부분의 동작이 어떤 결과를 낼지는 충분히 명확해집니다."
 
 #: ../../source/how-to-guides.rst:52
 msgid ""
 "Secondly, they are disconnected from purpose. What the user needs to know "
 "might be things like:"
-msgstr ""
+msgstr "둘째로, 이 예시들은 목적과 동떨어져 있습니다. 사용자가 정말로 알아야 할 것은 이런 내용입니다."
 
 #: ../../source/how-to-guides.rst:54
 msgid ""
 "how much water to run, and how vigorously to run it, for a certain purpose"
-msgstr ""
+msgstr "특정한 목적을 위해 물을 얼마나 많이, 그리고 얼마나 세게 틀어야 하는지"
 
 #: ../../source/how-to-guides.rst:55
 msgid ""
 "what database configuration options align with particular real-world needs"
-msgstr ""
+msgstr "현실의 특정한 요구에 적합한 데이터베이스 설정 옵션은 무엇인지"
 
 #: ../../source/how-to-guides.rst:59
 msgid "How-to guides are about goals, projects and problems, not about tools."
-msgstr ""
+msgstr "하우투 가이드는 도구가 아니라 목표와 프로젝트, 문제를 다룹니다."
 
 #: ../../source/how-to-guides.rst:61
 msgid ""
@@ -159,10 +182,14 @@ msgid ""
 "In either case, it is that project that defines what a how-to guide must "
 "cover."
 msgstr ""
+"하우투 가이드에서 도구는 사용자의 목적을 위한 수단으로, 부수적인 조연일 뿐입니다. 물론 어떤 목적이 특정 도구나 시스템의 특정 부분과 "
+"밀접하게 맞물려 있어서, 하우투 가이드가 실제로 그 도구에 집중하게 되는 경우도 있습니다. 그에 못지않게 자주, 하우투 가이드는 여러 "
+"도구나 시스템의 여러 부분을 가로지르며, 사람이 해내야 하는 일을 중심으로 그것들을 일련의 활동으로 엮어 냅니다. 어느 경우든, 하우투 "
+"가이드가 무엇을 다루어야 하는지 결정하는 것은 바로 그 일입니다."
 
 #: ../../source/how-to-guides.rst:67
 msgid "What how-to guides are not"
-msgstr ""
+msgstr "하우투 가이드가 아닌 것"
 
 #: ../../source/how-to-guides.rst:69
 msgid ""
@@ -171,6 +198,9 @@ msgid ""
 " them is at the root of many difficulties that afflict documentation. See "
 ":ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
+"**하우투 가이드는 튜토리얼과 완전히 구별됩니다**. 둘은 자주 혼동되지만, 각각 충족하는 사용자의 필요는 상당히 다릅니다. 이 둘을 "
+"뒤섞는 것이야말로 문서화를 괴롭히는 여러 문제의 근원입니다. 이 구분에 대한 논의는 :ref:`tutorials-how-to` 문서를 "
+"참조하시기 바랍니다."
 
 #: ../../source/how-to-guides.rst:71
 msgid ""
@@ -182,32 +212,36 @@ msgid ""
 "Often, a how-to guide will need the user to rely on their judgement in "
 "applying the guidance it can provide."
 msgstr ""
+"또 다른 혼동으로, 하우투 가이드를 단순한 절차 안내서로 여기는 경우가 많습니다. 그러나 문제를 풀거나 과제을 완수하는 일이 언제나 "
+"일련의 절차로 환원되는 것은 아닙니다. 현실의 문제가 늘 선형적인 해법을 내주지는 않기 때문입니다. 하우투 가이드의 행동 순서는 때로 "
+"갈라지고 또 겹쳐야 하며, 들어오고 나가는 지점도 여럿입니다. 하우투 가이드가 제공하는 안내를 적용할 때, 사용자가 스스로의 판단에 "
+"기대야 하는 경우도 많습니다."
 
 #: ../../source/how-to-guides.rst:77
 msgid "Key principles"
-msgstr ""
+msgstr "핵심 원칙"
 
 #: ../../source/how-to-guides.rst:79
 msgid ""
 "A how to-guide is concerned with work - a task or problem, with a practical "
 "goal. *Maintain focus on that goal*."
-msgstr ""
+msgstr "하우투 가이드가 다루는 것은 업무, 곧 실용적인 목표를 지닌 과제나 문제입니다. *그 목표에서 초점을 잃지 마십시오*."
 
 #: ../../source/how-to-guides.rst:83
 msgid "focused on tasks or problems"
-msgstr ""
+msgstr "과제나 문제에 초점을 맞춥니다"
 
 #: ../../source/how-to-guides.rst:84
 msgid "assume the user knows what they want to achieve"
-msgstr ""
+msgstr "사용자가 무엇을 이루려 하는지 이미 알고 있다고 가정합니다"
 
 #: ../../source/how-to-guides.rst:85
 msgid "action and only action"
-msgstr ""
+msgstr "오직 행동만 다룹니다"
 
 #: ../../source/how-to-guides.rst:86
 msgid "no digression, explanation, teaching"
-msgstr ""
+msgstr "여담도, 설명도, 가르침도 금물"
 
 #: ../../source/how-to-guides.rst:88
 msgid ""
@@ -217,6 +251,9 @@ msgid ""
 " user in their work. They get in the way of the action; if they're "
 "important, link to them."
 msgstr ""
+"그 밖에 무엇을 덧붙이든 작성자와 사용자 모두의 주의를 흩뜨리고, 가이드가 지닌 유용한 힘을 희석시킵니다. 흔히 빠지기 쉬운 유혹으로는 "
+"설명을 덧붙이거나, 완전성을 기하기 위해 레퍼런스를 끼워 넣는 것이 있습니다. 둘 다 사용자의 업무를 안내하는 데 속하지 않습니다. "
+"오히려 행동을 가로막을 뿐이며, 중요하다면 링크로 연결하십시오."
 
 #: ../../source/how-to-guides.rst:90
 msgid ""
@@ -224,10 +261,12 @@ msgid ""
 "assume to know what they want to do, and to be able to follow your "
 "instructions correctly."
 msgstr ""
+"하우투 가이드는 이미 역량을 갖춘 사용자의 업무를 지원합니다. 사용자가 자신이 무엇을 하려는지 알고 있고, 지시를 정확히 따를 수 있다고"
+" 가정해도 좋습니다."
 
 #: ../../source/how-to-guides.rst:94
 msgid "Address real-world complexity"
-msgstr ""
+msgstr "현실의 복잡함을 다루십시오"
 
 #: ../../source/how-to-guides.rst:96
 msgid ""
@@ -237,10 +276,13 @@ msgid ""
 "must find ways to remain open to the range of possibilities, in such a way "
 "that the user can adapt your guidance to their needs."
 msgstr ""
+"**하우투 가이드는 현실의 사례에 맞게 응용할 수 있어야 합니다**. 다루고 있는 좁은 목적에 *정확히* 들어맞는 경우가 아니면 쓸모가 "
+"없는 가이드는 좀처럼 가치를 갖지 못합니다. 가능한 모든 경우를 다 다룰 수는 없으므로, 여러 가능성에 열려 있을 방법을 찾아내야 "
+"합니다. 사용자가 안내를 자신의 필요에 맞게 응용할 수 있도록 말입니다."
 
 #: ../../source/how-to-guides.rst:99
 msgid "Omit the unnecessary"
-msgstr ""
+msgstr "불필요한 것은 생략하십시오"
 
 #: ../../source/how-to-guides.rst:101
 msgid ""
@@ -249,10 +291,13 @@ msgid ""
 " does not. It should start and end in some reasonable, meaningful place, and"
 " require the reader to join it up to their own work."
 msgstr ""
+"하우투 가이드에서는 **완결성보다 실질적인 유용성이 더 도움이 됩니다.** 튜토리얼은 처음부터 끝까지 이어지는 완결된 안내여야 하지만, "
+"하우투 가이드는 그럴 필요가 없습니다. 납득할 만한 유의미한 지점에서 시작하고 끝맺어야 하며, 그것을 자신의 업무에 이어 붙이는 것은 "
+"독자의 몫입니다."
 
 #: ../../source/how-to-guides.rst:107
 msgid "Provide a set of instructions"
-msgstr ""
+msgstr "일련의 지시를 제공하십시오"
 
 #: ../../source/how-to-guides.rst:109
 msgid ""
@@ -261,6 +306,8 @@ msgid ""
 " you can work your way through it by taking the steps outlined in this "
 "approach. The steps are in the form of *actions*."
 msgstr ""
+"하우투 가이드는 현실의 문제나 과제에 대한 *실행 가능한 해법*을 서술합니다. 이는 일종의 계약과 같은 형식을 띱니다. 이러한 상황에 "
+"놓여 있을 때, 여기서 제시된 단계들을 밟아 그 상황을 헤쳐 나갈 수 있다는 것입니다. 그 단계들은 *행동*의 형태를 취합니다."
 
 #: ../../source/how-to-guides.rst:111
 msgid ""
@@ -268,10 +315,12 @@ msgid ""
 "judgement - solving a problem involves thinking it through. A how-to guide "
 "should address how the user thinks as well as what the user does."
 msgstr ""
+"여기서 말하는 \"행동\"에는 물리적인 행위뿐 아니라 사고와 판단도 포함됩니다. 문제를 푼다는 것은 그 문제를 끝까지 생각해 본다는 "
+"뜻이기 때문입니다. 하우투 가이드는 사용자가 무엇을 하는지뿐 아니라 어떻게 생각하는지도 다루어야 합니다."
 
 #: ../../source/how-to-guides.rst:115
 msgid "Describe a logical sequence"
-msgstr ""
+msgstr "논리적인 순서를 서술하십시오"
 
 #: ../../source/how-to-guides.rst:117
 msgid ""
@@ -279,6 +328,8 @@ msgid ""
 "logical ordering in time, that there is a sense and meaning to this "
 "particular order."
 msgstr ""
+"하우투 가이드의 근본적인 구조는 *순서*입니다. 시간에 따른 논리적 배열을 뜻하며, 그 특정한 순서에 나름의 이치와 의미가 있다는 "
+"뜻이기도 합니다."
 
 #: ../../source/how-to-guides.rst:119
 msgid ""
@@ -286,6 +337,8 @@ msgid ""
 "(step two requires completion of step one, for example). In this case it's "
 "obvious what order your directions should take."
 msgstr ""
+"많은 경우 그 순서는 이미 정해져 있습니다. 예를 들어 2단계는 1단계를 마쳐야만 진행할 수 있습니다. 이럴 때는 지침을 어떤 순서로 "
+"놓아야 할지가 자명합니다."
 
 #: ../../source/how-to-guides.rst:121
 msgid ""
@@ -294,10 +347,12 @@ msgid ""
 "the user's working environment or even their thinking in a way that benefits"
 " the other, that's a good reason for putting it first."
 msgstr ""
+"그러나 더 미묘한 경우도 있습니다. 두 작업을 어느 쪽 순서로도 *수행*할 수 있지만, 한쪽 작업이 사용자의 작업 환경이나 사고 방식을 "
+"다른 작업에 도움이 되도록 갖추어 준다면, 그것을 앞에 둘 충분한 이유가 됩니다."
 
 #: ../../source/how-to-guides.rst:125
 msgid "Seek flow"
-msgstr ""
+msgstr "흐름을 만드십시오"
 
 #: ../../source/how-to-guides.rst:127
 msgid ""
@@ -305,6 +360,7 @@ msgid ""
 "activities and thinking, in such a way that the guide acquires *flow*: "
 "smooth progress."
 msgstr ""
+"언제나 순서를 *사용자의* 활동과 사고 패턴 위에 세우려고 노력하십시오. 그래야 가이드가 *흐름*, 즉 매끄러운 진행을 얻게 됩니다."
 
 #: ../../source/how-to-guides.rst:129
 msgid ""
@@ -312,6 +368,8 @@ msgid ""
 "to sense and meaning in ordering requires paying attention to the way human "
 "beings think and act, and the needs of someone following directions."
 msgstr ""
+"흐름을 만들어 낸다는 것은 사용자를 제대로 이해했다는 뜻입니다. 순서에 담긴 이치와 의미에 주의를 기울인다는 것은, 사람이 생각하고 "
+"행동하는 방식, 그리고 지침을 따르는 사람의 필요에 주의를 기울인다는 뜻입니다."
 
 #: ../../source/how-to-guides.rst:131
 msgid ""
@@ -323,6 +381,10 @@ msgid ""
 "they can be resolved in action? If you require the user to jump back to "
 "earlier concerns, is this necessary or avoidable?"
 msgstr ""
+"이 역시 어느 정도는 자명합니다. 사용자가 맥락과 도구 사이를 몇 번이고 오가게 만드는 워크플로는 누가 보아도 어설프고 비효율적입니다. "
+"그러나 그보다 더 깊이 들여다보아야 합니다. 사용자에게 무엇에 대해 생각하라고 요구하고 있으며, 업무 중에 그 생각은 한 주제에서 다른 "
+"주제로 어떻게 흘러가겠습니까? 사용자가 어떤 생각을 행동으로 매듭짓기까지 얼마나 오래 머릿속에 붙들고 있게 만들고 있습니까? 앞서 다룬 "
+"문제로 다시 되돌아가게 만든다면, 그것은 꼭 필요한 일입니까, 아니면 피할 수 있는 일입니까?"
 
 #: ../../source/how-to-guides.rst:133
 msgid ""
@@ -330,6 +392,8 @@ msgid ""
 "action taking place in time. Action, and a guide to it, has pace and rhythm."
 " Badly-judged pace or disrupted rhythm are both damaging to flow."
 msgstr ""
+"하우투 가이드는 시간 속의 논리적 배열뿐 아니라 시간 속에서 일어나는 행동까지 다룹니다. 행동에는, 그리고 그 행동을 이끄는 가이드에는 "
+"속도와 리듬이 있습니다. 잘못 잡은 속도와 흐트러진 리듬 둘 다 흐름을 해칩니다."
 
 #: ../../source/how-to-guides.rst:135
 msgid ""
@@ -338,71 +402,77 @@ msgid ""
 "the documentation equivalent of a helper who has the tool you were about to "
 "reach for, ready to place it in your hand."
 msgstr ""
+"훌륭한 하우투 문서는 사용자에게 흐름을 선사합니다. 사용자를 *미리 헤아리는* 듯한 가이드를 만나는 경험은 유난히 각별합니다. 마치 "
+"당신이 막 손을 뻗으려던 도구를 이미 손에 쥐고 건네줄 준비를 하고 있는 조력자를 만난 것만 같습니다."
 
 #: ../../source/how-to-guides.rst:139
 msgid "Pay attention to naming"
-msgstr ""
+msgstr "이름 짓기에 주의를 기울이십시오"
 
 #: ../../source/how-to-guides.rst:141
 msgid "**Choose titles that say exactly what a how-to guide shows.**"
-msgstr ""
+msgstr "**하우투 가이드가 무엇을 보여주는지 정확히 드러내는 제목을 고르십시오.**"
 
 #: ../../source/how-to-guides.rst:143
 msgid "good: *How to integrate application performance monitoring*"
-msgstr ""
+msgstr "좋음: *애플리케이션 성능 모니터링을 연동하는 방법*"
 
 #: ../../source/how-to-guides.rst:144
 msgid ""
 "bad: *Integrating application performance monitoring* (maybe the document is"
 " about how to decide whether you should, not about how to do it)"
 msgstr ""
+"나쁨: *애플리케이션 성능 모니터링 연동하기* (연동을 할지 말지 판단하는 방법에 대한 문서일 뿐, 실제로 연동하는 방법을 다루지 않는 "
+"문서일 수 있습니다)"
 
 #: ../../source/how-to-guides.rst:145
 msgid ""
 "very bad: *Application performance monitoring* (maybe it's about *how* - but"
 " maybe it's about *whether*, or even just an explanation of *what* it is)"
 msgstr ""
+"매우 나쁨: *애플리케이션 성능 모니터링* (*방법*을 다룰 수도 있지만, *할지 말지*를 다룰 수도 있고, 그저 그것이 *무엇인지* "
+"설명하는 글일 수도 있습니다)"
 
 #: ../../source/how-to-guides.rst:147
 msgid ""
 "Note that search engines appreciate good titles just as much as humans do."
-msgstr ""
+msgstr "검색 엔진 또한 사람만큼이나 좋은 제목을 반긴다는 점을 기억하십시오."
 
 #: ../../source/how-to-guides.rst:152
 msgid "The language of how-to guides"
-msgstr ""
+msgstr "하우투 가이드의 언어"
 
 #: ../../source/how-to-guides.rst:154
 msgid "*This guide shows you how to...*"
-msgstr ""
+msgstr "*이 가이드는 ...하는 방법을 보여줍니다*"
 
 #: ../../source/how-to-guides.rst:155
 msgid ""
 "Describe clearly the problem or task that the guide shows the user how to "
 "solve."
-msgstr ""
+msgstr "가이드가 해결 방법을 보여주려는 문제나 과제를 분명히 서술하십시오."
 
 #: ../../source/how-to-guides.rst:156
 msgid "*If you want x, do y. To achieve w, do z.*"
-msgstr ""
+msgstr "*x를 원한다면 y를 하십시오. w를 이루려면 z를 하십시오.*"
 
 #: ../../source/how-to-guides.rst:157
 msgid "Use conditional imperatives."
-msgstr ""
+msgstr "조건부 명령문을 사용하십시오."
 
 #: ../../source/how-to-guides.rst:158
 msgid "*Refer to the x reference guide for a full list of options.*"
-msgstr ""
+msgstr "*전체 옵션 목록은 x 레퍼런스 가이드를 참고하십시오.*"
 
 #: ../../source/how-to-guides.rst:159
 msgid ""
 "Don't pollute your practical how-to guide with every possible thing the user"
 " might do related to x."
-msgstr ""
+msgstr "x에 관한 사용자가 할 수 있는 온갖 일을 끌어들여 실용적인 하우투 가이드를 어지럽히지 마십시오."
 
 #: ../../source/how-to-guides.rst:165
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "음식과 요리에 적용하기"
 
 #: ../../source/how-to-guides.rst:167
 msgid ""
@@ -410,10 +480,12 @@ msgid ""
 "defines what will be achieved by following it, and **addresses a specific "
 "question** (*How do I make...?* or *What can I make with...?*)."
 msgstr ""
+"하우투 가이드의 훌륭한 본보기인 레시피를 떠올려 보십시오. 레시피는 그대로 따랐을 때 무엇을 얻게 되는지 분명히 밝히고, **구체적인 "
+"질문에 답합니다** (*...은 어떻게 만듭니까?* 또는 *...으로 무엇을 만들 수 있습니까?*)."
 
 #: ../../source/how-to-guides.rst:169
 msgid "A recipe contains a list of ingredients and a list of steps."
-msgstr ""
+msgstr "레시피는 재료 목록과 단계 목록으로 이루어져 있습니다."
 
 #: ../../source/how-to-guides.rst:172
 msgid ""
@@ -422,6 +494,8 @@ msgid ""
 "times before may still follow a recipe - even if they *created* the recipe "
 "themselves - to ensure that they do it correctly."
 msgstr ""
+"무언가를 만드는 법을 *가르치는* 것은 레시피의 몫이 아닙니다. 똑같은 요리를 이미 여러 번 만들어 본 전문 요리사도 제대로 해내기 위해"
+" 레시피를 따르곤 합니다. 자신이 직접 *만든* 레시피라도 마찬가지입니다."
 
 #: ../../source/how-to-guides.rst:174
 msgid ""
@@ -429,6 +503,8 @@ msgid ""
 "has never cooked before should not be expected to follow a recipe with "
 "success, so a recipe is not a substitute for a cooking lesson."
 msgstr ""
+"레시피를 따르는 일조차 **최소한의 기본 역량을 요구합니다**. 요리를 한 번도 해 본 적 없는 사람이 레시피를 보고 성공하리라 "
+"기대해서는 안 됩니다. 레시피는 요리 수업을 대신하지 못합니다."
 
 #: ../../source/how-to-guides.rst:176
 msgid ""
@@ -440,3 +516,6 @@ msgid ""
 " excludes both teaching and discussion, and focuses only on **how** to make "
 "the dish concerned."
 msgstr ""
+"레시피를 기대했는데 요리 수업을 받게 된 사람은 실망하고 짜증이 날 것입니다. 마찬가지로 어떤 요리의 배경이나 역사를 읽는 일은 "
+"흥미롭지만, 한창 그 요리를 만들고 있는 동안만큼은 결코 마주하고 싶지 않은 내용입니다. 좋은 레시피는 확립된 형식을 따르며, 가르침도 "
+"논의도 배제하고 오직 그 요리를 **어떻게** 만드는지에만 집중합니다."

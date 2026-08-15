@@ -35,7 +35,7 @@ msgstr "Strona główna"
 
 #: ../../_templates/page.html:58
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
-msgstr "1Copyright1 © %(copyright)s"
+msgstr "<a href=\"%(path)s\">Copyright</a> © %(copyright)s"
 
 #: ../../_templates/page.html:62
 msgid "Copyright &#169; %(copyright)s"

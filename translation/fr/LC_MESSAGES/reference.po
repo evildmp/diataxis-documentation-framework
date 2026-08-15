@@ -1,96 +1,96 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# evildmp <daniele@vurt.org>, 2026
+# Nicolas Friedli <nicolas.friedli@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version:  Diátaxis\n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: fr\n"
-"Language-Team: French "
-"(https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
-"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % "
-"1000000 == 0 ? 1 : 2;\n"
+"Last-Translator: Nicolas Friedli <nicolas.friedli@gmail.com>, 2026\n"
+"Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: fr\n"
+"Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: 2fc73a00ec824d6488f4aa47d93ae851
+#: ../../source/reference.rst:4
 msgid "Reference"
-msgstr ""
+msgstr "Référence"
 
-#: df25538b430b4af8b2cefe57dac5e4a2
+#: ../../source/reference.rst:7
 msgid ""
-"Reference guides are **technical descriptions** of the machinery and how "
-"to operate it. Reference material is **information-oriented**."
+"Reference guides are **technical descriptions** of the machinery and how to "
+"operate it. Reference material is **information-oriented**."
 msgstr ""
-"Les guides de référence sont des **descriptions techniques** de la "
-"mécanique interne et de son fonctionnement. Les références sont "
-"**orientées sur l'information**."
+"Les guides de référence sont des **descriptions techniques** de la mécanique"
+" interne et de son fonctionnement. Les références sont **orientées sur "
+"l'information**."
 
-#: 7ecdc11ee9ab455e9b2e4efaff61e3f0
+#: ../../source/reference.rst:10
 msgid ""
-"Reference material contains *propositional or theoretical* knowledge that"
-" a user looks to in their *work*."
+"Reference material contains *propositional or theoretical* knowledge that a "
+"user looks to in their *work*."
 msgstr ""
 
-#: 9989dfe60d4f4673813c1c3b1e7c28ed
+#: ../../source/reference.rst:12
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
-"possible, and in an orderly way. Whereas the content of tutorials and "
-"how-to guides are led by needs of the user, reference material is led by "
-"the product it describes."
+"possible, and in an orderly way. Whereas the content of tutorials and how-to"
+" guides are led by needs of the user, reference material is led by the "
+"product it describes."
 msgstr ""
-"Le seul but d'un guide de référence est la description, aussi succincte "
-"que possible, de manière ordonnée. Alors que le contenu des tutoriels et "
-"des guides pratiques est dicté par les besoins de l'utilisateur, le matériel"
-" des guides de référence est défini par le produit qu'ils décrivent."
+"Le seul but d'un guide de référence est la description, aussi succincte que "
+"possible, de manière ordonnée. Alors que le contenu des tutoriels et des "
+"guides pratiques est dicté par les besoins de l'utilisateur, le matériel des"
+" guides de référence est défini par le produit qu'ils décrivent."
 
-#: 1a35dff5b2c649ee84833eb1f494dc98
+#: ../../source/reference.rst:16
 msgid ""
 "Reference - information oriented, theoretical knowledge, that serves our "
 "work"
 msgstr ""
 
-#: ce63c07c2b3a45aabb5328976da3186d
+#: ../../source/reference.rst:20
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
 msgstr ""
-"Dans le cas d'un logiciel, les guides de références décrivent le logiciel"
-" lui même - ses APIs, ses classes, ses fonctions, etc. - et comment les "
+"Dans le cas d'un logiciel, les guides de références décrivent le logiciel "
+"lui même - ses APIs, ses classes, ses fonctions, etc. - et comment les "
 "utiliser."
 
-#: 7b17396051854b70a5e1278493667895
+#: ../../source/reference.rst:23
 msgid ""
-"Your users need reference material because they need truth and certainty "
-"- firm platforms on which to stand while they work. Good technical "
-"reference is essential to provide users with the confidence to do their "
-"work."
+"Your users need reference material because they need truth and certainty - "
+"firm platforms on which to stand while they work. Good technical reference "
+"is essential to provide users with the confidence to do their work."
 msgstr ""
-"Vos utilisateurs ont besoin de matériel de référence parce qu'ils ont "
-"besoin de fiabilité et de certitude; des plateformes solides sur "
-"lesquelles ils peuvent s'appuyer durant leur travail. Une bonne référence"
-" technique est essentielle pour donner aux utilisateurs la confiance "
-"nécessaire dans leur travail."
+"Vos utilisateurs ont besoin de matériel de référence parce qu'ils ont besoin"
+" de fiabilité et de certitude; des plateformes solides sur lesquelles ils "
+"peuvent s'appuyer durant leur travail. Une bonne référence technique est "
+"essentielle pour donner aux utilisateurs la confiance nécessaire dans leur "
+"travail."
 
-#: c3b3a88989394f059d7ce0a1219321d9
+#: ../../source/reference.rst:29
 msgid "Reference as description"
 msgstr "Références en tant que description"
 
-#: 8d60a269fe98415198f92e64beb945f7
+#: ../../source/reference.rst:31
 msgid ""
-"Reference material describes the machinery. It should be **austere**. One"
-" hardly *reads* reference material; one *consults* it."
+"Reference material describes the machinery. It should be **austere**. One "
+"hardly *reads* reference material; one *consults* it."
 msgstr ""
 
-#: 4837ab60fae34ee983633c0fcbbd1b99
+#: ../../source/reference.rst:34
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
@@ -98,160 +98,159 @@ msgstr ""
 "Il ne doit y avoir ni doute ni d'ambiguïté dans les références; elles "
 "doivent faire autorité."
 
-#: 65c1f1af7b164e0099c75d4027700d4b
+#: ../../source/reference.rst:36
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
-"about the territory, without having to go out and check the territory for"
-" yourself; a reference guide serves the same purpose for the product and "
-"its internal machinery."
+"about the territory, without having to go out and check the territory for "
+"yourself; a reference guide serves the same purpose for the product and its "
+"internal machinery."
 msgstr ""
-"Le matériel de référence est analogue à une carte géographique. Une carte"
-" vous donne les informations nécessaires à propos du territoire, sans "
-"avoir à vous déplacer ou à vérifier le territoire par vous-même. Un guide"
-" de référence poursuit le même objectif au sujet d'un produit et de sa "
-"mécanique interne."
+"Le matériel de référence est analogue à une carte géographique. Une carte "
+"vous donne les informations nécessaires à propos du territoire, sans avoir à"
+" vous déplacer ou à vérifier le territoire par vous-même. Un guide de "
+"référence poursuit le même objectif au sujet d'un produit et de sa mécanique"
+" interne."
 
-#: 0df476c47f19424fae8476b1d05464d2
+#: ../../source/reference.rst:40
 msgid ""
-"Although reference should not attempt to show how to perform tasks, it "
-"can and often needs to include a description of how something works or "
-"the correct way to use it."
+"Although reference should not attempt to show how to perform tasks, it can "
+"and often needs to include a description of how something works or the "
+"correct way to use it."
 msgstr ""
-"Bien que la référence ne cherche pas à montrer comment effectuer des "
-"tâches, elle peut et doit souvent décrire le fonctionnement d'un objet ou"
-" la manière correcte de l'utiliser."
+"Bien que la référence ne cherche pas à montrer comment effectuer des tâches,"
+" elle peut et doit souvent décrire le fonctionnement d'un objet ou la "
+"manière correcte de l'utiliser."
 
-#: 509b2cf899e14d38b67d6db1527f9c4d
+#: ../../source/reference.rst:45
 msgid ""
 "Unfortunately, too many software developers think that auto-generated "
 "reference material is all the documentation required."
 msgstr ""
 
-#: 045aa3fb33cf43a0974710663108adea
+#: ../../source/reference.rst:48
 msgid ""
 "Some reference material (such as API documentation) can be generated "
 "automatically by the software it describes, which is a powerful way of "
 "ensuring that it remains faithfully accurate to the code."
 msgstr ""
 
-#: 7d3fefd3ecfb4ec8a88a0f19c79c08cb
+#: ../../source/reference.rst:56
 msgid "Key principles"
 msgstr ""
 
-#: 7afd5c3fa4704778abc1e626e50a8b87
+#: ../../source/reference.rst:59
 msgid "Describe and only describe"
 msgstr ""
 
-#: 1ff7e164bcb94c9a85067d4da8567a52
+#: ../../source/reference.rst:61
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr ""
 
-#: 5a7105a6bb2b403d9ea8e7b1abd5ad45
+#: ../../source/reference.rst:65
 msgid "austere and uncompromising"
 msgstr "sobre et sans compromis"
 
-#: c3939c67147f4fd5b2499aef76b930d3
+#: ../../source/reference.rst:66
 msgid "neutrality, objectivity, factuality"
 msgstr "neutre, objectif, factuel"
 
-#: 305e5575f6d14807998044b9ca896a9b
+#: ../../source/reference.rst:67
 msgid "structured according to the structure of the machinery itself"
-msgstr ""
+msgstr "structuré en fonction de ma machinerie interne elle-même"
 
-#: 8407c274faef4e8a8b3773013c6a5b1f
+#: ../../source/reference.rst:69
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
-"neutrally. It's not a natural way of communicating. What's natural on the"
-" other hand is to explain, instruct, discuss, opine, and all these things"
-" run counter to the needs of technical reference, which instead demands "
+"neutrally. It's not a natural way of communicating. What's natural on the "
+"other hand is to explain, instruct, discuss, opine, and all these things run"
+" counter to the needs of technical reference, which instead demands "
 "accuracy, precision, completeness and clarity."
 msgstr ""
 
-#: 0cda67a86dbc4dda9db3285004825a90
+#: ../../source/reference.rst:71
 msgid ""
-"It can be tempting to introduce instruction and explanation, simply "
-"because description can seem too inadequate to be useful, and because we "
-"do indeed need these other things. Instead, link to how-to guides, "
-"explanation and introductory tutorials."
+"It can be tempting to introduce instruction and explanation, simply because "
+"description can seem too inadequate to be useful, and because we do indeed "
+"need these other things. Instead, link to how-to guides, explanation and "
+"introductory tutorials."
 msgstr ""
 
-#: c7051588fc094e72a40ac511dd4a5cca
+#: ../../source/reference.rst:75
 msgid "Adopt standard patterns"
 msgstr ""
 
-#: 3a43423712be423d8292b157a416192a
+#: ../../source/reference.rst:77
 msgid ""
-"**Reference material is useful when it is consistent.** Standard patterns"
-" are what allow us to use reference material effectively. Your job is to "
-"place the material that your user needs where they expect to find it, in "
-"a format that they are familiar with."
+"**Reference material is useful when it is consistent.** Standard patterns "
+"are what allow us to use reference material effectively. Your job is to "
+"place the material that your user needs where they expect to find it, in a "
+"format that they are familiar with."
 msgstr ""
 
-#: 6a99aaf7cf5a426cb5ca9fa7e1012698
+#: ../../source/reference.rst:79
 msgid ""
-"There are many opportunities in writing to delight your readers with your"
-" extensive vocabulary and command of multiple styles, but reference "
-"material is definitely not one of them."
+"There are many opportunities in writing to delight your readers with your "
+"extensive vocabulary and command of multiple styles, but reference material "
+"is definitely not one of them."
 msgstr ""
 
-#: fb1503f8f2954d15b83c843b1f86cbf9
+#: ../../source/reference.rst:85
 msgid "Respect the structure of the machinery"
 msgstr "Respecter la structure de la mécanique interne"
 
-#: cbd68e6e017d48a18216b0914155c563
+#: ../../source/reference.rst:87
 msgid ""
-"The way a map corresponds to the territory it represents helps us use the"
-" former to find our way through the latter. It should be the same with "
+"The way a map corresponds to the territory it represents helps us use the "
+"former to find our way through the latter. It should be the same with "
 "documentation: **the structure of the documentation should mirror the "
-"structure of the product**, so that the user can work their way through "
-"them at the same time."
+"structure of the product**, so that the user can work their way through them"
+" at the same time."
 msgstr ""
-"La manière dont une carte correspond au territoire qu'elle décrit nous "
-"aide à l'utiliser pour trouver son chemin dans ce territoire. Il devrait "
-"en être de même avec une documentation: **la structure de la "
-"documentation reflète la structure du produit**, ainsi l'utilisateur s'y "
-"retrouve aisément."
+"La manière dont une carte correspond au territoire qu'elle décrit nous aide "
+"à l'utiliser pour trouver son chemin dans ce territoire. Il devrait en être "
+"de même avec une documentation: **la structure de la documentation reflète "
+"la structure du produit**, ainsi l'utilisateur s'y retrouve aisément."
 
-#: 152115996af848d0bfd6671a430f90ce
+#: ../../source/reference.rst:92
 msgid ""
 "It doesn't mean forcing the documentation into an unnatural structure. "
 "What's important is that the logical, conceptual arrangement of and "
 "relations within the code should help make sense of the documentation."
 msgstr ""
 
-#: f877bb15428a4fc2a0ea6cca564948a6
+#: ../../source/reference.rst:98
 msgid "Provide examples"
 msgstr "Offrez des exemples"
 
-#: 4b576ae658c544429e43b770a4d5f59c
+#: ../../source/reference.rst:100
 msgid ""
-"**Examples** are valuable ways of providing illustration that helps "
-"readers understand reference, while avoiding the risk of becoming "
-"distracted from the job of describing. For example, an example of usage "
-"of a command can be a succinct way of illustrating it and its context, "
-"without falling into the trap of trying to explain or instruct."
+"**Examples** are valuable ways of providing illustration that helps readers "
+"understand reference, while avoiding the risk of becoming distracted from "
+"the job of describing. For example, an example of usage of a command can be "
+"a succinct way of illustrating it and its context, without falling into the "
+"trap of trying to explain or instruct."
 msgstr ""
 
-#: a9ec6a908ddd4c1187ca9cbb29b2c5e8
+#: ../../source/reference.rst:106
 msgid "The language of reference guides"
 msgstr "Le style des guides de référence"
 
-#: b298a2dc3fa446d2bc5e99cb0f359511
+#: ../../source/reference.rst:108
 msgid ""
 "Django's default logging configuration inherits Python's defaults. It's "
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
 "``django/utils/log.py``"
 msgstr ""
 
-#: df66fdc5b09d4cfdb44c3bfd9c67b93f
+#: ../../source/reference.rst:109
 msgid "State facts about the machinery and its behaviour."
 msgstr "Indiquez les faits concernant la mécanique et son comportement."
 
-#: 13ec4ef5333248ca859e78b3b3d382cb
+#: ../../source/reference.rst:110
 msgid "Sub-commands are: a, b, c, d, e, f."
 msgstr ""
 
-#: 80397e467b8d43f790c8634819c4630c
+#: ../../source/reference.rst:111
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
@@ -259,70 +258,57 @@ msgstr ""
 "Listez les commandes, options, opérations, caractéristiques, *flags*, "
 "limitations, messages d'erreur, etc."
 
-#: 428a4a2123784dacae9dced6a57dee7b
+#: ../../source/reference.rst:112
 msgid "You must use a. You must not apply b unless c. Never d."
 msgstr ""
 
-#: 7eb7966f301e4567b21214eb98baa4cf
+#: ../../source/reference.rst:113
 msgid "Provide warnings where appropriate."
 msgstr "Offrez des avertissements le cas échéant."
 
-#: 0ee408b54afb4cc8aeabe3cf3aef3722
+#: ../../source/reference.rst:118
 msgid "Applied to food and cooking"
 msgstr ""
 
-#: 92d8208edf964e14bb7fcfb1c16914a3
+#: ../../source/reference.rst:120
 msgid ""
-"You might check the information on a packet of food, in order to help you"
-" make a decision about what to do."
+"You might check the information on a packet of food, in order to help you "
+"make a decision about what to do."
 msgstr ""
 
-#: ee9a4e3841404b64b3b1293c078944e0
+#: ../../source/reference.rst:122
 msgid ""
-"When you're looking for information - relevant facts - you do not want to"
-" be confronted by opinions, speculation, instructions or interpretation."
+"When you're looking for information - relevant facts - you do not want to be"
+" confronted by opinions, speculation, instructions or interpretation."
 msgstr ""
 
-#: 6bf6fbd0db144bf0989ddc4aba1d4d2e
+#: ../../source/reference.rst:124
 msgid "Information on the back of a packet of lasagne"
 msgstr ""
 
-#: d3038fbe2ebe483082b781ba02222cb1
+#: ../../source/reference.rst:129
 msgid ""
-"You also expect that information to be presented in standard ways, so "
-"that you - when you need to know about something's nutritional "
-"properties, how it should be stored, its ingredients, what health "
-"implications it might have - can find them quickly, and know you can rely"
-" on them."
+"You also expect that information to be presented in standard ways, so that "
+"you - when you need to know about something's nutritional properties, how it"
+" should be stored, its ingredients, what health implications it might have -"
+" can find them quickly, and know you can rely on them."
 msgstr ""
 
-#: 93aeef90fa9e434bae8d6446217932e3
+#: ../../source/reference.rst:131
 msgid ""
-"So you expect to see for example: *May contain traces of wheat*. Or: *Net"
-" weight: 1000g*."
+"So you expect to see for example: *May contain traces of wheat*. Or: *Net "
+"weight: 1000g*."
 msgstr ""
 
-#: 51e2fe8d3af5401b936ca985762856c7
+#: ../../source/reference.rst:133
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
 msgstr ""
 
-#: 36328be346bc44aca3a2449d501b6d3a
+#: ../../source/reference.rst:135
 msgid ""
 "The way reference material is presented on food products is so important "
-"that it's usually governed by law, and the same kind of seriousness "
-"should apply to all reference documentation."
+"that it's usually governed by law, and the same kind of seriousness should "
+"apply to all reference documentation."
 msgstr ""
-
-#~ msgid ""
-#~ "**Reference material is useful when it"
-#~ " is consistent.** Standard patterns are "
-#~ "what allow us to use reference "
-#~ "material effectively. Your job is to "
-#~ "place the material that your user "
-#~ "needs know where they expect to "
-#~ "find it, in a format that they "
-#~ "are familiar with."
-#~ msgstr ""
-

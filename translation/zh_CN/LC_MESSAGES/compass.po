@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,160 +21,162 @@ msgstr ""
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: 532962e408604f1db7e4cffb749a5dc2
+#: ../../source/compass.rst:4
 msgid "The compass"
-msgstr ""
+msgstr "指南针"
 
-#: 6740221476cb47acbbb0833afb4b8885
+#: ../../source/compass.rst:10
 msgid ""
 "The Diátaxis map is an effective reminder of the different kinds of "
 "documentation and their relationship, and it accords well with intuitions "
 "about documentation."
-msgstr ""
+msgstr "Diátaxis 地图有效地提示我们文档的不同类型及其相互之间的关系，这与人们对于文档的直觉高度契合。"
 
-#: 488dec8a6ff943b49f97ae6970fca5cf
+#: ../../source/compass.rst:14
 msgid ""
 "However intuition is not always to be relied upon. Often when working with "
 "documentation, an author is faced with the question: *what form of "
 "documentation is this?* or *what form of documentation is needed here?* - "
 "and no obvious, intuitive answer."
 msgstr ""
+"然而，直觉并非总是可靠的。在处理文档时，作者常常面临这样的问题：*这是哪种形式的文档？* 或者 *这里需要哪种形式的文档？* —— "
+"却往往没有明显而直观的答案。"
 
-#: 19bac9316c3f4e2f84eff0abd05e439b
+#: ../../source/compass.rst:19
 msgid ""
 "Worse, sometimes intuition provides an immediate answer that is also wrong."
-msgstr ""
+msgstr "更糟的是，有时直觉会立即给出答案，但却是错误的。"
 
-#: 376d4088ea8d46258f6c8e293c5f6ace
+#: ../../source/compass.rst:21
 msgid ""
 "A map is most powerful in unfamiliar territory when we also have a compass "
 "to guide us."
-msgstr ""
+msgstr "在陌生的领域中，当我们有指南针指引方向时，地图的效用最为显著。"
 
-#: 14e88149987a404f969881fcfcf63482
+#: ../../source/compass.rst:24
 msgid ""
 "The Diátaxis compass is something like a truth-table or decision-tree of "
 "documentation. It reduces a more complex, two-dimensional problem to its "
 "simpler parts, and provides the author with a course-correction tool."
-msgstr ""
+msgstr "Diátaxis 指南针类似于文档领域的真值表或决策树。它将更复杂的二维问题简化为更简单的组成部分，并为作者提供航向校正工具。"
 
-#: 5e7f9727dbb04b62bfa1ea2b76fa45e1
+#: ../../source/compass.rst:35
 msgid "If the content..."
-msgstr ""
+msgstr "如果这个内容 ……"
 
-#: 526c59e2c0d940c9b79046a48fc21f7c
+#: ../../source/compass.rst:36
 msgid "...and serves the user's..."
-msgstr ""
+msgstr "…… 并服务于用户的 ……"
 
-#: 94b486805a394b97ba0768147cc03824
+#: ../../source/compass.rst:37
 msgid "...then it must belong to..."
-msgstr ""
+msgstr "那么它一定属于 ……"
 
-#: f828c72191fc4a44ad51651253f0a249 ffb6df72ddf34d76964a9a80896a5599
+#: ../../source/compass.rst:38 ../../source/compass.rst:41
 msgid "informs action"
-msgstr ""
+msgstr "影响行动"
 
-#: d757a2c0984242d8be8de6fab4879885 2ee0a46c9fd8467cb38fa1b6904c35b0
+#: ../../source/compass.rst:39 ../../source/compass.rst:48
 msgid "acquisition of skill"
-msgstr ""
+msgstr "技能习得"
 
-#: 0c7d5fc7f7f44fa59ba665f7c4b6d7d6
+#: ../../source/compass.rst:40
 msgid "a tutorial"
-msgstr ""
+msgstr "教程"
 
-#: ce1dc1d073904f0eaea1fe04129ef794 9a672520a1204bd98c56657fc3589add
+#: ../../source/compass.rst:42 ../../source/compass.rst:45
 msgid "application of skill"
-msgstr ""
+msgstr "技能运用"
 
-#: 2f80f4e346954762a9abac06ca8bd933
+#: ../../source/compass.rst:43
 msgid "a how-to guide"
-msgstr ""
+msgstr "操作指南"
 
-#: 07ec22b0b4504b74b46dcb1f658007cc 241df3eb67a94179a2d6b661fe0c2598
+#: ../../source/compass.rst:44 ../../source/compass.rst:47
 msgid "informs cognition"
-msgstr ""
+msgstr "影响认知"
 
-#: f41fa4283e2b4b4fad3022c5bf68322c
+#: ../../source/compass.rst:46
 msgid "reference"
-msgstr ""
+msgstr "参考"
 
-#: 6a3b514540c349368dc6d9dbf8acc94e
+#: ../../source/compass.rst:49
 msgid "explanation"
-msgstr ""
+msgstr "解释"
 
-#: 1baad74b0a804007a8d10645396fec1b
+#: ../../source/compass.rst:51
 msgid ""
 "The compass can be applied equally to user situations that need "
 "documentation, or to documentation itself that perhaps needs to be moved or "
 "improved. Like many good tools, it's surprisingly banal."
-msgstr ""
+msgstr "指南针既适用于需要文档的用户场景，也适用于可能需要调整或改进的文档本身。和许多优秀的工具一样，它平凡得出奇。"
 
-#: 77e60f58c969409e950fcae88ddc73a3
+#: ../../source/compass.rst:53
 msgid ""
 "To use the compass, just two questions need to be asked: *action or "
 "cognition?* *acquisition or application?*"
-msgstr ""
+msgstr "想要使用这个指南针，只需要问两个问题：*行动还是认知？* *习得还是运用？*"
 
-#: cdace25583004046bd3c686b5be01faf
+#: ../../source/compass.rst:55
 msgid "And it yields the answer."
-msgstr ""
+msgstr "由此即可得出答案。"
 
-#: 6e90cfa7eb3148ad85383566ddeea9ec
+#: ../../source/compass.rst:59
 msgid "Using the compass"
-msgstr ""
+msgstr "使用指南针"
 
-#: ba79dd43116d416981b3b46447319d41
+#: ../../source/compass.rst:61
 msgid ""
 "The compass is particularly effective when you think that you (or even the "
 "documentation in front of you) are doing one thing - but you are troubled by"
 " a sense of doubt, or by some difficulty in the work. The compass forces you"
 " to stop and reconsider."
-msgstr ""
+msgstr "当你认为自己正在做某件事（或是阅读眼前的文档）时有所疑虑，乃至在工作中遇到困难时，指南针尤为有效。它将促使你停下来重新思考。"
 
-#: aa7cb346ce464283a95545f29337025a
+#: ../../source/compass.rst:63
 msgid ""
 "Especially when you are trying to find your initial bearings, use the "
 "compass's terms flexibly; don't get fixated on the exact names."
-msgstr ""
+msgstr "尤其是在你试图确定初步方向时，应灵活运用指南针中的术语，而不必拘泥于确切的名称。"
 
-#: ecd0c8f6dcb548ecadd29bcf4a92e0d6
+#: ../../source/compass.rst:65
 msgid "*action*: practical steps, doing"
-msgstr ""
+msgstr "*行动*：实际步骤，即操作、执行。"
 
-#: 3ec6ddd265f347c0ac4640b4129eef9d
+#: ../../source/compass.rst:66
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
-msgstr ""
+msgstr "*认知*：理论性或命题性知识，即思考。"
 
-#: 75bd1ed5b3ca41939cba8e0ab90dafd5
+#: ../../source/compass.rst:67
 msgid "*acquisition*: study"
-msgstr ""
+msgstr "*习得*：即学习"
 
-#: a276cb5c19df40bbb2dd9f1a019c7472
+#: ../../source/compass.rst:68
 msgid "*application*: work"
-msgstr ""
+msgstr "*运用*：即工作"
 
-#: 93e8b8485c5b40d8a5890d0dd933fb9a
+#: ../../source/compass.rst:70
 msgid "And the questions themselves can also be used in different ways:"
-msgstr ""
+msgstr "这些问题本身也有诸多不同的用法："
 
-#: 9681c3729c174135b71ae436593f42e3
+#: ../../source/compass.rst:72
 msgid "Do I think I am writing for *x* or *y*?"
-msgstr ""
+msgstr "我认为我在为 *x* 还是 *y* 写作？"
 
-#: cde63f587196467f9b362699a238d480
+#: ../../source/compass.rst:73
 msgid "Is this writing in front of me engaged in *x* or *y*?"
-msgstr ""
+msgstr "眼前的这段文字，属于 *x* 还是 *y*？"
 
-#: 955cf283b7a6473abf45a7fc02cdb955
+#: ../../source/compass.rst:74
 msgid "Does the user need *x* or *y*?"
-msgstr ""
+msgstr "用户需要 *x* 还是 *y*？"
 
-#: 14e5e7bee96c4485ae448c7840c740d1
+#: ../../source/compass.rst:75
 msgid "Do I want to *x* or *y*?"
-msgstr ""
+msgstr "我想要 *x* 还是 *y*？"
 
-#: 39c75509f8dc46caba7b100b8d471d75
+#: ../../source/compass.rst:77
 msgid ""
 "And try applying them close-up, at the level of sentences and words, or from"
 " a wider perspective, considering an entire document."
-msgstr ""
+msgstr "尝试将它们应用于句子和单词的细微之处，或者从更广泛的角度考虑整个文档。"

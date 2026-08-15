@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -17,59 +21,63 @@ msgstr ""
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: 4892972a2e2f47f09632680bfd8aae7f
+#: ../../source/how-to-guides.rst:4
 msgid "How-to guides"
-msgstr ""
+msgstr "操作指南"
 
-#: 58b6dfd2c4f34deebb76c9dcb33cc9dd
+#: ../../source/how-to-guides.rst:7
 msgid ""
 "How-to guides are **directions** that guide the reader through a problem or "
 "towards a result. How-to guides are **goal-oriented**."
-msgstr ""
+msgstr "操作指南是一种 **指引**，引导读者解决某个问题或达成某个结果，它 **以目标为导向**。"
 
-#: 13f78e9ba1fb4f87a9a2bcad799e6755
+#: ../../source/how-to-guides.rst:10
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
-msgstr ""
+msgstr "操作指南帮助用户正确且安全地完成某件事；它引导的是用户的 *行动*。"
 
-#: a5df78efd18142dbbb7c05f63ddbb15e
+#: ../../source/how-to-guides.rst:12
 msgid ""
 "It's concerned with *work* - navigating from one side to the other of a "
 "real-world problem-field."
-msgstr ""
+msgstr "它关注的是 *实际操作* —— 即在真实世界的问题域中，从一端到另一端的摸索。"
 
-#: c01f2307bfca4e4797c4c60e78156bf6
+#: ../../source/how-to-guides.rst:14
 msgid "How-to guides - task oriented, practical steps, that serve our work"
-msgstr ""
+msgstr "操作指南 —— 以任务为导向，步步为营，服务于我们的工作。"
 
-#: b9825fa2897048dea98fda2598a50fff
+#: ../../source/how-to-guides.rst:18
 msgid ""
 "Examples could be: *how to calibrate the radar array*; *how to use fixtures "
 "in pytest*; *how to configure reconnection back-off policies*. On the other "
 "hand, *how to build a web application* is not - that's not addressing a "
 "specific goal or problem, it's a vastly open-ended sphere of skill."
 msgstr ""
+"比如说：*怎么校准雷达阵列*，怎么在 pytest 里使用测试夹具，怎么配置重连退避策略。而 *如何构建一个 Web 应用程序* "
+"则不属此类，它并非针对某个特定目标或问题，而是面向一个极为宽泛的技能范畴。"
 
-#: 4dbd846f9ecb4ceea718c9230be8b0c3
+#: ../../source/how-to-guides.rst:22
 msgid ""
 "How-to guides matter not just because users need to be able to accomplish "
 "things: the list of how-to guides in your documentation helps frame the "
 "picture of what your product can actually *do*. A rich list of how-to guides"
 " is an encouraging suggestion of a product's capabilities."
 msgstr ""
+"操作指南之所以重要，不仅仅因为用户需要能够完成任务，还因为其中的列表有助于勾勒出产品实际能够 *做到* "
+"什么的轮廓。一份丰富的操作指南列表，本身就是产品能力的有力佐证。"
 
-#: 85615afb69ee4ad994d0a005ed877957
+#: ../../source/how-to-guides.rst:26
 msgid ""
 "Well-written how-to guides that address the right questions are likely to be"
 " the most-read sections of your documentation."
-msgstr ""
+msgstr "撰述精良的操作指南，只要切中正确的问题，往往就会成为文档中阅读最频繁的篇章。"
 
-#: 82d62997397d409bacafb22183fddea4
+#: ../../source/how-to-guides.rst:31
 msgid "How-to guides addressed to problems"
-msgstr ""
+msgstr "操作指南：针对实际问题"
 
-#: 76f8e868fc5c431a97f035adae9c17fa
+#: ../../source/how-to-guides.rst:33
 msgid ""
 "**How-to guides must be written from the perspective of the user, not of the"
 " machinery.** A how-to guide represents something that someone needs to get "
@@ -77,8 +85,9 @@ msgid ""
 " should answer to a human project, in other words. It should show what the "
 "human needs to do, with the tools at hand, to obtain the result they need."
 msgstr ""
+"**操作指南必须从用户视角出发，而非从系统的角度来写**。操作指南代表的是用户需要完成某件事。换言之，它是由用户的需求来定义的。每篇操作指南都应该解答一个真实的人类项目。它应该告诉用户，用手头的工具，应该采取哪些行动，才能获得想要的结果。"
 
-#: 1b1750f30d11485b93c56d4b069bf406
+#: ../../source/how-to-guides.rst:35
 msgid ""
 "This is in strong contrast to common pattern for how-to guides that often "
 "prevails, in which how-to guides are defined by operations that can be "
@@ -87,68 +96,70 @@ msgid ""
 " user has. Instead, it's focused on the tool, on taking the machinery "
 "through its motions."
 msgstr ""
+"这与操作指南中一种普遍存在的常见模式形成了鲜明对比。那种模式以工具或系统可执行的操作来定义操作指南。其问题在于，它对用户几乎没有价值；它没有针对用户的任何需求。相反，它只关注工具本身，只在乎让系统按部就班地走完流程。"
 
-#: 6add27ca266a408ca5cd8d8927aba17d
+#: ../../source/how-to-guides.rst:37
 msgid ""
 "This is fundamentally a distinction of *meaningfulness*. Meaning is given by"
 " purpose and need. There is no purpose or need in the functionality of a "
 "machine. It is merely a series of causes and effects, inputs and outputs."
-msgstr ""
+msgstr "这本质上是一种对“意义”的判别。意义源于目的和需求，而这并非是机器所能拥有的，它不过是一连串因果、输入和输出。"
 
-#: c7d3ce6e758741389e553ebf48bdae78
+#: ../../source/how-to-guides.rst:39
 msgid "Consider:"
-msgstr ""
+msgstr "考虑一下："
 
-#: 9026718874214fa9968363bc2de29db9
+#: ../../source/how-to-guides.rst:41
 msgid "\"To shut off the flow of water, turn the tap clockwise.\""
-msgstr ""
+msgstr "“若要切断水流，请顺时针旋转水龙头。”"
 
-#: 72d2ff2161284b5fa579ca9cde0efb49
+#: ../../source/how-to-guides.rst:42
 msgid ""
 "\"To deploy the desired database configuration, select the appropriate "
 "options and press **Deploy**.\""
-msgstr ""
+msgstr "“若要部署目标数据库配置，选择相应的选项，然后点击 Deploy。”"
 
-#: 33b513d576014028bb315ebb471a1a75
+#: ../../source/how-to-guides.rst:46
 msgid ""
 "We really do not need to be informed that we turn on a device using the "
 "power switch, but it is shocking how often how-to guides in software "
 "documentation are written at this level."
-msgstr ""
+msgstr "用电源开关开机这种常识，真用不着别人告诉我们，但令人震惊的是，软件文档中的操作指南竟然常常停留在这种水平上。"
 
-#: d30070c71ae14da3a7ef3e1b003751cf
+#: ../../source/how-to-guides.rst:48
 msgid "The examples above *look* like examples of guidance, but they are not."
-msgstr ""
+msgstr "上述例子看起来是指导性的，但实际上并非如此。"
 
-#: e415c90ff0da4a40a5269a2b9ae8e829
+#: ../../source/how-to-guides.rst:50
 msgid ""
 "They represent mostly useless information that anyone with basic competence "
 "- anyone who is working in this domain - should be expected to know. Between"
 " them, standardised interfaces and generally-expected knowledge should make "
 "it quite clear what effect most actions will have."
 msgstr ""
+"这些例子大多属于无用信息，任何具备基本能力，也就是在该领域工作的人，都理应知晓。在标准化界面与通用常识的共同作用下，大多数操作会产生什么效果，应该已经相当明确了。"
 
-#: f97b2d0395864d5ba8ca5be332d3830a
+#: ../../source/how-to-guides.rst:52
 msgid ""
 "Secondly, they are disconnected from purpose. What the user needs to know "
 "might be things like:"
-msgstr ""
+msgstr "其次，它们与实际目标脱节。用户需要知道的内容可能包括："
 
-#: 99bf91cdf2fc4c948001d0e2959788f2
+#: ../../source/how-to-guides.rst:54
 msgid ""
 "how much water to run, and how vigorously to run it, for a certain purpose"
-msgstr ""
+msgstr "为了达成某个目的，该放多少水、水流要多猛"
 
-#: e620e41560074495a8a681ef3c298c3c
+#: ../../source/how-to-guides.rst:55
 msgid ""
 "what database configuration options align with particular real-world needs"
-msgstr ""
+msgstr "什么样的数据库配置选项，能切合真实世界的需求"
 
-#: a57edb52af3e4b489107ad8444b48269
+#: ../../source/how-to-guides.rst:59
 msgid "How-to guides are about goals, projects and problems, not about tools."
-msgstr ""
+msgstr "操作指南是有关于目标、项目和问题的，而非工具。"
 
-#: a32e030cfc49466fa5d8285ecd5795bd
+#: ../../source/how-to-guides.rst:61
 msgid ""
 "Tools appear in how-to guides as incidental bit-players, the means to the "
 "user's end. Sometimes of course, a particular end is closely aligned with a "
@@ -159,20 +170,23 @@ msgid ""
 "In either case, it is that project that defines what a how-to guide must "
 "cover."
 msgstr ""
+"在操作指南中，工具只是不起眼的配角，是用户达成目标的手段。当然，有时某个特定目标与某个特定工具或系统组件紧密相关，这时操作指南就会着重介绍这些工具或组件。同样司空见惯的是，操作指南会横跨不同的工具或系统组件，将这些操作整合在一起，而定义这些操作的，则是用户实际需要完成的某件事。不论哪种情况，定义操作指南涵盖范围的，都是用户要完成的那个任务。"
 
-#: 4555045bdcae42459f5dde9273872ef1
+#: ../../source/how-to-guides.rst:67
 msgid "What how-to guides are not"
-msgstr ""
+msgstr "哪些才是操作指南？"
 
-#: 37d6b9a01f9e4875805473203f1fe659
+#: ../../source/how-to-guides.rst:69
 msgid ""
 "**How-to guides are wholly distinct from tutorials**. They are often "
 "confused, but the user needs that they serve are quite different. Conflating"
 " them is at the root of many difficulties that afflict documentation. See "
 ":ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
+"**操作指南与教程截然不同**。二者时常被混为一谈，但它们所服务的用户需求截然不同。混淆它们是诸多文档所处困境的根源。有关于这些区别的讨论，可参考 "
+":ref:`tutorials-how-to`。"
 
-#: 918a781040094ca498369d3d6ddd4212
+#: ../../source/how-to-guides.rst:71
 msgid ""
 "In another confusion, how-to guides are often construed merely as procedural"
 " guides. But solving a problem or accomplishing a task cannot always be "
@@ -182,34 +196,35 @@ msgid ""
 "Often, a how-to guide will need the user to rely on their judgement in "
 "applying the guidance it can provide."
 msgstr ""
+"另一种常见的混淆是，操作指南往往被简单理解为步骤说明。然而，解决问题或者完成任务并不总能归结为一套固定流程。现实中的问题并非总是适用线形解决方案。操作指南中的行动序列有时需要分叉、重叠，并且可能有切入和退出点。很多时候，操作指南需要用户结合自身判断来灵活运用其中所提供的指导。"
 
-#: 0502dd6c726041fa9d1b293d357579b2
+#: ../../source/how-to-guides.rst:77
 msgid "Key principles"
-msgstr ""
+msgstr "核心原则"
 
-#: 19335aa833544ddea449e809f9f04628
+#: ../../source/how-to-guides.rst:79
 msgid ""
 "A how to-guide is concerned with work - a task or problem, with a practical "
 "goal. *Maintain focus on that goal*."
-msgstr ""
+msgstr "操作指南关于实践操作 —— 也就是某项任务或问题，并带有明确的实际目标。**请始终聚焦于这个目标**"
 
-#: fac3a862012745fd9d6be242bd0b5850
+#: ../../source/how-to-guides.rst:83
 msgid "focused on tasks or problems"
-msgstr ""
+msgstr "聚焦在任务和问题上"
 
-#: 80e8b055329f430ca7c446f4ac96ed56
+#: ../../source/how-to-guides.rst:84
 msgid "assume the user knows what they want to achieve"
-msgstr ""
+msgstr "应当假定用户清楚他们想要达成什么"
 
-#: 85285c4289484db09b5a0f219e0add15
+#: ../../source/how-to-guides.rst:85
 msgid "action and only action"
-msgstr ""
+msgstr "动起来，只要动起来"
 
-#: c4329686160949f9bfefa29866b70ea3
+#: ../../source/how-to-guides.rst:86
 msgid "no digression, explanation, teaching"
-msgstr ""
+msgstr "没有离题、解释或教学"
 
-#: a94526ba943e4b96aab402e085617ae1
+#: ../../source/how-to-guides.rst:88
 msgid ""
 "Anything else that's added distracts both you and the user and dilutes the "
 "useful power of the guide. Typically, the temptations are to explain or to "
@@ -217,19 +232,20 @@ msgid ""
 " user in their work. They get in the way of the action; if they're "
 "important, link to them."
 msgstr ""
+"任何额外附加的内容都会分散你和用户的注意力，削弱指南的实际效用。常犯的毛病包括忍不住进行解释说明，或者为了显得齐全而提供参考资料。这两者都不属于引导用户完成工作的范畴，反而会阻碍行动；如果确实重要，用链接来引用即可。"
 
-#: 780bf79e382c44bdbd1fba104706b197
+#: ../../source/how-to-guides.rst:90
 msgid ""
 "A how-to guide serves the work of the already-competent user, whom you can "
 "assume to know what they want to do, and to be able to follow your "
 "instructions correctly."
-msgstr ""
+msgstr "操作指南面向的是已经上手的用户，可以假定他们目标明确，并且能够准确遵循你的指令。"
 
-#: 1129b09312814da5a8c8b350cff43f6b
+#: ../../source/how-to-guides.rst:94
 msgid "Address real-world complexity"
-msgstr ""
+msgstr "直面现实世界的复杂性"
 
-#: 795647caea034e7c8ae45b5c215dd2e7
+#: ../../source/how-to-guides.rst:96
 msgid ""
 "**A how-to guide needs to be adaptable to real-world use-cases**. One that "
 "is useless for any purpose except *exactly* the narrow one you have "
@@ -237,83 +253,90 @@ msgid ""
 "must find ways to remain open to the range of possibilities, in such a way "
 "that the user can adapt your guidance to their needs."
 msgstr ""
+"**操作指南需要具备对现实世界使用场景的适用性**。若适用范围过窄，则收效甚微。你不可能覆盖所有可能的情况，所以必须找到方法，让指南能够包容多种可能，用户可以根据自己的需求灵活运用。"
 
-#: faf9ae4505a34e12ab43d350fb67feda
+#: ../../source/how-to-guides.rst:99
 msgid "Omit the unnecessary"
-msgstr ""
+msgstr "删繁就简"
 
-#: c65d9c580e004a0e9d4736d1d3fb8ba1
+#: ../../source/how-to-guides.rst:101
 msgid ""
 "In how-to guides, **practical usability is more helpful than completeness.**"
 " Whereas a tutorial needs to be a complete, end-to-end guide, a how-to guide"
 " does not. It should start and end in some reasonable, meaningful place, and"
 " require the reader to join it up to their own work."
 msgstr ""
+"在操作指南中，**实用性比完整性更有帮助**。教程需要完整的，从头到尾的指南，而操作指南不必如此。它应在合理和有意义的地方开始和结束，并要求读者把它融入在自己的工作中。"
 
-#: a248e099243f4e798c083ce5adcb7478
+#: ../../source/how-to-guides.rst:107
 msgid "Provide a set of instructions"
-msgstr ""
+msgstr "提供指令的集合"
 
-#: c9bed956e7bf4665906153a74c03f5c3
+#: ../../source/how-to-guides.rst:109
 msgid ""
 "A how-to guide describes an *executable solution* to a real-world problem or"
 " task. It's in the form of a contract: if you're facing this situation, then"
 " you can work your way through it by taking the steps outlined in this "
 "approach. The steps are in the form of *actions*."
 msgstr ""
+"操作指南描述的是用于真实世界问题或任务的 *可行解决方案*。它就像是一份约定：如果你面临这种情况，可按照本方法所列步骤，一步一步搞定这个问题。这些步骤以"
+" *动作* 的形式呈现。"
 
-#: 74ed6b7ff9ec4e20964ff98ee0d21bde
+#: ../../source/how-to-guides.rst:111
 msgid ""
 "\"Actions\" in this context includes physical acts, but also thinking and "
 "judgement - solving a problem involves thinking it through. A how-to guide "
 "should address how the user thinks as well as what the user does."
 msgstr ""
+"“动作” 在这个上下文中，既包括具体的动作，也包含思考和判断 —— 解决一个问题本就需要审慎思量。操作指南应同时涵盖用户的思维过程与实际操作。"
 
-#: 823fb24d7256466381fcce2e6571ea83
+#: ../../source/how-to-guides.rst:115
 msgid "Describe a logical sequence"
-msgstr ""
+msgstr "描述一套合乎逻辑的序列"
 
-#: fc073b23fca14372846657a460ad532e
+#: ../../source/how-to-guides.rst:117
 msgid ""
 "The fundamental structure of a how-to guide is a *sequence*. It implies "
 "logical ordering in time, that there is a sense and meaning to this "
 "particular order."
-msgstr ""
+msgstr "操作指南的基本结构是“序列”形式。它意味着时间上的逻辑递进，即这一特定顺序具有其合理性和意义。"
 
-#: b878d93c23dc45ceb6d5368177a7ab39
+#: ../../source/how-to-guides.rst:119
 msgid ""
 "In many cases, the ordering is simply imposed by the way things must be "
 "(step two requires completion of step one, for example). In this case it's "
 "obvious what order your directions should take."
-msgstr ""
+msgstr "在很多情境下，顺序是由事物本身的必然性所决定的（例如，步骤二需要在步骤一完成后才能进行）。这种情况下，你所指示的顺序是显而易见的。"
 
-#: e7940f1389254d82981e4fe86183574e
+#: ../../source/how-to-guides.rst:121
 msgid ""
 "Sometimes the need is more subtle - it might be possible to *perform* two "
 "operations in either order, but if for example one operation helps set up "
 "the user's working environment or even their thinking in a way that benefits"
 " the other, that's a good reason for putting it first."
 msgstr ""
+"有时则没那么明显 —— "
+"两种操作顺序或许可以互换，但若其中一种有助于搭建用户的工作环境，甚至能帮助用户理清思路，从而让另一项操作更顺利，那就有理由把它放在前面。"
 
-#: c051febfaa704a7393c349a1255df1df
+#: ../../source/how-to-guides.rst:125
 msgid "Seek flow"
-msgstr ""
+msgstr "寻求流动"
 
-#: 422aa3c652664c8b87ab7e36777390fb
+#: ../../source/how-to-guides.rst:127
 msgid ""
 "At all times, try to ground your sequences in the patterns of the *user's* "
 "activities and thinking, in such a way that the guide acquires *flow*: "
 "smooth progress."
-msgstr ""
+msgstr "务求将步骤序列建立于用户的活动和思维的规律之上，使指南具备一种 *流动*：即顺利推进的感觉。"
 
-#: b323e01351dc4a05a4e7d5cb6eb39115
+#: ../../source/how-to-guides.rst:129
 msgid ""
 "Achieving flow means successfully understanding the user. Paying attention "
 "to sense and meaning in ordering requires paying attention to the way human "
 "beings think and act, and the needs of someone following directions."
-msgstr ""
+msgstr "要实现这种流动意味着你要深入理解用户。若要在安排顺序时关注意义与合理性，就得琢磨人的思考与行动方式，以及跟随你的指令之人的需求。"
 
-#: 28931798b2d447a398535713cddf01aa
+#: ../../source/how-to-guides.rst:131
 msgid ""
 "Again, this can be somewhat obvious: a workflow that has the user repeatedly"
 " switching between contexts and tools is clearly clumsy and inefficient. But"
@@ -323,114 +346,120 @@ msgid ""
 "they can be resolved in action? If you require the user to jump back to "
 "earlier concerns, is this necessary or avoidable?"
 msgstr ""
+"用户若是频繁切换上下文和工具的工作流，显然既笨拙又低效。虽然这话听起来可能有点老生常谈，但你应该向更深一层思考，你要求用户琢磨什么？其思维在工作过程中如何在不同主题间顺畅流转？你要求用户在行动之前，得将多少问题悬于脑海之中？如果你让用户回过头去处理之前的事情，这个回头是必要的，还是能省则省？"
 
-#: 01eef272d9bd4ae8bbf98a55808c6e67
+#: ../../source/how-to-guides.rst:133
 msgid ""
 "A how-to guide is concerned not just with logical ordering in time, but "
 "action taking place in time. Action, and a guide to it, has pace and rhythm."
 " Badly-judged pace or disrupted rhythm are both damaging to flow."
 msgstr ""
+"操作指南关注的不仅是时间上的逻辑顺序，还包括操作本身发生的时序。行动，以及对它的指引，都有其节奏和韵律。节奏把握不当或韵律被打断，都会破坏流畅感。"
 
-#: fc723b39d1d74a199ecb94fe3ddf5861
+#: ../../source/how-to-guides.rst:135
 msgid ""
 "At its best, how-to documentation gives the user flow. There is a distinct "
 "experience of encountering a guide that appears to *anticipate* the user - "
 "the documentation equivalent of a helper who has the tool you were about to "
 "reach for, ready to place it in your hand."
 msgstr ""
+"优秀的操作文档能给用户带来流畅感。你会真切地体验到这样一种感觉：当你遇到一篇似乎能 *预判* 你需求的指南时 —— "
+"就仿佛文档世界里有一位助手，在你正要伸手去拿某件工具时，它已经准备好递到你手上了。"
 
-#: bf7b3d69136b4ed3a063372f1f0a9b5b
+#: ../../source/how-to-guides.rst:139
 msgid "Pay attention to naming"
-msgstr ""
+msgstr "注意命名"
 
-#: bca1f59dc3fa4efd9ed5e39f0ed8eb97
+#: ../../source/how-to-guides.rst:141
 msgid "**Choose titles that say exactly what a how-to guide shows.**"
-msgstr ""
+msgstr "**标题应准确概括操作指南所涵盖的内容。**"
 
-#: 0b2b5cf730e94d47b74cf40a016e9c07
+#: ../../source/how-to-guides.rst:143
 msgid "good: *How to integrate application performance monitoring*"
-msgstr ""
+msgstr "可取：*如何集成应用性能监控*"
 
-#: 018b88521f1e4aeb850b7b93d5589004
+#: ../../source/how-to-guides.rst:144
 msgid ""
 "bad: *Integrating application performance monitoring* (maybe the document is"
 " about how to decide whether you should, not about how to do it)"
-msgstr ""
+msgstr "欠妥：*集成应用性能监控*（可能文档在讨论要不要做，而不是怎么做）"
 
-#: 28413c9e4252402bac7d878ece42c78a
+#: ../../source/how-to-guides.rst:145
 msgid ""
 "very bad: *Application performance monitoring* (maybe it's about *how* - but"
 " maybe it's about *whether*, or even just an explanation of *what* it is)"
-msgstr ""
+msgstr "极差：*应用性能监控*（也许它讲的是 *怎么做*，但也可能讲的是 *要不要做*，甚至只是解释 *它是什么*）"
 
-#: 9635747b84be4620a974c49176b5a6dc
+#: ../../source/how-to-guides.rst:147
 msgid ""
 "Note that search engines appreciate good titles just as much as humans do."
-msgstr ""
+msgstr "要知道，搜索引擎与读者一样，对好标题都很买账。"
 
-#: d3c2d7de5f894d828d5abdeb9b38e323
+#: ../../source/how-to-guides.rst:152
 msgid "The language of how-to guides"
-msgstr ""
+msgstr "操作指南的语言"
 
-#: cf9d0fdad1a446dc8b05b50ace172f62
+#: ../../source/how-to-guides.rst:154
 msgid "*This guide shows you how to...*"
-msgstr ""
+msgstr "*本指南将介绍如何……*"
 
-#: 5e6fe20c1f2e4cd0ba8e6daac56f0ff2
+#: ../../source/how-to-guides.rst:155
 msgid ""
 "Describe clearly the problem or task that the guide shows the user how to "
 "solve."
-msgstr ""
+msgstr "清晰地描述操作指南要帮用户解决什么问题、或完成什么任务。"
 
-#: 8a13a304a6bb4cd0b34dcf1ca83db674
+#: ../../source/how-to-guides.rst:156
 msgid "*If you want x, do y. To achieve w, do z.*"
-msgstr ""
+msgstr "*如果想要 x，就做 y。想要实现 w，就做 z。*"
 
-#: 025fce88293b43878a6de862ccacc929
+#: ../../source/how-to-guides.rst:157
 msgid "Use conditional imperatives."
-msgstr ""
+msgstr "使用条件式的指令。"
 
-#: 174759fb09e1434e8ecfbb33ae13a575
+#: ../../source/how-to-guides.rst:158
 msgid "*Refer to the x reference guide for a full list of options.*"
-msgstr ""
+msgstr "*有关完整的选项列表，请参见 X 参考指南。*"
 
-#: 900b24af012c49c18b56a9d615ac072c
+#: ../../source/how-to-guides.rst:159
 msgid ""
 "Don't pollute your practical how-to guide with every possible thing the user"
 " might do related to x."
-msgstr ""
+msgstr "切勿把所有与 x 相关的可行操作都塞进操作指南。"
 
-#: b7029e53851640efa952095b520a1983
+#: ../../source/how-to-guides.rst:165
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "应用于食物与烹饪"
 
-#: 5f857581fa034118b16f6e9d69f4bd77
+#: ../../source/how-to-guides.rst:167
 msgid ""
 "Consider a recipe, an excellent model for a how-to guide. A recipe clearly "
 "defines what will be achieved by following it, and **addresses a specific "
 "question** (*How do I make...?* or *What can I make with...?*)."
 msgstr ""
+"不妨以菜谱为例，它是操作指南的绝佳范例。菜谱清晰说明了按步骤执行能达成什么结果，且 **它回答的是一个具体问题**（比如 *我怎么做……？* 或者 "
+"*我可以用……做什么？*）"
 
-#: da7086e0a75a404381a579d2a6513b6f
+#: ../../source/how-to-guides.rst:169
 msgid "A recipe contains a list of ingredients and a list of steps."
-msgstr ""
+msgstr "菜谱由一份原料列表和一份步骤清单构成。"
 
-#: b64b352a36054ffd95862b5fccfd3c6c
+#: ../../source/how-to-guides.rst:172
 msgid ""
 "It's not the responsibility of a recipe to *teach* you how to make "
 "something. A professional chef who has made exactly the same thing multiple "
 "times before may still follow a recipe - even if they *created* the recipe "
 "themselves - to ensure that they do it correctly."
-msgstr ""
+msgstr "*教* 制作方法并非食谱的职责。一位资深大厨即便多次制作过同一道菜肴，哪怕该食谱由其所创，他仍可能会按食谱烹饪，以保无虞。"
 
-#: f06beffe4b2d4bb6be138c349edbe184
+#: ../../source/how-to-guides.rst:174
 msgid ""
 "Even following a recipe **requires at least basic competence**. Someone who "
 "has never cooked before should not be expected to follow a recipe with "
 "success, so a recipe is not a substitute for a cooking lesson."
-msgstr ""
+msgstr "即使按食谱烹饪，**至少也得具备一定的基本功**。一个从未下过厨的人，不能指望他光看菜谱就能成功。所以菜谱也并不能替代烹饪课。"
 
-#: 9de01fec08614f49ab76ec09549d0882
+#: ../../source/how-to-guides.rst:176
 msgid ""
 "Someone who expected to be provided with a recipe, and is given instead a "
 "cooking lesson, will be disappointed and annoyed. Similarly, while it's "
@@ -440,3 +469,4 @@ msgid ""
 " excludes both teaching and discussion, and focuses only on **how** to make "
 "the dish concerned."
 msgstr ""
+"想要菜谱的人，你给他一堂烹饪课，他会失望，会恼火。同样，了解某道菜的历史背景固然有趣，但最不想看这些东西的时候，也正是在烹饪之时。好菜谱往往遵循一套成熟的格式，摒弃教学与讨论，只聚焦于如何做这道菜。"

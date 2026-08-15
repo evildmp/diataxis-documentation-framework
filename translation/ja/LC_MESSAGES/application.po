@@ -1,103 +1,117 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# Translators:
+# daisuke osada (daiskeh) <dosada@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis \n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: daisuke osada (daiskeh) <dosada@gmail.com>, 2026\n"
+"Language-Team: Japanese (https://app.transifex.com/danieleprocida/teams/120528/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/application.rst:2
 msgid "Applying Diátaxis"
-msgstr ""
+msgstr "Diátaxisを適用する"
 
 #: ../../source/application.rst:5
 msgid ""
-"The pages in this section are concerned with putting Diátaxis into "
-"practice."
-msgstr ""
+"The pages in this section are concerned with putting Diátaxis into practice."
+msgstr "このセクションのページでは、Diátaxisを実践に移す方法について解説します。"
 
 #: ../../source/application.rst:9
 msgid ""
 "Diátaxis is underpinned by :doc:`systematic theoretical principles "
-"<theory>`, but understanding them is not necessary to make effective use "
-"of the system."
+"<theory>`, but understanding them is not necessary to make effective use of "
+"the system."
 msgstr ""
+"Diátaxisは:doc:`体系的な理論的原則に基づいています "
+"1`、しかし、それらを理解することは、システムを効果的に利用するために必ずしも必要ではありません。"
 
 #: ../../source/application.rst:11
 msgid ""
-"Diátaxis is primarily intended as a pragmatic approach for people working"
-" on documentation. Most of the key principles required to put it into "
-"practice successfully can be grasped intuitively."
+"Diátaxis is primarily intended as a pragmatic approach for people working on"
+" documentation. Most of the key principles required to put it into practice "
+"successfully can be grasped intuitively."
 msgstr ""
+"Diátaxis is primarily intended as a pragmatic approach for people working on"
+" documentation. Most of the key principles required to put it into practice "
+"successfully can be grasped intuitively."
 
 #: ../../source/application.rst:13
 msgid ""
 "Don't wait to understand Diátaxis before you start trying to put it into "
-"practice. Not only do you not need to understand it all to make use of "
-"it, you will not understand it until you have started using it (this "
-"itself is a Diátaxis principle)."
+"practice. Not only do you not need to understand it all to make use of it, "
+"you will not understand it until you have started using it (this itself is a"
+" Diátaxis principle)."
 msgstr ""
+"Diátaxisを理解する前に実践を試みようとしないでください。ダイアタクシスを活用するためにすべてを理解する必要はないだけでなく、実際に使い始めてみなければ理解できないのです（これ自体がダイアタクシスの原則です）。"
 
 #: ../../source/application.rst:15
 msgid ""
-"As soon as you feel you have picked up an idea that seems worth applying "
-"to your work, try applying it. Come back here when you need more clarity "
-"or reassurance. Iterate between your work and reflecting on your work."
+"As soon as you feel you have picked up an idea that seems worth applying to "
+"your work, try applying it. Come back here when you need more clarity or "
+"reassurance. Iterate between your work and reflecting on your work."
 msgstr ""
+"As soon as you feel you have picked up an idea that seems worth applying to "
+"your work, try applying it. Come back here when you need more clarity or "
+"reassurance. Iterate between your work and reflecting on your work."
 
 #: ../../source/application.rst:20
 msgid "In this section"
-msgstr ""
+msgstr "In this section"
 
 #: ../../source/application.rst:22
 msgid ""
 "At the core of Diátaxis are the four different kinds of documentation it "
-"identifies. If you're encountering Diátaxis for the first time, start "
-"with these pages."
+"identifies. If you're encountering Diátaxis for the first time, start with "
+"these pages."
 msgstr ""
+"Diátaxisの中核をなすのは、そこで分類されている4種類の文書化です。Diátaxisを初めて目にする方は、まずこれらのページから始めてください。"
 
 #: ../../source/application.rst:24
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ""
+msgstr ":doc:`tutorials` - 学習指向の体験"
 
 #: ../../source/application.rst:25
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ""
+msgstr ":doc:`how-to-guides` - goal-oriented directions"
 
 #: ../../source/application.rst:26
 msgid ":doc:`reference` - information-oriented technical description"
-msgstr ""
+msgstr ":doc:`reference` - information-oriented technical description"
 
 #: ../../source/application.rst:27
 msgid ":doc:`explanation` - understanding-oriented discussion"
-msgstr ""
+msgstr ":doc:`explanation`  - 理解を深めるための議論"
 
 #: ../../source/application.rst:29
 msgid ""
 "Diátaxis prescribes principles that guide action. These translate into "
-"particular ways of working, with implications for documentation process "
-"and execution. Once you've made your first start, the tools and methods "
-"outlined here will help smooth your way."
+"particular ways of working, with implications for documentation process and "
+"execution. Once you've made your first start, the tools and methods outlined"
+" here will help smooth your way."
 msgstr ""
+"Diátaxis prescribes principles that guide action. These translate into "
+"particular ways of working, with implications for documentation process and "
+"execution. Once you've made your first start, the tools and methods outlined"
+" here will help smooth your way."
 
 #: ../../source/application.rst:31
 msgid ":doc:`compass` - a simple tool for direction-finding"
-msgstr ""
+msgstr ":doc:`compass` - a simple tool for direction-finding"
 
 #: ../../source/application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
-msgstr ""
-
+msgstr ":doc:`Workflow <how-to-use-diataxis>` Diátaxisにおける"

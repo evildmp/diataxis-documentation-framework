@@ -3,6 +3,10 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jiwon Kwak, 2026
+# tii, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: tii, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +24,19 @@ msgstr ""
 
 #: ../../source/tutorials.rst:4
 msgid "Tutorials"
-msgstr ""
+msgstr "튜토리얼"
 
 #: ../../source/tutorials.rst:7
 msgid ""
 "A tutorial is an **experience** that takes place under the guidance of a "
 "tutor. A tutorial is always **learning-oriented**."
-msgstr ""
+msgstr "튜토리얼은 튜터의 안내 아래 이루어지는 **경험**입니다. 튜토리얼은 언제나 **학습 지향적**입니다."
 
 #: ../../source/tutorials.rst:10
 msgid ""
 "A tutorial is a *practical activity*, in which the student learns by doing "
 "something meaningful, towards some achievable goal."
-msgstr ""
+msgstr "튜토리얼은 *실천적 활동*입니다. 학생은 달성 가능한 목표를 향해 의미 있는 무언가를 직접 수행하며 배웁니다."
 
 #: ../../source/tutorials.rst:12
 msgid ""
@@ -39,16 +44,18 @@ msgid ""
 "study. Its purpose is not to help the user get something done, but to help "
 "them learn."
 msgstr ""
+"튜토리얼은 사용자의 기술과 지식 *습득*, 즉 학습을 지원합니다. 사용자가 무언가를 완수하도록 돕는 것이 아니라, 배우도록 돕는 것이 "
+"목적입니다."
 
 #: ../../source/tutorials.rst:14
 msgid ""
 "Tutorials - learning-oriented guides that describe practical steps and are "
 "intended to serve our study."
-msgstr ""
+msgstr "튜토리얼 - 실천적 단계를 서술하며 학습을 지원하기 위한 학습 지향적 가이드입니다."
 
 #: ../../source/tutorials.rst:18
 msgid "A tutorial in other words is a lesson."
-msgstr ""
+msgstr "다시 말해 튜토리얼은 수업입니다."
 
 #: ../../source/tutorials.rst:20
 msgid ""
@@ -59,10 +66,13 @@ msgid ""
 "and how to interact with them. They will learn the names of things, the use "
 "of tools, workflows, concepts, commands. And so on."
 msgstr ""
+"학생은 직접 해 보면서 배우지만, 학생이 *수행하는 것*이 곧 그들이 *배우는 것*은 아니라는 점을 이해해야 합니다. 학생은 수행을 통해"
+" 이론적 지식(사실), 이해, 그리고 익숙함을 얻습니다. 사물들이 서로 어떻게 연결되고 상호작용하는지, 또 그것들을 어떻게 다루는지 "
+"배웁니다. 사물의 이름, 도구의 사용법, 워크플로, 개념, 명령어 등도 함께 익히게 됩니다."
 
 #: ../../source/tutorials.rst:27
 msgid "The tutorial as a lesson"
-msgstr ""
+msgstr "수업으로서의 튜토리얼"
 
 #: ../../source/tutorials.rst:29
 msgid ""
@@ -70,6 +80,8 @@ msgid ""
 "learning of this kind, *learning takes place as the pupil applies themself "
 "to tasks under the instructor's guidance*."
 msgstr ""
+"수업은 교사와 학생 사이의 관계를 전제합니다. 이런 종류의 학습에서 *배움은 언제나 학생이 강사의 안내 아래 과제에 몰두하는 과정에서 "
+"일어납니다*."
 
 #: ../../source/tutorials.rst:31
 msgid ""
@@ -77,20 +89,22 @@ msgid ""
 "is what the learner does and what happens. By contrast, the teacher's "
 "explanations and recitations of fact are far less important."
 msgstr ""
+"수업은 *학습 경험*입니다. 학습 경험에서 중요한 것은 학습자가 무엇을 하고 무슨 일이 일어나는가입니다. 반면 교사의 설명이나 사실의 "
+"나열은 훨씬 덜 중요합니다."
 
 #: ../../source/tutorials.rst:33
 msgid ""
 "A good lesson gives the learner confidence, by showing them that they can be"
 " successful in a certain skill or with a certain product."
-msgstr ""
+msgstr "좋은 수업은 학습자에게 특정 기술이나 특정 제품을 능숙하게 다룰 수 있다는 것을 보여줌으로써 자신감을 심어줍니다."
 
 #: ../../source/tutorials.rst:37
 msgid "Obligations of the teacher"
-msgstr ""
+msgstr "교사의 의무"
 
 #: ../../source/tutorials.rst:41
 msgid "It's not easy being a teacher."
-msgstr ""
+msgstr "교사 노릇은 쉽지 않습니다."
 
 #: ../../source/tutorials.rst:43
 msgid ""
@@ -102,33 +116,36 @@ msgid ""
 "follow the teacher's directions as closely as they can. There is no "
 "responsibility on the pupil to learn, understand or remember."
 msgstr ""
+"수업은 교사와 학생 사이의 일종의 계약이며, 그 책임은 거의 전부 교사에게 있습니다. 교사는 학생이 무엇을 배울지, 그것을 배우기 위해 "
+"무엇을 할지, 그리고 학생이 성공적으로 해내는 것까지 책임집니다. 반면 이 계약에서 학생이 지는 유일한 책임은 집중하고, 교사의 지시를 "
+"최대한 충실히 따르는 것뿐입니다. 배우고, 이해하고, 기억할 책임은 학생에게 없습니다."
 
 #: ../../source/tutorials.rst:45
 msgid "At the same time, the exercise you put your pupils through must be:"
-msgstr ""
+msgstr "동시에, 학생에게 부과하는 실습은 다음 조건을 갖추어야 합니다."
 
 #: ../../source/tutorials.rst:47
 msgid "*meaningful* - the pupil needs to have a sense of achievement"
-msgstr ""
+msgstr "*의미 있을 것* - 학생이 성취감을 느낄 수 있어야 합니다"
 
 #: ../../source/tutorials.rst:48
 msgid "*successful* - the pupil needs to be able to complete it"
-msgstr ""
+msgstr "*완수 가능할 것* - 학생이 끝까지 해낼 수 있어야 합니다"
 
 #: ../../source/tutorials.rst:49
 msgid ""
 "*logical* - the path that the pupil takes through it needs to make sense"
-msgstr ""
+msgstr "*논리적일 것* - 학생이 밟아 나가는 경로가 납득 가능해야 합니다"
 
 #: ../../source/tutorials.rst:50
 msgid ""
 "*usefully complete* - the pupil must have an encounter with all of the "
 "actions, concepts and tools they need to become familiar with"
-msgstr ""
+msgstr "*유용할 만큼 완결적일 것* - 학생이 익숙해져야 할 모든 행동과 개념, 도구를 빠짐없이 접할 수 있어야 합니다"
 
 #: ../../source/tutorials.rst:54
 msgid "The problem of tutorials"
-msgstr ""
+msgstr "튜토리얼의 문제"
 
 #: ../../source/tutorials.rst:56
 msgid ""
@@ -137,6 +154,9 @@ msgid ""
 "many products lack good tutorials, or lack tutorials completely; tutorials "
 "are often conflated with how-to guides."
 msgstr ""
+"튜토리얼이 잘 만들어지는 경우는 드뭅니다. 실제로 잘 만들기 어렵기 때문이기도 하고, 튜토리얼이 무엇인지 제대로 이해되지 않고 있기 "
+"때문이기도 합니다. 소프트웨어 분야에서는 좋은 튜토리얼이 없거나 아예 튜토리얼 자체가 없는 제품이 많으며, 튜토리얼이 하우투 가이드와 "
+"혼동되는 일도 잦습니다."
 
 #: ../../source/tutorials.rst:58
 msgid ""
@@ -144,12 +164,14 @@ msgid ""
 "to the student, correcting their mistakes and checking their learning. In "
 "documentation, none of this is possible."
 msgstr ""
+"이상적인 수업에서 교사는 현장에 있으면서 학생과 상호작용하고 반응하며, 실수를 바로잡고 학습 상태를 확인합니다. 문서에서는 이 중 어느 "
+"것도 불가능합니다."
 
 #: ../../source/tutorials.rst:62
 msgid ""
 "Writing and maintaining tutorials can consume a remarkable amount of effort "
 "and time."
-msgstr ""
+msgstr "튜토리얼을 작성하고 유지보수하는 데에는 놀라울 만큼 많은 노력과 시간이 듭니다."
 
 #: ../../source/tutorials.rst:64
 msgid ""
@@ -158,6 +180,8 @@ msgid ""
 "rapidly, meaning that all that work needs to be done again to ensure that "
 "the tutorial still performs its required functions."
 msgstr ""
+"앞서 설명한 기준을 모두 충족하는 학습 경험을 구성하는 것만으로도 충분히 어렵습니다. 게다가 많은 경우 제품 자체가 빠르게 변하기 "
+"때문에, 튜토리얼이 제 기능을 계속 수행하도록 하려면 그 모든 작업을 처음부터 다시 해야 합니다."
 
 #: ../../source/tutorials.rst:66
 msgid ""
@@ -167,6 +191,9 @@ msgid ""
 "where the end-to-end learning journey must make sense, they often cascade "
 "through the entire story."
 msgstr ""
+"문서의 어떤 부분도 튜토리얼만큼 자주 수정되지는 않는다는 사실 또한 자주 확인하게 될 것입니다. 문서의 다른 영역에서는 대체로 변경과 "
+"개선을 국소적으로 적용할 수 있습니다. 그러나 처음부터 끝까지 학습 여정이 일관되게 이어져야 하는 튜토리얼에서는, 수정 하나가 이야기 "
+"전체로 연쇄되는 경우가 많습니다."
 
 #: ../../source/tutorials.rst:68
 msgid ""
@@ -176,14 +203,16 @@ msgid ""
 "when, they must also devise a meaningful learning journey that somehow "
 "delivers all that."
 msgstr ""
+"마지막으로 튜토리얼의 또 하나의 복잡한 점은, *배워야 할 것*과 *해야 할 것*을 구분해야 하는 것입니다. 튜토리얼 제작자는 사용자가 "
+"무엇을 언제 배워야 하는지 정확히 파악해야 할 뿐 아니라, 그 모두를 어떻게든 전달해 내는 의미 있는 학습 여정까지 설계해야 합니다."
 
 #: ../../source/tutorials.rst:74
 msgid "Key principles"
-msgstr ""
+msgstr "핵심 원칙"
 
 #: ../../source/tutorials.rst:76
 msgid "A tutorial is a pedagogical problem."
-msgstr ""
+msgstr "튜토리얼은 교육학적 과제입니다."
 
 #: ../../source/tutorials.rst:78
 msgid ""
@@ -192,28 +221,30 @@ msgid ""
 "concreteness and so on - are not secrets, but they are not always well "
 "understood."
 msgstr ""
+"쉬운 과제는 아니지만 그렇다고 신비로운 영역도 아닙니다. 아래에 정리한 원칙들 - 반복, 행동, 작은 단계, 이른 시점부터 자주 확인되는"
+" 결과, 구체성 등 - 은 비밀이 아닙니다. 다만 늘 제대로 이해되고 있지 않을 뿐입니다."
 
 #: ../../source/tutorials.rst:80
 msgid ""
 "Still, there are straightforward, effective ways to address the problems of "
 "pedagogy in practice."
-msgstr ""
+msgstr "그럼에도 교육학적 문제를 실무에서 해결할 명료하고 효과적인 방법은 분명히 존재합니다."
 
 #: ../../source/tutorials.rst:84
 msgid "abstraction, generalisation"
-msgstr ""
+msgstr "추상화, 일반화"
 
 #: ../../source/tutorials.rst:85
 msgid "explanation"
-msgstr ""
+msgstr "설명"
 
 #: ../../source/tutorials.rst:86
 msgid "choices"
-msgstr ""
+msgstr "선택지"
 
 #: ../../source/tutorials.rst:87
 msgid "information"
-msgstr ""
+msgstr "정보"
 
 #: ../../source/tutorials.rst:89
 msgid ""
@@ -223,6 +254,9 @@ msgid ""
 "and understanding, but if you give into it and try to teach by telling and "
 "explaining, you will jeopardise the learning experience."
 msgstr ""
+"가르침의 제1원칙은 간단합니다. **가르치려 들지 마십시오**. 교사가 할 일은 학습자가 배울 수 있는 경험을 제공하는 것입니다. "
+"교사라면 누구나 지식과 이해를 전수하고 싶은 조바심을 느끼기 마련이지만, 여기에 굴복해 말과 설명으로 가르치려 들면 학습 경험 자체를 "
+"망치게 됩니다."
 
 #: ../../source/tutorials.rst:91
 msgid ""
@@ -232,10 +266,13 @@ msgid ""
 "your pupil. You cannot make them learn. All you can do is make it so *they* "
 "can learn."
 msgstr ""
+"그 대신 *배움이 일어나도록 두고*, 반드시 일어나리라고 믿으십시오. 학습자에게 배움의 통로가 될 *할 일*을 주십시오. 배울 수 있는 "
+"사람은 오직 학생 자신뿐입니다. 안타깝지만 아무리 바란다 해도 학생을 대신해 배워 줄 수는 없습니다. 억지로 배우게 만들 수도 없습니다."
+" 할 수 있는 일은 *학생이* 배울 수 있는 여건을 만들어 주는 것뿐입니다."
 
 #: ../../source/tutorials.rst:95
 msgid "Show the learner where they'll be going"
-msgstr ""
+msgstr "학습자에게 도착지를 보여주십시오"
 
 #: ../../source/tutorials.rst:97
 msgid ""
@@ -244,6 +281,8 @@ msgid ""
 "allows them to see themselves building towards the completed goal as they "
 "work."
 msgstr ""
+"학습자가 처음부터 무엇을 이루게 될지 그려볼 수 있게 하는 것이 중요합니다. 기대치를 설정하는 데 도움이 될 뿐 아니라, 작업하는 동안 "
+"스스로가 완성된 목표를 향해 쌓아 올리고 있음을 확인하게 해 줍니다."
 
 #: ../../source/tutorials.rst:99
 msgid ""
@@ -252,16 +291,19 @@ msgid ""
 "scalable web application. Along the way we will encounter containerisation "
 "tools and services.*"
 msgstr ""
+"학습자에게 필요한 그림을 제시하는 일은, 튜토리얼 첫머리에 이렇게 알려주는 것만으로도 충분합니다. *이 튜토리얼에서는 확장 가능한 웹 "
+"애플리케이션을 만들어 배포합니다. 그 과정에서 컨테이너화 도구와 서비스를 다루게 됩니다.*"
 
 #: ../../source/tutorials.rst:101
 msgid ""
 "This is not the same as saying: *In this tutorial you will learn...* - which"
 " is presumptuous and a very poor pattern."
 msgstr ""
+"이는 *이 튜토리얼에서 여러분은 ...을 배우게 됩니다*라고 말하는 것과는 다릅니다. 후자는 주제넘은 표현이며 매우 나쁜 패턴입니다."
 
 #: ../../source/tutorials.rst:105
 msgid "Deliver visible results early and often"
-msgstr ""
+msgstr "눈에 보이는 결과를 이른 시점부터 자주 제공하십시오"
 
 #: ../../source/tutorials.rst:107
 msgid ""
@@ -271,16 +313,19 @@ msgid ""
 "rapidly and repeatedly. Each one of those results should be something that "
 "the user can see as meaningful."
 msgstr ""
+"학습자는 아마 완전히 이해하지 못한 채 낯설고 새로운 일을 하고 있을 것입니다. 이해는 원인과 결과를 연결할 수 있을 때 생겨납니다. "
+"그러니 결과를 눈으로 확인하게 하고, 그 연결을 빠르게 그리고 반복적으로 지어 나가게 하십시오. 그 결과 하나하나는 사용자가 의미 있다고"
+" 느낄 수 있는 것이어야 합니다."
 
 #: ../../source/tutorials.rst:109
 msgid ""
 "Every step the learner follows should produce a comprehensible result, "
 "however small."
-msgstr ""
+msgstr "학습자가 따라가는 모든 단계는 아무리 작더라도 이해 가능한 결과를 만들어 내야 합니다."
 
 #: ../../source/tutorials.rst:113
 msgid "Maintain a narrative of the expected"
-msgstr ""
+msgstr "예상되는 바를 계속 서술하십시오"
 
 #: ../../source/tutorials.rst:115
 msgid ""
@@ -289,6 +334,8 @@ msgid ""
 "tutorial is to keep providing feedback to the learner that they are indeed "
 "on the right path."
 msgstr ""
+"튜토리얼의 모든 단계에서 사용자는 불안한 순간을 겪습니다. 이 동작이 과연 올바른 결과를 낼까 하는 것입니다. 성공적인 튜토리얼이 해야 "
+"할 일 중 하나는, 학습자가 제대로 가고 있다는 피드백을 끊임없이 주는 것입니다."
 
 #: ../../source/tutorials.rst:117
 msgid ""
@@ -296,6 +343,8 @@ msgid ""
 " few moments, the server responds with ...\". Show the user actual example "
 "output, or even the exact expected output."
 msgstr ""
+"기대되는 바를 계속 서술해 주십시오. \"...을 확인할 수 있습니다\", \"잠시 후 서버가 ...으로 응답합니다\"처럼 말입니다. "
+"실제 예시 출력이나, 나아가 정확한 예상 출력까지 보여주십시오."
 
 #: ../../source/tutorials.rst:119
 msgid ""
@@ -303,6 +352,8 @@ msgid ""
 "flagging them: \"If the output doesn't show ..., you have probably forgotten"
 " to ...\"."
 msgstr ""
+"잘못되었을 때 나타날 만한 징후를 미리 알고 있다면 이를 짚어 주는 것도 좋습니다. \"출력에 ...이 보이지 않는다면 ...을 빠뜨렸을"
+" 가능성이 높습니다\"처럼 말입니다."
 
 #: ../../source/tutorials.rst:121
 msgid ""
@@ -310,10 +361,12 @@ msgid ""
 "command will probably return several hundred lines of logs in your "
 "terminal.\""
 msgstr ""
+"사용자가 놀랄 만한 동작을 미리 알려주는 것도 도움이 됩니다. \"이 명령은 터미널에 수백 줄의 로그를 출력할 것입니다.\"처럼 "
+"말입니다."
 
 #: ../../source/tutorials.rst:125
 msgid "Point out what the learner should notice"
-msgstr ""
+msgstr "학습자가 알아차려야 할 것을 짚어 주십시오"
 
 #: ../../source/tutorials.rst:127
 msgid ""
@@ -322,6 +375,8 @@ msgid ""
 "environment. In a lesson, a learner is typically too focused on what they "
 "are doing to notice them, unless they are prompted by the teacher."
 msgstr ""
+"배움에는 성찰이 필요합니다. 성찰은 여러 층위와 깊이에서 일어나는데, 그 첫 단계 중 하나가 학습자가 자기 환경에 나타난 신호를 관찰하는"
+" 것입니다. 수업 중 학습자는 대개 자신이 하는 일에 몰두한 나머지, 교사가 짚어 주지 않으면 그 신호를 알아차리지 못합니다."
 
 #: ../../source/tutorials.rst:129
 msgid ""
@@ -329,6 +384,8 @@ msgid ""
 "out, in passing, as the lesson moves along. This can be as simple as "
 "pointing out how a command line prompt changes, for example."
 msgstr ""
+"교사가 할 일은 수업이 진행되는 동안 이런 것들을 지나가듯 짚어 주며 학습의 고리를 닫아 주는 것입니다. 예를 들어 명령줄 프롬프트가 "
+"어떻게 바뀌는지 알려주는 정도로도 충분합니다."
 
 #: ../../source/tutorials.rst:131
 msgid ""
@@ -336,44 +393,48 @@ msgid ""
 "paying attention to the environment, a skill in itself. It's often "
 "neglected."
 msgstr ""
+"관찰은 일의 수동적인 부분이 아니라 능동적인 부분입니다. 환경에 주의를 기울인다는 뜻이며, 그 자체로 하나의 기술입니다. 그럼에도 흔히 "
+"간과됩니다."
 
 #: ../../source/tutorials.rst:135
 msgid "Target *the feeling of doing*"
-msgstr ""
+msgstr "*수행의 감각*을 목표로 삼으십시오"
 
 #: ../../source/tutorials.rst:137
 msgid ""
 "In all skill or craft, the accomplished practitioner experiences a *feeling "
 "of doing*, a joined-up purpose, action, thinking and result."
 msgstr ""
+"어떤 기술이나 일에서든 숙련된 실무자는 *수행의 감각*을 경험합니다. 목적과 행동, 사고와 결과가 하나로 이어지는 감각입니다."
 
 #: ../../source/tutorials.rst:139
 msgid ""
 "As skill develops, it flows in a confident rhythm and becomes a kind of "
 "pleasure. It's the pleasure of walking, for example."
-msgstr ""
+msgstr "기술이 무르익으면 그 감각은 확신에 찬 리듬을 타고 흐르며 일종의 즐거움이 됩니다. 이를테면 걷는 즐거움 같은 것입니다."
 
 #: ../../source/tutorials.rst:143
 msgid ""
 "Pay attention to your own *feeling of doing* in your work. What is it like "
 "to perform a particular operation?"
-msgstr ""
+msgstr "자신의 업무 속 *수행의 감각*에 주의를 기울여 보십시오. 특정 작업을 수행한다는 것은 어떤 느낌입니까?"
 
 #: ../../source/tutorials.rst:145
 msgid ""
 "Your learner's skill depends upon their discovering this feeling, and its "
 "becoming a pleasure."
-msgstr ""
+msgstr "학습자의 기술은 이 감각을 발견하고, 또 그것이 즐거움이 되는 것에 달려 있습니다."
 
 #: ../../source/tutorials.rst:147
 msgid ""
 "Your challenge as the creator of a tutorial is to ensure that its tasks tie "
 "together purpose and action so they become a cradle for this feeling."
 msgstr ""
+"튜토리얼 제작자로서 감당해야 할 과제는, 튜토리얼의 과제들이 목적과 행동을 하나로 엮어 이 감각을 길러 낼 요람이 되게 하는 것입니다."
 
 #: ../../source/tutorials.rst:151
 msgid "Encourage and permit repetition"
-msgstr ""
+msgstr "반복을 권장하고 허용하십시오"
 
 #: ../../source/tutorials.rst:153
 msgid ""
@@ -381,17 +442,19 @@ msgid ""
 "the pleasure they find in getting the expected result. Doing so reaffirms to"
 " them that they can do it, and that it works."
 msgstr ""
+"학습자는 성공을 안겨 준 실습으로 되돌아가 반복합니다. 예상한 결과를 얻는 데서 즐거움을 느끼기 때문입니다. 그렇게 반복하며 자신이 해낼"
+" 수 있다는 것, 그리고 그것이 실제로 작동한다는 것을 거듭 확인합니다."
 
 #: ../../source/tutorials.rst:155
 msgid ""
 "Repetition is a key to establishing the feeling of doing; being at home with"
 " that feeling is a foundational layer of learning."
-msgstr ""
+msgstr "반복은 수행의 감각을 자리 잡게 하는 열쇠입니다. 그 감각에 익숙해지는 것은 학습의 가장 밑바탕이 되는 층위입니다."
 
 #: ../../source/tutorials.rst:159
 msgid ""
 "Repetition is not the best teacher - sometimes it's the *only* teacher."
-msgstr ""
+msgstr "반복은 최고의 스승이 아닙니다. 때로는 *유일한* 스승입니다."
 
 #: ../../source/tutorials.rst:161
 msgid ""
@@ -402,10 +465,13 @@ msgid ""
 " to see how often they choose to repeat a step. They are doing it just to "
 "see that the same thing really does happen again."
 msgstr ""
+"튜토리얼에서는 특정 단계와 그 결과를 반복할 수 있도록 만들어 보십시오. 되돌릴 수 없는 작업처럼(이전 단계로 돌아가기 어려운 경우) "
+"쉽지 않을 때도 있지만, 가능한 곳에서는 반드시 시도하십시오. 사용자가 튜토리얼을 따라가는 모습을 지켜보면, 얼마나 자주 같은 단계를 "
+"다시 밟는지 보고 놀라게 될 것입니다. 같은 일이 정말 다시 일어나는지 확인하고 싶어서 그러는 것입니다."
 
 #: ../../source/tutorials.rst:165
 msgid "Ruthlessly minimise explanation"
-msgstr ""
+msgstr "설명을 가차 없이 줄이십시오"
 
 #: ../../source/tutorials.rst:167
 msgid ""
@@ -415,6 +481,9 @@ msgid ""
 " now they are concerned with *doing*. Explanation distracts their attention "
 "from that, and blocks their learning."
 msgstr ""
+"*튜토리얼은 설명을 위한 자리가 아닙니다.* 튜토리얼에서 사용자는 지시를 정확히 따라 예상한 결과를 얻는 데 집중하고 있습니다. "
+"*나중에* 준비가 되면 스스로 설명을 찾아 나설 것입니다. 하지만 지금 그들의 관심사는 *수행*입니다. 설명은 그 집중을 흩뜨리고 배움을"
+" 가로막습니다."
 
 #: ../../source/tutorials.rst:169
 msgid ""
@@ -423,12 +492,15 @@ msgid ""
 "explanation of HTTPS, but not now. Instead, provide a link or reference to "
 "that explanation, so that it's available, but doesn't get in the way."
 msgstr ""
+"예를 들어 *더 안전하기 때문에 HTTPS를 사용합니다.* 정도면 충분합니다. HTTPS에 대한 깊이 있는 논의와 설명이 필요한 자리는 "
+"따로 있으며, 지금은 아닙니다. 그 대신 해당 설명으로 가는 링크나 참조를 제공해, 필요할 때 볼 수는 있되 진행을 방해하지 않게 "
+"하십시오."
 
 #: ../../source/tutorials.rst:173
 msgid ""
 "Explanation is only pertinent at the moment the *user* wants it. It is not "
 "for the documentation author to decide."
-msgstr ""
+msgstr "설명은 *사용자*가 원하는 순간에만 유효합니다. 문서 작성자가 정할 문제가 아닙니다."
 
 #: ../../source/tutorials.rst:175
 msgid ""
@@ -441,6 +513,10 @@ msgid ""
 "understanding - but these are not what we need in a tutorial, and it's not "
 "how successful learning or teaching works."
 msgstr ""
+"설명은 교사가 뿌리치기 가장 어려운 유혹 중 하나입니다. 노련한 교사조차 학생의 배움이 설명에 달려 있지 않다는 사실을 받아들이기 "
+"힘들어합니다. 이는 지극히 자연스러운 일입니다. 무언가를 이해하고 나면 우리는 추상화의 힘을 빌려 그것을 스스로에게 정리하고, 남에게도 "
+"그렇게 전하고 싶어집니다. 이해란 일반적인 개념을 붙잡는 일이고, 추상화는 이해의 논리적 형식이기 때문입니다. 그러나 이는 튜토리얼에 "
+"필요한 것이 아니며, 성공적인 학습이나 가르침이 작동하는 방식도 아닙니다."
 
 #: ../../source/tutorials.rst:177
 msgid ""
@@ -448,10 +524,11 @@ msgid ""
 "dissolve into air, when a teacher's well-intentioned explanation breaks the "
 "magic spell of learning."
 msgstr ""
+"교사의 선의 어린 설명이 배움의 마법을 깨뜨리는 순간, 학생의 집중력이 공중으로 흩어지는 광경은 직접 보아야만 알 수 있습니다."
 
 #: ../../source/tutorials.rst:181
 msgid "... and focus on the concrete"
-msgstr ""
+msgstr "... 그리고 구체적인 것에 집중하십시오"
 
 #: ../../source/tutorials.rst:183
 msgid ""
@@ -459,12 +536,14 @@ msgid ""
 " concrete things. You are responsible for setting up and maintaining the "
 "student's flow, from one concrete action and result to another."
 msgstr ""
+"학습 상황에서 학생은 지금 이 순간에 머물러 있으며, 그 순간은 구체적인 것들로 이루어져 있습니다. 하나의 구체적인 행동과 결과에서 "
+"다음으로 이어지는 학생의 흐름을 만들고 유지하는 것이 여러분의 책임입니다."
 
 #: ../../source/tutorials.rst:185
 msgid ""
 "Focus on *this* problem, *this* action, *this* result, in such a way that "
 "you lead the learner from step to concrete step."
-msgstr ""
+msgstr "*이* 문제, *이* 행동, *이* 결과에 집중하여, 학습자를 구체적인 단계에서 다음 구체적인 단계로 이끌어 나가십시오."
 
 #: ../../source/tutorials.rst:187
 msgid ""
@@ -475,10 +554,13 @@ msgid ""
 "moves in one direction: from the concrete and particular, towards the "
 "general and abstract. The latter *will* emerge from the former."
 msgstr ""
+"구체적이고 개별적인 것에만 집중하면 학생이 더 큰 일반적 패턴을 보거나 붙잡을 기회를 빼앗는 것처럼 보일 수 있지만, 실상은 "
+"정반대입니다. 우리의 정신이 놀랍도록 잘해내는 단 한 가지가 바로 구체적인 사례에서 일반적인 패턴을 알아차리는 일입니다. 모든 배움은 한"
+" 방향으로 움직입니다. 구체적이고 개별적인 것에서 일반적이고 추상적인 것으로 나아갑니다. 후자는 전자에서 *반드시* 떠오릅니다."
 
 #: ../../source/tutorials.rst:191
 msgid "Ignore options and alternatives"
-msgstr ""
+msgstr "선택지와 대안은 무시하십시오"
 
 #: ../../source/tutorials.rst:193
 msgid ""
@@ -489,22 +571,25 @@ msgid ""
 "focused on what's required to reach the conclusion*, and everything else can"
 " be left for another time."
 msgstr ""
+"여러분이 할 일은 학습자를 성공적인 결말까지 이끄는 것입니다. 도중에 흥미로운 샛길이 많이 나타날 수 있습니다. 사용 중인 명령의 다른 "
+"옵션들, API를 쓰는 또 다른 방법들, 지금 설명하는 작업에 대한 다른 접근법들 같은 것 말입니다. 전부 무시하십시오. *안내는 결말에"
+" 도달하는 데 필요한 것에만 집중해야 하며*, 나머지는 모두 다음 기회로 미뤄도 됩니다."
 
 #: ../../source/tutorials.rst:195
 msgid ""
 "Doing this helps keep your tutorial shorter and crisper, and saves both you "
 "and the reader from having to do extra cognitive work."
-msgstr ""
+msgstr "이렇게 하면 튜토리얼이 더 짧고 명료해지며, 작성자와 독자 모두 불필요한 인지적 부담을 덜 수 있습니다."
 
 #: ../../source/tutorials.rst:199
 msgid "Aspire to perfect reliability"
-msgstr ""
+msgstr "완벽한 신뢰성을 지향하십시오"
 
 #: ../../source/tutorials.rst:201
 msgid ""
 "All of the above are general principles of pedagogy, but there is a special "
 "burden on the creator of a tutorial."
-msgstr ""
+msgstr "위의 내용은 모두 교육학의 일반 원칙이지만, 튜토리얼 제작자에게는 특별히 더 무거운 짐이 하나 있습니다."
 
 #: ../../source/tutorials.rst:203
 msgid ""
@@ -514,10 +599,13 @@ msgid ""
 "your directions and doesn't get the expected results will quickly lose "
 "confidence, in the tutorial, the tutor and themselves."
 msgstr ""
+"튜토리얼은 신뢰를 심어 주어야 합니다. 신뢰는 오직 한 겹씩 쌓아 올릴 수 있을 뿐이며, 쉽게 흔들립니다. 학생에게 무언가를 시키는 모든"
+" 단계에서, 학생은 약속한 결과를 반드시 확인할 수 있어야 합니다. 지시를 따랐는데도 예상한 결과를 얻지 못한 학습자는 튜토리얼과 튜터,"
+" 그리고 자기 자신에 대한 믿음을 순식간에 잃습니다."
 
 #: ../../source/tutorials.rst:207
 msgid "You are required to be present, but condemned to be absent."
-msgstr ""
+msgstr "여러분은 곁에 있어야만 하지만, 없을 수밖에 없는 처지에 놓여 있습니다."
 
 #: ../../source/tutorials.rst:209
 msgid ""
@@ -526,12 +614,14 @@ msgid ""
 "constructed that things *can't* go wrong, that your tutorial works for every"
 " user, every time."
 msgstr ""
+"학습자 곁에 있는 교사는 일이 잘못되었을 때 구해 줄 수 있습니다. 튜토리얼에서는 그럴 수 없습니다. 그러므로 튜토리얼은 애초에 잘못될 "
+"*수 없을* 만큼 탄탄하게 짜여, 모든 사용자에게 언제나 작동해야 합니다."
 
 #: ../../source/tutorials.rst:211
 msgid ""
 "It's hard work to create a reliable experience, but that is what you must "
 "aspire to in creating a tutorial."
-msgstr ""
+msgstr "신뢰할 수 있는 경험을 만드는 일은 고됩니다. 그러나 튜토리얼을 만든다면 반드시 그것을 지향해야 합니다."
 
 #: ../../source/tutorials.rst:213
 msgid ""
@@ -541,83 +631,86 @@ msgid ""
 " what actually happens when users do the tutorial, through extensive testing"
 " and observation."
 msgstr ""
+"아무리 공들여 작성해도 튜토리얼에는 결함과 빈틈이 남습니다. 그 모두를 혼자 찾아낼 수는 없으며, 결국 사용자에게 기대야 합니다. 무엇이"
+" 문제인지 알아낼 유일한 방법은 사용자가 튜토리얼을 따라갈 때 실제로 어떤 일이 벌어지는지, 폭넓은 테스트와 관찰을 통해 확인하는 "
+"것입니다."
 
 #: ../../source/tutorials.rst:219
 msgid "The language of tutorials"
-msgstr ""
+msgstr "튜토리얼의 언어"
 
 #: ../../source/tutorials.rst:221
 msgid "We ..."
-msgstr ""
+msgstr "우리는 ..."
 
 #: ../../source/tutorials.rst:222
 msgid ""
 "The first-person plural affirms the relationship between tutor and learner: "
 "you are not alone; we are in this together."
-msgstr ""
+msgstr "1인칭 복수는 튜터와 학습자의 관계를 확고히 합니다. 당신은 혼자가 아니며, 우리는 이 길을 함께 간다는 뜻입니다."
 
 #: ../../source/tutorials.rst:223
 msgid "In this tutorial, we will ..."
-msgstr ""
+msgstr "이 튜토리얼에서 우리는 ..."
 
 #: ../../source/tutorials.rst:224
 msgid "Describe what the learner will accomplish."
-msgstr ""
+msgstr "학습자가 무엇을 이루게 될지 서술하십시오."
 
 #: ../../source/tutorials.rst:225
 msgid "First, do x. Now, do y. Now that you have done y, do z."
-msgstr ""
+msgstr "먼저 x를 하십시오. 이제 y를 하십시오. y를 했으니 이제 z를 하십시오."
 
 #: ../../source/tutorials.rst:226
 msgid "No room for ambiguity or doubt."
-msgstr ""
+msgstr "모호함이나 의심의 여지를 남기지 마십시오."
 
 #: ../../source/tutorials.rst:227
 msgid ""
 "We must always do x before we do y because... (see Explanation for more "
 "details)."
-msgstr ""
+msgstr "y를 하기 전에는 언제나 x를 해야 합니다. 왜냐하면... (자세한 내용은 설명 문서를 참고하십시오)."
 
 #: ../../source/tutorials.rst:228
 msgid ""
 "Provide minimal explanation of actions in the most basic language possible. "
 "Link to more detailed explanation."
-msgstr ""
+msgstr "행동에 대한 설명은 가능한 한 가장 기초적인 언어로 최소한만 제공하십시오. 더 자세한 설명은 링크로 연결하십시오."
 
 #: ../../source/tutorials.rst:229
 msgid "The output should look something like ..."
-msgstr ""
+msgstr "출력은 대략 다음과 같을 것입니다 ..."
 
 #: ../../source/tutorials.rst:230
 msgid "Give your learner clear expectations."
-msgstr ""
+msgstr "학습자에게 명확한 기대치를 제시하십시오."
 
 #: ../../source/tutorials.rst:231
 msgid "Notice that ... Remember that ... Let's check ..."
-msgstr ""
+msgstr "...에 주목하십시오. ...을 기억하십시오. 함께 확인해 봅시다."
 
 #: ../../source/tutorials.rst:232
 msgid ""
 "Give your learner plenty of clues to help confirm they are on the right "
 "track and orient themselves."
-msgstr ""
+msgstr "학습자가 제대로 가고 있는지 확인하고 스스로 방향을 잡을 수 있도록 단서를 넉넉히 주십시오."
 
 #: ../../source/tutorials.rst:233
 msgid "You have built a secure, three-layer hylomorphic stasis engine..."
-msgstr ""
+msgstr "여러분은 안전한 3계층 질료형상 정지 엔진을 만들어 냈습니다..."
 
 #: ../../source/tutorials.rst:234
 msgid ""
 "Describe (and admire, in a mild way) what your learner has accomplished."
-msgstr ""
+msgstr "학습자가 이룬 것을 서술하고, 가볍게 감탄해 주십시오."
 
 #: ../../source/tutorials.rst:240
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "음식과 요리에 적용하기"
 
 #: ../../source/tutorials.rst:242
 msgid "A child proudly showing a dish he has helped prepare"
-msgstr ""
+msgstr "자기가 거들어 만든 요리를 자랑스럽게 내보이는 아이"
 
 #: ../../source/tutorials.rst:245
 msgid ""
@@ -625,12 +718,16 @@ msgid ""
 "understand what matters in a tutorial, and just as importantly, the things "
 "that don't matter at all."
 msgstr ""
+"아이에게 요리를 가르쳐 본 사람이라면 튜토리얼에서 무엇이 중요한지, 그리고 그만큼 중요하게도 무엇이 전혀 중요하지 않은지 이해할 "
+"것입니다."
 
 #: ../../source/tutorials.rst:247
 msgid ""
 "It really doesn't matter what the child makes, or how correctly they do it. "
 "The value of a lesson lies in what the child gains, not what they produce."
 msgstr ""
+"아이가 무엇을 만드는지, 얼마나 정확하게 해내는지는 정말로 중요하지 않습니다. 수업의 가치는 아이가 만들어 낸 결과물이 아니라 아이가 "
+"얻은 것에 있습니다."
 
 #: ../../source/tutorials.rst:249
 msgid ""
@@ -638,6 +735,8 @@ msgid ""
 "whether the child can now repeat the processes on their own. Success is when"
 " the child acquires the knowledge and skills you were hoping to impart."
 msgstr ""
+"아이와 함께한 요리 수업의 성공은 요리의 결과물이 아니며, 아이가 이제 혼자서 그 과정을 되풀이할 수 있는지도 아닙니다. 전하고자 했던 "
+"지식과 기술을 아이가 습득했다면, 그것이 성공입니다."
 
 #: ../../source/tutorials.rst:251
 msgid ""
@@ -646,6 +745,8 @@ msgid ""
 "Learning a skill is never a once and for all matter. Repetition is always "
 "required."
 msgstr ""
+"여기에는 결정적인 조건이 하나 있습니다. 아이가 여러분과 함께 부엌에 있는 경험에서 즐거움을 발견하고, 다시 돌아오고 싶어 해야 한다는 "
+"것입니다. 기술을 배우는 일은 결코 한 번으로 끝나지 않습니다. 반복은 언제나 필요합니다."
 
 #: ../../source/tutorials.rst:253
 msgid ""
@@ -655,6 +756,8 @@ msgid ""
 "*how to hold a knife*; *why the oil must be hot*; *what this utensil is "
 "called*, *how to time and measure things*."
 msgstr ""
+"한편 요리 수업은 특정 요리를 만드는 법을 배우는 것으로 짜일 수 있지만, 정작 아이가 배워야 할 것은 이런 것들입니다. *음식을 다루기"
+" 전에는 손을 씻는 것*, *칼을 쥐는 법*, *기름이 뜨거워야 하는 이유*, *이 도구의 이름*, *시간을 재고 양을 다는 법*."
 
 #: ../../source/tutorials.rst:255
 msgid ""
@@ -662,6 +765,8 @@ msgid ""
 "own time, at its own pace, **through the activities** you do together, and "
 "not from the things you say or show."
 msgstr ""
+"아이는 부엌에서 여러분과 나란히 일하며 이 모두를 배웁니다. 스스로의 시간과 속도에 맞춰, 여러분이 말하거나 보여주는 것이 아니라 함께 "
+"하는 **활동을 통해** 배웁니다."
 
 #: ../../source/tutorials.rst:257
 msgid ""
@@ -672,3 +777,6 @@ msgid ""
 "down something in the construction of its technical expertise, that can be "
 "returned to and built upon next time."
 msgstr ""
+"어린아이와 함께라면 계획한 것을 끝내기도 전에 수업이 갑자기 끝나야 하는 경우가 잦습니다. 이는 정상이며 당연한 일입니다. 아이의 집중 "
+"시간은 짧습니다. 그러나 아이가 아무리 작더라도 무언가를 해냈고 그 과정을 즐겼다면, 그것으로 이미 기술적 숙련을 쌓아 가는 데 무언가 "
+"한 겹이 놓인 것입니다. 다음에 다시 찾아와 그 위에 쌓아 올릴 수 있습니다."

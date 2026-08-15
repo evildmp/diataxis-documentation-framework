@@ -3,73 +3,98 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Rodrigo de Avila <rdeavila@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-09 13:55+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Language-Team: Portuguese (https://app.transifex.com/danieleprocida/teams/120528/pt/)\n"
+"Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: pt\n"
+"Language: pt_BR\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: 4892972a2e2f47f09632680bfd8aae7f
+#: ../../source/how-to-guides.rst:4
 msgid "How-to guides"
-msgstr ""
+msgstr "Guias práticos"
 
-#: 58b6dfd2c4f34deebb76c9dcb33cc9dd
+#: ../../source/how-to-guides.rst:7
 msgid ""
 "How-to guides are **directions** that guide the reader through a problem or "
 "towards a result. How-to guides are **goal-oriented**."
 msgstr ""
+"Guias práticos são **instruções** que orientam o leitor através de um "
+"problema ou em direção a um resultado. Guias práticos são **orientados a "
+"objetivos**."
 
-#: 13f78e9ba1fb4f87a9a2bcad799e6755
+#: ../../source/how-to-guides.rst:10
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
 msgstr ""
+"Um guia prático ajuda o usuário a realizar algo, de forma correta e segura; "
+"ele guia a *ação* do usuário."
 
-#: a5df78efd18142dbbb7c05f63ddbb15e
+#: ../../source/how-to-guides.rst:12
 msgid ""
 "It's concerned with *work* - navigating from one side to the other of a "
 "real-world problem-field."
 msgstr ""
+"Trata de *trabalho* - navegar de um lado ao outro de um campo de problemas "
+"do mundo real."
 
-#: c01f2307bfca4e4797c4c60e78156bf6
+#: ../../source/how-to-guides.rst:14
 msgid "How-to guides - task oriented, practical steps, that serve our work"
 msgstr ""
+"Guias práticos - orientados a tarefas, passos práticos, que servem ao nosso "
+"trabalho"
 
-#: b9825fa2897048dea98fda2598a50fff
+#: ../../source/how-to-guides.rst:18
 msgid ""
 "Examples could be: *how to calibrate the radar array*; *how to use fixtures "
 "in pytest*; *how to configure reconnection back-off policies*. On the other "
 "hand, *how to build a web application* is not - that's not addressing a "
 "specific goal or problem, it's a vastly open-ended sphere of skill."
 msgstr ""
+"Exemplos poderiam ser: *como calibrar a matriz de radar*; *como usar "
+"fixtures no pytest*; *como configurar políticas de back-off de reconexão*. "
+"Por outro lado, *como construir uma aplicação web* não é - isso não está "
+"abordando um objetivo ou problema específico, é uma esfera de habilidade "
+"vastamente aberta."
 
-#: 4dbd846f9ecb4ceea718c9230be8b0c3
+#: ../../source/how-to-guides.rst:22
 msgid ""
 "How-to guides matter not just because users need to be able to accomplish "
 "things: the list of how-to guides in your documentation helps frame the "
 "picture of what your product can actually *do*. A rich list of how-to guides"
 " is an encouraging suggestion of a product's capabilities."
 msgstr ""
+"Guias práticos são importantes não apenas porque os usuários precisam ser "
+"capazes de realizar tarefas: a lista de guias de \"como fazer\" na sua "
+"documentação ajuda a compor o quadro do que seu produto realmente pode "
+"*fazer*. Uma lista rica de guias de \"como fazer\" é uma sugestão "
+"encorajadora das capacidades de um produto."
 
-#: 85615afb69ee4ad994d0a005ed877957
+#: ../../source/how-to-guides.rst:26
 msgid ""
 "Well-written how-to guides that address the right questions are likely to be"
 " the most-read sections of your documentation."
 msgstr ""
+"Guias práticos bem escritos que abordam as perguntas certas tendem a ser as "
+"seções mais lidas da sua documentação."
 
-#: 82d62997397d409bacafb22183fddea4
+#: ../../source/how-to-guides.rst:31
 msgid "How-to guides addressed to problems"
-msgstr ""
+msgstr "Guias práticos voltados para problemas"
 
-#: 76f8e868fc5c431a97f035adae9c17fa
+#: ../../source/how-to-guides.rst:33
 msgid ""
 "**How-to guides must be written from the perspective of the user, not of the"
 " machinery.** A how-to guide represents something that someone needs to get "
@@ -77,8 +102,14 @@ msgid ""
 " should answer to a human project, in other words. It should show what the "
 "human needs to do, with the tools at hand, to obtain the result they need."
 msgstr ""
+"**Guias práticos devem ser escritos sob a perspectiva do usuário, não da "
+"máquina.** Um guia de \"como fazer\" representa algo que alguém precisa "
+"realizar. Ele é definido, em outras palavras, pelas necessidades de um "
+"usuário. Todo guia de \"como fazer\" deve responder a um projeto humano, em "
+"outras palavras. Ele deve mostrar o que o ser humano precisa fazer, com as "
+"ferramentas à disposição, para obter o resultado de que precisa."
 
-#: 1b1750f30d11485b93c56d4b069bf406
+#: ../../source/how-to-guides.rst:35
 msgid ""
 "This is in strong contrast to common pattern for how-to guides that often "
 "prevails, in which how-to guides are defined by operations that can be "
@@ -87,68 +118,95 @@ msgid ""
 " user has. Instead, it's focused on the tool, on taking the machinery "
 "through its motions."
 msgstr ""
+"Isso contrasta fortemente com o padrão comum para guias práticos que "
+"frequentemente prevalece, no qual os guias práticos são definidos por "
+"operações que podem ser realizadas com uma ferramenta ou sistema. O problema"
+" com este último padrão é que ele oferece pouco valor ao usuário; ele não é "
+"direcionado a nenhuma necessidade que o usuário tenha. Em vez disso, ele é "
+"focado na ferramenta, em fazer o maquinário executar seus movimentos."
 
-#: 6add27ca266a408ca5cd8d8927aba17d
+#: ../../source/how-to-guides.rst:37
 msgid ""
 "This is fundamentally a distinction of *meaningfulness*. Meaning is given by"
 " purpose and need. There is no purpose or need in the functionality of a "
 "machine. It is merely a series of causes and effects, inputs and outputs."
 msgstr ""
+"Isso é fundamentalmente uma distinção de *sentido*. O sentido é dado pelo "
+"propósito e pela necessidade. Não há propósito ou necessidade na "
+"funcionalidade de uma máquina. É meramente uma série de causas e efeitos, "
+"entradas e saídas."
 
-#: c7d3ce6e758741389e553ebf48bdae78
+#: ../../source/how-to-guides.rst:39
 msgid "Consider:"
-msgstr ""
+msgstr "Considere:"
 
-#: 9026718874214fa9968363bc2de29db9
+#: ../../source/how-to-guides.rst:41
 msgid "\"To shut off the flow of water, turn the tap clockwise.\""
-msgstr ""
+msgstr "\"Para interromper o fluxo de água, gire a torneira no sentido horário.\""
 
-#: 72d2ff2161284b5fa579ca9cde0efb49
+#: ../../source/how-to-guides.rst:42
 msgid ""
 "\"To deploy the desired database configuration, select the appropriate "
 "options and press **Deploy**.\""
 msgstr ""
+"\"Para implantar a configuração de banco de dados desejada, selecione as "
+"opções apropriadas e pressione **Deploy**.\""
 
-#: 33b513d576014028bb315ebb471a1a75
+#: ../../source/how-to-guides.rst:46
 msgid ""
 "We really do not need to be informed that we turn on a device using the "
 "power switch, but it is shocking how often how-to guides in software "
 "documentation are written at this level."
 msgstr ""
+"Realmente não precisamos ser informados de que ligamos um dispositivo usando"
+" o botão de energia, mas é chocante a frequência com que guias práticos em "
+"documentações de software são escritos nesse nível."
 
-#: d30070c71ae14da3a7ef3e1b003751cf
+#: ../../source/how-to-guides.rst:48
 msgid "The examples above *look* like examples of guidance, but they are not."
-msgstr ""
+msgstr "Os exemplos acima *parecem* exemplos de orientação, mas não são."
 
-#: e415c90ff0da4a40a5269a2b9ae8e829
+#: ../../source/how-to-guides.rst:50
 msgid ""
 "They represent mostly useless information that anyone with basic competence "
 "- anyone who is working in this domain - should be expected to know. Between"
 " them, standardised interfaces and generally-expected knowledge should make "
 "it quite clear what effect most actions will have."
 msgstr ""
+"Eles representam informações majoritariamente inúteis que qualquer pessoa "
+"com competência básica - qualquer pessoa que trabalhe nesta área - deveria "
+"saber. Entre eles, interfaces padronizadas e o conhecimento geralmente "
+"esperado devem deixar bastante claro qual efeito a maioria das ações terá."
 
-#: f97b2d0395864d5ba8ca5be332d3830a
+#: ../../source/how-to-guides.rst:52
 msgid ""
 "Secondly, they are disconnected from purpose. What the user needs to know "
 "might be things like:"
 msgstr ""
+"Em segundo lugar, eles estão desconectados de um propósito. O que o usuário "
+"precisa saber pode ser coisas como:"
 
-#: 99bf91cdf2fc4c948001d0e2959788f2
+#: ../../source/how-to-guides.rst:54
 msgid ""
 "how much water to run, and how vigorously to run it, for a certain purpose"
 msgstr ""
+"quanta água deixar correr, e com que intensidade fazê-lo, para um "
+"determinado propósito"
 
-#: e620e41560074495a8a681ef3c298c3c
+#: ../../source/how-to-guides.rst:55
 msgid ""
 "what database configuration options align with particular real-world needs"
 msgstr ""
+"quais opções de configuração de banco de dados se alinham com necessidades "
+"específicas do mundo real"
 
-#: a57edb52af3e4b489107ad8444b48269
+#: ../../source/how-to-guides.rst:59
 msgid "How-to guides are about goals, projects and problems, not about tools."
 msgstr ""
+"Guias práticos tratam de objetivos, projetos e problemas, não de "
+"ferramentas."
 
-#: a32e030cfc49466fa5d8285ecd5795bd
+#: ../../source/how-to-guides.rst:61
 msgid ""
 "Tools appear in how-to guides as incidental bit-players, the means to the "
 "user's end. Sometimes of course, a particular end is closely aligned with a "
@@ -159,20 +217,33 @@ msgid ""
 "In either case, it is that project that defines what a how-to guide must "
 "cover."
 msgstr ""
+"As ferramentas aparecem em guias práticos como coadjuvantes incidentais, o "
+"meio para atingir o objetivo do usuário. Às vezes, é claro, um objetivo "
+"específico está estreitamente alinhado a uma ferramenta ou parte específica "
+"do sistema, e então você verá que um guia prático de fato se concentra "
+"nisso. Com a mesma frequência, um guia prático atravessa diferentes "
+"ferramentas ou partes de um sistema, unindo-as em uma série de atividades "
+"definidas por algo que um ser humano precisa realizar. Em ambos os casos, é "
+"esse projeto que define o que um guia prático deve cobrir."
 
-#: 4555045bdcae42459f5dde9273872ef1
+#: ../../source/how-to-guides.rst:67
 msgid "What how-to guides are not"
-msgstr ""
+msgstr "O que os guias práticos não são"
 
-#: 37d6b9a01f9e4875805473203f1fe659
+#: ../../source/how-to-guides.rst:69
 msgid ""
 "**How-to guides are wholly distinct from tutorials**. They are often "
 "confused, but the user needs that they serve are quite different. Conflating"
 " them is at the root of many difficulties that afflict documentation. See "
 ":ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
+"**Guias práticos são totalmente distintos de tutoriais**. Eles são "
+"frequentemente confundidos, mas as necessidades dos usuários que eles "
+"atendem são bastante diferentes. Confundi-los está na raiz de muitas "
+"dificuldades que afetam a documentação. Consulte :ref:`tutorials-how-to` "
+"para uma discussão sobre essa distinção."
 
-#: 918a781040094ca498369d3d6ddd4212
+#: ../../source/how-to-guides.rst:71
 msgid ""
 "In another confusion, how-to guides are often construed merely as procedural"
 " guides. But solving a problem or accomplishing a task cannot always be "
@@ -182,34 +253,44 @@ msgid ""
 "Often, a how-to guide will need the user to rely on their judgement in "
 "applying the guidance it can provide."
 msgstr ""
+"Em outra confusão, guias práticos são frequentemente interpretados apenas "
+"como guias procedimentais. Mas resolver um problema ou realizar uma tarefa "
+"nem sempre pode ser reduzido a um procedimento. Problemas do mundo real nem "
+"sempre se prestam a soluções lineares. As sequências de ação em um guia de "
+"\"como fazer\" às vezes precisam se ramificar e se sobrepor, e possuem "
+"múltiplos pontos de entrada e saída. Frequentemente, um guia de \"como "
+"fazer\" exigirá que o usuário confie em seu próprio julgamento ao aplicar a "
+"orientação que ele pode fornecer."
 
-#: 0502dd6c726041fa9d1b293d357579b2
+#: ../../source/how-to-guides.rst:77
 msgid "Key principles"
-msgstr ""
+msgstr "Princípios fundamentais"
 
-#: 19335aa833544ddea449e809f9f04628
+#: ../../source/how-to-guides.rst:79
 msgid ""
 "A how to-guide is concerned with work - a task or problem, with a practical "
 "goal. *Maintain focus on that goal*."
 msgstr ""
+"Um guia de como fazer trata de trabalho - uma tarefa ou problema, com um "
+"objetivo prático. *Mantenha o foco nesse objetivo*."
 
-#: fac3a862012745fd9d6be242bd0b5850
+#: ../../source/how-to-guides.rst:83
 msgid "focused on tasks or problems"
-msgstr ""
+msgstr "focado em tarefas ou problemas"
 
-#: 80e8b055329f430ca7c446f4ac96ed56
+#: ../../source/how-to-guides.rst:84
 msgid "assume the user knows what they want to achieve"
-msgstr ""
+msgstr "assuma que o usuário sabe o que quer alcançar"
 
-#: 85285c4289484db09b5a0f219e0add15
+#: ../../source/how-to-guides.rst:85
 msgid "action and only action"
-msgstr ""
+msgstr "ação e apenas ação"
 
-#: c4329686160949f9bfefa29866b70ea3
+#: ../../source/how-to-guides.rst:86
 msgid "no digression, explanation, teaching"
-msgstr ""
+msgstr "sem digressão, explicação, ensino"
 
-#: a94526ba943e4b96aab402e085617ae1
+#: ../../source/how-to-guides.rst:88
 msgid ""
 "Anything else that's added distracts both you and the user and dilutes the "
 "useful power of the guide. Typically, the temptations are to explain or to "
@@ -217,19 +298,27 @@ msgid ""
 " user in their work. They get in the way of the action; if they're "
 "important, link to them."
 msgstr ""
+"Qualquer outra coisa adicionada distrai tanto você quanto o usuário e dilui "
+"o poder útil do guia. Normalmente, as tentações são explicar ou fornecer "
+"referências para fins de completude. Nenhuma dessas ações faz parte do ato "
+"de guiar o usuário em seu trabalho. Elas atrapalham a ação; se forem "
+"importantes, crie um link para elas."
 
-#: 780bf79e382c44bdbd1fba104706b197
+#: ../../source/how-to-guides.rst:90
 msgid ""
 "A how-to guide serves the work of the already-competent user, whom you can "
 "assume to know what they want to do, and to be able to follow your "
 "instructions correctly."
 msgstr ""
+"Um guia prático atende ao trabalho do usuário já competente, de quem se pode"
+" assumir que saiba o que deseja fazer e que seja capaz de seguir suas "
+"instruções corretamente."
 
-#: 1129b09312814da5a8c8b350cff43f6b
+#: ../../source/how-to-guides.rst:94
 msgid "Address real-world complexity"
-msgstr ""
+msgstr "Abordar a complexidade do mundo real"
 
-#: 795647caea034e7c8ae45b5c215dd2e7
+#: ../../source/how-to-guides.rst:96
 msgid ""
 "**A how-to guide needs to be adaptable to real-world use-cases**. One that "
 "is useless for any purpose except *exactly* the narrow one you have "
@@ -237,83 +326,119 @@ msgid ""
 "must find ways to remain open to the range of possibilities, in such a way "
 "that the user can adapt your guidance to their needs."
 msgstr ""
+"**Um guia prático precisa ser adaptável a casos de uso do mundo real**. Um "
+"que seja inútil para qualquer propósito exceto *exatamente* aquele propósito"
+" restrito que você abordou é raramente valioso. Você não pode abordar todos "
+"os casos possíveis, então deve encontrar maneiras de permanecer aberto ao "
+"leque de possibilidades, de tal forma que o usuário possa adaptar sua "
+"orientação às suas necessidades."
 
-#: faf9ae4505a34e12ab43d350fb67feda
+#: ../../source/how-to-guides.rst:99
 msgid "Omit the unnecessary"
-msgstr ""
+msgstr "Omita o desnecessário"
 
-#: c65d9c580e004a0e9d4736d1d3fb8ba1
+#: ../../source/how-to-guides.rst:101
 msgid ""
 "In how-to guides, **practical usability is more helpful than completeness.**"
 " Whereas a tutorial needs to be a complete, end-to-end guide, a how-to guide"
 " does not. It should start and end in some reasonable, meaningful place, and"
 " require the reader to join it up to their own work."
 msgstr ""
+"Em guias práticos, **a usabilidade prática é mais útil do que a "
+"completude.** Enquanto um tutorial precisa ser um guia completo, de ponta a "
+"ponta, um guia prático não precisa. Ele deve começar e terminar em algum "
+"lugar razoável e significativo, e exigir que o leitor o integre ao seu "
+"próprio trabalho."
 
-#: a248e099243f4e798c083ce5adcb7478
+#: ../../source/how-to-guides.rst:107
 msgid "Provide a set of instructions"
-msgstr ""
+msgstr "Forneça um conjunto de instruções"
 
-#: c9bed956e7bf4665906153a74c03f5c3
+#: ../../source/how-to-guides.rst:109
 msgid ""
 "A how-to guide describes an *executable solution* to a real-world problem or"
 " task. It's in the form of a contract: if you're facing this situation, then"
 " you can work your way through it by taking the steps outlined in this "
 "approach. The steps are in the form of *actions*."
 msgstr ""
+"Um guia prático descreve uma *solução executável* para um problema ou tarefa"
+" do mundo real. Ele tem a forma de um contrato: se você estiver enfrentando "
+"esta situação, poderá resolvê-la seguindo as etapas descritas nesta "
+"abordagem. As etapas são apresentadas na forma de *ações*."
 
-#: 74ed6b7ff9ec4e20964ff98ee0d21bde
+#: ../../source/how-to-guides.rst:111
 msgid ""
 "\"Actions\" in this context includes physical acts, but also thinking and "
 "judgement - solving a problem involves thinking it through. A how-to guide "
 "should address how the user thinks as well as what the user does."
 msgstr ""
+"\"Ações\", neste contexto, inclui atos físicos, mas também pensamento e "
+"julgamento - resolver um problema envolve refletir sobre ele. Um guia "
+"prático deve abordar como o usuário pensa, bem como o que o usuário faz."
 
-#: 823fb24d7256466381fcce2e6571ea83
+#: ../../source/how-to-guides.rst:115
 msgid "Describe a logical sequence"
-msgstr ""
+msgstr "Descreva uma sequência lógica"
 
-#: fc073b23fca14372846657a460ad532e
+#: ../../source/how-to-guides.rst:117
 msgid ""
 "The fundamental structure of a how-to guide is a *sequence*. It implies "
 "logical ordering in time, that there is a sense and meaning to this "
 "particular order."
 msgstr ""
+"A estrutura fundamental de um guia prático é uma *sequência*. Ela implica "
+"uma ordenação lógica no tempo, que há um sentido e um significado para essa "
+"ordem específica."
 
-#: b878d93c23dc45ceb6d5368177a7ab39
+#: ../../source/how-to-guides.rst:119
 msgid ""
 "In many cases, the ordering is simply imposed by the way things must be "
 "(step two requires completion of step one, for example). In this case it's "
 "obvious what order your directions should take."
 msgstr ""
+"Em muitos casos, a ordenação é simplesmente imposta pela maneira como as "
+"coisas devem ser (o passo dois exige a conclusão do passo um, por exemplo). "
+"Neste caso, é óbvio qual ordem suas instruções devem seguir."
 
-#: e7940f1389254d82981e4fe86183574e
+#: ../../source/how-to-guides.rst:121
 msgid ""
 "Sometimes the need is more subtle - it might be possible to *perform* two "
 "operations in either order, but if for example one operation helps set up "
 "the user's working environment or even their thinking in a way that benefits"
 " the other, that's a good reason for putting it first."
 msgstr ""
+"Às vezes, a necessidade é mais sutil - pode ser possível *realizar* duas "
+"operações em qualquer ordem, mas se, por exemplo, uma operação ajuda a "
+"preparar o ambiente de trabalho do usuário ou até mesmo o seu pensamento de "
+"uma forma que beneficie a outra, essa é uma boa razão para colocá-la em "
+"primeiro lugar."
 
-#: c051febfaa704a7393c349a1255df1df
+#: ../../source/how-to-guides.rst:125
 msgid "Seek flow"
-msgstr ""
+msgstr "Busque o fluxo"
 
-#: 422aa3c652664c8b87ab7e36777390fb
+#: ../../source/how-to-guides.rst:127
 msgid ""
 "At all times, try to ground your sequences in the patterns of the *user's* "
 "activities and thinking, in such a way that the guide acquires *flow*: "
 "smooth progress."
 msgstr ""
+"Em todos os momentos, tente fundamentar suas sequências nos padrões das "
+"atividades e do pensamento do *usuário*, de tal forma que o guia adquira "
+"*fluidez*: progresso suave."
 
-#: b323e01351dc4a05a4e7d5cb6eb39115
+#: ../../source/how-to-guides.rst:129
 msgid ""
 "Achieving flow means successfully understanding the user. Paying attention "
 "to sense and meaning in ordering requires paying attention to the way human "
 "beings think and act, and the needs of someone following directions."
 msgstr ""
+"Alcançar o fluxo significa compreender o usuário com sucesso. Prestar "
+"atenção ao sentido e ao significado na ordenação exige prestar atenção à "
+"maneira como os seres humanos pensam e agem, e às necessidades de quem segue"
+" instruções."
 
-#: 28931798b2d447a398535713cddf01aa
+#: ../../source/how-to-guides.rst:131
 msgid ""
 "Again, this can be somewhat obvious: a workflow that has the user repeatedly"
 " switching between contexts and tools is clearly clumsy and inefficient. But"
@@ -323,114 +448,153 @@ msgid ""
 "they can be resolved in action? If you require the user to jump back to "
 "earlier concerns, is this necessary or avoidable?"
 msgstr ""
+"Novamente, isso pode ser um tanto óbvio: um fluxo de trabalho que faz o "
+"usuário alternar repetidamente entre contextos e ferramentas é claramente "
+"desajeitado e ineficiente. Mas você deve olhar mais profundamente do que "
+"isso. Sobre o que você está pedindo para o usuário pensar, e como o seu "
+"raciocínio fluirá de assunto em assunto durante o trabalho? Por quanto tempo"
+" você exige que o usuário mantenha pensamentos em aberto antes que possam "
+"ser resolvidos em ação? Se você exige que o usuário retorne a preocupações "
+"anteriores, isso é necessário ou evitável?"
 
-#: 01eef272d9bd4ae8bbf98a55808c6e67
+#: ../../source/how-to-guides.rst:133
 msgid ""
 "A how-to guide is concerned not just with logical ordering in time, but "
 "action taking place in time. Action, and a guide to it, has pace and rhythm."
 " Badly-judged pace or disrupted rhythm are both damaging to flow."
 msgstr ""
+"Um guia prático não trata apenas da ordenação lógica no tempo, mas da ação "
+"que ocorre no tempo. A ação, e um guia para ela, tem cadência e ritmo. Uma "
+"cadência mal ajustada ou um ritmo interrompido prejudicam o fluxo."
 
-#: fc723b39d1d74a199ecb94fe3ddf5861
+#: ../../source/how-to-guides.rst:135
 msgid ""
 "At its best, how-to documentation gives the user flow. There is a distinct "
 "experience of encountering a guide that appears to *anticipate* the user - "
 "the documentation equivalent of a helper who has the tool you were about to "
 "reach for, ready to place it in your hand."
 msgstr ""
+"Em seu melhor nível, a documentação de instruções proporciona fluidez ao "
+"usuário. Há uma experiência distinta ao encontrar um guia que parece "
+"*antecipar* o usuário — o equivalente em documentação de um assistente que "
+"tem a ferramenta que você estava prestes a buscar, pronto para colocá-la em "
+"sua mão."
 
-#: bf7b3d69136b4ed3a063372f1f0a9b5b
+#: ../../source/how-to-guides.rst:139
 msgid "Pay attention to naming"
-msgstr ""
+msgstr "Preste atenção à nomenclatura"
 
-#: bca1f59dc3fa4efd9ed5e39f0ed8eb97
+#: ../../source/how-to-guides.rst:141
 msgid "**Choose titles that say exactly what a how-to guide shows.**"
 msgstr ""
+"**Escolha títulos que digam exatamente o que um guia prático mostra.**"
 
-#: 0b2b5cf730e94d47b74cf40a016e9c07
+#: ../../source/how-to-guides.rst:143
 msgid "good: *How to integrate application performance monitoring*"
-msgstr ""
+msgstr "bom: *Como integrar o monitoramento de desempenho de aplicações*"
 
-#: 018b88521f1e4aeb850b7b93d5589004
+#: ../../source/how-to-guides.rst:144
 msgid ""
 "bad: *Integrating application performance monitoring* (maybe the document is"
 " about how to decide whether you should, not about how to do it)"
 msgstr ""
+"ruim: *Integrando o monitoramento de desempenho de aplicações* (talvez o "
+"documento seja sobre como decidir se deve ou não, e não sobre como fazer)"
 
-#: 28413c9e4252402bac7d878ece42c78a
+#: ../../source/how-to-guides.rst:145
 msgid ""
 "very bad: *Application performance monitoring* (maybe it's about *how* - but"
 " maybe it's about *whether*, or even just an explanation of *what* it is)"
 msgstr ""
+"muito ruim: *Monitoramento de desempenho de aplicações* (talvez seja sobre "
+"*como* - mas talvez seja sobre *se*, ou até mesmo apenas uma explicação do "
+"que *é*)"
 
-#: 9635747b84be4620a974c49176b5a6dc
+#: ../../source/how-to-guides.rst:147
 msgid ""
 "Note that search engines appreciate good titles just as much as humans do."
 msgstr ""
+"Note que os mecanismos de busca valorizam bons títulos tanto quanto os seres"
+" humanos."
 
-#: d3c2d7de5f894d828d5abdeb9b38e323
+#: ../../source/how-to-guides.rst:152
 msgid "The language of how-to guides"
-msgstr ""
+msgstr "A linguagem dos guias práticos"
 
-#: cf9d0fdad1a446dc8b05b50ace172f62
+#: ../../source/how-to-guides.rst:154
 msgid "*This guide shows you how to...*"
-msgstr ""
+msgstr "*Este guia mostra como...*"
 
-#: 5e6fe20c1f2e4cd0ba8e6daac56f0ff2
+#: ../../source/how-to-guides.rst:155
 msgid ""
 "Describe clearly the problem or task that the guide shows the user how to "
 "solve."
 msgstr ""
+"Descreva claramente o problema ou a tarefa que o guia mostra ao usuário como"
+" resolver."
 
-#: 8a13a304a6bb4cd0b34dcf1ca83db674
+#: ../../source/how-to-guides.rst:156
 msgid "*If you want x, do y. To achieve w, do z.*"
-msgstr ""
+msgstr "*Se quiser x, faça y. Para alcançar w, faça z.*"
 
-#: 025fce88293b43878a6de862ccacc929
+#: ../../source/how-to-guides.rst:157
 msgid "Use conditional imperatives."
-msgstr ""
+msgstr "Use imperativos condicionais."
 
-#: 174759fb09e1434e8ecfbb33ae13a575
+#: ../../source/how-to-guides.rst:158
 msgid "*Refer to the x reference guide for a full list of options.*"
-msgstr ""
+msgstr "*Consulte o guia de referência x para uma lista completa de opções.*"
 
-#: 900b24af012c49c18b56a9d615ac072c
+#: ../../source/how-to-guides.rst:159
 msgid ""
 "Don't pollute your practical how-to guide with every possible thing the user"
 " might do related to x."
 msgstr ""
+"Não polua seu guia prático com todas as coisas possíveis que o usuário possa"
+" fazer relacionadas a x."
 
-#: b7029e53851640efa952095b520a1983
+#: ../../source/how-to-guides.rst:165
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "Aplicado à alimentação e à culinária"
 
-#: 5f857581fa034118b16f6e9d69f4bd77
+#: ../../source/how-to-guides.rst:167
 msgid ""
 "Consider a recipe, an excellent model for a how-to guide. A recipe clearly "
 "defines what will be achieved by following it, and **addresses a specific "
 "question** (*How do I make...?* or *What can I make with...?*)."
 msgstr ""
+"Considere uma receita, um excelente modelo para um guia prático. Uma receita"
+" define claramente o que será alcançado ao segui-la e **responde a uma "
+"pergunta específica** (*Como eu faço...?* ou *O que posso fazer com...?*)."
 
-#: da7086e0a75a404381a579d2a6513b6f
+#: ../../source/how-to-guides.rst:169
 msgid "A recipe contains a list of ingredients and a list of steps."
-msgstr ""
+msgstr "Uma receita contém uma lista de ingredientes e uma lista de passos."
 
-#: b64b352a36054ffd95862b5fccfd3c6c
+#: ../../source/how-to-guides.rst:172
 msgid ""
 "It's not the responsibility of a recipe to *teach* you how to make "
 "something. A professional chef who has made exactly the same thing multiple "
 "times before may still follow a recipe - even if they *created* the recipe "
 "themselves - to ensure that they do it correctly."
 msgstr ""
+"Não é responsabilidade de uma receita *ensinar* você como fazer algo. Um "
+"chef profissional que já fez exatamente a mesma coisa várias vezes antes "
+"ainda pode seguir uma receita - mesmo que ele mesmo tenha *criado* a receita"
+" - para garantir que a faça corretamente."
 
-#: f06beffe4b2d4bb6be138c349edbe184
+#: ../../source/how-to-guides.rst:174
 msgid ""
 "Even following a recipe **requires at least basic competence**. Someone who "
 "has never cooked before should not be expected to follow a recipe with "
 "success, so a recipe is not a substitute for a cooking lesson."
 msgstr ""
+"Mesmo seguir uma receita **exige, no mínimo, competência básica**. Não se "
+"deve esperar que alguém que nunca cozinhou antes siga uma receita com "
+"sucesso, portanto, uma receita não é um substituto para uma aula de "
+"culinária."
 
-#: 9de01fec08614f49ab76ec09549d0882
+#: ../../source/how-to-guides.rst:176
 msgid ""
 "Someone who expected to be provided with a recipe, and is given instead a "
 "cooking lesson, will be disappointed and annoyed. Similarly, while it's "
@@ -440,3 +604,10 @@ msgid ""
 " excludes both teaching and discussion, and focuses only on **how** to make "
 "the dish concerned."
 msgstr ""
+"Alguém que esperava receber uma receita, e recebe em vez disso uma aula de "
+"culinária, ficará decepcionado e irritado. Da mesma forma, embora seja "
+"interessante ler sobre o contexto ou a história de um prato específico, a "
+"única vez que você não quer se deparar com isso é enquanto está tentando "
+"prepará-lo. Uma boa receita segue um formato bem estabelecido, que exclui "
+"tanto o ensino quanto a discussão, e foca apenas em **como** fazer o prato "
+"em questão."

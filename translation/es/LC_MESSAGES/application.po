@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Miguel Galán, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Miguel Galán, 2026\n"
 "Language-Team: Spanish (https://app.transifex.com/danieleprocida/teams/120528/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,12 +23,12 @@ msgstr ""
 
 #: ../../source/application.rst:2
 msgid "Applying Diátaxis"
-msgstr ""
+msgstr "Aplicando Diátaxis"
 
 #: ../../source/application.rst:5
 msgid ""
 "The pages in this section are concerned with putting Diátaxis into practice."
-msgstr ""
+msgstr "Las páginas en esta sección explican cómo poner en práctica Diátaxis"
 
 #: ../../source/application.rst:9
 msgid ""
@@ -32,6 +36,8 @@ msgid ""
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
 msgstr ""
+"Diátaxis se basa en :doc:`principios teóricos sistemáticos <theory>`, pero "
+"no es necesario entenderlos para hacer un uso efectivo del sistema."
 
 #: ../../source/application.rst:11
 msgid ""
@@ -39,6 +45,9 @@ msgid ""
 " documentation. Most of the key principles required to put it into practice "
 "successfully can be grasped intuitively."
 msgstr ""
+"Diátaxis pretende ser principalmente una aproximación pragmática para "
+"personas trabajando en documentación. La mayoría de los principios clave "
+"para ponerla en práctica con éxito pueden ser captados intuitivamente."
 
 #: ../../source/application.rst:13
 msgid ""
@@ -47,6 +56,9 @@ msgid ""
 "you will not understand it until you have started using it (this itself is a"
 " Diátaxis principle)."
 msgstr ""
+"No espere a comprender Diátaxis para empezar a ponerlo en práctica. No sólo "
+"es innecesario entenderlo del todo para usarlo: no lo entenderá hasta que no"
+" lo haya comenzado a usar (esto es, en sí mismo, un principio de Diátaxis)."
 
 #: ../../source/application.rst:15
 msgid ""
@@ -54,10 +66,14 @@ msgid ""
 "your work, try applying it. Come back here when you need more clarity or "
 "reassurance. Iterate between your work and reflecting on your work."
 msgstr ""
+"Tan pronto como sienta que ha cobrado una idea que parece valiosa para su "
+"trabajo, pruebe a aplicarla. Vuelva aquí cuando necesite más claridad o "
+"seguridad. Itere entre su trabajo y la aplicación (de Diátaxis) en su "
+"trabajo."
 
 #: ../../source/application.rst:20
 msgid "In this section"
-msgstr ""
+msgstr "En esta sección"
 
 #: ../../source/application.rst:22
 msgid ""
@@ -65,22 +81,25 @@ msgid ""
 "identifies. If you're encountering Diátaxis for the first time, start with "
 "these pages."
 msgstr ""
+"En el corazón de Diátaxis están los cuatro diferentes tipos de documentación"
+" que identifica. Si se está encontrando con Diátaxis por primera vez, "
+"comience con estas páginas."
 
 #: ../../source/application.rst:24
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ""
+msgstr ":doc:`tutoriales` - experiencias orientadas al aprendizaje"
 
 #: ../../source/application.rst:25
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ""
+msgstr ":doc:`Guías How to` - instrucciones orientadas a objetivos"
 
 #: ../../source/application.rst:26
 msgid ":doc:`reference` - information-oriented technical description"
-msgstr ""
+msgstr ":doc:`referencia` - Descripción técnica orientada a la información"
 
 #: ../../source/application.rst:27
 msgid ":doc:`explanation` - understanding-oriented discussion"
-msgstr ""
+msgstr ":doc:`explicación` - Análisis orientado a la comprensión"
 
 #: ../../source/application.rst:29
 msgid ""
@@ -89,6 +108,10 @@ msgid ""
 "execution. Once you've made your first start, the tools and methods outlined"
 " here will help smooth your way."
 msgstr ""
+"Diátaxis prescribe principios para orientar la acción. Estos se traducen en "
+"maneras particulares de trabajar, con implicaciones en el proceso de "
+"documentación y ejecución. Una vez haya comenzado, las herramientas y los "
+"métodos que aquí se describen le ayudarán a allanar el camino."
 
 #: ../../source/application.rst:31
 msgid ":doc:`compass` - a simple tool for direction-finding"
@@ -96,4 +119,4 @@ msgstr ""
 
 #: ../../source/application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
-msgstr ""
+msgstr ":doc:`Flujo de trabajo ` <how-to-use-diataxis>en Diátaxis"

@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Piotr Nawrot, 2026
 # evildmp <daniele@vurt.org>, 2026
+# Piotr Nawrot, 2026
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Last-Translator: Piotr Nawrot, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -88,15 +88,15 @@ msgstr "Tutoriale"
 
 #: ../../source/start-here.rst:30
 msgid ":ref:`Tutorials in more detail <tutorials>`"
-msgstr ":ref:`Tutoriale w większym szczególe <tutorials>`"
+msgstr ":ref:`Tutorials in more detail <tutorials>`"
 
 #: ../../source/start-here.rst:31
 msgid ""
 ":ref:`Why tutorials are completely different from how-to guides <tutorials-"
 "how-to>`"
 msgstr ""
-":ref:`Dlaczego tutoriale są całkowicie różne od przewodników krok po kroku "
-"<tutorials-how-to>`"
+":ref:`Why tutorials are completely different from how-to guides <tutorials-"
+"how-to>`"
 
 #: ../../source/start-here.rst:33
 msgid ""
@@ -149,7 +149,7 @@ msgstr "Przewodniki krok po kroku"
 
 #: ../../source/start-here.rst:47
 msgid ":ref:`How-to guides in more detail <how-to>`"
-msgstr ":ref:`Poradniki krok po kroku w większym szczególe <how-to>`"
+msgstr ":ref:`How-to guides in more detail <how-to>`"
 
 #: ../../source/start-here.rst:49
 msgid ""
@@ -188,7 +188,7 @@ msgstr "Referencje"
 
 #: ../../source/start-here.rst:61
 msgid ":ref:`Reference in more detail <reference>`"
-msgstr ":ref:`Dokumentacja referencyjna w większym szczególe <reference>`"
+msgstr "f:`Reference in more detail <reference>`"
 
 #: ../../source/start-here.rst:63
 msgid ""
@@ -241,14 +241,14 @@ msgstr "Wyjaśnienie"
 
 #: ../../source/start-here.rst:77
 msgid ":ref:`Explanation in more detail <explanation>`"
-msgstr ":ref:`Wyjaśnienie w większym szczególe <explanation>`"
+msgstr ":ref:`Explanation in more detail <explanation>`"
 
 #: ../../source/start-here.rst:78
 msgid ""
 ":ref:`Understanding the difference between reference and explanation "
 "<reference-explanation>`"
 msgstr ""
-":ref:`Zrozumienie różnicy między dokumentacją referencyjną a wyjaśnieniem "
+":ref:`Understanding the difference between reference and explanation "
 "<reference-explanation>`"
 
 #: ../../source/start-here.rst:81
@@ -310,7 +310,7 @@ msgstr ""
 
 #: ../../source/start-here.rst:99
 msgid ":ref:`The map in more detail <map>`"
-msgstr ":ref:`Mapa w większym szczególe <map>`"
+msgstr ":ref:`The map in more detail <map>`"
 
 #: ../../source/start-here.rst:101
 msgid ""
@@ -389,7 +389,7 @@ msgstr ""
 
 #: ../../source/start-here.rst:128
 msgid ":ref:`The compass in more detail <compass>`"
-msgstr ":ref:`Kompas w większym szczególe <compass>`"
+msgstr ":ref:`The compass in more detail <compass>`"
 
 #: ../../source/start-here.rst:130
 msgid "The compass is useful in two different ways."

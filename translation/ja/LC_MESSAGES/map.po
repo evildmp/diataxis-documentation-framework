@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis \n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/danieleprocida/teams/120528/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/map.rst:4
 msgid "The map"
@@ -25,9 +23,8 @@ msgstr ""
 
 #: ../../source/map.rst:7
 msgid ""
-"One reason Diátaxis is effective as a guide to organising documentation "
-"is that it describes a **two-dimensional structure**, rather than a "
-"*list*."
+"One reason Diátaxis is effective as a guide to organising documentation is "
+"that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr ""
 
 #: ../../source/map.rst:14
@@ -38,10 +35,9 @@ msgstr ""
 
 #: ../../source/map.rst:17
 msgid ""
-"As a map, it places the different forms of documentation into "
-"relationships with each other. Each one occupies a space in the mental "
-"territory it outlines, and the boundaries between them highlight their "
-"distinctions."
+"As a map, it places the different forms of documentation into relationships "
+"with each other. Each one occupies a space in the mental territory it "
+"outlines, and the boundaries between them highlight their distinctions."
 msgstr ""
 
 #: ../../source/map.rst:23
@@ -51,8 +47,8 @@ msgstr ""
 #: ../../source/map.rst:25
 msgid ""
 "When documentation fails to attain a good structure, it's rarely just a "
-"problem of structure (though it's bad enough that it makes it harder to "
-"use and maintain). Architectural faults infect and undermine content too."
+"problem of structure (though it's bad enough that it makes it harder to use "
+"and maintain). Architectural faults infect and undermine content too."
 msgstr ""
 
 #: ../../source/map.rst:27
@@ -65,16 +61,16 @@ msgstr ""
 #: ../../source/map.rst:29
 msgid ""
 "This is rarely successful, even in a single instance. In a portfolio of "
-"documentation instances, the results are wild inconsistency. Much better "
-"is the adoption of a scheme that tries to provide an answer to the "
-"question: how to arrange documentation *in general?*"
+"documentation instances, the results are wild inconsistency. Much better is "
+"the adoption of a scheme that tries to provide an answer to the question: "
+"how to arrange documentation *in general?*"
 msgstr ""
 
 #: ../../source/map.rst:34
 msgid ""
 "In fact any orderly attempt to organise documentation into clear content "
-"categories will help improve it (for authors as well as users), by "
-"providing lists of content types."
+"categories will help improve it (for authors as well as users), by providing"
+" lists of content types."
 msgstr ""
 
 #: ../../source/map.rst:38
@@ -83,9 +79,8 @@ msgid ""
 "documentation content that fails to fit well within the categories put "
 "forward by a scheme, or struggling to rewrite existing material. Often, "
 "there is a sense of arbitrariness about the structure that they find "
-"themselves working with - why this particular list of content types "
-"rather than another? And if another competing list is proposed, which to "
-"adopt?"
+"themselves working with - why this particular list of content types rather "
+"than another? And if another competing list is proposed, which to adopt?"
 msgstr ""
 
 #: ../../source/map.rst:48
@@ -94,11 +89,10 @@ msgstr ""
 
 #: ../../source/map.rst:50
 msgid ""
-"A clear advantage of organising material this way is that it provides "
-"both clear *expectations* (to the reader) and *guidance* (to the author)."
-" It's clear what the purpose of any particular piece of content is, it "
-"specifies how it should be written and it shows where it should be "
-"placed."
+"A clear advantage of organising material this way is that it provides both "
+"clear *expectations* (to the reader) and *guidance* (to the author). It's "
+"clear what the purpose of any particular piece of content is, it specifies "
+"how it should be written and it shows where it should be placed."
 msgstr ""
 
 #: ../../source/map.rst:62
@@ -243,9 +237,9 @@ msgstr ""
 
 #: ../../source/map.rst:98
 msgid ""
-"Each piece of content is of a kind that not only has one particular job "
-"to do, that job is also clearly distinguished from and contrasted with "
-"the other functions of documentation."
+"Each piece of content is of a kind that not only has one particular job to "
+"do, that job is also clearly distinguished from and contrasted with the "
+"other functions of documentation."
 msgstr ""
 
 #: ../../source/map.rst:103
@@ -264,10 +258,10 @@ msgstr ""
 
 #: ../../source/map.rst:112
 msgid ""
-"However, there is a kind of natural affinity between each of the "
-"different forms of documentation and its neighbours on the map, and a "
-"natural tendency to blur the distinctions (that can be seen repeatedly in"
-" examples of documentation)."
+"However, there is a kind of natural affinity between each of the different "
+"forms of documentation and its neighbours on the map, and a natural tendency"
+" to blur the distinctions (that can be seen repeatedly in examples of "
+"documentation)."
 msgstr ""
 
 #: ../../source/map.rst:120
@@ -305,9 +299,9 @@ msgstr ""
 #: ../../source/map.rst:133
 msgid ""
 "When these distinctions are allowed to blur, the different kinds of "
-"documentation bleed into each other. Writing style and content make their"
-" way into inappropriate places. It also causes structural problems, which"
-" make it even more difficult to maintain the discipline of appropriate "
+"documentation bleed into each other. Writing style and content make their "
+"way into inappropriate places. It also causes structural problems, which "
+"make it even more difficult to maintain the discipline of appropriate "
 "writing."
 msgstr ""
 
@@ -317,9 +311,9 @@ msgstr ""
 
 #: ../../source/map.rst:139
 msgid ""
-"In the worst case there is a complete or partial collapse of tutorials "
-"and how-to guides into each other, making it impossible to meet the needs"
-" served by either."
+"In the worst case there is a complete or partial collapse of tutorials and "
+"how-to guides into each other, making it impossible to meet the needs served"
+" by either."
 msgstr ""
 
 #: ../../source/map.rst:145
@@ -334,21 +328,19 @@ msgstr ""
 
 #: ../../source/map.rst:149
 msgid ""
-"This phrase should not be understood too literally. It is not the case "
-"that a user must encounter the different kinds of documentation in the "
-"order *tutorials* > *how-to guides* > *technical reference* > "
-"*explanation*. In practice, an actual user may enter the documentation "
-"anywhere in search of guidance on some particular subject, and what they "
-"want to read will change from moment to moment as they use your "
-"documentation."
+"This phrase should not be understood too literally. It is not the case that "
+"a user must encounter the different kinds of documentation in the order "
+"*tutorials* > *how-to guides* > *technical reference* > *explanation*. In "
+"practice, an actual user may enter the documentation anywhere in search of "
+"guidance on some particular subject, and what they want to read will change "
+"from moment to moment as they use your documentation."
 msgstr ""
 
 #: ../../source/map.rst:154
 msgid ""
-"However, the idea of a cycle of documentation needs, that proceeds "
-"through different phases, is sound and corresponds to the way that people"
-" actually do become expert in a craft. There is a sense and meaning to "
-"this ordering."
+"However, the idea of a cycle of documentation needs, that proceeds through "
+"different phases, is sound and corresponds to the way that people actually "
+"do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
 
 #: ../../source/map.rst:157
@@ -357,9 +349,9 @@ msgstr ""
 
 #: ../../source/map.rst:162
 msgid ""
-"*learning-oriented phase*: We begin by learning, and learning a skill "
-"means diving straight in to do it - under the guidance of a teacher, if "
-"we're lucky."
+"*learning-oriented phase*: We begin by learning, and learning a skill means "
+"diving straight in to do it - under the guidance of a teacher, if we're "
+"lucky."
 msgstr ""
 
 #: ../../source/map.rst:164
@@ -368,20 +360,19 @@ msgstr ""
 
 #: ../../source/map.rst:165
 msgid ""
-"*information-oriented phase*: As soon as our work calls upon knowledge "
-"that we don't already have in our head, it requires us to consult "
-"technical reference."
+"*information-oriented phase*: As soon as our work calls upon knowledge that "
+"we don't already have in our head, it requires us to consult technical "
+"reference."
 msgstr ""
 
 #: ../../source/map.rst:167
 msgid ""
-"*explanation-oriented phase*: Finally, away from the work, we reflect on "
-"our practice and knowledge to understand the whole."
+"*explanation-oriented phase*: Finally, away from the work, we reflect on our"
+" practice and knowledge to understand the whole."
 msgstr ""
 
 #: ../../source/map.rst:170
 msgid ""
-"And then it's back to the beginning, perhaps for a new thing to grasp, or"
-" to penetrate deeper."
+"And then it's back to the beginning, perhaps for a new thing to grasp, or to"
+" penetrate deeper."
 msgstr ""
-

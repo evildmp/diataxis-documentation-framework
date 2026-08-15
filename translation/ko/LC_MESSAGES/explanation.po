@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Jiwon Kwak, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Jiwon Kwak, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,25 +23,25 @@ msgstr ""
 
 #: ../../source/explanation.rst:4
 msgid "Explanation"
-msgstr ""
+msgstr "설명"
 
 #: ../../source/explanation.rst:8
 msgid ""
 "Explanation is a discursive treatment of a subject, that permits "
 "*reflection*. Explanation is **understanding-oriented**."
-msgstr ""
+msgstr "설명이란 주제에 대해 깊이 있게 다루어 *고찰*할 수 있는 기회를 제공합니다. 설명은 **이해 지향적**입니다."
 
 #: ../../source/explanation.rst:11
 msgid ""
 "Explanation deepens and broadens the reader's understanding of a subject. It"
 " brings clarity, light and context."
-msgstr ""
+msgstr "설명은 독자의 이해 범위를 확장하고 심화시킵니다. 사안에 명확성과 통찰, 그리고 맥락을 부여합니다."
 
 #: ../../source/explanation.rst:13
 msgid ""
 "Explanation - understanding oriented, theoretical knowledge, that serves our"
 " study"
-msgstr ""
+msgstr "설명 - 이해 지향적이며, 우리의 학습을 지원하는 이론적 지식"
 
 #: ../../source/explanation.rst:17
 msgid ""
@@ -45,6 +49,8 @@ msgid ""
 "something else, and depends on something else, yet at the same time brings "
 "something new - shines a new light - on the subject matter."
 msgstr ""
+"여기서 *고찰*이라는 개념은 매우 중요합니다. 고찰은 기존의 무언가 *이후*에 일어나는 행위이자 이에 의존하는 것이지만, 동시에 대상 "
+"주제에 새로운 시각을 조명합니다."
 
 #: ../../source/explanation.rst:19
 msgid ""
@@ -54,12 +60,17 @@ msgid ""
 "scope in each case is a topic - \"an area of knowledge\", that somehow has "
 "to be bounded in a reasonable, meaningful way."
 msgstr ""
+"설명의 시야는 다른 세 가지 문서 유형보다 높고 넓습니다. 하우투 가이드처럼 사용자의 시선 높이에 맞추거나, 레퍼런스처럼 시스템의 내부 "
+"구조를 근접 촬영하듯 보여주지 않습니다. 설명 문서의 범위는 언제나 하나의 주제, 즉 합리적이고 의미 있는 방식으로 경계가 설정된 "
+"\"지식의 영역\"입니다."
 
 #: ../../source/explanation.rst:21
 msgid ""
 "For the user, explanation joins things together. It's an answer to the "
 "question: *Can you tell me about ...?*"
 msgstr ""
+"사용자에게 설명은 개별 요소들을 하나로 연결해 주는 역할을 합니다. 이는 *\"~에 대해 말씀해 주시겠습니까?\"*라는 질문에 대한 "
+"답변입니다."
 
 #: ../../source/explanation.rst:23
 msgid ""
@@ -67,14 +78,16 @@ msgid ""
 "itself (one could say, explanation is the only kind of documentation that it"
 " might make sense to read in the bath)."
 msgstr ""
+"설명은 제품을 직접 다루지 않는 상태에서 읽을 때 비로소 그 가치가 발휘되는 문서입니다. (극단적으로 말하자면, 설명은 욕조 안에서 "
+"느긋하게 읽어도 이상할 게 없는 유일한 유형의 문서입니다.)"
 
 #: ../../source/explanation.rst:28
 msgid "The value and place of explanation"
-msgstr ""
+msgstr "설명의 가치와 위치"
 
 #: ../../source/explanation.rst:31
 msgid "Explanation and understanding"
-msgstr ""
+msgstr "설명과 이해 "
 
 #: ../../source/explanation.rst:33
 msgid ""
@@ -86,28 +99,32 @@ msgid ""
 "can afford to be without an understanding of that craft, and needs the "
 "explanatory material that will help weave it together."
 msgstr ""
+"설명은 실무자의 당면한 행동 과제로부터 일정 거리 떨어져 있다는 특징을 가집니다. 사용자가 당장 수행해야 하는 작업이나 행동에 직접적인 "
+"지침을 주지 않기 때문입니다. 이로 인해 때로는 중요도가 낮은 문서로 치부되기도 합니다. 그러나 이는 오산입니다. 다른 세 가지 유형보다"
+" *긴급성*은 떨어질지 몰라도, *중요성*은 결코 뒤처지지 않습니다. 설명은 단순한 사치가 아닙니다. 자신의 분야에서 전문성을 지닌 "
+"실무자라면 누구도 해당 기술에 대한 이해 없이 일할 수 없으며, 제반 지식을 유기적으로 연결해 줄 설명 문서를 필요로 합니다."
 
 #: ../../source/explanation.rst:38
 msgid ""
 "Your explanation documentation doesn't need to be called *Explanation*. "
 "Alternatives include:"
-msgstr ""
+msgstr "설명 문서의 제목에 반드시 *설명*이라는 단어를 쓸 필요는 없습니다. 다음과 같은 대체 표현을 사용할 수 있습니다."
 
 #: ../../source/explanation.rst:40
 msgid "*Discussion*"
-msgstr ""
+msgstr "*논의*"
 
 #: ../../source/explanation.rst:41
 msgid "*Background*"
-msgstr ""
+msgstr "*배경지식*"
 
 #: ../../source/explanation.rst:42
 msgid "*Conceptual guides*"
-msgstr ""
+msgstr "\"개념 가이드*"
 
 #: ../../source/explanation.rst:43
 msgid "*Topics*"
-msgstr ""
+msgstr "*주제별 안내*"
 
 #: ../../source/explanation.rst:45
 msgid ""
@@ -115,6 +132,8 @@ msgid ""
 "*unfolding*, the revelation of what is hidden in the folds. So explanation "
 "brings to the light things that were implicit or obscured."
 msgstr ""
+"'설명'을 뜻하는 단어 및 여러 언어의 동의어들은 어원적으로 *접힌 것을 펼치다(Unfolding)*, 즉 겹겹이 숨겨져 있던 것을 "
+"드러낸다는 의미를 담고 있습니다. 따라서 설명은 암묵적이거나 모호하게 숨겨져 있던 내용을 밝은 빛 아래로 끌어내는 작업입니다."
 
 #: ../../source/explanation.rst:47
 msgid ""
@@ -124,6 +143,9 @@ msgid ""
 "Understanding seals together the other components of our mastery of a craft,"
 " and makes it safely our own."
 msgstr ""
+"마찬가지로 *이해*를 뜻하는 단어들은 무언가를 '잡거나 쥐는 것'을 어원으로 공유합니다 (예: *Comprehend*). 무언가를 손에 "
+"쥐고 온전히 소유하는 것은 이해의 핵심 요소입니다. 이해는 개별적으로 습득한 기술적 요소들을 하나로 굳건히 결합하여, 온전한 나의 것으로"
+" 만들어 줍니다."
 
 #: ../../source/explanation.rst:49
 msgid ""
@@ -132,10 +154,13 @@ msgid ""
 "practitioner's knowledge of their craft is loose and fragmented and fragile,"
 " and their exercise of it is *anxious*."
 msgstr ""
+"이해라는 결과가 설명 문서 *그 자체에서* 비롯되는 것은 아닙니다. 그러나 지식의 파편을 하나로 묶어주는 그물망을 형성하려면 반드시 "
+"설명이 필요합니다. 설명이 없다면 실무자가 가진 기술 지식은 느슨하고 파편화되어 쉽게 무너지며, 그 기술을 행사할 때조차 *불안감*을 "
+"느끼게 됩니다."
 
 #: ../../source/explanation.rst:55
 msgid "Explanation and its boundaries"
-msgstr ""
+msgstr "설명의 범주 및 경계 설정"
 
 #: ../../source/explanation.rst:57
 msgid ""
@@ -144,6 +169,8 @@ msgid ""
 "Instead, explanation tends to be scattered in small parcels in other "
 "sections."
 msgstr ""
+"문서화 현장에서 설명이라는 유형은 명확히 인식되지 못하는 경우가 많으며, '개념을 설명해야 한다'는 필요성 또한 희미하게 표현되곤 "
+"합니다. 그 결과, 설명에 해당하는 내용들이 다른 문서 섹션에 소량으로 분산되어 흩어지는 경향이 발생합니다."
 
 #: ../../source/explanation.rst:61
 msgid ""
@@ -151,6 +178,8 @@ msgid ""
 "start? It's also not clear where to conclude. There is an open-endedness "
 "about it that can give the writer too many possibilities."
 msgstr ""
+"뛰어난 설명 문서를 작성하는 것은 결코 쉽지 않습니다. 어디서부터 이야기를 풀어야 할지, 또 어디서 글을 맺어야 할지 모호하기 "
+"때문입니다. 이러한 개방성은 작성자에게 너무 많은 선택지를 부여하여 혼란을 줍니다."
 
 #: ../../source/explanation.rst:64
 msgid ""
@@ -159,6 +188,8 @@ msgid ""
 "learn, what task the user needs to achieve, or just by the scope of the "
 "machine itself."
 msgstr ""
+"반면 튜토리얼, 하우투 가이드, 레퍼런스는 모두 범위가 명확히 정의되어 있습니다. 학습시켜야 할 내용, 달성해야 할 과업, 혹은 대상 "
+"시스템 그 자체의 범위라는 명확한 기준이 존재하기 때문입니다."
 
 #: ../../source/explanation.rst:67
 msgid ""
@@ -166,14 +197,16 @@ msgid ""
 "question to serve as a prompt. Otherwise, you simply have to draw some lines"
 " that mark out a reasonable area and be satisfied with that."
 msgstr ""
+"설명 문서의 경우, 실제 혹은 가상의 *왜(Why)?*라는 질문을 집필의 출발점으로 삼으면 유용합니다. 그렇지 않다면, 합리적인 영역의 "
+"경계선을 직접 그어 정의하고 그 범위에 만족하는 자세가 필요합니다."
 
 #: ../../source/explanation.rst:75
 msgid "Writing good explanation"
-msgstr ""
+msgstr "좋은 설명 문서를 작성하는 방법"
 
 #: ../../source/explanation.rst:78
 msgid "Make connections"
-msgstr ""
+msgstr "유기적 연결"
 
 #: ../../source/explanation.rst:80
 msgid ""
@@ -181,10 +214,12 @@ msgid ""
 " your readers. **Make connections** to other things, even to things outside "
 "the immediate topic, if that helps."
 msgstr ""
+"설명 문서를 작성할 때 여러분은 독자를 위해 이해의 그물망을 짜는 작업을 하는 것입니다. 이해를 돕기 위해서라면 당면한 주제 범위를 "
+"벗어난 개념이라 할지라도 적극적으로 **연결 관계를 구축**하십시오."
 
 #: ../../source/explanation.rst:85
 msgid "Provide context"
-msgstr ""
+msgstr "맥락 제공"
 
 #: ../../source/explanation.rst:87
 msgid ""
@@ -192,26 +227,28 @@ msgid ""
 " are so - design decisions, historical reasons, technical constraints - draw"
 " implications, mention specific examples."
 msgstr ""
+"**설명 문서 안에 충분한 배경과 맥락을 제공**하십시오. 설계상의 결정, 역사적 배경, 기술적 제약 등 현상에 대한 *이유(Why)*를"
+" 설명하고, 그로 인한 파급 효과나 구체적인 사례를 언급하십시오."
 
 #: ../../source/explanation.rst:92
 msgid "Talk *about* the subject"
-msgstr ""
+msgstr "주제에 *대한* 내용을 다루기"
 
 #: ../../source/explanation.rst:96
 msgid "the bigger picture"
-msgstr ""
+msgstr "거시적인 관점"
 
 #: ../../source/explanation.rst:97
 msgid "history"
-msgstr ""
+msgstr "역사"
 
 #: ../../source/explanation.rst:98
 msgid "choices, alternatives, possibilities"
-msgstr ""
+msgstr "선택지, 대안, 가능성"
 
 #: ../../source/explanation.rst:99
 msgid "why: reasons and justifications"
-msgstr ""
+msgstr "이유: 정당성 및 근거"
 
 #: ../../source/explanation.rst:101
 msgid ""
@@ -221,10 +258,13 @@ msgid ""
 "each title. For example: *About user authentication*, or *About database "
 "connection policies*."
 msgstr ""
+"설명 가이드는 주제의 주변부를 다각도로 조명한다는 점에서 해당 주제를 *둘러싼* 글입니다. 이는 문서의 제목에서도 드러나야 하며, 모든 "
+"제목 앞에 암묵적으로(혹은 명시적으로) *~에 관하여(About)*를 붙일 수 있어야 합니다. 예: *사용자 인증에 관하여* 또는 "
+"*데이터베이스 연결 정책에 관하여*."
 
 #: ../../source/explanation.rst:107
 msgid "Admit opinion and perspective"
-msgstr ""
+msgstr "견해와 관점의 수용"
 
 #: ../../source/explanation.rst:109
 msgid ""
@@ -233,6 +273,9 @@ msgid ""
 "with beliefs and thoughts. The reality of any human creation is rich with "
 "opinion, and that needs to be part of any understanding of it."
 msgstr ""
+"문서에 개인적 견해를 도입한다는 것이 어색하게 느껴질 수 있습니다. 그러나 인간의 모든 활동과 지식에는 신념, 생각, 즉 견해가 내포되어"
+" 있습니다. 인간이 만든 모든 창작물의 실체는 견해로 가득 차 있으며, 대상을 온전히 이해하기 위해서는 이러한 견해 또한 이해의 일부가 "
+"되어야 합니다."
 
 #: ../../source/explanation.rst:111
 msgid ""
@@ -241,6 +284,8 @@ msgid ""
 "**Explanation can and must consider alternatives**, counter-examples or "
 "multiple different approaches to the same question."
 msgstr ""
+"마찬가지로 모든 이해는 특정 시각이나 관점에서 출발하며, 이는 다른 관점과 입장이 존재함을 의미합니다. 설명 문서는 **대안**, 반대 "
+"사례, 혹은 동일한 문제에 대한 여러 가지 접근 방식을 고려할 수 있어야 하며, 또 그래야만 합니다."
 
 #: ../../source/explanation.rst:113
 msgid ""
@@ -248,10 +293,12 @@ msgid ""
 "opening up the topic for consideration. It helps to think of explanation as "
 "discussion: discussions can even consider and weigh up contrary *opinions*."
 msgstr ""
+"설명 문서에서는 단순한 지침을 전달하거나 사실을 기술하는 것이 아니라, 고찰을 위해 주제를 개방하는 것입니다. 설명 문서를 하나의 "
+"토론으로 바라보는 것이 도움이 됩니다. 토론에서는 상충되는 *견해*까지도 비교하고 저울질할 수 있습니다."
 
 #: ../../source/explanation.rst:117
 msgid "Keep explanation closely bounded"
-msgstr ""
+msgstr "설명 문서의 경계 엄수"
 
 #: ../../source/explanation.rst:119
 msgid ""
@@ -261,62 +308,68 @@ msgid ""
 "places for these, and allowing them to creep in interferes with the "
 "explanation itself, and removes them from view in the correct place."
 msgstr ""
+"설명 문서 작성 시 빠지기 쉬운 위험은 다른 문서 유형의 내용까지 흡수하려는 경향입니다. 주제를 완벽히 다루려는 의욕이 앞서다 보면 관련"
+" 지침이나 기술적 상세 설명을 포함하고 싶은 욕구가 생깁니다. 하지만 이러한 내용들은 이미 다른 문서 섹션에 들어갈 자리가 정해져 "
+"있습니다. 설명 문서에 이러한 내용이 침범하도록 방치하면 설명 본연의 목적이 방해받을 뿐만 아니라, 원래 있어야 할 적절한 위치에서 해당"
+" 정보가 사라지게 됩니다."
 
 #: ../../source/explanation.rst:125
 msgid "The language of explanation"
-msgstr ""
+msgstr "설명 문서의 언어 표현 예시"
 
 #: ../../source/explanation.rst:127
 msgid "*The reason for x is because historically, y ...*"
-msgstr ""
+msgstr "\"x라는 방식이 채택된 이유는 역사적으로 y 때문입니다...\""
 
 #: ../../source/explanation.rst:128
 msgid "Explain."
-msgstr ""
+msgstr "설명합니다."
 
 #: ../../source/explanation.rst:129
 msgid "*W is better than z, because ...*"
-msgstr ""
+msgstr "\"w 방식이 z 방식보다 뛰어난 이유는 ~ 때문입니다...\""
 
 #: ../../source/explanation.rst:130
 msgid "Offer judgements and even opinions where appropriate.."
-msgstr ""
+msgstr "판단과 적절한 경우 견해를 제시합니다."
 
 #: ../../source/explanation.rst:131
 msgid "*An x in system y is analogous to a w in system z. However ...*"
-msgstr ""
+msgstr "\"y 시스템의 x 요소는 z 시스템의 w 요소와 유사합니다. 그러나...\""
 
 #: ../../source/explanation.rst:132
 msgid "Provide context that helps the reader."
-msgstr ""
+msgstr "독자의 이해를 돕는 맥락을 제공합니다."
 
 #: ../../source/explanation.rst:133
 msgid "*Some users prefer w (because z). This can be a good approach, but...*"
-msgstr ""
+msgstr "*일부 사용자들은 (z라는 이유로) w를 선호합니다. 이는 좋은 접근법이 될 수 있지만...*"
 
 #: ../../source/explanation.rst:134
 msgid "Weigh up alternatives."
-msgstr ""
+msgstr "다양한 대안들의 장단점을 비교 검토합니다."
 
 #: ../../source/explanation.rst:135
 msgid "*An x interacts with a y as follows: ...*"
-msgstr ""
+msgstr "\"x는 y와 다음과 같은 방식으로 상호작용합니다: ...\""
 
 #: ../../source/explanation.rst:136
 msgid ""
 "Unfold the machinery's internal secrets, to help understand why something "
 "does what it does."
-msgstr ""
+msgstr "시스템 내부의 메커니즘을 밝혀, 특정 동작이 일어나는 원인을 이해하도록 돕습니다."
 
 #: ../../source/explanation.rst:141
 msgid "Analogy from food and cooking"
-msgstr ""
+msgstr "음식과 요리를 통한 비유"
 
 #: ../../source/explanation.rst:144
 msgid ""
 "In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
 " cooking*."
 msgstr ""
+"1984년, 해롤드 맥기(`Harold McGee <https://www.curiouscook.com>`)는 *음식과 요리(On Food"
+" and Cooking)*라는 책을 출간했습니다."
 
 #: ../../source/explanation.rst:150
 msgid ""
@@ -326,6 +379,9 @@ msgid ""
 "technology. It explains for example why we do what we do in the kitchen and "
 "how that has changed."
 msgstr ""
+"이 책은 요리하는 방법을 가르쳐 주지 않습니다. (역사적 예시를 제외하면) 레시피가 수록되어 있지 않으며, 그렇다고 단순한 참조용 "
+"레퍼런스 북도 아닙니다. 대신 역사, 사회, 과학, 기술이라는 거시적 맥락 속에 음식과 요리를 위치시킵니다. 주방에서 우리가 행하는 "
+"작업의 이유와 그것이 시대에 따라 어떻게 변화해 왔는지를 설명합니다."
 
 #: ../../source/explanation.rst:152
 msgid ""
@@ -333,6 +389,8 @@ msgid ""
 " want to reflect on cooking. It illuminates the subject by taking multiple "
 "different perspectives on it, shining light from different angles."
 msgstr ""
+"이 책은 결코 요리를 하는 *동안* 읽는 책이 아닙니다. 요리라는 행위 자체를 고찰하고 싶을 때 읽는 책입니다. 다양한 각도에서 빛을 "
+"비추듯 여러 관점을 적용하여 주제를 선명하게 조명합니다."
 
 #: ../../source/explanation.rst:154
 msgid ""
@@ -342,3 +400,6 @@ msgid ""
 "kitchen, but *it will change how we think about our craft, and will affect "
 "our practice*."
 msgstr ""
+"*음식과 요리* 같은 책을 읽고 나면 우리의 이해는 변화합니다. 지식은 한층 더 풍요롭고 깊어집니다. 여기서 얻은 지식이 다음에 주방에 "
+"섰을 때 당장 적용될 수도 있고 그렇지 않을 수도 있지만, *자신의 기술을 대하는 사고방식이 바뀌고, 이는 곧 실무 태도 전체에 영향을 "
+"미치게 됩니다*."

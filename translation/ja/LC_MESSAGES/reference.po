@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis \n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/danieleprocida/teams/120528/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/reference.rst:4
 msgid "Reference"
@@ -25,22 +23,22 @@ msgstr ""
 
 #: ../../source/reference.rst:7
 msgid ""
-"Reference guides are **technical descriptions** of the machinery and how "
-"to operate it. Reference material is **information-oriented**."
+"Reference guides are **technical descriptions** of the machinery and how to "
+"operate it. Reference material is **information-oriented**."
 msgstr ""
 
 #: ../../source/reference.rst:10
 msgid ""
-"Reference material contains *propositional or theoretical* knowledge that"
-" a user looks to in their *work*."
+"Reference material contains *propositional or theoretical* knowledge that a "
+"user looks to in their *work*."
 msgstr ""
 
 #: ../../source/reference.rst:12
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
-"possible, and in an orderly way. Whereas the content of tutorials and "
-"how-to guides are led by needs of the user, reference material is led by "
-"the product it describes."
+"possible, and in an orderly way. Whereas the content of tutorials and how-to"
+" guides are led by needs of the user, reference material is led by the "
+"product it describes."
 msgstr ""
 
 #: ../../source/reference.rst:16
@@ -57,10 +55,9 @@ msgstr ""
 
 #: ../../source/reference.rst:23
 msgid ""
-"Your users need reference material because they need truth and certainty "
-"- firm platforms on which to stand while they work. Good technical "
-"reference is essential to provide users with the confidence to do their "
-"work."
+"Your users need reference material because they need truth and certainty - "
+"firm platforms on which to stand while they work. Good technical reference "
+"is essential to provide users with the confidence to do their work."
 msgstr ""
 
 #: ../../source/reference.rst:29
@@ -69,8 +66,8 @@ msgstr ""
 
 #: ../../source/reference.rst:31
 msgid ""
-"Reference material describes the machinery. It should be **austere**. One"
-" hardly *reads* reference material; one *consults* it."
+"Reference material describes the machinery. It should be **austere**. One "
+"hardly *reads* reference material; one *consults* it."
 msgstr ""
 
 #: ../../source/reference.rst:34
@@ -82,16 +79,16 @@ msgstr ""
 #: ../../source/reference.rst:36
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
-"about the territory, without having to go out and check the territory for"
-" yourself; a reference guide serves the same purpose for the product and "
-"its internal machinery."
+"about the territory, without having to go out and check the territory for "
+"yourself; a reference guide serves the same purpose for the product and its "
+"internal machinery."
 msgstr ""
 
 #: ../../source/reference.rst:40
 msgid ""
-"Although reference should not attempt to show how to perform tasks, it "
-"can and often needs to include a description of how something works or "
-"the correct way to use it."
+"Although reference should not attempt to show how to perform tasks, it can "
+"and often needs to include a description of how something works or the "
+"correct way to use it."
 msgstr ""
 
 #: ../../source/reference.rst:45
@@ -134,18 +131,18 @@ msgstr ""
 #: ../../source/reference.rst:69
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
-"neutrally. It's not a natural way of communicating. What's natural on the"
-" other hand is to explain, instruct, discuss, opine, and all these things"
-" run counter to the needs of technical reference, which instead demands "
+"neutrally. It's not a natural way of communicating. What's natural on the "
+"other hand is to explain, instruct, discuss, opine, and all these things run"
+" counter to the needs of technical reference, which instead demands "
 "accuracy, precision, completeness and clarity."
 msgstr ""
 
 #: ../../source/reference.rst:71
 msgid ""
-"It can be tempting to introduce instruction and explanation, simply "
-"because description can seem too inadequate to be useful, and because we "
-"do indeed need these other things. Instead, link to how-to guides, "
-"explanation and introductory tutorials."
+"It can be tempting to introduce instruction and explanation, simply because "
+"description can seem too inadequate to be useful, and because we do indeed "
+"need these other things. Instead, link to how-to guides, explanation and "
+"introductory tutorials."
 msgstr ""
 
 #: ../../source/reference.rst:75
@@ -154,17 +151,17 @@ msgstr ""
 
 #: ../../source/reference.rst:77
 msgid ""
-"**Reference material is useful when it is consistent.** Standard patterns"
-" are what allow us to use reference material effectively. Your job is to "
-"place the material that your user needs where they expect to find it, in "
-"a format that they are familiar with."
+"**Reference material is useful when it is consistent.** Standard patterns "
+"are what allow us to use reference material effectively. Your job is to "
+"place the material that your user needs where they expect to find it, in a "
+"format that they are familiar with."
 msgstr ""
 
 #: ../../source/reference.rst:79
 msgid ""
-"There are many opportunities in writing to delight your readers with your"
-" extensive vocabulary and command of multiple styles, but reference "
-"material is definitely not one of them."
+"There are many opportunities in writing to delight your readers with your "
+"extensive vocabulary and command of multiple styles, but reference material "
+"is definitely not one of them."
 msgstr ""
 
 #: ../../source/reference.rst:85
@@ -173,11 +170,11 @@ msgstr ""
 
 #: ../../source/reference.rst:87
 msgid ""
-"The way a map corresponds to the territory it represents helps us use the"
-" former to find our way through the latter. It should be the same with "
+"The way a map corresponds to the territory it represents helps us use the "
+"former to find our way through the latter. It should be the same with "
 "documentation: **the structure of the documentation should mirror the "
-"structure of the product**, so that the user can work their way through "
-"them at the same time."
+"structure of the product**, so that the user can work their way through them"
+" at the same time."
 msgstr ""
 
 #: ../../source/reference.rst:92
@@ -193,11 +190,11 @@ msgstr ""
 
 #: ../../source/reference.rst:100
 msgid ""
-"**Examples** are valuable ways of providing illustration that helps "
-"readers understand reference, while avoiding the risk of becoming "
-"distracted from the job of describing. For example, an example of usage "
-"of a command can be a succinct way of illustrating it and its context, "
-"without falling into the trap of trying to explain or instruct."
+"**Examples** are valuable ways of providing illustration that helps readers "
+"understand reference, while avoiding the risk of becoming distracted from "
+"the job of describing. For example, an example of usage of a command can be "
+"a succinct way of illustrating it and its context, without falling into the "
+"trap of trying to explain or instruct."
 msgstr ""
 
 #: ../../source/reference.rst:106
@@ -239,14 +236,14 @@ msgstr ""
 
 #: ../../source/reference.rst:120
 msgid ""
-"You might check the information on a packet of food, in order to help you"
-" make a decision about what to do."
+"You might check the information on a packet of food, in order to help you "
+"make a decision about what to do."
 msgstr ""
 
 #: ../../source/reference.rst:122
 msgid ""
-"When you're looking for information - relevant facts - you do not want to"
-" be confronted by opinions, speculation, instructions or interpretation."
+"When you're looking for information - relevant facts - you do not want to be"
+" confronted by opinions, speculation, instructions or interpretation."
 msgstr ""
 
 #: ../../source/reference.rst:124
@@ -255,17 +252,16 @@ msgstr ""
 
 #: ../../source/reference.rst:129
 msgid ""
-"You also expect that information to be presented in standard ways, so "
-"that you - when you need to know about something's nutritional "
-"properties, how it should be stored, its ingredients, what health "
-"implications it might have - can find them quickly, and know you can rely"
-" on them."
+"You also expect that information to be presented in standard ways, so that "
+"you - when you need to know about something's nutritional properties, how it"
+" should be stored, its ingredients, what health implications it might have -"
+" can find them quickly, and know you can rely on them."
 msgstr ""
 
 #: ../../source/reference.rst:131
 msgid ""
-"So you expect to see for example: *May contain traces of wheat*. Or: *Net"
-" weight: 1000g*."
+"So you expect to see for example: *May contain traces of wheat*. Or: *Net "
+"weight: 1000g*."
 msgstr ""
 
 #: ../../source/reference.rst:133
@@ -277,7 +273,6 @@ msgstr ""
 #: ../../source/reference.rst:135
 msgid ""
 "The way reference material is presented on food products is so important "
-"that it's usually governed by law, and the same kind of seriousness "
-"should apply to all reference documentation."
+"that it's usually governed by law, and the same kind of seriousness should "
+"apply to all reference documentation."
 msgstr ""
-

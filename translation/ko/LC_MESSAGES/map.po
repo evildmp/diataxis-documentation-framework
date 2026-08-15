@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# tii, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: tii, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +23,20 @@ msgstr ""
 
 #: ../../source/map.rst:4
 msgid "The map"
-msgstr ""
+msgstr "지도"
 
 #: ../../source/map.rst:7
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr ""
+"Diátaxis가 문서를 조직하는 지침으로 효과적인 이유 중 하나는, 단순한 *목록*이 아니라 **2차원 구조**를 서술하기 때문입니다."
 
 #: ../../source/map.rst:14
 msgid ""
 "It specifies its types of documentation in such a way that the structure "
 "naturally helps guide and shape the material it contains."
-msgstr ""
+msgstr "Diátaxis는 문서 유형을 규정할 때, 그 구조 자체가 안에 담기는 내용을 자연스럽게 이끌고 다듬어 주도록 합니다."
 
 #: ../../source/map.rst:17
 msgid ""
@@ -39,10 +44,12 @@ msgid ""
 "with each other. Each one occupies a space in the mental territory it "
 "outlines, and the boundaries between them highlight their distinctions."
 msgstr ""
+"하나의 지도로서, Diátaxis는 문서의 여러 형태가 서로 관계를 맺게 합니다. 각 형태는 Diátaxis가 그려 낸 정신적 영역에서 "
+"저마다의 자리를 차지하며, 그 사이의 경계는 각각의 차이를 드러냅니다."
 
 #: ../../source/map.rst:23
 msgid "The problem of structure"
-msgstr ""
+msgstr "구조의 문제"
 
 #: ../../source/map.rst:25
 msgid ""
@@ -50,13 +57,15 @@ msgid ""
 "problem of structure (though it's bad enough that it makes it harder to use "
 "and maintain). Architectural faults infect and undermine content too."
 msgstr ""
+"문서가 좋은 구조를 갖추지 못할 때, 그것이 구조만의 문제로 끝나는 경우는 드뭅니다. 문서를 사용하고 유지보수하기 어려워지는 것만으로도 "
+"충분히 나쁜 일이지만, 구조적 결함은 내용까지 물들이고 망가뜨립니다."
 
 #: ../../source/map.rst:27
 msgid ""
 "In the absence of a clear, generalised documentation architecture, "
 "documentation creators will often try to structure their work around "
 "features of a product."
-msgstr ""
+msgstr "명확하고 일반화된 문서 구조가 없으면, 문서 작성자는 흔히 제품의 기능을 기준으로 작업을 구조화하려 합니다."
 
 #: ../../source/map.rst:29
 msgid ""
@@ -65,6 +74,9 @@ msgid ""
 "the adoption of a scheme that tries to provide an answer to the question: "
 "how to arrange documentation *in general?*"
 msgstr ""
+"그러한 방식은 문서 하나만 놓고 봐도 성공하는 경우가 드뭅니다. 여러 문서를 한데 모아 놓고 보면 결과는 걷잡을 수 없이 "
+"들쭉날쭉해집니다. 그보다 훨씬 나은 방법은, 문서를 *일반적으로* 어떻게 배치할 것인가하는 질문에 답하고자 하는 체계를 채택하는 "
+"것입니다."
 
 #: ../../source/map.rst:34
 msgid ""
@@ -72,6 +84,8 @@ msgid ""
 "categories will help improve it (for authors as well as users), by providing"
 " lists of content types."
 msgstr ""
+"사실 문서를 명확한 콘텐츠 범주로 정리하려는 질서 있는 시도라면 무엇이든 도움이 됩니다. 콘텐츠 유형의 목록을 제시함으로써 사용자뿐 "
+"아니라 저자에게도 문서를 개선할 실마리를 줍니다."
 
 #: ../../source/map.rst:38
 msgid ""
@@ -82,10 +96,13 @@ msgid ""
 "themselves working with - why this particular list of content types rather "
 "than another? And if another competing list is proposed, which to adopt?"
 msgstr ""
+"그럼에도 작성자는 어떤 체계가 제시한 범주에 잘 들어맞지 않는 내용을 써야 하는 상황에 놓이거나, 기존 자료를 다시 쓰느라 애를 먹는 "
+"일이 잦습니다. 게다가 자신이 다루고 있는 구조가 자의적이라는 느낌을 받는 경우도 많습니다. 왜 하필 다른 것이 아니라 이 콘텐츠 유형 "
+"목록일까? 이와 겨루는 다른 목록이 제시된다면 무엇을 택해야 할까?"
 
 #: ../../source/map.rst:48
 msgid "Expectations and guidance"
-msgstr ""
+msgstr "기대와 지침"
 
 #: ../../source/map.rst:50
 msgid ""
@@ -94,167 +111,169 @@ msgid ""
 "clear what the purpose of any particular piece of content is, it specifies "
 "how it should be written and it shows where it should be placed."
 msgstr ""
+"자료를 이렇게 정리하면 분명한 이점이 있습니다. 독자에게는 명확한 *기대*를, 저자에게는 명확한 *지침*을 준다는 것입니다. 각각의 "
+"콘텐츠가 어떤 목적을 지니는지 분명해지고, 어떻게 써야 하는지도 정해지며, 어디에 두어야 하는지도 드러납니다."
 
 #: ../../source/map.rst:62
 msgid "\\"
-msgstr ""
+msgstr "\\"
 
 #: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"
-msgstr ""
+msgstr ":ref:`튜토리얼 <tutorials>`"
 
 #: ../../source/map.rst:64
 msgid ":ref:`How-to guides <how-to>`"
-msgstr ""
+msgstr ":ref:`하우투 가이드 <how-to>`"
 
 #: ../../source/map.rst:65
 msgid ":ref:`Reference <reference>`"
-msgstr ""
+msgstr ":ref:`레퍼런스 <reference>`"
 
 #: ../../source/map.rst:66
 msgid ":ref:`Explanation <explanation>`"
-msgstr ""
+msgstr ":ref:`설명 <explanation>`"
 
 #: ../../source/map.rst:67
 msgid "what they do"
-msgstr ""
+msgstr "하는 일"
 
 #: ../../source/map.rst:68
 msgid "introduce, educate, lead"
-msgstr ""
+msgstr "소개하고, 가르치고, 이끕니다"
 
 #: ../../source/map.rst:69
 msgid "guide"
-msgstr ""
+msgstr "안내합니다"
 
 #: ../../source/map.rst:70
 msgid "state, describe, inform"
-msgstr ""
+msgstr "진술하고, 서술하고, 알려 줍니다"
 
 #: ../../source/map.rst:71
 msgid "explain, clarify, discuss"
-msgstr ""
+msgstr "설명하고, 명확히 하고, 논의합니다"
 
 #: ../../source/map.rst:72
 msgid "answers the question"
-msgstr ""
+msgstr "답하는 질문"
 
 #: ../../source/map.rst:73
 msgid "\"Can you teach me to...?\""
-msgstr ""
+msgstr "\"...하는 법을 가르쳐 주시겠습니까?\""
 
 #: ../../source/map.rst:74
 msgid "\"How do I...?\""
-msgstr ""
+msgstr "\"...하려면 어떻게 합니까?\""
 
 #: ../../source/map.rst:75
 msgid "\"What is...?\""
-msgstr ""
+msgstr "\"...은 무엇입니까?\""
 
 #: ../../source/map.rst:76
 msgid "\"Why...?\""
-msgstr ""
+msgstr "\"왜 ...입니까?\""
 
 #: ../../source/map.rst:77
 msgid "oriented to"
-msgstr ""
+msgstr "지향하는 것"
 
 #: ../../source/map.rst:78
 msgid "learning"
-msgstr ""
+msgstr "학습"
 
 #: ../../source/map.rst:79
 msgid "goals"
-msgstr ""
+msgstr "목표"
 
 #: ../../source/map.rst:80
 msgid "information"
-msgstr ""
+msgstr "정보"
 
 #: ../../source/map.rst:81
 msgid "understanding"
-msgstr ""
+msgstr "이해"
 
 #: ../../source/map.rst:82
 msgid "purpose"
-msgstr ""
+msgstr "목적"
 
 #: ../../source/map.rst:83
 msgid "to provide a learning experience"
-msgstr ""
+msgstr "학습 경험을 제공하는 것"
 
 #: ../../source/map.rst:84
 msgid "to help achieve a particular goal"
-msgstr ""
+msgstr "특정 목표의 달성을 돕는 것"
 
 #: ../../source/map.rst:85
 msgid "to describe the machinery"
-msgstr ""
+msgstr "시스템을 서술하는 것"
 
 #: ../../source/map.rst:86
 msgid "to illuminate a topic"
-msgstr ""
+msgstr "주제를 밝혀 주는 것"
 
 #: ../../source/map.rst:87
 msgid "form"
-msgstr ""
+msgstr "형태"
 
 #: ../../source/map.rst:88
 msgid "a lesson"
-msgstr ""
+msgstr "수업"
 
 #: ../../source/map.rst:89
 msgid "a series of steps"
-msgstr ""
+msgstr "일련의 단계"
 
 #: ../../source/map.rst:90
 msgid "dry description"
-msgstr ""
+msgstr "건조한 서술"
 
 #: ../../source/map.rst:91
 msgid "discursive explanation"
-msgstr ""
+msgstr "풀어 쓴 설명"
 
 #: ../../source/map.rst:92
 msgid "analogy"
-msgstr ""
+msgstr "비유"
 
 #: ../../source/map.rst:93
 msgid "teaching a child how to cook"
-msgstr ""
+msgstr "아이에게 요리를 가르치기"
 
 #: ../../source/map.rst:94
 msgid "a recipe in a cookery book"
-msgstr ""
+msgstr "요리책의 레시피"
 
 #: ../../source/map.rst:95
 msgid "information on the back of a food packet"
-msgstr ""
+msgstr "식품 포장 뒷면의 정보"
 
 #: ../../source/map.rst:96
 msgid "an article on culinary social history"
-msgstr ""
+msgstr "음식 사회사에 관한 글"
 
 #: ../../source/map.rst:98
 msgid ""
 "Each piece of content is of a kind that not only has one particular job to "
 "do, that job is also clearly distinguished from and contrasted with the "
 "other functions of documentation."
-msgstr ""
+msgstr "각각의 콘텐츠는 저마다 맡은 하나의 일이 있습니다. 그리고 그 일은 문서의 다른 기능들과 분명히 구별되고 대비됩니다."
 
 #: ../../source/map.rst:103
 msgid "Blur"
-msgstr ""
+msgstr "흐려지는 경계"
 
 #: ../../source/map.rst:105
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
-msgstr ""
+msgstr "대부분의 문서 체계와 저자는 이런 구분을 적어도 일부는 알아보며, 실무에서 지키려고 노력합니다."
 
 #: ../../source/map.rst:108
 msgid "Partial collapse of the structure"
-msgstr ""
+msgstr "구조의 부분적 붕괴"
 
 #: ../../source/map.rst:112
 msgid ""
@@ -263,38 +282,40 @@ msgid ""
 " to blur the distinctions (that can be seen repeatedly in examples of "
 "documentation)."
 msgstr ""
+"그러나 지도 위의 각 문서 형태들은 저마다 이웃한 것과 자연스럽게 가까워지는 성질이 있습니다. 그래서 구분이 흐려지는 경향도 자연스럽게 "
+"나타나며, 실제 문서 사례에서 이런 모습을 거듭 확인할 수 있습니다."
 
 #: ../../source/map.rst:120
 msgid "guide action"
-msgstr ""
+msgstr "행동을 안내합니다"
 
 #: ../../source/map.rst:121 ../../source/map.rst:130
 msgid "tutorials"
-msgstr ""
+msgstr "튜토리얼"
 
 #: ../../source/map.rst:122 ../../source/map.rst:125
 msgid "how-to guides"
-msgstr ""
+msgstr "하우투 가이드"
 
 #: ../../source/map.rst:123
 msgid "serve the application of skill"
-msgstr ""
+msgstr "기술의 적용을 지원합니다"
 
 #: ../../source/map.rst:124 ../../source/map.rst:127
 msgid "reference"
-msgstr ""
+msgstr "레퍼런스"
 
 #: ../../source/map.rst:126
 msgid "contain propositional knowledge"
-msgstr ""
+msgstr "명제적 지식을 담습니다"
 
 #: ../../source/map.rst:128 ../../source/map.rst:131
 msgid "explanation"
-msgstr ""
+msgstr "설명"
 
 #: ../../source/map.rst:129
 msgid "serve the acquisition of skill"
-msgstr ""
+msgstr "기술의 습득을 지원합니다"
 
 #: ../../source/map.rst:133
 msgid ""
@@ -304,10 +325,12 @@ msgid ""
 "make it even more difficult to maintain the discipline of appropriate "
 "writing."
 msgstr ""
+"이런 구분이 흐려지도록 놔두면 문서들이 서로 번져 들어갑니다. 문체와 내용이 있어서는 안 될 자리에까지 흘러들어 가고, 나아가 구조적인 "
+"문제까지 일으켜, 알맞게 쓰는 원칙을 지키기가 더욱 어려워집니다."
 
 #: ../../source/map.rst:135
 msgid "Total collapse of the structure"
-msgstr ""
+msgstr "구조의 완전한 붕괴"
 
 #: ../../source/map.rst:139
 msgid ""
@@ -315,16 +338,19 @@ msgid ""
 "how-to guides into each other, making it impossible to meet the needs served"
 " by either."
 msgstr ""
+"최악의 경우 튜토리얼과 하우투 가이드가 서로에게 완전히, 혹은 부분적으로 무너져 내리고, 각각 충족하던 필요의 어느 쪽도 채울 수 없게 "
+"됩니다."
 
 #: ../../source/map.rst:145
 msgid "The journey around the map"
-msgstr ""
+msgstr "지도를 따라가는 여정"
 
 #: ../../source/map.rst:147
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
 msgstr ""
+"Diátaxis는 사용자가 제품과 맺는 *상호작용의 순환* 속에서 문서가 사용자를 더 잘 지원하도록 돕는 것을 목표로 합니다."
 
 #: ../../source/map.rst:149
 msgid ""
@@ -335,6 +361,9 @@ msgid ""
 "guidance on some particular subject, and what they want to read will change "
 "from moment to moment as they use your documentation."
 msgstr ""
+"이 표현을 너무 문자 그대로 받아들여서는 안 됩니다. 사용자가 *튜토리얼* > *하우투 가이드* > *기술 레퍼런스* > *설명*의 "
+"순서대로 각 문서 유형을 거쳐야 한다는 뜻이 아닙니다. 실제로 사용자는 특정 주제에 대한 안내를 찾아 문서의 어느 지점으로든 들어올 수 "
+"있습니다. 그리고 문서를 사용하는 동안 읽고 싶은 내용은 시시각각 달라집니다."
 
 #: ../../source/map.rst:154
 msgid ""
@@ -342,10 +371,12 @@ msgid ""
 "different phases, is sound and corresponds to the way that people actually "
 "do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
+"그렇더라도 여러 단계를 거쳐 진행되는 문서 필요의 순환이라는 개념 자체는 타당합니다. 사람이 실제로 어떤 일에 능숙해지는 과정과도 "
+"들어맞습니다. 이 순서에는 나름의 이치와 의미가 있습니다."
 
 #: ../../source/map.rst:157
 msgid "Moving around the map"
-msgstr ""
+msgstr "지도 위를 이동하기"
 
 #: ../../source/map.rst:162
 msgid ""
@@ -353,26 +384,28 @@ msgid ""
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
 msgstr ""
+"*학습 지향 단계*: 우리는 배우는 것에서 시작합니다. 그리고 기술을 배운다는 것은 곧바로 뛰어들어 직접 해 보는 것을 뜻합니다. 운이 "
+"좋다면 교사의 안내를 받으면서 말입니다."
 
 #: ../../source/map.rst:164
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
-msgstr ""
+msgstr "*목표 지향 단계*: 다음으로 우리는 그 기술을 실제 업무에 쓰고 싶어집니다."
 
 #: ../../source/map.rst:165
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
-msgstr ""
+msgstr "*정보 지향 단계*: 업무 중 머릿속에 없는 지식이 필요해지는 순간, 우리는 기술 레퍼런스를 찾아보게 됩니다."
 
 #: ../../source/map.rst:167
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
-msgstr ""
+msgstr "*설명 지향 단계*: 마지막으로 업무에서 물러나, 우리는 자신의 실무와 지식을 성찰하며 전체를 이해합니다."
 
 #: ../../source/map.rst:170
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."
-msgstr ""
+msgstr "그러고 나면 다시 처음으로 돌아갑니다. 새로 익힐 것을 찾아서일 수도 있고, 더 깊이 파고들기 위해서일 수도 있습니다."

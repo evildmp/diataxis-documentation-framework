@@ -5,6 +5,7 @@
 # 
 # Translators:
 # yms, 2026
+# Yufei Li <yufeiminds@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: yms, 2026\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,11 +24,11 @@ msgstr ""
 
 #: ../../source/index.rst:11
 msgid "Home"
-msgstr ""
+msgstr "主页"
 
 #: ../../source/index.rst:64
 msgid "Start here"
-msgstr ""
+msgstr "从这里起步"
 
 #: ../../source/index.rst:78
 msgid "Tutorials"
@@ -35,37 +36,37 @@ msgstr "教程"
 
 #: ../../source/index.rst:78
 msgid "How-to guides"
-msgstr ""
+msgstr "操作指南"
 
 #: ../../source/index.rst:78
 msgid "Reference"
-msgstr ""
+msgstr "参考内容"
 
 #: ../../source/index.rst:78
 msgid "Explanation"
-msgstr ""
+msgstr "解释说明"
 
 #: ../../source/index.rst:78
 msgid "Workflow"
-msgstr ""
+msgstr "工作流"
 
 #: ../../source/index.rst:98
 msgid "Quality"
-msgstr ""
+msgstr "质量"
 
 #: ../../source/index.rst:98
 msgid "Tutorials and how-to guides"
-msgstr ""
+msgstr "教程和操作指南"
 
 #: ../../source/index.rst:98
 msgid "Reference and explanation"
-msgstr ""
+msgstr "参考内容和解释说明"
 
 #: ../../source/index.rst-1
 msgid ""
 "Diátaxis is a widely-adopted, pragmatic and systematic approach to thinking "
 "about and creating documentation."
-msgstr ""
+msgstr "Diátaxis 是一种被广泛采用、务实且系统化的方法论，用于指导文档的构思与编写。"
 
 #: ../../source/index.rst-1
 msgid "documentation, four, kinds, architecture"
@@ -73,25 +74,25 @@ msgstr ""
 
 #: ../../source/index.rst:9 ../../source/index.rst:33
 msgid "Diátaxis"
-msgstr ""
+msgstr "Diátaxis"
 
 #: ../../source/index.rst:19
 msgid "A systematic approach to technical documentation authoring."
-msgstr ""
+msgstr "面向技术文档创作的一种系统化方法。"
 
 #: ../../source/index.rst:22
 msgid "Diátaxis is a way of thinking about and doing documentation."
-msgstr ""
+msgstr "Diátaxis 是一种关于文档编写的思考与实践方式。"
 
 #: ../../source/index.rst:26
 msgid ":doc:`Help translate Diátaxis <translation>` into your language."
-msgstr ""
+msgstr ":doc:`Help translate Diátaxis` 到你所使用的语言"
 
 #: ../../source/index.rst:28
 msgid ""
 "It prescribes approaches to content, architecture and form that emerge from "
 "a systematic approach to understanding the needs of documentation users."
-msgstr ""
+msgstr "它从系统化理解文档用户需求出发，提出了内容、架构和形式方面的具体方法。"
 
 #: ../../source/index.rst:31
 msgid ""
@@ -101,18 +102,22 @@ msgid ""
 "that documentation should itself be organised around the structures of those"
 " needs."
 msgstr ""
+"Diátaxis "
+"区分了四种不同需求，并相应地给出四种文档形式，即：教程、操作指南、技术参考和解释。它把这四种形式系统化地关联起来，主张文档应该直接围绕用户需求的结构来构建。"
 
 #: ../../source/index.rst:39
 msgid ""
 "*Diátaxis*, from the Ancient Greek δῐᾰ́τᾰξῐς: *dia* (\"across\") and *taxis*"
 " (\"arrangement\")."
 msgstr ""
+"*Diátaxis* 一词源自古希腊语 δῐᾰ́τᾰξῐς: 由 *dia* (意为 \"横跨、贯穿\") 和 *taxis* (意为 "
+"\"排列、安排\") 组合而成。"
 
 #: ../../source/index.rst:41
 msgid ""
 "Diátaxis solves problems related to documentation *content* (what to write),"
 " *style* (how to write it) and *architecture* (how to organise it)."
-msgstr ""
+msgstr "Diátaxis 能帮你解决文档在内容（写什么）、风格（怎么写）和架构（如何组织）三个层面上的问题。"
 
 #: ../../source/index.rst:43
 msgid ""
@@ -122,42 +127,44 @@ msgid ""
 "It brings an active principle of quality to documentation that helps "
 "maintainers think effectively about their own work."
 msgstr ""
+"Diátaxis "
+"不仅服务文档用户，对文档编写者和维护者也很有帮助。它轻巧、容易上手，用起来也很直接。它不限制具体怎么实现，而是给文档带来一种内在的质量标准，让维护者能更清晰地审视自己的工作。"
 
 #: ../../source/index.rst:48
 msgid "Contents"
-msgstr ""
+msgstr "目录"
 
 #: ../../source/index.rst:58
 msgid ""
 "The best way to get started with Diátaxis is by applying it after reading a "
 "brief primer."
-msgstr ""
+msgstr "上手 Diátaxis 的最佳方式是先阅读一篇简短的入门指南，然后立即将其付诸实践。"
 
 #: ../../source/index.rst:72
 msgid "These pages will help make immediate, concrete sense of the approach."
-msgstr ""
+msgstr "这些页面将帮助您快速、具体地理解这一方法。"
 
 #: ../../source/index.rst:92
 msgid ""
 "This section explores the theory and principles of Diátaxis more deeply, and"
 " sets forth the understanding of needs that underpin it."
-msgstr ""
+msgstr "本节将进一步深入 Diátaxis 的理论与原则，并阐明其背后的需求认知。"
 
 #: ../../source/index.rst:111
 msgid ""
 "Diátaxis is proven in practice. Its principles have been adopted "
 "successfully in hundreds of documentation projects."
-msgstr ""
+msgstr "Diátaxis 已在实践中得到验证。其原则已成功应用于数百个文档项目中。"
 
 #: ../../source/index.rst:116
 msgid ""
 "Diátaxis has allowed us to build a high-quality set of internal "
 "documentation that our users love, and our contributors love adding to."
-msgstr ""
+msgstr "Diátaxis 让我们得以建立一套高质量的内部文档，深受用户喜爱，贡献者也乐于为其添砖加瓦。"
 
 #: ../../source/index.rst:118
 msgid "Greg Frileux, `Vonage <https://vonage.com/>`_"
-msgstr ""
+msgstr "Greg Frileux, `Vonage <https://vonage.com/>`_"
 
 #: ../../source/index.rst:122
 msgid ""
@@ -168,10 +175,13 @@ msgid ""
 "framework, we made it easier for users to discover the resources that they "
 "need when they need them."
 msgstr ""
+"在 Gatsby，我们近期重新组织了开源文档，Diátaxis "
+"框架作为我们的首要参考，贯穿整个项目始终。四象限帮助我们针对每种文档类型，优先考虑用户的目标。通过围绕 Diátaxis "
+"框架重构文档，我们让用户能够更轻松地在需要时找到所需的资源。"
 
 #: ../../source/index.rst:127
 msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
-msgstr ""
+msgstr "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"
 
 #: ../../source/index.rst:132
 msgid ""
@@ -181,7 +191,9 @@ msgid ""
 "should fit in, we'd consult the framework. Our documentation is now clearer "
 "than it's ever been, both for readers and contributors."
 msgstr ""
+"在重新设计 `Cloudflare 开发者文档 <https://developers.cloudflare.com>`_ 的过程中，Diátaxis "
+"成为了我们信息架构的北极星。每当不确定新内容该归入何处时，就会参考这个框架。现在，无论对读者还是贡献者而言，我们的文档都比以往任何时候都更加清晰明了。"
 
 #: ../../source/index.rst:134
 msgid "`Adam Schwartz <https://github.com/adamschwartz>`_"
-msgstr ""
+msgstr "`Adam Schwartz <https://github.com/adamschwartz>`_"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-07-06 17:54+0200\n"
+"POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Language-Team: German (https://app.transifex.com/danieleprocida/teams/120528/de/)\n"
 "MIME-Version: 1.0\n"
@@ -17,26 +17,26 @@ msgstr ""
 "Language: de\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
-#: 16674f6037d54a9aa18d3711a6d6e93c
+#: ../../_templates/page.html:30
 msgid "Next"
 msgstr ""
 
-#: 1f899efb545d4a849059b1f81fd09a46
+#: ../../_templates/page.html:42
 msgid "Previous"
 msgstr ""
 
-#: 5ea484c8536e4796be1959533367b9cb
+#: ../../_templates/page.html:45
 msgid "Home"
 msgstr ""
 
-#: 266be08170714aafb4597557f588e620
+#: ../../_templates/page.html:58
 msgid "<a href=\"%(path)s\">Copyright</a> &#169; %(copyright)s"
 msgstr ""
 
-#: 34f1e59eda7d41c39399616c5a25d2f1
+#: ../../_templates/page.html:62
 msgid "Copyright &#169; %(copyright)s"
 msgstr ""
 
-#: 6f89635dd3cd435fa6e6ad48f506b459
+#: ../../_templates/page.html:71
 msgid "Last updated on %(last_updated)s"
 msgstr ""

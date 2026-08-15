@@ -72,7 +72,7 @@ msgstr "Diátaxis는 문서화의 실천을 보다 엄밀한 이론적 기틀 �
 
 #: ../../source/theory.rst:23
 msgid "In this section"
-msgstr ""
+msgstr "이 섹션에서 다루는 내용"
 
 #: ../../source/theory.rst:25
 msgid "These pages dig deeper into the thinking that underpins Diátaxis."

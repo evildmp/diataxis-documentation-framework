@@ -1,23 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
-#
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis \n"
+"Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language: ja\n"
-"Language-Team: ja <LL@li.org>\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Language-Team: Japanese (https://app.transifex.com/danieleprocida/teams/120528/ja/)\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=utf-8\n"
+"Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: Babel 2.18.0\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
 
 #: ../../source/how-to-guides.rst:4
 msgid "How-to guides"
@@ -25,14 +23,14 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:7
 msgid ""
-"How-to guides are **directions** that guide the reader through a problem "
-"or towards a result. How-to guides are **goal-oriented**."
+"How-to guides are **directions** that guide the reader through a problem or "
+"towards a result. How-to guides are **goal-oriented**."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:10
 msgid ""
-"A how-to guide helps the user get something done, correctly and safely; "
-"it guides the user's *action*."
+"A how-to guide helps the user get something done, correctly and safely; it "
+"guides the user's *action*."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:12
@@ -47,25 +45,24 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:18
 msgid ""
-"Examples could be: *how to calibrate the radar array*; *how to use "
-"fixtures in pytest*; *how to configure reconnection back-off policies*. "
-"On the other hand, *how to build a web application* is not - that's not "
-"addressing a specific goal or problem, it's a vastly open-ended sphere of"
-" skill."
+"Examples could be: *how to calibrate the radar array*; *how to use fixtures "
+"in pytest*; *how to configure reconnection back-off policies*. On the other "
+"hand, *how to build a web application* is not - that's not addressing a "
+"specific goal or problem, it's a vastly open-ended sphere of skill."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:22
 msgid ""
-"How-to guides matter not just because users need to be able to accomplish"
-" things: the list of how-to guides in your documentation helps frame the "
-"picture of what your product can actually *do*. A rich list of how-to "
-"guides is an encouraging suggestion of a product's capabilities."
+"How-to guides matter not just because users need to be able to accomplish "
+"things: the list of how-to guides in your documentation helps frame the "
+"picture of what your product can actually *do*. A rich list of how-to guides"
+" is an encouraging suggestion of a product's capabilities."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:26
 msgid ""
-"Well-written how-to guides that address the right questions are likely to"
-" be the most-read sections of your documentation."
+"Well-written how-to guides that address the right questions are likely to be"
+" the most-read sections of your documentation."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:31
@@ -74,30 +71,28 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:33
 msgid ""
-"**How-to guides must be written from the perspective of the user, not of "
-"the machinery.** A how-to guide represents something that someone needs "
-"to get done. It's defined in other words by the needs of a user. Every "
-"how-to guide should answer to a human project, in other words. It should "
-"show what the human needs to do, with the tools at hand, to obtain the "
-"result they need."
+"**How-to guides must be written from the perspective of the user, not of the"
+" machinery.** A how-to guide represents something that someone needs to get "
+"done. It's defined in other words by the needs of a user. Every how-to guide"
+" should answer to a human project, in other words. It should show what the "
+"human needs to do, with the tools at hand, to obtain the result they need."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:35
 msgid ""
-"This is in strong contrast to common pattern for how-to guides that often"
-" prevails, in which how-to guides are defined by operations that can be "
+"This is in strong contrast to common pattern for how-to guides that often "
+"prevails, in which how-to guides are defined by operations that can be "
 "performed with a tool or system. The problem with this latter pattern is "
-"that it offers little value to the user; it is not addressed to any need "
-"the user has. Instead, it's focused on the tool, on taking the machinery "
+"that it offers little value to the user; it is not addressed to any need the"
+" user has. Instead, it's focused on the tool, on taking the machinery "
 "through its motions."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:37
 msgid ""
-"This is fundamentally a distinction of *meaningfulness*. Meaning is given"
-" by purpose and need. There is no purpose or need in the functionality of"
-" a machine. It is merely a series of causes and effects, inputs and "
-"outputs."
+"This is fundamentally a distinction of *meaningfulness*. Meaning is given by"
+" purpose and need. There is no purpose or need in the functionality of a "
+"machine. It is merely a series of causes and effects, inputs and outputs."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:39
@@ -127,24 +122,26 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:50
 msgid ""
-"They represent mostly useless information that anyone with basic "
-"competence - anyone who is working in this domain - should be expected to"
-" know. Between them, standardised interfaces and generally-expected "
-"knowledge should make it quite clear what effect most actions will have."
+"They represent mostly useless information that anyone with basic competence "
+"- anyone who is working in this domain - should be expected to know. Between"
+" them, standardised interfaces and generally-expected knowledge should make "
+"it quite clear what effect most actions will have."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:52
 msgid ""
-"Secondly, they are disconnected from purpose. What the user needs to know"
-" might be things like:"
+"Secondly, they are disconnected from purpose. What the user needs to know "
+"might be things like:"
 msgstr ""
 
 #: ../../source/how-to-guides.rst:54
-msgid "how much water to run, and how vigorously to run it, for a certain purpose"
+msgid ""
+"how much water to run, and how vigorously to run it, for a certain purpose"
 msgstr ""
 
 #: ../../source/how-to-guides.rst:55
-msgid "what database configuration options align with particular real-world needs"
+msgid ""
+"what database configuration options align with particular real-world needs"
 msgstr ""
 
 #: ../../source/how-to-guides.rst:59
@@ -153,14 +150,14 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:61
 msgid ""
-"Tools appear in how-to guides as incidental bit-players, the means to the"
-" user's end. Sometimes of course, a particular end is closely aligned "
-"with a particular tool or part of the system, and then you will find that"
-" a how-to guide indeed concentrates on that. Just as often, a how-to "
-"guide will cut across different tools or parts of a system, joining them "
-"up together in a series of activities defined by something a human being "
-"needs to get done. In either case, it is that project that defines what a"
-" how-to guide must cover."
+"Tools appear in how-to guides as incidental bit-players, the means to the "
+"user's end. Sometimes of course, a particular end is closely aligned with a "
+"particular tool or part of the system, and then you will find that a how-to "
+"guide indeed concentrates on that. Just as often, a how-to guide will cut "
+"across different tools or parts of a system, joining them up together in a "
+"series of activities defined by something a human being needs to get done. "
+"In either case, it is that project that defines what a how-to guide must "
+"cover."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:67
@@ -170,21 +167,20 @@ msgstr ""
 #: ../../source/how-to-guides.rst:69
 msgid ""
 "**How-to guides are wholly distinct from tutorials**. They are often "
-"confused, but the user needs that they serve are quite different. "
-"Conflating them is at the root of many difficulties that afflict "
-"documentation. See :ref:`tutorials-how-to` for a discussion of this "
-"distinction."
+"confused, but the user needs that they serve are quite different. Conflating"
+" them is at the root of many difficulties that afflict documentation. See "
+":ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:71
 msgid ""
-"In another confusion, how-to guides are often construed merely as "
-"procedural guides. But solving a problem or accomplishing a task cannot "
-"always be reduced to a procedure. Real-world problems do not always offer"
-" themselves up to linear solutions. The sequences of action in a how-to "
-"guide sometimes need to fork and overlap, and they have multiple entry "
-"and exit-points. Often, a how-to guide will need the user to rely on "
-"their judgement in applying the guidance it can provide."
+"In another confusion, how-to guides are often construed merely as procedural"
+" guides. But solving a problem or accomplishing a task cannot always be "
+"reduced to a procedure. Real-world problems do not always offer themselves "
+"up to linear solutions. The sequences of action in a how-to guide sometimes "
+"need to fork and overlap, and they have multiple entry and exit-points. "
+"Often, a how-to guide will need the user to rely on their judgement in "
+"applying the guidance it can provide."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:77
@@ -193,8 +189,8 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:79
 msgid ""
-"A how to-guide is concerned with work - a task or problem, with a "
-"practical goal. *Maintain focus on that goal*."
+"A how to-guide is concerned with work - a task or problem, with a practical "
+"goal. *Maintain focus on that goal*."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:83
@@ -215,17 +211,17 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:88
 msgid ""
-"Anything else that's added distracts both you and the user and dilutes "
-"the useful power of the guide. Typically, the temptations are to explain "
-"or to provide reference for completeness. Neither of these are part of "
-"guiding the user in their work. They get in the way of the action; if "
-"they're important, link to them."
+"Anything else that's added distracts both you and the user and dilutes the "
+"useful power of the guide. Typically, the temptations are to explain or to "
+"provide reference for completeness. Neither of these are part of guiding the"
+" user in their work. They get in the way of the action; if they're "
+"important, link to them."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:90
 msgid ""
-"A how-to guide serves the work of the already-competent user, whom you "
-"can assume to know what they want to do, and to be able to follow your "
+"A how-to guide serves the work of the already-competent user, whom you can "
+"assume to know what they want to do, and to be able to follow your "
 "instructions correctly."
 msgstr ""
 
@@ -235,11 +231,11 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:96
 msgid ""
-"**A how-to guide needs to be adaptable to real-world use-cases**. One "
-"that is useless for any purpose except *exactly* the narrow one you have "
-"addressed is rarely valuable. You can't address every possible case, so "
-"you must find ways to remain open to the range of possibilities, in such "
-"a way that the user can adapt your guidance to their needs."
+"**A how-to guide needs to be adaptable to real-world use-cases**. One that "
+"is useless for any purpose except *exactly* the narrow one you have "
+"addressed is rarely valuable. You can't address every possible case, so you "
+"must find ways to remain open to the range of possibilities, in such a way "
+"that the user can adapt your guidance to their needs."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:99
@@ -248,11 +244,10 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:101
 msgid ""
-"In how-to guides, **practical usability is more helpful than "
-"completeness.** Whereas a tutorial needs to be a complete, end-to-end "
-"guide, a how-to guide does not. It should start and end in some "
-"reasonable, meaningful place, and require the reader to join it up to "
-"their own work."
+"In how-to guides, **practical usability is more helpful than completeness.**"
+" Whereas a tutorial needs to be a complete, end-to-end guide, a how-to guide"
+" does not. It should start and end in some reasonable, meaningful place, and"
+" require the reader to join it up to their own work."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:107
@@ -261,17 +256,17 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:109
 msgid ""
-"A how-to guide describes an *executable solution* to a real-world problem"
-" or task. It's in the form of a contract: if you're facing this "
-"situation, then you can work your way through it by taking the steps "
-"outlined in this approach. The steps are in the form of *actions*."
+"A how-to guide describes an *executable solution* to a real-world problem or"
+" task. It's in the form of a contract: if you're facing this situation, then"
+" you can work your way through it by taking the steps outlined in this "
+"approach. The steps are in the form of *actions*."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:111
 msgid ""
-"\"Actions\" in this context includes physical acts, but also thinking and"
-" judgement - solving a problem involves thinking it through. A how-to "
-"guide should address how the user thinks as well as what the user does."
+"\"Actions\" in this context includes physical acts, but also thinking and "
+"judgement - solving a problem involves thinking it through. A how-to guide "
+"should address how the user thinks as well as what the user does."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:115
@@ -288,16 +283,16 @@ msgstr ""
 #: ../../source/how-to-guides.rst:119
 msgid ""
 "In many cases, the ordering is simply imposed by the way things must be "
-"(step two requires completion of step one, for example). In this case "
-"it's obvious what order your directions should take."
+"(step two requires completion of step one, for example). In this case it's "
+"obvious what order your directions should take."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:121
 msgid ""
-"Sometimes the need is more subtle - it might be possible to *perform* two"
-" operations in either order, but if for example one operation helps set "
-"up the user's working environment or even their thinking in a way that "
-"benefits the other, that's a good reason for putting it first."
+"Sometimes the need is more subtle - it might be possible to *perform* two "
+"operations in either order, but if for example one operation helps set up "
+"the user's working environment or even their thinking in a way that benefits"
+" the other, that's a good reason for putting it first."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:125
@@ -306,44 +301,42 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:127
 msgid ""
-"At all times, try to ground your sequences in the patterns of the "
-"*user's* activities and thinking, in such a way that the guide acquires "
-"*flow*: smooth progress."
+"At all times, try to ground your sequences in the patterns of the *user's* "
+"activities and thinking, in such a way that the guide acquires *flow*: "
+"smooth progress."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:129
 msgid ""
-"Achieving flow means successfully understanding the user. Paying "
-"attention to sense and meaning in ordering requires paying attention to "
-"the way human beings think and act, and the needs of someone following "
-"directions."
+"Achieving flow means successfully understanding the user. Paying attention "
+"to sense and meaning in ordering requires paying attention to the way human "
+"beings think and act, and the needs of someone following directions."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:131
 msgid ""
-"Again, this can be somewhat obvious: a workflow that has the user "
-"repeatedly switching between contexts and tools is clearly clumsy and "
-"inefficient. But you should look more deeply than this. What are you "
-"asking the user to think about, and how will their thinking flow from "
-"subject to subject during their work? How long do you require the user to"
-" hold thoughts open before they can be resolved in action? If you require"
-" the user to jump back to earlier concerns, is this necessary or "
-"avoidable?"
+"Again, this can be somewhat obvious: a workflow that has the user repeatedly"
+" switching between contexts and tools is clearly clumsy and inefficient. But"
+" you should look more deeply than this. What are you asking the user to "
+"think about, and how will their thinking flow from subject to subject during"
+" their work? How long do you require the user to hold thoughts open before "
+"they can be resolved in action? If you require the user to jump back to "
+"earlier concerns, is this necessary or avoidable?"
 msgstr ""
 
 #: ../../source/how-to-guides.rst:133
 msgid ""
 "A how-to guide is concerned not just with logical ordering in time, but "
-"action taking place in time. Action, and a guide to it, has pace and "
-"rhythm. Badly-judged pace or disrupted rhythm are both damaging to flow."
+"action taking place in time. Action, and a guide to it, has pace and rhythm."
+" Badly-judged pace or disrupted rhythm are both damaging to flow."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:135
 msgid ""
-"At its best, how-to documentation gives the user flow. There is a "
-"distinct experience of encountering a guide that appears to *anticipate* "
-"the user - the documentation equivalent of a helper who has the tool you "
-"were about to reach for, ready to place it in your hand."
+"At its best, how-to documentation gives the user flow. There is a distinct "
+"experience of encountering a guide that appears to *anticipate* the user - "
+"the documentation equivalent of a helper who has the tool you were about to "
+"reach for, ready to place it in your hand."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:139
@@ -360,19 +353,19 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:144
 msgid ""
-"bad: *Integrating application performance monitoring* (maybe the document"
-" is about how to decide whether you should, not about how to do it)"
+"bad: *Integrating application performance monitoring* (maybe the document is"
+" about how to decide whether you should, not about how to do it)"
 msgstr ""
 
 #: ../../source/how-to-guides.rst:145
 msgid ""
-"very bad: *Application performance monitoring* (maybe it's about *how* - "
-"but maybe it's about *whether*, or even just an explanation of *what* it "
-"is)"
+"very bad: *Application performance monitoring* (maybe it's about *how* - but"
+" maybe it's about *whether*, or even just an explanation of *what* it is)"
 msgstr ""
 
 #: ../../source/how-to-guides.rst:147
-msgid "Note that search engines appreciate good titles just as much as humans do."
+msgid ""
+"Note that search engines appreciate good titles just as much as humans do."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:152
@@ -385,8 +378,8 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:155
 msgid ""
-"Describe clearly the problem or task that the guide shows the user how to"
-" solve."
+"Describe clearly the problem or task that the guide shows the user how to "
+"solve."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:156
@@ -403,8 +396,8 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:159
 msgid ""
-"Don't pollute your practical how-to guide with every possible thing the "
-"user might do related to x."
+"Don't pollute your practical how-to guide with every possible thing the user"
+" might do related to x."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:165
@@ -413,9 +406,9 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:167
 msgid ""
-"Consider a recipe, an excellent model for a how-to guide. A recipe "
-"clearly defines what will be achieved by following it, and **addresses a "
-"specific question** (*How do I make...?* or *What can I make with...?*)."
+"Consider a recipe, an excellent model for a how-to guide. A recipe clearly "
+"defines what will be achieved by following it, and **addresses a specific "
+"question** (*How do I make...?* or *What can I make with...?*)."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:169
@@ -425,26 +418,25 @@ msgstr ""
 #: ../../source/how-to-guides.rst:172
 msgid ""
 "It's not the responsibility of a recipe to *teach* you how to make "
-"something. A professional chef who has made exactly the same thing "
-"multiple times before may still follow a recipe - even if they *created* "
-"the recipe themselves - to ensure that they do it correctly."
+"something. A professional chef who has made exactly the same thing multiple "
+"times before may still follow a recipe - even if they *created* the recipe "
+"themselves - to ensure that they do it correctly."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:174
 msgid ""
-"Even following a recipe **requires at least basic competence**. Someone "
-"who has never cooked before should not be expected to follow a recipe "
-"with success, so a recipe is not a substitute for a cooking lesson."
+"Even following a recipe **requires at least basic competence**. Someone who "
+"has never cooked before should not be expected to follow a recipe with "
+"success, so a recipe is not a substitute for a cooking lesson."
 msgstr ""
 
 #: ../../source/how-to-guides.rst:176
 msgid ""
-"Someone who expected to be provided with a recipe, and is given instead a"
-" cooking lesson, will be disappointed and annoyed. Similarly, while it's "
-"interesting to read about the context or history of a particular dish, "
-"the one time you don't want to be faced with that is while you are in the"
-" middle of trying to make it. A good recipe follows a well-established "
-"format, that excludes both teaching and discussion, and focuses only on "
-"**how** to make the dish concerned."
+"Someone who expected to be provided with a recipe, and is given instead a "
+"cooking lesson, will be disappointed and annoyed. Similarly, while it's "
+"interesting to read about the context or history of a particular dish, the "
+"one time you don't want to be faced with that is while you are in the middle"
+" of trying to make it. A good recipe follows a well-established format, that"
+" excludes both teaching and discussion, and focuses only on **how** to make "
+"the dish concerned."
 msgstr ""
-
