@@ -89,12 +89,28 @@ redirects = {
 
 language = "en"
 locale_dirs = ["../translation"]
+translation_exclude_patterns = ["translation.rst"]
 gettext_compact = False
 gettext_uuid = False
 gettext_location = True
+
 
 # -- Atom feed configuration ---------------------------------------------------
 
 atom_feed_base_url = "https://diataxis.fr"
 atom_feed_source = "news"
 atom_feed_author = author
+
+# -- exclude selected files from translation -------------------------------
+
+def setup(app):
+    app.add_config_value("translation_exclude_patterns", [], "env")
+
+    def drop_excluded_pots(app, exception):
+        if app.builder.name != "gettext" or exception is not None:
+            return
+        for name in app.config.translation_exclude_patterns:
+            stem = name.removesuffix(".rst")
+            (app.builder.outdir / f"{stem}.pot").unlink(missing_ok=True)
+
+    app.connect("build-finished", drop_excluded_pots)
