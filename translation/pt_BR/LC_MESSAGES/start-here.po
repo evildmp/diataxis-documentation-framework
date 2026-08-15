@@ -77,9 +77,9 @@ msgid ""
 msgstr ""
 "A ideia central do Diátaxis é que existem fundamentalmente quatro tipos "
 "identificáveis de documentação, que respondem a quatro necessidades "
-"diferentes. Os quatro tipos são: *tutoriais*, *guias práticos\"*, "
-"*referência* e *explicação*. Cada um tem um propósito diferente e precisa "
-"ser escrito de uma maneira diferente."
+"diferentes. Os quatro tipos são: *tutoriais*, *guias práticos*, *referência*"
+" e *explicação*. Cada um tem um propósito diferente e precisa ser escrito de"
+" uma maneira diferente."
 
 #: ../../source/start-here.rst:26
 msgid "Tutorials"
@@ -94,7 +94,7 @@ msgid ""
 ":ref:`Why tutorials are completely different from how-to guides <tutorials-"
 "how-to>`"
 msgstr ""
-":ref:`Por que tutoriais são completamente diferentes de guias práticos\" "
+":ref:`Por que tutoriais são completamente diferentes de guias práticos "
 "<tutorials-how-to>`"
 
 #: ../../source/start-here.rst:33
@@ -306,7 +306,7 @@ msgstr ""
 
 #: ../../source/start-here.rst:99
 msgid ":ref:`The map in more detail <map>`"
-msgstr ":ref:`O mapa com mais detalhes<map>`"
+msgstr ":ref:`O mapa com mais detalhes <map>`"
 
 #: ../../source/start-here.rst:101
 msgid ""
