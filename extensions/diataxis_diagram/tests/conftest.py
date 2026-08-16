@@ -1,9 +1,9 @@
 """Pytest fixtures for the diataxis_diagram extension tests.
 
 Builds a tiny Sphinx project in a temp directory that exercises the
-``.. diataxis-diagram::`` directive with all 12 label fields plus ``:alt:``,
-and provides a gettext build for asserting the 13 translatable strings
-are extracted into the ``.pot``.
+``.. diataxis-diagram::`` directive with all 12 label fields plus
+``:title:`` and ``:desc:``, and provides a gettext build for asserting the
+14 translatable strings are extracted into the ``.pot``.
 """
 
 from __future__ import annotations
@@ -17,23 +17,24 @@ from sphinx.application import Sphinx
 from extensions.diataxis_diagram import LABEL_NAMES
 
 
-# All 13 translatable strings: the 12 label values + the :alt: value.
-ALT_TEXT = "Diátaxis"
+# All 14 translatable strings: the 12 label values + :title: and :desc:.
+TITLE_TEXT = "A map of documentation types"
+DESC_TEXT = "The map is defined by two axes."
 LABEL_VALUES = {
     "tutorials": "Tutorials",
     "how-to": "How-to guides",
     "reference": "Reference",
     "explanation": "Explanation",
-    "learning": "Learning-oriented",
-    "problem": "Problem-oriented",
-    "information": "Information-oriented",
-    "understanding": "Understanding-oriented",
-    "acquisition": "Serves acquisition of skill",
-    "application": "Serves application of skill",
-    "action": "Informs action",
-    "cognition": "Informs cognition",
+    "orientation-tutorial": "Learning-oriented",
+    "orientation-how-to": "Problem-oriented",
+    "orientation-reference": "Information-oriented",
+    "orientation-explanation": "Understanding-oriented",
+    "relation-development": "Development of skill",
+    "relation-application": "Application of skill",
+    "dimension-theory": "Conceptual grasp",
+    "dimension-action": "Practical capacity",
 }
-EXPECTED_MSGIDS = [ALT_TEXT, *LABEL_VALUES.values()]
+EXPECTED_MSGIDS = [TITLE_TEXT, DESC_TEXT, *LABEL_VALUES.values()]
 
 
 CONF_PY = """\
@@ -43,25 +44,15 @@ author = "Daniele Procida"
 language = {language!r}
 master_doc = "index"
 exclude_patterns = []
+diataxis_diagram = {{
+    "en": {{"font-sizes": {{"type": 104, "purpose": 44, "axis": 44}}, "offsets": {{"axis-y": 119}}}},
+}}
 """
 
 
-def _svg_content() -> str:
-    """A minimal SVG with one <text id="..."> per label name."""
-    text_elements = "\n    ".join(
-        f'<text id="{name}">placeholder</text>' for name in LABEL_NAMES
-    )
-    return (
-        '<?xml version="1.0" encoding="UTF-8"?>\n'
-        '<svg xmlns="http://www.w3.org/2000/svg" '
-        'width="500" height="120" viewBox="0 0 500 120">\n'
-        f"    {text_elements}\n"
-        "</svg>\n"
-    )
-
-
 def _index_rst() -> str:
-    """An ``index.rst`` invoking ``.. diataxis-diagram::`` with all 12 labels + alt."""
+    """An ``index.rst`` invoking ``.. diataxis-diagram::`` with all 12 labels
+    plus ``:title:`` and ``:desc:``."""
     label_lines = "\n   ".join(
         f':{name}: "{value}"' for name, value in LABEL_VALUES.items()
     )
@@ -69,10 +60,11 @@ def _index_rst() -> str:
         "Welcome\n"
         "=======\n"
         "\n"
-        ".. diataxis-diagram:: /images/diataxis-diagram-template.svg\n"
-        f"   :alt: {ALT_TEXT}\n"
+        "..  diataxis-diagram::\n"
+        f"   :title: {TITLE_TEXT}\n"
+        f"   :desc: {DESC_TEXT}\n"
         "\n"
-        f"   {label_lines}\n"
+        f"   {label_lines}"
     )
 
 
@@ -99,15 +91,12 @@ def _build(
     src = tmp_path / "src"
     out = tmp_path / "out"
     doctree = tmp_path / "doctrees"
-    images = src / "images"
 
     src.mkdir()
-    images.mkdir()
     (src / "conf.py").write_text(
         CONF_PY.format(language=language), encoding="utf-8"
     )
     (src / "index.rst").write_text(_index_rst(), encoding="utf-8")
-    (images / "diataxis-diagram-template.svg").write_text(_svg_content(), encoding="utf-8")
 
     app = Sphinx(
         srcdir=str(src),

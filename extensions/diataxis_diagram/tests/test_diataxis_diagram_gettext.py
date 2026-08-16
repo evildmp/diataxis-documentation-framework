@@ -1,12 +1,12 @@
 """Test that ``.. diataxis-diagram::`` label strings are extracted by ``make gettext``.
 
-The directive stores the ``:alt:`` value and each ``:label-name:`` value as
-translatable ``nodes.inline`` children of the ``diataxis_diagram`` node. Sphinx's
+The directive stores each ``:label-name:`` value as
+a translatable ``nodes.inline`` child of the ``diataxis_diagram`` node. Sphinx's
 ``MessageCatalogBuilder`` should pick all of them up as ``msgid`` entries in
 the generated ``.pot``.
 
-This pins the gettext extraction: 12 label values + 1 ``:alt:`` value = 13
-strings.
+This pins the gettext extraction: 12 label values + ``:title:`` +
+``:desc:`` = 14 strings.
 """
 
 from __future__ import annotations
@@ -58,11 +58,11 @@ def test_diataxis_diagram_strings_extracted_into_pot(built_gettext):
 
 
 def test_diataxis_diagram_string_count(built_gettext):
-    """Sanity check: exactly the 13 expected strings are extracted.
+    """Sanity check: exactly the 14 expected strings are extracted.
 
     Guards against accidental duplication or extra translatable nodes.
     """
     _app, out = built_gettext
     msgids = _pot_msgids(out)
-    assert len(EXPECTED_MSGIDS) == 13
+    assert len(EXPECTED_MSGIDS) == 14
     assert all(s in msgids for s in EXPECTED_MSGIDS)

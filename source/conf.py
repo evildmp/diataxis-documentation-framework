@@ -94,15 +94,21 @@ gettext_compact = False
 gettext_uuid = False
 gettext_location = True
 
-diataxis_diagram_typography = {
-    "en": {"quadrant": 104, "orientation": 44, "axis": 44},
-    "pl": {"quadrant": 57, "orientation": 44, "axis": 44},
-    # "it": {"quadrant": 100, "orientation": 44, "axis": 44},
-    # "fr": {"quadrant": 100, "orientation": 44, "axis": 44},
-    # "zh_CN": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
-    # "pt_BR": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
-    # "ko": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
-    # "ja": {"quadrant": 104, "orientation": 44, "axis": 80, "y-axis-labels": "stacked"},
+diataxis_diagram = {
+    "default": {
+      "font-sizes": {"type": 104, "purpose": 44, "axis": 42},
+      "offsets": {"axis-x": 154, "type-purpose-x": 154, "axis-y": 120, "purpose-y": 120, "type-y": 240},
+      "y-axis-rotation": "rotated",
+      "guides": False
+    },
+    "en": {},
+    "pl": {"font-sizes": {"type": 57, "purpose": 44, "axis": 44}},
+    # "it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}},
+    # "fr": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}},
+    # "zh_CN": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    # "pt_BR": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    # "ko": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    # "ja": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
 
 }
 

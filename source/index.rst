@@ -30,6 +30,26 @@ It prescribes approaches to content, architecture and form that emerge from a sy
 
 Diátaxis identifies four distinct needs, and four corresponding forms of documentation - *tutorials*, *how-to guides*, *technical reference* and *explanation*. It places them in a systematic relationship, and proposes that documentation should itself be organised around the structures of those needs.
 
+..  diataxis-diagram::
+    :alt: Diátaxis
+    :class: wider
+
+    :tutorials:     "Tutorials"
+    :how-to:        "How-to guides"
+    :reference:     "Reference"
+    :explanation:    "Explanation"
+
+    :learning:      "Learning-oriented"
+    :problem:       "Problem-oriented"
+    :information:   "Information-oriented"
+    :understanding: "Understanding-oriented"
+
+    :acquisition:   "Acquisition of skill"
+    :application:   "Application of skill"
+    :action:        "Performative capacity"
+    :cognition:     "Conceptual grasp"
+
+
 .. image:: /images/diataxis.png
    :alt: Diátaxis
    :class: wider
@@ -132,10 +152,6 @@ Diátaxis is proven in practice. Its principles have been adopted successfully i
     While redesigning the `Cloudflare developer docs <https://developers.cloudflare.com>`_, Diátaxis became our north star for information architecture. When we weren't sure where a new piece of content should fit in, we'd consult the framework. Our documentation is now clearer than it's ever been, both for readers and contributors.
 
     -- `Adam Schwartz <https://github.com/adamschwartz>`_
-
-
-
-
 
 
 .. toctree::

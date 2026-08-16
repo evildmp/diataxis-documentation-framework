@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="{{ view_x }} {{ view_y }} {{ view_w }} {{ view_h }}" preserveAspectRatio="xMidYMid meet" role="img" aria-labelledby="diagram-map-title diagram-map-description" class="diataxis-diagram {{ class }}">
+  <title id="diagram-map-title">{{ title }}</title>
+  <desc id="diagram-map-description">{{ desc }}</desc>
+  <defs>
+    <filter id="label-bg" x="-2%" y="-10%" width="104%" height="120%">
+      <feFlood flood-color="white" result="bg"/>
+      <feMerge>
+        <feMergeNode in="bg"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <style>
+      .diataxis-diagram .axis {
+        font-family: "Skia", sans-serif;
+        font-weight: 500;
+        font-variation-settings: "wght" 1.3, "wdth" 1.0;
+        font-size: {{ axis_font_size }}px;
+        /*letter-spacing: 2.2px;*/
+        text-rendering: geometricPrecision;
+      }
+      .diataxis-diagram .type {
+        font-family: "Skia", sans-serif;
+        font-weight: 230;
+        font-variation-settings: "wght" 0.6, "wdth" 1.0;
+        font-size: {{ type_font_size }}px;
+        text-transform: uppercase;
+      }
+      .diataxis-diagram .purpose {
+        font-family: "Skia", sans-serif;
+        font-weight: 500;
+        font-variation-settings: "wght" 1.3, "wdth" 1.0;
+        font-size: {{ purpose_font_size }}px;
+        fill: #FF9300;
+        text-transform: uppercase;
+        text-rendering: geometricPrecision;
+        letter-spacing: 2.2px;
+      }
+    </style>
+  </defs>
+
+  <!-- ============ axes ============ -->
+  <line x1="{{ frame_left }}" y1="0" x2="{{ frame_right }}" y2="0" stroke="black" stroke-width="2"/>
+  <line x1="0" y1="{{ frame_top }}" x2="0" y2="{{ frame_bottom }}" stroke="black" stroke-width="2"/>
+
+  <!-- ============ y-axis labels ============ -->
+
+{% if 'tutorial' in quadrants or 'how-to' in quadrants %}  <text id="dimension-action" class="axis" filter="url(#label-bg)" x="0" y="-{{ axis_y }}" dominant-baseline="middle" {% if y_axis_mode == "rotated" %}text-anchor="start" transform="rotate(-90 0 -{{ axis_y }})"{% else %}text-anchor="end" writing-mode="vertical-rl"{% endif %}>{{ dimension_action }}</text>{% endif %}
+{% if 'explanation' in quadrants or 'reference' in quadrants %}  <text id="dimension-theory" class="axis" filter="url(#label-bg)" x="0" y="{{ axis_y }}" dominant-baseline="middle" {% if y_axis_mode == "rotated" %}text-anchor="end" transform="rotate(-90 0 {{ axis_y }})"{% else %}text-anchor="start" writing-mode="vertical-rl"{% endif %}>{{ dimension_theory }}</text>{% endif %}
+
+  <!-- ============ nominal right edge: -{{ type_purpose_x }} ============ -->
+
+{% if 'tutorial' in quadrants %}  <text id="tutorials" class="type" x="-{{ type_x }}" y="-{{ type_y }}" text-anchor="end" dominant-baseline="middle">{{ tutorials }}</text>{% endif %}
+{% if 'explanation' in quadrants %}  <text id="explanation" class="type" x="-{{ type_x }}" y="{{ type_y }}" text-anchor="end" dominant-baseline="middle">{{ explanation }}</text>{% endif %}
+
+{% if 'tutorial' in quadrants %}  <text id="orientation-tutorial" class="purpose" x="-{{ type_purpose_x }}" y="-{{ purpose_y }}" text-anchor="end" dominant-baseline="alphabetic">{{ orientation_tutorial }}</text>{% endif %}
+{% if 'explanation' in quadrants %}  <text id="orientation-explanation" class="purpose" x="-{{ type_purpose_x }}" y="{{ purpose_y }}" text-anchor="end" dominant-baseline="hanging">{{ orientation_explanation }}</text>{% endif %}
+
+{% if 'tutorial' in quadrants or 'explanation' in quadrants %}  <text id="relation-development" class="axis" filter="url(#label-bg)" x="-{{ axis_x }}" y="0" text-anchor="end" dominant-baseline="middle">{{ relation_development }}</text>{% endif %}
+
+  <!-- ============ nominal left edge: {{ type_purpose_x }} ============ -->
+
+{% if 'how-to' in quadrants %}  <text id="how-to" class="type" x="{{ type_x }}" y="-{{ type_y }}" text-anchor="start" dominant-baseline="middle">{{ how_to }}</text>{% endif %}
+{% if 'reference' in quadrants %}  <text id="reference" class="type" x="{{ type_x }}" y="{{ type_y }}" text-anchor="start" dominant-baseline="middle">{{ reference }}</text>{% endif %}
+
+{% if 'how-to' in quadrants %}  <text id="orientation-how-to" class="purpose" x="{{ type_purpose_x }}" y="-{{ purpose_y }}" text-anchor="start" dominant-baseline="alphabetic">{{ orientation_how_to }}</text>{% endif %}
+{% if 'reference' in quadrants %}  <text id="orientation-reference" class="purpose" x="{{ type_purpose_x }}" y="{{ purpose_y }}" text-anchor="start" dominant-baseline="hanging">{{ orientation_reference }}</text>{% endif %}
+
+{% if 'how-to' in quadrants or 'reference' in quadrants %}  <text id="relation-application" class="axis" filter="url(#label-bg)" x="{{ axis_x }}" y="0" text-anchor="start" dominant-baseline="middle">{{ relation_application }}</text>{% endif %}
+
+  {% if guides %}
+  <!-- ============ guides ============ -->
+  <line x1="-{{ type_purpose_x }}" y1="{{ frame_top }}" x2="-{{ type_purpose_x }}" y2="{{ frame_bottom }}" stroke="#999" stroke-width="1"/>
+  <line x1="{{ type_purpose_x }}" y1="{{ frame_top }}" x2="{{ type_purpose_x }}" y2="{{ frame_bottom }}" stroke="#999" stroke-width="1"/>
+  <line x1="{{ frame_left }}" y1="-{{ purpose_y }}" x2="{{ frame_right }}" y2="-{{ purpose_y }}" stroke="#999" stroke-width="1"/>
+  <line x1="{{ frame_left }}" y1="{{ purpose_y }}" x2="{{ frame_right }}" y2="{{ purpose_y }}" stroke="#999" stroke-width="1"/>
+
+  <line x1="{{ frame_left }}" y1="{{ frame_top }}" x2="{{ frame_right }}" y2="{{ frame_top }}" stroke="#999" stroke-width="1"/>
+  <line x1="{{ frame_right }}" y1="{{ frame_top }}" x2="{{ frame_right }}" y2="{{ frame_bottom }}" stroke="#999" stroke-width="1"/>
+  <line x1="{{ frame_right }}" y1="{{ frame_bottom }}" x2="{{ frame_left }}" y2="{{ frame_bottom }}" stroke="#999" stroke-width="1"/>
+  <line x1="{{ frame_left }}" y1="{{ frame_bottom }}" x2="{{ frame_left }}" y2="{{ frame_top }}" stroke="#999" stroke-width="1"/>
+
+  {% endif %}
+</svg>

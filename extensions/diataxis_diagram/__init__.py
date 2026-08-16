@@ -1,29 +1,22 @@
-"""Sphinx extension: ``.. diataxis-diagram::`` directive.
-
-Inlines an SVG file directly into the HTML output as raw HTML, instead of
-referencing it via ``<img>``.
-
-If this directive is ever dropped in favour of ``<img>`` again, two things
-need to be rechecked: (1) CSS features such as ``font-variation-settings``
-for variable fonts, which some browsers ignore in a sandboxed ``<img>``
-context; and (2) SVG filters, which Safari rasterizes at low resolution in
-``<img>`` embeds, blurring text. The Diátaxis diagram relies on both — a
-``font-variation-settings`` call on the Skia font and a ``feFlood``/
-``feMerge`` filter painting a white background behind the axis labels.
-
-The directive accepts the same ``:class:`` option as ``.. image::`` so existing
-layout CSS (e.g. ``img.wider``) can be reused; the class is applied to a
-wrapping ``<div>``.
-
-Label substitutions are taken from the directive's content block, as
+"""
+Content substitutions are taken from the directive's content block, as
 ``:name: value`` lines. Each ``name`` maps to a ``<text id="name">`` element
-in the SVG whose text content is replaced by ``value``, turning the SVG into a
-reusable template. Surrounding quotes on the value are stripped.
+in the SVG whose text content is supplied by ``value``, turning the SVG into a
+reusable template. Surrounding quotes on the value are stripped. Substitution
+is done by Jinja2 at render time: label ids are hyphenated in the RST and SVG
+``id`` attributes, but become underscored top-level variables in the template
+context (Jinja2 identifiers cannot contain hyphens), so the SVG uses
+``{{ orientation_tutorial }}`` etc. inside each ``<text>`` element.
 
-The ``:alt:`` option and each label value are stored on the node as
-translatable ``nodes.inline`` children (with ``rawsource`` set to the original
-string), so that ``make gettext`` extracts them and translated strings are
-substituted back in at build time.
+The ``:title:`` and ``:desc:`` options and each label value are
+stored on the node as translatable ``nodes.inline`` children (with
+``rawsource`` set to the original string), so that ``make gettext`` extracts
+them and translated strings are substituted back in at build time. The
+``:title:`` and ``:desc:`` values populate the SVG's ``<title id=...>`` and
+``<desc id=...>`` elements; together they provide an accessible name and
+description for the diagram, exposed via ``aria-labelledby="diagram-map-title
+diagram-map-description"`` on the ``<svg>`` element. ``:title:`` and
+``:desc:`` are required options; omitting either raises an error.
 """
 
 from __future__ import annotations
@@ -31,6 +24,7 @@ from __future__ import annotations
 import re
 from pathlib import Path
 
+import jinja2
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
 from docutils.transforms import Transform
@@ -44,16 +38,73 @@ LABEL_NAMES = (
     "how-to",
     "reference",
     "explanation",
-    "learning",
-    "problem",
-    "information",
-    "understanding",
-    "acquisition",
-    "application",
-    "action",
-    "cognition",
+    "orientation-tutorial",
+    "orientation-how-to",
+    "orientation-reference",
+    "orientation-explanation",
+    "relation-development",
+    "relation-application",
+    "dimension-theory",
+    "dimension-action",
 )
+# Valid quadrant names for the optional directive argument. 0 args ⇒ all
+# four (full diagram). One arg ⇒ that quadrant only. Multiple args ⇒ the
+# union (e.g. "tutorial how-to" ⇒ top half). The hyphenated form is the
+# user-facing RST token and the literal tested against in the template.
+QUADRANTS = ("tutorial", "how-to", "explanation", "reference")
+# Each quadrant's position: (horizontal side, vertical side). Used to compute
+# the visible region when rendering a subset of the diagram.
+_QUADRANT_SIDES = {
+    "tutorial":    ("left",  "top"),
+    "how-to":      ("right", "top"),
+    "explanation": ("left",  "bottom"),
+    "reference":   ("right", "bottom"),
+}
+# Full-diagram canvas geometry. The axes span these extents. When rendering a
+# subset, the visible region runs from the outer edge to a stub past the
+# origin (2 × the resolved axis font-size), so the axes extend to the viewport
+# edge with no empty padding.
+_FULL_LEFT, _FULL_RIGHT = -960, 960
+_FULL_TOP, _FULL_BOTTOM = -540, 540
 _LABEL_RE = re.compile(r"^:([a-z-]+):\s*(.*)$")
+
+# Built-in defaults for per-locale diagram typography. A ``default`` key in
+# ``diataxis_diagram`` (conf.py) overrides these site-wide, and each
+# locale entry overrides on top of that. Locales may omit any key; the resolved
+# value falls back through the chain. The structure is nested: ``font-sizes``
+# holds the per-class sizes (``type`` / ``purpose`` / ``axis`` map to the SVG's
+# ``.type`` / ``.purpose`` / ``.axis`` classes and the ``{{ type_font_size }}``
+# / ``{{ purpose_font_size }}`` / ``{{ axis_font_size }}`` placeholders), and
+# ``offsets`` holds the per-element-group geometric offsets. ``y-axis-rotation``
+# (rotated/stacked) and ``guides`` (bool) are top-level siblings.
+DEFAULT_TYPOGRAPHY = {
+    "font-sizes": {
+        "type": 104,
+        "purpose": 44,
+        "axis": 42,
+    },
+    "offsets": {
+        "axis-x": 154,
+        "type-purpose-x": 154,
+        "type-x-correction": 0,
+        "axis-y": 120,
+        "purpose-y": 120,
+        "type-y": 240,
+    },
+    "y-axis-rotation": "rotated",
+    "guides": False,
+}
+
+
+def _merge_layer(base: dict, overlay: dict) -> dict:
+    """Deep-merge ``overlay`` onto ``base``; nested dicts merge per-key."""
+    result = {k: dict(v) if isinstance(v, dict) else v for k, v in base.items()}
+    for k, v in overlay.items():
+        if isinstance(v, dict) and isinstance(result.get(k), dict):
+            result[k] = _merge_layer(result[k], v)
+        else:
+            result[k] = v
+    return result
 
 
 def _strip_quotes(value: str) -> str:
@@ -62,6 +113,24 @@ def _strip_quotes(value: str) -> str:
     if len(value) >= 2 and value[0] == value[-1] and value[0] in ("'", '"'):
         value = value[1:-1]
     return value
+
+
+def _quadrant_bounds(quadrants, axis_font_size):
+    """Compute (left, right, top, bottom) for the selected quadrants.
+
+    For a single quadrant the region runs from the outer frame edge to a stub
+    of ``2 * axis_font_size`` past the origin. For a union, the bounding box of
+    the selected quadrants. All four (the default) yields the full-diagram
+    bounds. The axes extend to this region's edge (no empty padding), so frame
+    edges equal view edges.
+    """
+    pad = 2 * axis_font_size
+    sides = [_QUADRANT_SIDES[q] for q in quadrants]
+    left = min(_FULL_LEFT if h == "left" else -pad for h, _ in sides)
+    right = max(_FULL_RIGHT if h == "right" else pad for h, _ in sides)
+    top = min(_FULL_TOP if v == "top" else -pad for _, v in sides)
+    bottom = max(_FULL_BOTTOM if v == "bottom" else pad for _, v in sides)
+    return left, right, top, bottom
 
 
 class diataxis_diagram(nodes.General, nodes.Element):
@@ -86,24 +155,37 @@ def _make_label_node(name: str, value: str, source: str, line: int) -> nodes.inl
 
 class DiataxisDiagram(Directive):
     has_content = True
-    required_arguments = 1
-    optional_arguments = 0
-    final_argument_whitespace = True
+    required_arguments = 0
+    optional_arguments = 4
     option_spec = {
-        "alt": directives.unchanged,
+        "title": directives.unchanged,
+        "desc": directives.unchanged,
         "class": directives.class_option,
     }
 
     def run(self):
-        src = self.arguments[0].strip()
         node = diataxis_diagram()
-        node["src"] = src
         node["classes"] = self.options.get("class", [])
         source = self.state_machine.get_source(self.lineno)
 
-        alt = self.options.get("alt", "")
-        if alt:
-            node += _make_label_node("alt", alt, source, self.lineno)
+        # Optional positional args select which quadrants to render. 0 args
+        # ⇒ all four (full diagram). Unknown names raise immediately.
+        quadrants = set(self.arguments) if self.arguments else set(QUADRANTS)
+        unknown = quadrants.difference(QUADRANTS)
+        if unknown:
+            raise ExtensionError(
+                f"diataxis-diagram: unknown quadrant "
+                f"{', '.join(sorted(unknown))!r}; "
+                f"known: {', '.join(QUADRANTS)}"
+            )
+        node["quadrants"] = quadrants
+
+        if "title" not in self.options:
+            raise ExtensionError("diataxis-diagram: missing required option :title:")
+        if "desc" not in self.options:
+            raise ExtensionError("diataxis-diagram: missing required option :desc:")
+        node += _make_label_node("title", self.options["title"], source, self.lineno)
+        node += _make_label_node("desc", self.options["desc"], source, self.lineno)
 
         for i, line in enumerate(self.content):
             m = _LABEL_RE.match(line)
@@ -119,22 +201,6 @@ class DiataxisDiagram(Directive):
 
         return [node]
 
-
-def _resolve_src(src: str, env) -> Path | None:
-    """Resolve an ``/images/foo.svg``-style path against the source dir."""
-    if src.startswith("/"):
-        rel = src.lstrip("/")
-    else:
-        rel = src
-    candidates = [
-        Path(env.srcdir) / rel,
-        Path(env.srcdir).parent / rel,
-        Path(env.srcdir) / "images" / rel,
-    ]
-    for c in candidates:
-        if c.is_file():
-            return c
-    return None
 
 
 class _CaptureDiataxisDiagramLabels(Transform):
@@ -159,14 +225,15 @@ class _CaptureDiataxisDiagramLabels(Transform):
 
 
 def on_html_visit_diataxis_diagram(self, node):
-    """Emit the SVG markup inline, wrapped in a div carrying the classes."""
+    """Emit the SVG markup inline, with classes applied to the <svg>."""
     env = self.builder.env
-    src = node.get("src", "")
-    path = _resolve_src(src, env)
-    if path is None:
-        raise ExtensionError(f"diataxis-diagram: file not found: {src!r}")
+    template_path = Path(__file__).parent / "diataxis-diagram-template.svg"
+    if not template_path.is_file():
+        raise ExtensionError(
+            f"diataxis-diagram: template not found: {template_path!r}"
+        )
 
-    text = path.read_text(encoding="utf-8")
+    text = template_path.read_text(encoding="utf-8")
     # Strip the XML declaration; it is invalid inside an HTML document.
     if text.lstrip().startswith("<?xml"):
         end = text.find("?>")
@@ -174,100 +241,86 @@ def on_html_visit_diataxis_diagram(self, node):
             text = text[end + 2 :].lstrip()
 
     labels = dict(node.get("labels", {}))
-    alt = labels.pop("alt", "")
+    title = labels.pop("title", "")
+    desc = labels.pop("desc", "")
 
-    # Substitute <text id="...">text</text> content from directive options.
-    for label_id, value in labels.items():
-        pattern = re.compile(
-            r'(<text[^>]*\bid="' + re.escape(label_id) + r'"[^>]*>)[^<]*(</text>)',
-            re.DOTALL,
-        )
-        new_text, count = pattern.subn(
-            lambda m, v=value: m.group(1) + v + m.group(2), text
-        )
-        if count == 0:
-            raise ExtensionError(
-                f'diataxis-diagram: no <text id="{label_id}"> found in {src!r}'
-            )
-        text = new_text
-
-    # Per-language diagram typography (font sizes + y-axis mode) comes from
-    # the ``diataxis_diagram_typography`` config in conf.py, keyed by
-    # ``config.language``. Font sizes are routed to the inlined SVG's <text>
-    # nodes via CSS custom properties emitted on the wrapping <div> below;
-    # the matching ``var(--diagram-X-size)`` calls live in _static/diataxis.css.
-    # ``y-axis-labels`` is not a font-size — it selects the vertical axis
-    # label mode ("rotate" or "stacked") and is handled separately below.
-    typography = env.config.diataxis_diagram_typography or {}
+    # Per-locale diagram typography (font sizes, offsets, y-axis mode) is
+    # resolved as a three-layer deep merge: built-in DEFAULT_TYPOGRAPHY, then
+    # the ``default`` key in conf.py's diataxis_diagram (site-wide override),
+    # then the per-locale entry. Each nested sub-dict (``font-sizes``,
+    # ``offsets``) merges per-key, so a locale may override a single size or
+    # offset without discarding the rest.
+    typography = env.config.diataxis_diagram or {}
     if env.config.language not in typography:
         raise ExtensionError(
             f"diataxis-diagram: language {env.config.language!r} has no entry in "
-            f"diataxis_diagram_typography; add one (see source/conf.py)."
+            f"diataxis_diagram; add one (see source/conf.py)."
         )
-    lang_sizes = dict(typography[env.config.language])
-    y_axis_mode = lang_sizes.pop("y-axis-labels", "rotate")
-    if y_axis_mode not in ("rotate", "stacked"):
-        raise ExtensionError(
-            f"diataxis-diagram: diataxis_diagram_typography[{env.config.language!r}] "
-            f"has unsupported y-axis-labels value {y_axis_mode!r}; "
-            f"expected 'rotate' or 'stacked'."
-        )
-    # Every active locale must supply all three sizes: the CSS rules use
-    # var(--diagram-X-size) with NO fallback, so a missing key would leave
-    # the property unresolved and collapse the text to the initial ~16px.
-    _SIZE_KEYS = ("quadrant", "orientation", "axis")
-    missing = [k for k in _SIZE_KEYS if k not in lang_sizes]
-    if missing:
-        raise ExtensionError(
-            f"diataxis-diagram: diataxis_diagram_typography[{env.config.language!r}] "
-            f"is missing required size key(s): {', '.join(missing)}."
-        )
-    custom_props = "; ".join(
-        f"--diagram-{k}-size: {lang_sizes[k]}px" for k in _SIZE_KEYS
-    )
+    resolved = _merge_layer(DEFAULT_TYPOGRAPHY, typography.get("default", {}))
+    resolved = _merge_layer(resolved, typography[env.config.language])
 
-    # Vertical axis labels: for CJK languages the ``rotate(-90)`` transform
-    # tips each glyph on its side. ``stacked`` replaces it with
-    # ``writing-mode="vertical-rl"`` so glyphs stay upright and flow
-    # top-to-bottom (the CJK convention).
-    #
-    # The rotated layout anchors each label near the centre (y = ±119) and
-    # expands outward along the axis. ``vertical-rl`` flows downward, so to
-    # preserve "start near the centre, expand outward" the text-anchor is
-    # swapped: the top label (action, y < 0) anchors its bottom at y and grows
-    # upward; the bottom label (cognition, y > 0) anchors its top at y and
-    # grows downward. Both edits run in one pass via a replacement function,
-    # so the result does not depend on attribute order within the <text> tag.
-    if y_axis_mode == "stacked":
-        def _stack(m: re.Match) -> str:
-            tag = m.group(1) + 'writing-mode="vertical-rl"' + m.group(2)
-            tag = re.sub(
-                r'text-anchor="(start|end)"',
-                lambda tm: 'text-anchor="end"' if tm.group(1) == 'start' else 'text-anchor="start"',
-                tag,
-            )
-            return tag
+    offsets = resolved["offsets"]
+    font_sizes = resolved["font-sizes"]
 
-        pattern = re.compile(
-            r'(<text\b[^>]*\b)transform="rotate\(-90\s+[0-9.\-]+\s+[0-9.\-]+\)"'
-            r'([^>]*>)'
+    y_axis_mode = resolved["y-axis-rotation"]
+    if y_axis_mode not in ("rotated", "stacked"):
+        raise ExtensionError(
+            f"diataxis-diagram: diataxis_diagram[{env.config.language!r}] "
+            f"has unsupported y-axis-rotation value {y_axis_mode!r}; "
+            f"expected 'rotated' or 'stacked'."
         )
-        text, _ = pattern.subn(_stack, text)
+
+    # Render the SVG template with Jinja2. Autoescape is on because the
+    # template is XML (SVG); all values injected here are numeric or
+    # controlled attribute strings, so escaping is a no-op in practice but
+    # guards against any future string-valued variable.
+    # The type labels (Tutorials / Explanation / How-to guides / Reference)
+    # are inset from the nominal type/purpose edge towards the origin by
+    # ``type-x-correction`` so their larger glyphs don't overflow the frame.
+    type_x = offsets["type-purpose-x"] - offsets["type-x-correction"]
 
     classes = " ".join(node.get("classes", []))
-    # role="img" + aria-label exposes the alt text to AT for the inline SVG.
-    # ``style`` carries the per-locale font-size custom properties consumed
-    # by the .axis/.quadrant/.orientation rules in _static/diataxis.css.
-    self.body.append('<div class="diataxis-diagram')
-    if classes:
-        self.body.append(f" {classes}")
-    self.body.append('"')
-    if alt:
-        self.body.append(f' role="img" aria-label="{self.attval(alt)}"')
-    self.body.append(f' style="{custom_props}"')
-    self.body.append(">")
+    quadrants = set(node.get("quadrants", set(QUADRANTS)))
+    left, right, top, bottom = _quadrant_bounds(quadrants, font_sizes["axis"])
+    context = {
+        "type_font_size": font_sizes["type"],
+        "purpose_font_size": font_sizes["purpose"],
+        "axis_font_size": font_sizes["axis"],
+        "axis_x": offsets["axis-x"],
+        "type_purpose_x": offsets["type-purpose-x"],
+        "type_x": type_x,
+        "axis_y": offsets["axis-y"],
+        "purpose_y": offsets["purpose-y"],
+        "type_y": offsets["type-y"],
+        "y_axis_mode": y_axis_mode,
+        "guides": resolved["guides"],
+        "title": title,
+        "desc": desc,
+        "class": classes,
+        # Quadrant selection (set of hyphenated names; all four ⇒ full
+        # diagram). Drives the per-label {% if 'q' in quadrants %} gates.
+        "quadrants": quadrants,
+        # Canvas geometry. The visible region is the bounding box of the
+        # selected quadrants (all four ⇒ full diagram). The axes extend to
+        # this edge, so frame_* equal the view edges; the viewBox is the
+        # (left, top, width, height) derived from them.
+        "view_x": left,
+        "view_y": top,
+        "view_w": right - left,
+        "view_h": bottom - top,
+        "frame_left": left,
+        "frame_right": right,
+        "frame_top": top,
+        "frame_bottom": bottom,
+    }
+    context.update({k.replace("-", "_"): v for k, v in labels.items()})
+    text = (
+        jinja2.Environment(autoescape=True, undefined=jinja2.StrictUndefined)
+        .from_string(text)
+        .render(**context)
+    )
+
     self.body.append(text)
-    self.body.append("</div>")
     raise nodes.SkipNode
 
 
@@ -276,7 +329,7 @@ def on_html_depart_diataxis_diagram(self, node):
 
 
 def setup(app):
-    app.add_config_value("diataxis_diagram_typography", {}, "env")
+    app.add_config_value("diataxis_diagram", {}, "env")
     app.add_node(
         diataxis_diagram,
         html=(on_html_visit_diataxis_diagram, on_html_depart_diataxis_diagram),
