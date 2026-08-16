@@ -12,6 +12,8 @@ So: what *is* the difference between tutorials and how to-guides? Why does it ma
 These are all good questions. Let’s start with the last one. *If the distinction is really so important, why isn’t it
 more obvious?*
 
+..  include:: /snippets/diagram-tutorial-how-to.rst
+
 
 What they have in common
 ----------------------------

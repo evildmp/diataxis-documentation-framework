@@ -21,6 +21,7 @@ exclude_patterns = [
     "LICENSE.rst",
     "README.rst",
     "stashed",
+    "snippets",
 ]
 
 # -- Options for HTML output -------------------------------------------------
@@ -96,8 +97,15 @@ gettext_location = True
 
 diataxis_diagram = {
     "default": {
-      "font-sizes": {"type": 104, "purpose": 44, "axis": 42},
-      "offsets": {"axis-x": 154, "type-purpose-x": 154, "axis-y": 120, "purpose-y": 120, "type-y": 240},
+      "font-sizes": {"type": 105, "purpose": 50, "axis": 55},
+      "offsets": {
+          "axis-x": 154,
+          "type-purpose-x": 154,
+          "type-x-correction": 0,
+          "axis-y": 110,
+          "purpose-y": 120,
+          "type-y": 260
+      },
       "y-axis-rotation": "rotated",
       "guides": False
     },

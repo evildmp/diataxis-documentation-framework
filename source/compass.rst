@@ -3,11 +3,12 @@
 The compass
 =======================
 
-.. image:: /images/diataxis.png
-   :alt:
-   :class: sidebar
+.. rst-class:: sidebar
 
-The Diátaxis map is an effective reminder of the different kinds of
+..  include:: /snippets/diagram.rst
+
+
+:doc:`The Diátaxis map <map>` is an effective reminder of the different kinds of
 documentation and their relationship, and it accords well with intuitions
 about documentation.
 
@@ -50,7 +51,7 @@ simpler parts, and provides the author with a course-correction tool.
 
 The compass can be applied equally to user situations that need documentation, or to documentation itself that perhaps needs to be moved or improved. Like many good tools, it's surprisingly banal.
 
-To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?* 
+To use the compass, just two questions need to be asked: *action or cognition?* *acquisition or application?*
 
 And it yields the answer.
 

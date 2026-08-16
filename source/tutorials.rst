@@ -11,9 +11,10 @@ A tutorial is a *practical activity*, in which the student learns by doing somet
 
 A tutorial serves the user's *acquisition* of skills and knowledge - their study. Its purpose is not to help the user get something done, but to help them learn.
 
-..  image:: /images/overview-tutorials.png
-    :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
-    :class: sidebar
+.. rst-class:: sidebar
+
+..  include:: /snippets/diagram-tutorial.rst
+
 
 A tutorial in other words is a lesson.
 

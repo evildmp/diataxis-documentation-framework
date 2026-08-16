@@ -30,29 +30,9 @@ It prescribes approaches to content, architecture and form that emerge from a sy
 
 Diátaxis identifies four distinct needs, and four corresponding forms of documentation - *tutorials*, *how-to guides*, *technical reference* and *explanation*. It places them in a systematic relationship, and proposes that documentation should itself be organised around the structures of those needs.
 
-..  diataxis-diagram::
-    :alt: Diátaxis
-    :class: wider
+.. rst-class:: wider
 
-    :tutorials:     "Tutorials"
-    :how-to:        "How-to guides"
-    :reference:     "Reference"
-    :explanation:    "Explanation"
-
-    :learning:      "Learning-oriented"
-    :problem:       "Problem-oriented"
-    :information:   "Information-oriented"
-    :understanding: "Understanding-oriented"
-
-    :acquisition:   "Acquisition of skill"
-    :application:   "Application of skill"
-    :action:        "Performative capacity"
-    :cognition:     "Conceptual grasp"
-
-
-.. image:: /images/diataxis.png
-   :alt: Diátaxis
-   :class: wider
+..  include:: /snippets/diagram.rst
 
 ..  sidebar::
 

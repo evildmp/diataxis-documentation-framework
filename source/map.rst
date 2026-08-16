@@ -1,15 +1,15 @@
 .. _map:
 
-The map 
+The map
 =======
 
 
 One reason Diátaxis is effective as a guide to organising documentation is
-that it describes a **two-dimensional structure**, rather than a *list*. 
+that it describes a **two-dimensional structure**, rather than a *list*.
 
-.. image:: /images/diataxis.png
-   :alt:
-   :class: sidebar
+.. rst-class:: wider
+
+..  include:: /snippets/diagram.rst
 
 It specifies its types of documentation in such a way that the structure
 naturally helps guide and shape the material it contains.
@@ -103,7 +103,7 @@ Blur
 --------------------------
 
 Most documentation systems and authors recognise at least some of these distinctions and try to observe them in
-practice. 
+practice.
 
 ..  image:: /images/partial-collapse.png
     :alt: Partial collapse of the structure
@@ -130,7 +130,7 @@ documentation).
      - tutorials
      - explanation
 
-When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing. 
+When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing.
 
 ..  image:: /images/total-collapse.png
     :alt: Total collapse of the structure

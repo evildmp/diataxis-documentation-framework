@@ -10,9 +10,9 @@ Explanation
 
 Explanation deepens and broadens the reader's understanding of a subject. It brings clarity, light and context.
 
-..  image:: /images/overview-explanation.png
-    :alt: Explanation - understanding oriented, theoretical knowledge, that serves our study
-    :class: sidebar
+.. rst-class:: sidebar
+
+..  include:: /snippets/diagram-explanation.rst
 
 The concept of *reflection* is important. Reflection occurs *after* something else, and depends on something else, yet at the same time brings something new - shines a new light - on the subject matter.
 

@@ -102,24 +102,7 @@ Diátaxis is not just a list of four different things, but a conceptual arrangem
 
 Crossing or blurring the boundaries described in the map is at the heart of a vast number of problems in documentation.
 
-..  diataxis-diagram::
-    :alt: Diátaxis
-
-    :tutorials:     "Tutorials"
-    :how-to:        "How-to guides"
-    :reference:     "Reference"
-    :explanation:    "Explanation"
-
-    :learning:      "Learning-oriented"
-    :problem:       "Problem-oriented"
-    :information:   "Information-oriented"
-    :understanding: "Understanding-oriented"
-
-    :acquisition:   "Acquisition of skill"
-    :application:   "Application of skill"
-    :action:        "Performative success"
-    :cognition:     "Conceptual grasp"
-
+..  include:: /snippets/diagram.rst
 
 
 -----------

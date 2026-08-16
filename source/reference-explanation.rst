@@ -10,6 +10,8 @@ The difference between them is - just as in the difference between tutorials and
 difference between the *acquisition* of skill and knowledge, and its *application*. In other words
 it's the distinction between *study* and *work*.
 
+..  include:: /snippets/diagram-reference-explanation.rst
+
 
 A straightforward distinction, *mostly*
 ----------------------------------------
