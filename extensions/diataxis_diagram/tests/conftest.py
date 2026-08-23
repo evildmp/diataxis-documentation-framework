@@ -21,18 +21,18 @@ from extensions.diataxis_diagram import LABEL_NAMES
 TITLE_TEXT = "A map of documentation types"
 DESC_TEXT = "The map is defined by two axes."
 LABEL_VALUES = {
-    "tutorials": "Tutorials",
-    "how-to": "How-to guides",
-    "reference": "Reference",
-    "explanation": "Explanation",
-    "orientation-tutorial": "Learning-oriented",
-    "orientation-how-to": "Problem-oriented",
-    "orientation-reference": "Information-oriented",
-    "orientation-explanation": "Understanding-oriented",
-    "relation-development": "Development of skill",
-    "relation-application": "Application of skill",
-    "dimension-theory": "Conceptual grasp",
-    "dimension-action": "Practical capacity",
+    "top-left": "Tutorials",
+    "top-right-name": "How-to guides",
+    "bottom-right-name": "Reference",
+    "bottom-left-name": "Explanation",
+    "purpose-top-left": "Learning-oriented",
+    "purpose-top-right": "Problem-oriented",
+    "purpose-bottom-right": "Information-oriented",
+    "purpose-bottom-left": "Understanding-oriented",
+    "axis-label-left": "Development of skill",
+    "axis-label-right": "Application of skill",
+    "axis-label-top": "Conceptual grasp",
+    "axis-label-bottom": "Practical capacity",
 }
 EXPECTED_MSGIDS = [TITLE_TEXT, DESC_TEXT, *LABEL_VALUES.values()]
 

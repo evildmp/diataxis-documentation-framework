@@ -114,7 +114,7 @@ inspect_glyphs.py
 
 Lists every glyph and cmap entry in the embedded subset, and checks
 coverage for the actual rendered diagram text (quadrant labels
-uppercased, plus axis/orientation labels in mixed case). Use this to
+uppercased, plus axis/purpose labels in mixed case). Use this to
 confirm a rebuild didn't drop a needed glyph.
 
 check_gvar_coverage.py

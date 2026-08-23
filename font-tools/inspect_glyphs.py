@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Inspect the embedded subset: list all glyphs, the cmap, and check
 coverage for the actual rendered diagram text (quadrant labels uppercased,
-plus axis/orientation labels in mixed case).
+plus axis/purpose labels in mixed case).
 
 Usage (from repo root): python3 font-tools/inspect_glyphs.py
 """

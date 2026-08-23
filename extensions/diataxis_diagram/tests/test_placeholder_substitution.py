@@ -48,18 +48,18 @@ _TEMPLATE = """\
     </style>
   </defs>
   <line x1="0" y1="0" x2="100" y2="0" stroke="black"/>
-  <text id="dimension-theory" class="axis" x="0" y="-{{axis_y}}" {% if y_axis_mode == "rotated" %}text-anchor="start" transform="rotate(-90 0 -{{ axis_y }})"{% else %}text-anchor="end" writing-mode="vertical-rl"{% endif %}>{{ dimension_theory }}</text>
-  <text id="dimension-action" class="axis" x="0" y="{{ axis_y}}" {% if y_axis_mode == "rotated" %}text-anchor="end" transform="rotate(-90 0 {{ axis_y }})"{% else %}text-anchor="start" writing-mode="vertical-rl"{% endif %}>{{ dimension_action }}</text>
-  <text id="tutorials" class="type" x="-10" y="-{{type_y}}">{{ tutorials }}</text>
-  <text id="explanation" class="type" x="-10" y="{{ type_y}}">{{ explanation }}</text>
-  <text id="orientation-tutorial" class="purpose" x="-{{type_purpose_x}}" y="-{{ purpose_y}}">{{ orientation_tutorial }}</text>
-  <text id="orientation-explanation" class="purpose" x="-{{ type_purpose_x }}" y="{{purpose_y}}">{{ orientation_explanation }}</text>
-  <text id="relation-development" class="axis" x="-{{axis_x}}" y="0">{{ relation_development }}</text>
-  <text id="how-to" class="type" x="10" y="-{{type_y}}">{{ how_to }}</text>
-  <text id="reference" class="type" x="10" y="{{type_y}}">{{ reference }}</text>
-  <text id="orientation-how-to" class="purpose" x="{{type_purpose_x}}" y="-{{purpose_y}}">{{ orientation_how_to }}</text>
-  <text id="orientation-reference" class="purpose" x="{{ type_purpose_x }}" y="{{purpose_y}}">{{ orientation_reference }}</text>
-  <text id="relation-application" class="axis" x="{{axis_x}}" y="0">{{ relation_application }}</text>
+  <text id="axis-label-top" class="axis" x="0" y="-{{axis_y}}" {% if y_axis_mode == "rotated" %}text-anchor="start" transform="rotate(-90 0 -{{ axis_y }})"{% else %}text-anchor="end" writing-mode="vertical-rl"{% endif %}>{{ axis_label_top }}</text>
+  <text id="axis-label-bottom" class="axis" x="0" y="{{ axis_y}}" {% if y_axis_mode == "rotated" %}text-anchor="end" transform="rotate(-90 0 {{ axis_y }})"{% else %}text-anchor="start" writing-mode="vertical-rl"{% endif %}>{{ axis_label_bottom }}</text>
+  <text id="top-left" class="type" x="-10" y="-{{type_y}}">{{ top_left }}</text>
+  <text id="bottom-left-name" class="type" x="-10" y="{{ type_y}}">{{ bottom_left_name }}</text>
+  <text id="purpose-top-left" class="purpose" x="-{{type_purpose_x}}" y="-{{ purpose_y}}">{{ purpose_top_left }}</text>
+  <text id="purpose-bottom-left" class="purpose" x="-{{ type_purpose_x }}" y="{{purpose_y}}">{{ purpose_bottom_left }}</text>
+  <text id="axis-label-left" class="axis" x="-{{axis_x}}" y="0">{{ axis_label_left }}</text>
+  <text id="top-right-name" class="type" x="10" y="-{{type_y}}">{{ top_right_name }}</text>
+  <text id="bottom-right-name" class="type" x="10" y="{{type_y}}">{{ bottom_right_name }}</text>
+  <text id="purpose-top-right" class="purpose" x="{{type_purpose_x}}" y="-{{purpose_y}}">{{ purpose_top_right }}</text>
+  <text id="purpose-bottom-right" class="purpose" x="{{ type_purpose_x }}" y="{{purpose_y}}">{{ purpose_bottom_right }}</text>
+  <text id="axis-label-right" class="axis" x="{{axis_x}}" y="0">{{ axis_label_right }}</text>
   {% if guides %}
   <line x1="-{{type_purpose_x}}" y1="-50" x2="-{{type_purpose_x}}" y2="50" stroke="#999" stroke-width="1"/>
   {% endif %}
@@ -187,7 +187,7 @@ def test_whitespace_variants_of_same_key_substitute_identically(tmp_path: Path):
     }
     out = _build_with_template(tmp_path, _TEMPLATE, typography)
     svg = _inlined_svg((out / "index.html").read_text(encoding="utf-8"))
-    # The dimension-theory label sits at y=-119 (top), dimension-action at y=119 (bottom).
+    # The axis-label-top label sits at y=-119 (top), axis-label-bottom at y=119 (bottom).
     # Both use no-space or half-space forms in the template.
     assert 'y="-119"' in svg, svg
     assert 'y="119"' in svg, svg

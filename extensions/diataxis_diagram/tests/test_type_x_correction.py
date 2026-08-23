@@ -90,7 +90,7 @@ def _inlined_svg(html: str) -> str:
 
 
 def _x_attr(svg: str, label_id: str) -> int:
-    """Return the integer x attribute of the <text id=label_id> element."""
+    """Return the integer x attribute of the <text id="label_id"> element."""
     m = re.search(
         r'<text[^>]*\bid="' + re.escape(label_id) + r'"[^>]*\bx="(-?\d+)"',
         svg,
@@ -125,11 +125,11 @@ def _typography_with_correction(correction: int | None) -> dict:
 
 
 # The four type labels that must move with the correction.
-TYPE_LABELS_LEFT = ("tutorials", "explanation")
-TYPE_LABELS_RIGHT = ("how-to", "reference")
+TYPE_LABELS_LEFT = ("top-left", "bottom-left-name")
+TYPE_LABELS_RIGHT = ("top-right-name", "bottom-right-name")
 # Purpose labels must stay at the nominal edge.
-PURPOSE_LABELS_LEFT = ("orientation-tutorial", "orientation-explanation")
-PURPOSE_LABELS_RIGHT = ("orientation-how-to", "orientation-reference")
+PURPOSE_LABELS_LEFT = ("purpose-top-left", "purpose-bottom-left")
+PURPOSE_LABELS_RIGHT = ("purpose-top-right", "purpose-bottom-right")
 
 
 def test_no_correction_keeps_type_labels_at_nominal_edge(tmp_path: Path):
