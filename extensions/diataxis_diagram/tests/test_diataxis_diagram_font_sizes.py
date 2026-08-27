@@ -2,11 +2,12 @@
 
 The Diátaxis diagram's font sizes are build parameters, not translatable
 strings. They are read from the ``diataxis_diagram`` config
-(keyed by ``config.language``) and substituted into the SVG template's
-``<style>`` block (``extensions/diataxis_diagram/diataxis-diagram-template.svg``)
-at build time, replacing the ``{{ type-font-size}}`` /
-``{{ purpose-font-size}}`` / ``{{ axis-font-size}}`` placeholders inside
-the ``.type`` / ``.purpose`` / ``.axis`` ``font-size`` declarations.
+(keyed by ``config.language``) and substituted into the HTML template's
+inline ``style`` attribute as CSS custom properties (``--type-font``,
+``--purpose-font``, ``--axis-font``, ``--need-font``, ``--annotation-font``),
+each expressed in ``cqw`` (container query width) units so the whole diagram
+scales with its container. The scoped ``<style>`` block consumes them via
+``font-size: var(--type-font)`` etc.
 
 Typography values are resolved as a three-layer merge: the extension's
 built-in ``DEFAULT_TYPOGRAPHY``, then the ``default`` key in
@@ -108,33 +109,45 @@ def _html(out: Path) -> str:
     return (out / "index.html").read_text(encoding="utf-8")
 
 
-def _inlined_svg_style_block(html: str) -> str:
-    """Return the contents of the <style> block inside the inlined SVG."""
+def _diagram_block(html: str) -> str:
+    """Return the rendered HTML for the first diagram instance.
+
+    The diagram is emitted as ``<div class="diataxis-diagram ...">...</div>``
+    with a scoped ``<style>`` and inline CSS custom properties. Asserting
+    against this slice keeps the substring searches tight and avoids stray
+    matches in theme chrome.
+    """
     m = re.search(
-        r'<svg[^>]*>.*?<style>(.*?)</style>',
+        r'<div class="diataxis-diagram[^"]*">.*?</div>\s*</div>\s*',
         html,
         re.DOTALL,
     )
-    assert m is not None, "no <style> block found inside the inlined SVG"
-    return m.group(1)
+    assert m is not None, "no diataxis-diagram block found in rendered HTML"
+    return m.group(0)
 
 
-def test_font_sizes_substituted_into_svg_style_for_configured_language(tmp_path: Path):
+def _cqw(px: int, *, width: int = 1920) -> str:
+    """Expected ``cqw`` string for ``px`` in a full diagram (width 1920)."""
+    return f"{px / width * 100:.4f}cqw"
+
+
+def test_font_sizes_substituted_into_style_for_configured_language(tmp_path: Path):
     out = _build(
         tmp_path,
         "it",
         {"it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}}},
     )
-    style = _inlined_svg_style_block(_html(out))
-    assert "font-size: 100px" in style, style
-    assert "font-size: 44px" in style, style
-    # No placeholder should survive substitution.
-    assert "{{" not in style and "}}" not in style, style
+    block = _diagram_block(_html(out))
+    assert f"--type-font: {_cqw(100)}" in block, block
+    assert f"--purpose-font: {_cqw(44)}" in block, block
+    assert f"--axis-font: {_cqw(44)}" in block, block
+    # No Jinja2 placeholder should survive rendering.
+    assert "{{" not in block and "}}" not in block, block
 
 
 def test_other_language_not_affected(tmp_path: Path):
     # Config has an entry for "fr" but build language is "en", which also has
-    # an entry. The SVG must carry en's sizes, not fr's.
+    # an entry. The diagram must carry en's sizes, not fr's.
     out = _build(
         tmp_path,
         "en",
@@ -143,28 +156,27 @@ def test_other_language_not_affected(tmp_path: Path):
             "fr": {"font-sizes": {"type": 80, "purpose": 30, "axis": 20}, "offsets": {"axis-y": 119}},
         },
     )
-    style = _inlined_svg_style_block(_html(out))
-    assert "font-size: 104px" in style, style
-    assert "font-size: 80px" not in style, style
+    block = _diagram_block(_html(out))
+    assert f"--type-font: {_cqw(104)}" in block, block
+    assert f"--type-font: {_cqw(80)}" not in block, block
 
 
 def test_partial_override_still_substitutes_all_three(tmp_path: Path):
-    # A locale entry must supply all three size keys (the SVG template's
-    # placeholders have no fallback). Here the entry is complete; all three
-    # are substituted.
+    # A locale entry supplies all three size keys; all three land in the CSS.
     out = _build(
         tmp_path,
         "pl",
         {"pl": {"font-sizes": {"type": 57, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}}},
     )
-    style = _inlined_svg_style_block(_html(out))
-    assert "font-size: 57px" in style, style
-    assert "font-size: 44px" in style, style
+    block = _diagram_block(_html(out))
+    assert f"--type-font: {_cqw(57)}" in block, block
+    assert f"--purpose-font: {_cqw(44)}" in block, block
+    assert f"--axis-font: {_cqw(44)}" in block, block
 
 
 def test_missing_locale_entry_is_fatal(tmp_path: Path):
     # Build language "de" has no typography entry: must raise, not silently
-    # fall back to the SVG's (now absent) baked-in sizes.
+    # fall back to the built-in defaults.
     with pytest.raises(ExtensionError):
         _build(
             tmp_path,
@@ -175,19 +187,19 @@ def test_missing_locale_entry_is_fatal(tmp_path: Path):
 
 def test_missing_size_key_falls_back_to_default(tmp_path: Path):
     # The locale entry exists but omits "purpose": the built-in
-    # DEFAULT_TYPOGRAPHY (and any ``default`` key) supplies it. Must build,
-    # not raise.
+    # DEFAULT_TYPOGRAPHY supplies it. Must build, not raise.
     out = _build(
         tmp_path,
         "it",
         {"it": {"font-sizes": {"type": 100, "axis": 44}, "offsets": {"axis-y": 119}}},
     )
-    style = _inlined_svg_style_block(_html(out))
+    block = _diagram_block(_html(out))
     # type and axis came from the locale entry; purpose fell back to
     # the built-in default (44).
-    assert "font-size: 100px" in style, style
-    assert "font-size: 44px" in style, style
-    assert "{{" not in style and "}}" not in style, style
+    assert f"--type-font: {_cqw(100)}" in block, block
+    assert f"--purpose-font: {_cqw(44)}" in block, block
+    assert f"--axis-font: {_cqw(44)}" in block, block
+    assert "{{" not in block and "}}" not in block, block
 
 
 def test_default_key_overrides_built_in_defaults(tmp_path: Path):
@@ -201,16 +213,17 @@ def test_default_key_overrides_built_in_defaults(tmp_path: Path):
             "it": {"font-sizes": {"type": 100, "axis": 44}},
         },
     )
-    style = _inlined_svg_style_block(_html(out))
-    assert "font-size: 100px" in style, style  # locale
-    assert "font-size: 50px" in style, style   # default override
-    assert "font-size: 44px" in style, style   # axis from locale
-    assert "{{" not in style and "}}" not in style, style
+    block = _diagram_block(_html(out))
+    assert f"--type-font: {_cqw(100)}" in block, block   # locale
+    assert f"--purpose-font: {_cqw(50)}" in block, block  # default override
+    assert f"--axis-font: {_cqw(44)}" in block, block    # axis from locale
+    assert "{{" not in block and "}}" not in block, block
 
 
 def test_y_axis_rotation_key_does_not_become_a_font_size(tmp_path: Path):
-    # y-axis-rotation is a structural switch, not a font size; it must not be
-    # substituted into a font-size declaration.
+    # y-axis-rotation is a structural switch (rotated/stacked), not a font
+    # size; it must not be substituted into a font-size custom property. The
+    # value reaches the template as the `diagram--stacked` class instead.
     out = _build(
         tmp_path,
         "zh_CN",
@@ -222,10 +235,12 @@ def test_y_axis_rotation_key_does_not_become_a_font_size(tmp_path: Path):
             },
         },
     )
-    style = _inlined_svg_style_block(_html(out))
-    assert "font-size: 104px" in style, style
-    assert "font-size: 80px" in style, style
-    assert "y-axis-rotation" not in style, style
+    block = _diagram_block(_html(out))
+    assert f"--type-font: {_cqw(104)}" in block, block
+    assert f"--axis-font: {_cqw(80)}" in block, block
+    # The structural switch surfaces as a class, not as a CSS variable.
+    assert "diagram--stacked" in block, block
+    assert "y-axis-rotation" not in block, block
 
 
 def test_font_sizes_are_not_msgids(tmp_path: Path):
