@@ -1,6 +1,6 @@
 """Geometry of the HTML/CSS diagram across quadrant subsets.
 
-``.. diataxis-diagram::`` accepts an optional positional argument naming the
+``.. diataxis-diagram::`` accepts optional arguments naming the
 quadrants to show (one of ``top-left`` / ``top-right`` / ``bottom-left`` /
 ``bottom-right``, or a union). The extension computes the grid tracks, axis
 position, aspect ratio and flip flags in ``_html_geometry`` and emits them as

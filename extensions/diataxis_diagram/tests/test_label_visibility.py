@@ -64,8 +64,8 @@ _ALL_LABELS = {
     "purpose-bottom-right": "Information", "purpose-bottom-left": "Understanding",
     "axis-label-top": "Practical", "axis-label-bottom": "Conceptual",
     "axis-label-left": "Development", "axis-label-right": "Application",
-    "need-top-left": "need TL", "need-top-right-name": "need TR",
-    "need-bottom-right-name": "need BR", "need-bottom-left-name": "need BL",
+    "need-top-left": "need TL", "need-top-right": "need TR",
+    "need-bottom-right": "need BR", "need-bottom-left": "need BL",
 }
 
 

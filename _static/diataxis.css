@@ -158,7 +158,7 @@ article .sidebar p.sidebar-title {
     }
 
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
-    img.floated {
+    img.floated, .diataxis-diagram.floated {
         width: 50%;
         float: right;
         margin-bottom: 1rem; margin-left: 1rem;
@@ -223,13 +223,14 @@ div.lined div.sd-col:nth-child(2n) {border-bottom: 1px solid var(--orange);}
 
 .diataxis-diagram { display: block; width: 100%; height: auto; }
 
-/* Per-locale diagram text styling (font-family, weight, variation-settings,
-   letter-spacing, fill, text-rendering) lives in a <style> block inside the
-   SVG template itself (extensions/diataxis_diagram/diataxis-diagram-template.svg).
-   Per-locale font sizes and the y-axis offset are substituted into that
-   template at build time by extensions/diataxis_diagram from the
-   `diataxis_diagram` config in conf.py. The @font-face for "Skia"
-   lives in _static/skia-font.css. */
+/* All diagram styling lives in the extension's shared stylesheet,
+   extensions/diataxis_diagram/static/diataxis-diagram.css (registered by
+   the extension's setup(), scoped under .diataxis-diagram). Per-instance
+   geometry and font sizes are substituted as CSS custom properties into the
+   HTML template (extensions/diataxis_diagram/diataxis-diagram-template.html)
+   at build time by extensions/diataxis_diagram from the `diataxis_diagram`
+   config in conf.py. The @font-face for "Skia" lives in
+   _static/skia-font.css. */
 
 .embed-responsive {
   position: relative;

@@ -9,13 +9,11 @@ classes, no fade on hover. It completes the triad:
 * ``-alt``   — hover-revealed state; hidden unhovered, shown on hover.
 * ``-both``  — always visible; plain, never swappable.
 
-The label swap is **global within labels**: any label ``-alt`` (or half-
-annotation ``-alt``) makes ALL default (no-suffix) labels ``label-swappable``
-(fade out on hover) so the ``-alt`` labels take their place. This mirrors how
-axis-line swap works (any axis-line ``-alt`` => all default axis lines fade)
-but is independent: an axis-line ``-alt`` alone does NOT make labels swap, and
-a label ``-alt`` alone does NOT make axis lines swap. ``-both`` labels are
-never swappable.
+The label swap is **global**: any ``-alt`` anywhere (label, half-annotation,
+axis-line arg, ``blur``/``collapse``) enables the hover state and makes ALL
+default (no-suffix) elements ``label-swappable`` (fade out on hover) — strict
+fade-out, even with no ``-alt`` replacement. ``-both`` labels are never
+swappable and never enable the state.
 
 These tests pin:
 
@@ -110,9 +108,9 @@ def test_both_only_does_not_fire_advert(tmp_path: Path):
         "axis-label-left-both",
         "axis-label-right-both",
         "need-top-left-both",
-        "need-top-right-name-both",
-        "need-bottom-right-name-both",
-        "need-bottom-left-name-both",
+        "need-top-right-both",
+        "need-bottom-right-both",
+        "need-bottom-left-both",
     ],
 )
 def test_each_both_label_renders_plain_and_no_cue(tmp_path: Path, both_label: str):
@@ -233,37 +231,27 @@ def test_default_alt_both_half_annotations_render_all_three(tmp_path: Path):
     assert ADVERT in block, "advert cue missing with half-alt present"
 
 
-# --- Axis-line -alt does NOT make labels swap (independence) -----------
+# --- Axis-line -alt makes ALL default elements swap (strict fade-out) --
 
-def test_axis_line_alt_does_not_make_labels_swap(tmp_path: Path):
-    # x-axis-alt (an axis-line -alt) fires the advert cue and swaps axis
-    # lines, but does NOT make label_swap_active True — labels stay plain.
+def test_axis_line_alt_makes_labels_swap(tmp_path: Path):
+    # x-axis-alt (an axis-line -alt) enables the hover state, so ALL default
+    # elements fade out on hover — content labels and axis labels included —
+    # even with no -alt replacement (strict fade-out).
     block = _build(tmp_path, "x-axis-alt", {
         "name-top-left": "Default", "axis-label-top": "Axis label",
     })
-    # The default labels are plain (no label-swappable) — label_swap_active
-    # is False because there are no label -alts, only an axis-line -alt.
-    assert '<span class="type">Default</span>' in block, block
-    assert '<span class="type label-swappable">' not in block, \
-        "axis-line -alt triggered label swap (should be independent)"
-    assert '<span class="axis">Axis label</span>' in block, block
-    assert '<span class="axis label-swappable">' not in block, \
-        "axis-line -alt made axis-label swappable (should be independent)"
+    assert '<span class="type label-swappable">Default</span>' in block, block
+    assert '<span class="axis label-swappable">Axis label</span>' in block, block
     # The advert cue fires (axis-line -alt present).
     assert ADVERT in block, "advert cue missing with axis-line -alt"
 
 
-# --- Label -alt does NOT make axis lines swap (independence) -----------
+# --- Label -alt makes the default axis lines swap (strict fade-out) ----
 
-def test_label_alt_does_not_make_axis_lines_swap(tmp_path: Path):
-    # x-axis (default) + name-top-left-alt (a label -alt). The x-axis line is
-    # present but NOT swappable (has_axis_alt is False — no axis-line -alt).
-    # The label swap IS active (name-top-left-alt is a label -alt), so the
-    # name-top-left default — if present — would be swappable. Here there's
-    # no name-top-left default, only name-top-left-alt.
+def test_label_alt_makes_axis_lines_swap(tmp_path: Path):
+    # x-axis (default) + name-top-left-alt (a label -alt). The label -alt
+    # enables the hover state, so the default x-axis line is swappable too.
     block = _build(tmp_path, "x-axis", {"name-top-left-alt": "Alt"})
-    assert '<div class="axis-line x-axis">' in block, block
-    assert '<div class="axis-line x-axis label-swappable">' not in block, \
-        "label -alt made axis line swappable (should be independent)"
+    assert '<div class="axis-line x-axis label-swappable">' in block, block
     assert '<span class="type label-alt">Alt</span>' in block, block
     assert ADVERT in block, "advert cue missing with label -alt present"

@@ -1,4 +1,4 @@
-"""CSS typography and structural CSS pinned in the rendered ``<style>``.
+"""CSS typography and structural CSS pinned in the shared stylesheet.
 
 These tests pin the typography and stroke-floor decisions that the HTML/CSS
 rewrite relies on, so a future edit can't silently undo them:
@@ -32,8 +32,12 @@ _mod = _il.module_from_spec(_spec)
 _spec.loader.exec_module(_mod)
 _build_html = _mod._build_html
 _diagram_blocks = _mod._diagram_blocks
+shared_css = _mod.shared_css
 TITLE_TEXT = _mod.TITLE_TEXT
 DESC_TEXT = _mod.DESC_TEXT
+
+# All diagram CSS now lives in the extension's shared stylesheet.
+CSS = shared_css()
 
 
 @pytest.fixture
@@ -69,47 +73,48 @@ def _rule(block: str, selector_suffix: str) -> str | None:
 
 # --- text-box-trim (uppercase classes only) ----------------------------
 
-def test_type_has_text_box_edge_and_trim(block: str):
-    body = _rule(block, ".type")
+def test_type_has_text_box_edge_and_trim():
+    body = _rule(CSS, ".type")
     assert body is not None, "no .type rule found"
     assert "text-box-edge: cap alphabetic" in body, body
     assert "text-box-trim: trim-both" in body, body
 
 
-def test_purpose_has_text_box_edge_and_trim(block: str):
-    body = _rule(block, ".purpose")
+def test_purpose_has_text_box_edge_and_trim():
+    body = _rule(CSS, ".purpose")
     assert body is not None, "no .purpose rule found"
     assert "text-box-edge: cap alphabetic" in body, body
     assert "text-box-trim: trim-both" in body, body
 
 
-def test_axis_does_not_have_text_box_trim(block: str):
-    body = _rule(block, ".axis")
+def test_axis_does_not_have_text_box_trim():
+    body = _rule(CSS, ".axis")
     assert body is not None, "no .axis rule found"
     assert "text-box-trim" not in body, body
     assert "text-box-edge" not in body, body
 
 
-def test_need_does_not_have_text_box_trim(block: str):
-    body = _rule(block, ".need")
+def test_need_does_not_have_text_box_trim():
+    body = _rule(CSS, ".need")
     assert body is not None, "no .need rule found"
     assert "text-box-trim" not in body, body
     assert "text-box-edge" not in body, body
 
 
-def test_type_and_purpose_are_uppercase(block: str):
+def test_type_and_purpose_are_uppercase():
     for cls in (".type", ".purpose"):
-        body = _rule(block, cls)
+        body = _rule(CSS, cls)
         assert body is not None, f"no {cls} rule found"
         assert "text-transform: uppercase" in body, (cls, body)
 
 
 # --- line-height reset -------------------------------------------------
 
-def test_diagram_container_has_line_height_one(block: str):
-    # The container rule is #<id> { ... line-height: 1; ... }
-    m = re.search(r"#diataxis-diagram-\d+\s*\{([^}]*)\}", block, re.DOTALL)
-    assert m, "no #id container rule found"
+def test_diagram_container_has_line_height_one():
+    # The container rule is .diataxis-diagram .diagram-root { ... }.
+    m = re.search(r"\.diataxis-diagram \.diagram-root\s*\{([^}]*)\}", CSS,
+                  re.DOTALL)
+    assert m, "no .diagram-root container rule found"
     assert "line-height: 1" in m.group(1), m.group(1)
 
 
@@ -138,8 +143,8 @@ def test_font_size_var_is_cqw(block: str, var_name: str):
     assert m, f"{var_name} not a cqw value:\n{block[:500]}"
 
 
-def test_font_size_consumed_via_var(block: str):
-    # The scoped <style> must reference the CSS vars (not hardcode px).
+def test_font_size_consumed_via_var():
+    # The shared stylesheet must reference the CSS vars (not hardcode px).
     for var in ("--type-font", "--purpose-font", "--axis-font"):
-        assert f"font-size: var({var})" in block, \
-            f"no 'font-size: var({var})' in <style>:\n{block[:500]}"
+        assert f"font-size: var({var})" in CSS, \
+            f"no 'font-size: var({var})' in stylesheet:\n{CSS[:500]}"

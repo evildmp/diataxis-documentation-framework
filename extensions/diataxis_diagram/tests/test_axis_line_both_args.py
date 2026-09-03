@@ -1,6 +1,6 @@
 """The ``-both`` suffix on directive args renders axis lines always visible.
 
-The positional directive args (``x-axis`` / ``y-axis`` / ``axes``) gate the
+The directive args (``x-axis`` / ``y-axis`` / ``axes``) gate the
 axis-line ``<div>``s. Each may carry an ``-alt`` suffix (hover-revealed; see
 ``test_axis_line_alt_args``) or a ``-both`` suffix (always visible, plain — no
 swap classes). The suffix is stripped to get the base arg (which still drives

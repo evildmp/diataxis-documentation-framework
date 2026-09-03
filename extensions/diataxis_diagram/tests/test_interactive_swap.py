@@ -35,6 +35,7 @@ _mod = _il.module_from_spec(_spec)
 _spec.loader.exec_module(_mod)
 _build_html = _mod._build_html
 _diagram_blocks = _mod._diagram_blocks
+shared_css = _mod.shared_css
 TITLE_TEXT = _mod.TITLE_TEXT
 DESC_TEXT = _mod.DESC_TEXT
 
@@ -63,15 +64,15 @@ def swap_block(tmp_path: Path) -> str:
 
 # --- :focus-visible, not :focus-within ---------------------------------
 
-def test_focus_visible_present_on_label_swappable_rule(swap_block: str):
-    # Template L339-342: hover/focus-visible hides the default.
-    assert re.search(r":focus-visible\s+\.label-swappable", swap_block), \
+def test_focus_visible_present_on_label_swappable_rule():
+    # hover/focus-visible hides the default.
+    assert re.search(r":focus-visible\s+\.label-swappable", shared_css()), \
         "no :focus-visible .label-swappable rule found"
 
 
-def test_focus_visible_present_on_label_alt_rule(swap_block: str):
-    # Template L343-346: hover/focus-visible shows the alt.
-    assert re.search(r":focus-visible\s+\.label-alt", swap_block), \
+def test_focus_visible_present_on_label_alt_rule():
+    # hover/focus-visible shows the alt.
+    assert re.search(r":focus-visible\s+\.label-alt", shared_css()), \
         "no :focus-visible .label-alt rule found"
 
 
@@ -84,18 +85,16 @@ def test_focus_within_absent_from_rendered_html(swap_block: str):
 
 # --- Transitions -------------------------------------------------------
 
-def test_label_alt_has_opacity_transition(swap_block: str):
-    # Template L331-334.
+def test_label_alt_has_opacity_transition():
     m = re.search(r"\.label-alt\s*\{[^}]*transition:\s*opacity\s+1s\s+ease",
-                  swap_block)
-    assert m, f"no 'transition: opacity 1s ease' on .label-alt:\n{swap_block[:600]}"
+                  shared_css())
+    assert m, f"no 'transition: opacity 1s ease' on .label-alt:\n{shared_css()[:600]}"
 
 
-def test_label_swappable_has_opacity_transition(swap_block: str):
-    # Template L336-337.
+def test_label_swappable_has_opacity_transition():
     m = re.search(r"\.label-swappable\s*\{[^}]*transition:\s*opacity\s+1s\s+ease",
-                  swap_block)
-    assert m, f"no 'transition: opacity 1s ease' on .label-swappable:\n{swap_block[:600]}"
+                  shared_css())
+    assert m, f"no 'transition: opacity 1s ease' on .label-swappable:\n{shared_css()[:600]}"
 
 
 # --- tabindex ----------------------------------------------------------

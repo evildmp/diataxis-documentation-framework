@@ -1,19 +1,21 @@
-"""Per-instance CSS scoping: every selector is namespaced to its diagram id.
+"""Shared-stylesheet architecture: no per-instance CSS, instance-scoped vars.
 
-An inline ``<style>`` applies document-wide, so when several diagrams appear
-on one page the last diagram's rules would clobber every earlier one's
-(last-declaration-wins at equal specificity). The extension mints a
-monotonic ``diagram_id`` per instance and prefixes **every** selector with
-``#<diagram_id>``, and namespaces the ``@keyframes`` name too.
+Styling lives in one shared stylesheet, ``static/diataxis-diagram.css``,
+registered by ``setup()`` and scoped under the ``.diataxis-diagram`` class.
+Per-instance variation comes from CSS custom properties set inline on each
+diagram's ``.diagram-root`` element; the instance id is still minted and
+carried on the root ``<div>`` but never appears in selectors.
 
 These tests pin:
 
 * two diagrams on one page get distinct ``id`` attributes;
-* the scoped ``<style>`` block contains no surviving Jinja2 placeholders
+* rendered diagram blocks contain no surviving Jinja2 placeholders
   (``{{`` / ``}}``);
-* every selector in the block is prefixed with the diagram's ``#id``
-  (no bare ``.class`` rules that would leak document-wide);
-* the ``@keyframes`` name is namespaced to the diagram id.
+* no per-instance ``<style>`` block is emitted;
+* each diagram's custom properties are instance-scoped via the inline
+  ``style`` attribute on its ``.diagram-root`` element;
+* the shared stylesheet has no instance-specific selectors (no ``#id``)
+  and one shared ``@keyframes`` name.
 """
 
 from __future__ import annotations
@@ -34,10 +36,12 @@ _diagram_blocks = _mod._diagram_blocks
 TITLE_TEXT = _mod.TITLE_TEXT
 DESC_TEXT = _mod.DESC_TEXT
 
+EXTENSION_DIR = Path(__file__).resolve().parent.parent
+SHARED_CSS = EXTENSION_DIR / "static" / "diataxis-diagram.css"
+
 
 def _two_diagram_rst() -> str:
-    """Two diagrams on one page (one with an -alt, so its cue keyframes
-    exist; one without, so they don't collide)."""
+    """Two diagrams on one page (one with an -alt, exercising the swap)."""
     return (
         "Welcome\n=======\n\n"
         "..  diataxis-diagram::\n"
@@ -53,12 +57,6 @@ def _two_diagram_rst() -> str:
         "\n"
         '   :name-top-left: "Second"\n'
     )
-
-
-def _style_block(block: str) -> str:
-    m = re.search(r"<style>(.*?)</style>", block, re.DOTALL)
-    assert m, f"no <style> block found:\n{block[:300]}"
-    return m.group(1)
 
 
 def _diagram_id(block: str) -> str:
@@ -90,83 +88,59 @@ def test_no_placeholders_survive_in_single_diagram(tmp_path: Path):
         assert "}}" not in block, f"diagram {i} has surviving '}}'"
 
 
-# --- All selectors prefixed with #id -----------------------------------
+# --- No per-instance <style> block -------------------------------------
 
-def test_every_selector_is_scoped_to_diagram_id(tmp_path: Path):
+def test_no_per_instance_style_block(tmp_path: Path):
     out = _build_html(tmp_path, _two_diagram_rst())
     blocks = _diagram_blocks((out / "index.html").read_text(encoding="utf-8"))
-    for block in blocks:
+    for i, block in enumerate(blocks):
+        assert "<style" not in block, \
+            f"diagram {i} emits a per-instance <style> block:\n{block[:300]}"
+
+
+# --- Custom properties instance-scoped via inline style ----------------
+
+def test_custom_properties_are_instance_scoped(tmp_path: Path):
+    out = _build_html(tmp_path, _two_diagram_rst())
+    blocks = _diagram_blocks((out / "index.html").read_text(encoding="utf-8"))
+    for i, block in enumerate(blocks):
         did = _diagram_id(block)
-        style = _style_block(block)
-        # Find every rule (selector { ... }). A "rule" here is a line that
-        # ends with { and is not a property declaration (those end with ;).
-        # We check that each selector line either starts with #id or is a
-        # continuation/nested rule (keyframes percentages, etc.).
-        for line in style.split("\n"):
-            stripped = line.strip()
-            # Skip blank lines, comments, declarations (end with ;), and
-            # closing braces.
-            if not stripped or stripped.startswith("/*") or stripped.endswith(";") \
-                    or stripped == "}" or stripped.startswith("0%") \
-                    or stripped.startswith("50%") or stripped.startswith("100%") \
-                    or stripped.endswith("}") and "{" not in stripped:
-                continue
-            # Any line opening a rule block must reference the diagram id.
-            if "{" in stripped:
-                assert did in stripped, \
-                    f"unscoped rule in {did}:\n{stripped}\n---\n{style[:400]}"
+        # The root div carries the id, the diagram-root class, and the
+        # instance's custom properties in one inline style attribute.
+        root = re.search(
+            r'<div id="' + did + r'" class="[^"]*diagram-root[^"]*"[^>]*>',
+            block,
+        )
+        assert root, f"diagram {i}: no .diagram-root div for {did}"
+        assert "style=" in root.group(0), \
+            f"diagram {i}: custom properties not inline on .diagram-root"
+        assert "--grid-cols" in root.group(0), \
+            f"diagram {i}: expected custom properties on .diagram-root"
 
 
-def test_no_bare_class_selectors_leak(tmp_path: Path):
-    """No rule selector should be a bare ``.class`` (without a #id prefix).
+# --- Shared stylesheet: no instance-specific selectors -----------------
 
-    A bare ``.type { ... }`` would apply to every diagram on the page. The
-    extension scopes every selector to ``#<diagram_id>``, so a line like
-    ``.type {`` (with no preceding ``#``) must not appear.
-    """
-    out = _build_html(tmp_path, _two_diagram_rst())
-    blocks = _diagram_blocks((out / "index.html").read_text(encoding="utf-8"))
-    for block in blocks:
-        style = _style_block(block)
-        # A bare class selector opening a rule would be a line like
-        # ".type {" with no "#" on that line. Property declarations also
-        # contain no "{", so filter to rule-opening lines only.
-        for line in style.split("\n"):
-            stripped = line.strip()
-            if "{" not in stripped:
-                continue
-            # Skip @keyframes (it's namespaced, tested below) and its
-            # percentage rules.
-            if stripped.startswith("@") or stripped[0].isdigit() \
-                    or stripped.endswith("%"):
-                continue
-            assert "#" in stripped, \
-                f"bare (unscoped) selector rule:\n{stripped}"
+def test_shared_css_has_no_instance_selectors():
+    css = SHARED_CSS.read_text(encoding="utf-8")
+    # No selector may reference a per-instance id.
+    assert not re.search(r"#diataxis-diagram-\d+", css), \
+        "shared stylesheet references a per-instance id"
+    # Every rule is scoped under .diataxis-diagram (or is @keyframes /
+    # a percentage frame inside it / an @media wrapper — the rules inside
+    # the media block are checked on their own lines).
+    for line in css.split("\n"):
+        stripped = line.strip()
+        if "{" not in stripped:
+            continue
+        if stripped.startswith("@keyframes") or stripped.startswith("@media") \
+                or stripped[0].isdigit() or stripped.endswith("%"):
+            continue
+        assert ".diataxis-diagram" in stripped, \
+            f"unscoped rule in shared stylesheet:\n{stripped}"
 
 
-# --- @keyframes namespacing --------------------------------------------
-
-def test_keyframes_namespaced_per_instance(tmp_path: Path):
-    out = _build_html(tmp_path, _two_diagram_rst())
-    blocks = _diagram_blocks((out / "index.html").read_text(encoding="utf-8"))
-    # Only the first diagram has -alt labels, so only it emits keyframes.
-    block_with_cue = blocks[0]
-    did = _diagram_id(block_with_cue)
-    style = _style_block(block_with_cue)
-    assert f"@keyframes {did}-cue-pulse" in style, \
-        f"no @keyframes {did}-cue-pulse:\n{style[:400]}"
-    # The animation property must reference the namespaced name.
-    assert f"animation: {did}-cue-pulse" in style, style
-
-
-def test_no_bare_keyframes_name(tmp_path: Path):
-    """No un-namespaced ``@keyframes cue-pulse`` (would collide across
-    diagrams)."""
-    out = _build_html(tmp_path, _two_diagram_rst())
-    blocks = _diagram_blocks((out / "index.html").read_text(encoding="utf-8"))
-    for block in blocks:
-        style = _style_block(block)
-        # A bare "cue-pulse" (without a diagram-id prefix) would collide.
-        bare = re.search(r"@keyframes\s+(?!diataxis-diagram-\d+-)cue-pulse",
-                         style)
-        assert bare is None, f"un-namespaced @keyframes found:\n{bare.group(0)}"
+def test_shared_css_has_one_shared_keyframes_name():
+    css = SHARED_CSS.read_text(encoding="utf-8")
+    names = re.findall(r"@keyframes\s+([\w-]+)", css)
+    assert names == ["diataxis-diagram-cue-pulse"], names
+    assert "animation: diataxis-diagram-cue-pulse" in css, css

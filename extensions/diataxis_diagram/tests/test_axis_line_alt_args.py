@@ -1,6 +1,6 @@
 """The ``-alt`` suffix on directive args swaps axis lines on hover.
 
-The positional directive args (``x-axis`` / ``y-axis`` / ``axes``) gate the
+The directive args (``x-axis`` / ``y-axis`` / ``axes``) gate the
 axis-line ``<div>``s. Each may carry an ``-alt`` suffix marking it as the
 hover-revealed variant, mirroring the ``-alt`` label properties (see
 ``test_interactive_swap`` and ``test_label_visibility``). The suffix is
@@ -9,10 +9,11 @@ visibility); the ``-alt`` flag is tracked so the axis line swaps.
 
 Semantics (confirmed by the user):
 
-* ``x-axis`` (no ``-alt``): the default axis line, visible unhovered. When any
-  axis-line ``-alt`` arg is present anywhere in the directive, the default line
-  gains ``label-swappable`` and fades out on hover (so the alt lines take its
-  place).
+* ``x-axis`` (no ``-alt``): the default axis line, visible unhovered. When the
+  hover state is enabled (any ``-alt`` anywhere in the directive — axis-line
+  arg, label, or effect), the default line gains ``label-swappable`` and fades
+  out on hover (so the alt lines take its place, or nothing does — strict
+  fade-out).
 * ``x-axis-alt``: the alt axis line, rendered with ``label-alt`` (hidden
   unhovered, revealed on hover).
 * ``x-axis y-axis-alt``: unhovered → only x visible; hovered → only y visible
@@ -23,13 +24,12 @@ Semantics (confirmed by the user):
   hover).
 * ``-alt`` is accepted on any arg syntactically, but only ``x-axis`` / ``y-axis``
   / ``axes`` gate a swappable element (an axis line). A ``-alt`` on a quadrant
-  arg (e.g. ``top-left-alt``) or a no-op category arg (``axis-labels-alt`` /
-  ``type-alt`` / ``purpose-alt``) is a no-op — the base arg applies normally
+  arg (e.g. ``top-left-alt``) is a no-op — the base arg applies normally
   and no swap is wired.
 
-The advert cue (see ``test_advert_cue``) also fires when any axis-line ``-alt``
-arg is present (in addition to the existing label-alt trigger), since the cue
-signals "this diagram has a hover interaction".
+The advert cue (see ``test_advert_cue``) fires on any ``-alt`` (axis-line arg,
+label, or effect), since the cue signals "this diagram has a hover
+interaction".
 
 These tests pin the rendered axis-line structure for each combination so the
 swap wiring can't silently regress.

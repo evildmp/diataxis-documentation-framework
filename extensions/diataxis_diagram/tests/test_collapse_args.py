@@ -1,7 +1,7 @@
-"""The ``collapse`` / ``collapse-alt`` / ``collapse-both`` positional args
+"""The ``collapse`` / ``collapse-alt`` / ``collapse-both`` directive args
 collapse the slots.
 
-A flag-style positional arg (present/absent, like ``axes`` and ``blur``): when
+A flag-style directive arg (present/absent, like ``axes`` and ``blur``): when
 present, each of the 12 quadrant content slots (type / purpose / need × 4
 quadrants — **not** the axis labels, which sit on the axes) is transformed
 with two randomised effects drawn once per slot at build time, more dramatic
@@ -35,9 +35,10 @@ Suffix semantics (mirroring ``blur`` / ``x-axis``, confirmed by the user):
   ``label-swappable``. Advert cue fires.
 
 Coexistence with ``blur``: both flags may be present on one diagram. They
-draw independently (separate per-slot random values) and compose only at the
-template level — when both target the same span, ``collapse`` wins (it is the
-more dramatic effect), via the template's ``elif`` chain.
+draw independently (separate per-slot random values) and compose only at
+resolve time — when both target the same span, ``collapse`` wins (it is the
+more dramatic effect), via the visitor's ``resolve_transform`` priority
+chain (collapse > blur, with ``-both`` fallbacks last).
 
 The advert cue fires on ``collapse-alt`` (any ``-alt`` does) but not on
 ``collapse`` or ``collapse-both``.

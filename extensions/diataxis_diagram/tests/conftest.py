@@ -206,6 +206,15 @@ def _diagram_blocks(html: str) -> list[str]:
     )
 
 
+_SHARED_CSS_PATH = (Path(__file__).resolve().parent.parent / "static"
+                    / "diataxis-diagram.css")
+
+
+def shared_css() -> str:
+    """The extension's shared stylesheet (all diagram CSS lives there now)."""
+    return _SHARED_CSS_PATH.read_text(encoding="utf-8")
+
+
 @pytest.fixture
 def built_html(tmp_path: Path) -> Path:
     """Build the default 12-label full diagram in HTML; return ``outdir``."""

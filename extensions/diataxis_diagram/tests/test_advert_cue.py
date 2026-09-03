@@ -1,20 +1,24 @@
-"""The advert cue appears iff any ``-alt`` label is supplied.
+"""The advert cue appears iff the hover state is enabled (any ``-alt``).
 
 The pulsing three-dots cue in the diagram's corner is a discoverability hint
 that an interactive swap is available. The template gates it on
-``show_advert`` (``on_html_visit_diataxis_diagram`` L624-627): true iff any
-label name ends in ``-alt`` (quadrant labels) or any half-annotation ``-alt``
-list is non-empty. The cue's ``@keyframes`` name is namespaced with the
-diagram id so multiple diagrams on a page don't collide.
+``show_advert`` (``on_html_visit_diataxis_diagram``): true iff any ``-alt``
+is present anywhere — a label name ending in ``-alt``, a non-empty
+half-annotation ``-alt`` list, an axis-line ``-alt`` arg, or
+``blur-alt``/``collapse-alt``. ``-both`` never fires it. The cue's
+``@keyframes`` name is shared (one global ``diataxis-diagram-cue-pulse`` in
+the extension's stylesheet); the pulse never varies per instance.
 
 These tests pin:
 
-* the cue is absent when no ``-alt`` labels are supplied;
+* the cue is absent when no ``-alt`` is supplied;
 * the cue is present (with its ring + pulse + three dots) when any
   ``-alt`` label is supplied;
-* the ``@keyframes`` name is prefixed with the diagram's id;
-* the cue hides on ``:hover`` / ``:focus-visible`` (consistency with the
-  label-swap rules — see ``test_interactive_swap``).
+* the ``@keyframes`` name is the single shared
+  ``diataxis-diagram-cue-pulse``;
+* the cue stays visible on ``:hover`` / ``:focus-visible`` — it hides only
+  on ``:focus`` inside the touch-only ``@media (hover: none)`` block (see
+  ``test_hover_state_semantics``).
 """
 
 from __future__ import annotations
@@ -34,6 +38,7 @@ _mod = _il.module_from_spec(_spec)
 _spec.loader.exec_module(_mod)
 _build_html = _mod._build_html
 _diagram_blocks = _mod._diagram_blocks
+shared_css = _mod.shared_css
 TITLE_TEXT = _mod.TITLE_TEXT
 DESC_TEXT = _mod.DESC_TEXT
 
@@ -116,29 +121,23 @@ def test_cue_has_ring_pulse_and_three_dots(tmp_path: Path):
 
 # --- Keyframes namespacing ---------------------------------------------
 
-def test_keyframes_name_is_namespaced(tmp_path: Path):
-    block = _build_block(tmp_path, {"name-top-left": "D", "name-top-left-alt": "A"})
-    did = _diagram_id(block)
-    expected = f"@keyframes {did}-cue-pulse"
-    assert expected in block, f"no {expected!r} in block"
+def test_keyframes_name_is_shared():
+    css = shared_css()
+    assert "@keyframes diataxis-diagram-cue-pulse" in css, \
+        "no shared @keyframes diataxis-diagram-cue-pulse"
 
 
-def test_pulse_animation_references_namespaced_keyframes(tmp_path: Path):
-    block = _build_block(tmp_path, {"name-top-left": "D", "name-top-left-alt": "A"})
-    did = _diagram_id(block)
-    expected = f"animation: {did}-cue-pulse"
-    assert expected in block, f"no {expected!r} in block"
+def test_pulse_animation_references_shared_keyframes():
+    css = shared_css()
+    assert "animation: diataxis-diagram-cue-pulse" in css, css
 
 
-def test_keyframes_is_50_50_on_off(tmp_path: Path):
-    block = _build_block(tmp_path, {"name-top-left": "D", "name-top-left-alt": "A"})
-    # Template L381-384: opacity 1 -> 0 -> 1 over 2s ease-in-out infinite.
-    # The keyframes body has nested {} (one per percentage rule), so match
-    # from the @keyframes keyword through to the first opacity:0 and the
-    # last opacity:1 within a reasonable window.
-    m = re.search(r"@keyframes\s+\S+-cue-pulse", block)
-    assert m, f"no @keyframes cue-pulse found:\n{block[:600]}"
-    after = block[m.start():]
+def test_keyframes_is_50_50_on_off():
+    css = shared_css()
+    # Opacity 1 -> 0 -> 1 over 2s ease-in-out infinite.
+    m = re.search(r"@keyframes\s+diataxis-diagram-cue-pulse", css)
+    assert m, f"no @keyframes cue-pulse found:\n{css[:600]}"
+    after = css[m.start():]
     assert "opacity: 1" in after and "opacity: 0" in after, \
         f"keyframes body missing opacity 1/0:\n{after[:300]}"
 

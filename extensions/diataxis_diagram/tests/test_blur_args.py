@@ -1,6 +1,6 @@
-"""The ``blur`` / ``blur-alt`` / ``blur-both`` positional args blur the slots.
+"""The ``blur`` / ``blur-alt`` / ``blur-both`` directive args blur the slots.
 
-A flag-style positional arg (present/absent, like ``axes``): when present, each
+A flag-style directive arg (present/absent, like ``axes``): when present, each
 of the 12 quadrant content slots (type / purpose / need × 4 quadrants — **not**
 the axis labels, which sit on the axes) is transformed with two randomized
 effects drawn once per slot at build time:
