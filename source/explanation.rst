@@ -10,9 +10,16 @@ Explanation
 
 Explanation deepens and broadens the reader's understanding of a subject. It brings clarity, light and context.
 
-..  image:: /images/overview-explanation.png
-    :alt: Explanation - understanding oriented, theoretical knowledge, that serves our study
-    :class: sidebar
+.. rst-class:: sidebar
+
+..  diataxis-diagram:: axes bottom-left
+    :title: Explanation
+    :desc: Explanation describes what is, and serves the development of skill. It is understanding-oriented.
+
+    :name-bottom-left:     Explanation
+    :purpose-bottom-left:  Understanding-oriented
+    :axis-label-bottom:    Describes what is
+    :axis-label-left:      Serves development of skill
 
 The concept of *reflection* is important. Reflection occurs *after* something else, and depends on something else, yet at the same time brings something new - shines a new light - on the subject matter.
 
@@ -30,7 +37,7 @@ The value and place of explanation
 Explanation and understanding
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Explanation  is characterised by its distance from the active concerns of the practitioner. It doesn't have direct implications for what they do, or for their work. This means that it's sometimes seen as being of lesser importance. That's a mistake; it may be less *urgent* than the other three, but it's no less *important*. It's not a luxury. No practitioner of a craft can afford to be without an
+Explanation is characterised by its distance from the active concerns of the practitioner. It doesn't have direct implications for what they do, or for their work. This means that it's sometimes seen as being of lesser importance. That's a mistake; it may be less *urgent* than the other three, but it's no less *important*. It's not a luxury. No practitioner of a craft can afford to be without an
 understanding of that craft, and needs the explanatory material that will help weave it together.
 
 ..  sidebar:: Explanation by any other name
@@ -127,7 +134,7 @@ The language of explanation
 *The reason for x is because historically, y ...*
     Explain.
 *W is better than z, because ...*
-    Offer judgements and even opinions where appropriate..
+    Offer judgements and even opinions where appropriate.
 *An x in system y is analogous to a w in system z. However ...*
      Provide context that helps the reader.
 *Some users prefer w (because z). This can be a good approach, but...*

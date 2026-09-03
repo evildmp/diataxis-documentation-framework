@@ -148,7 +148,7 @@ of *deep quality*.
 
 But: even someone who can't recognise, or fails to understand, those
 characteristics - who cannot say *what* they are - can still recognise very
-well *that* the clothing is excellent, because they find it that **it feels
+well *that* the clothing is excellent, because they find that **it feels
 good to wear**, because it's such that they want to wear it. No expertise is
 required to realise that clothing does or doesn't feel comfortable as you
 move in it, that it fits and moves with you well. *Your body knows it*.

@@ -7,10 +7,24 @@ In Diátaxis, tutorials and how-to guides are strongly distinguished. It’s a d
 the single most common conflation made in software product documentation is that between the *tutorial* and the *how-to
 guide*.
 
-So: what *is* the difference between tutorials and how to-guides? Why does it matter? And why do they get confused?
+So: what *is* the difference between tutorials and how-to guides? Why does it matter? And why do they get confused?
 
 These are all good questions. Let’s start with the last one. *If the distinction is really so important, why isn’t it
 more obvious?*
+
+..  diataxis-diagram:: axes top-left top-right
+    :title: Tutorials and how-to guides
+    :desc: Tutorials and how-to guides both direct action. Tutorials serve the development of skill, but how-to guides serve the application of skill. They are learning-oriented and goal-oriented respectively.
+
+    :name-top-left:        Tutorials
+    :name-top-right:       How-to guides
+
+    :purpose-top-left:     Learning-oriented
+    :purpose-top-right:    Goal-oriented
+
+    :axis-label-top:       Directs action
+    :axis-label-left:      Serves development of skill
+    :axis-label-right:     Serves application of skill
 
 
 What they have in common
@@ -47,8 +61,7 @@ At study and at work
 We can consider this from the perspective of an actual example. Let’s say you’re in medicine: a doctor, someone who
 needs to acquire and apply the practical, clinical skills of their craft.
 
-As a doctor, sometimes you will be in work situations, *applying your skills*, and sometimes you will be in study
-situations, *acquiring skills* (all good doctors, even those with long careers behind them, continue to study to
+As a doctor, sometimes you will be in work situations, *applying your skills*, and sometimes you will be in study situations, *developing skills* (all good doctors, even those with long careers behind them, continue to study to
 improve their skills).
 
 At study
@@ -300,7 +313,7 @@ a real-world procedure would be a literally deadly document. It would kill peopl
 In disciplines such as software documentation, we get away with a great deal, because our conflations and mistakes
 rarely kill anyone. However, we can cause a great deal of low-level inconvenience and unhappiness to our users, and we
 add to it, every single time we publish a tutorial or how-to guide that doesn’t understand whether its purpose is to
-help the user in their study - the acquisition of skills - or in their work - the application of skills.
+help the user in their study - the development of skills - or in their work - the application of skills.
 
 What’s more, we hurt ourselves too. Users don’t have to use our product. If our documentation doesn’t bring them to
 success - if it doesn’t meet the needs that they have at a particular stage in their cycle of interaction with our

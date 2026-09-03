@@ -188,7 +188,7 @@ class NewsItemDirective(Directive):
             format="html",
         )
         open_aside = nodes.raw(
-            "", '<div class="news-item-aside">', format="html"
+            "", '<div class="sidebar-block">', format="html"
         )
         heading_html = (
             f'<h2>{safe_title}'
@@ -406,7 +406,11 @@ def on_html_page_context(app, pagename, templatename, context, doctree):
 def on_build_finished(app, exception):
     if exception is not None:
         return
-    if app.builder.format != "html":
+    # The feed is an HTML artifact; only HTML builders expose the
+    # ``docwriter`` we render fragments with. Other builders (notably
+    # ``MessageCatalogBuilder`` from ``make gettext``) don't, and would
+    # raise ``'MessageCatalogBuilder' object has no attribute 'docwriter'``.
+    if getattr(app.builder, "format", None) != "html":
         return
     build_feed(app)
 

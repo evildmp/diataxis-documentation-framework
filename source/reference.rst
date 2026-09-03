@@ -10,18 +10,25 @@ Reference
 Reference material contains *propositional or theoretical* knowledge that a user looks to in their *work*.
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
-way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
+way. Whereas the content of tutorials and how-to guides is led by the needs of the user, reference
 material is led by the product it describes.
 
-..  image:: /images/overview-reference.png
-    :alt: Reference - information oriented, theoretical knowledge, that serves our work
-    :class: sidebar
+..  rst-class:: sidebar
+
+..  diataxis-diagram:: axes bottom-right
+    :title: Reference
+    :desc: Reference describes what is, and serves the application of skill. It is information-oriented.
+
+    :name-bottom-right:    Reference
+    :purpose-bottom-right: Information-oriented
+    :axis-label-bottom:    Describes what is
+    :axis-label-right:     Serves application of skill
 
 In the case of software, reference guides describe the software itself - APIs, classes, functions
 and so on - and how to use them.
 
 Your users need reference material because they need truth and certainty - firm platforms on which to stand while
-they work. Good technical reference is essential to provide users with the confidence to do their work.
+they apply their skill. Good technical reference is essential to provide users with the confidence to do their work.
 
 -----------
 
@@ -58,7 +65,7 @@ Key principles
 Describe and only describe
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-*Neutral description* is the key imperative of technical reference. 
+*Neutral description* is the key imperative of technical reference.
 
 ..  sidebar:: Style and form
 
@@ -117,9 +124,9 @@ You must use a. You must not apply b unless c. Never d.
 Applied to food and cooking
 ---------------------------
 
-You might check the information on a packet of food, in order to help you make a decision about what to do. 
+You might check the information on a packet of food, in order to help you make a decision about what to do.
 
-When you're looking for information - relevant facts - you do not want to be confronted by opinions, speculation, instructions or interpretation. 
+When you're looking for information - relevant facts - you do not want to be confronted by opinions, speculation, instructions or interpretation.
 
 ..  image:: /images/lasagne.jpg
     :alt: Information on the back of a packet of lasagne
@@ -128,9 +135,8 @@ When you're looking for information - relevant facts - you do not want to be con
 
 You also expect that information to be presented in standard ways, so that you - when you need to know about something's nutritional properties, how it should be stored, its ingredients, what health implications it might have - can find them quickly, and know you can rely on them.
 
-So you expect to see for example: *May contain traces of wheat*. Or: *Net weight: 1000g*. 
+So you expect to see for example: *May contain traces of wheat*. Or: *Net weight: 1000g*.
 
-You will certainly not expect to find for example recipes or marketing claims mixed up with this information; that could be literally dangerous. 
+You will certainly not expect to find for example recipes or marketing claims mixed up with this information; that could be literally dangerous.
 
 The way reference material is presented on food products is so important that it's usually governed by law, and the same kind of seriousness should apply to all reference documentation.
-

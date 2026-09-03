@@ -59,7 +59,7 @@ Just do something
 -------------------
 
 If you're tidying up a huge mess, the temptation is to tear it all down and start again. Again, avoid it. As far as
-improving documentation in-line with Diátaxis goes, it isn't necessary to seek out things to improve. Instead, the best
+improving documentation in line with Diátaxis goes, it isn't necessary to seek out things to improve. Instead, the best
 way to apply Diátaxis is as follows:
 
 **Choose something** - any piece of the documentation. If you don’t already have something that you know you want to

@@ -1,0 +1,62 @@
+<div class="diataxis-diagram {{ user_classes }}">
+  <div id="{{ diagram_id }}" class="diagram-root diagram--{{ variant }} diagram--{{ y_axis_mode }}{% if axis_high %} diagram--axis-high{% endif %}{% if axis_low %} diagram--axis-low{% endif %}" tabindex="0" role="img" aria-label="{{ title }} {{ desc }}" style="--grid-cols: {{ grid_cols }}; --grid-rows: {{ grid_rows }}; --aspect-ratio: {{ aspect_ratio }};
+            --axis-x-pos: {{ axis_x_pos }}; --axis-y-pos: {{ axis_y_pos }};
+            --central-row: {{ central_row }};
+            --type-x-pct: {{ type_x_pct }}; --type-y-pct: {{ type_y_pct }};
+            --purpose-x-pct: {{ purpose_x_pct }}; --axis-x-label-pct: {{ axis_x_label_pct }}; --axis-y-label-pct: {{ axis_y_label_pct }};
+            --type-font: {{ type_font }}; --purpose-font: {{ purpose_font }};
+            --axis-font: {{ axis_font }}; --need-font: {{ need_font }};
+            --annotation-font: {{ annotation_font }};
+            --axis-stroke: {{ axis_stroke }};
+            --guide-v-left: {{ guide_v_left }}; --guide-v-right: {{ guide_v_right }};
+            --guide-h-top: {{ guide_h_top }}; --guide-h-bottom: {{ guide_h_bottom }};
+            --guide-stroke: {{ guide_stroke }};
+            --annotation-left-x: {{ annotation_left_x }}; --annotation-right-x: {{ annotation_right_x }};
+            --annotation-top-y: {{ annotation_top_y }}; --annotation-bottom-y: {{ annotation_bottom_y }};
+            --cue-size: {{ cue_size }}; --cue-border: {{ cue_border }};
+            --cue-dot: {{ cue_dot }}; --cue-inset: {{ cue_inset }};
+            --purpose-ls: {{ purpose_ls }};">
+{% if guides %}  <div class="guide-line guide-top"></div>
+  <div class="guide-line guide-right"></div>
+  <div class="guide-line guide-bottom"></div>
+  <div class="guide-line guide-left"></div>
+  <div class="guide-line guide-v-left"></div>
+  <div class="guide-line guide-v-right"></div>
+  <div class="guide-line guide-h-top"></div>
+  <div class="guide-line guide-h-bottom"></div>
+{% endif %}
+{% if show_x_axis %}  <div class="axis-line x-axis{% if x_axis_swappable %} label-swappable{% endif %}"></div>{% endif %}
+{% if show_x_axis_alt %}  <div class="axis-line x-axis label-alt"></div>{% endif %}
+{% if show_x_axis_both %}  <div class="axis-line x-axis"></div>{% endif %}
+{% if show_y_axis %}  <div class="axis-line y-axis{% if y_axis_swappable %} label-swappable{% endif %}"></div>{% endif %}
+{% if show_y_axis_alt %}  <div class="axis-line y-axis label-alt"></div>{% endif %}
+{% if show_y_axis_both %}  <div class="axis-line y-axis"></div>{% endif %}
+{% if show_axis_label_top %}  <div class="slot axis-label-top">
+{% if axis_label_top %}<span class="axis{% if label_swap_active %} label-swappable{% endif %}">{{ axis_label_top }}</span>{% endif %}{% if axis_label_top_alt %}<span class="axis label-alt">{{ axis_label_top_alt }}</span>{% endif %}{% if axis_label_top_both %}<span class="axis">{{ axis_label_top_both }}</span>{% endif %}
+  </div>
+{% endif %}
+{% if show_axis_label_bottom %}  <div class="slot axis-label-bottom">
+{% if axis_label_bottom %}<span class="axis{% if label_swap_active %} label-swappable{% endif %}">{{ axis_label_bottom }}</span>{% endif %}{% if axis_label_bottom_alt %}<span class="axis label-alt">{{ axis_label_bottom_alt }}</span>{% endif %}{% if axis_label_bottom_both %}<span class="axis">{{ axis_label_bottom_both }}</span>{% endif %}
+  </div>
+{% endif %}
+{% if show_axis_label_left %}  <div class="slot axis-label-left">
+{% if axis_label_left %}<span class="axis{% if label_swap_active %} label-swappable{% endif %}">{{ axis_label_left }}</span>{% endif %}{% if axis_label_left_alt %}<span class="axis label-alt">{{ axis_label_left_alt }}</span>{% endif %}{% if axis_label_left_both %}<span class="axis">{{ axis_label_left_both }}</span>{% endif %}
+  </div>
+{% endif %}
+{% if show_axis_label_right %}  <div class="slot axis-label-right">
+{% if axis_label_right %}<span class="axis{% if label_swap_active %} label-swappable{% endif %}">{{ axis_label_right }}</span>{% endif %}{% if axis_label_right_alt %}<span class="axis label-alt">{{ axis_label_right_alt }}</span>{% endif %}{% if axis_label_right_both %}<span class="axis">{{ axis_label_right_both }}</span>{% endif %}
+  </div>
+{% endif %}
+{% macro content_slot(slot) %}
+  <div class="slot {{ slot.css }} {{ slot.css }}-{{ slot.quadrant }}">
+{% if slot.labels.default %}<span class="{{ slot.css }}{% if label_swap_active %} label-swappable{% endif %}"{% if slot.default_transform %} style="transform: {{ slot.default_transform }}"{% endif %}>{{ slot.labels.default }}</span>{% endif %}{% if slot.labels.alt %}<span class="{{ slot.css }} label-alt"{% if slot.alt_transform %} style="transform: {{ slot.alt_transform }}"{% endif %}>{{ slot.labels.alt }}</span>{% endif %}{% if slot.labels.both %}<span class="{{ slot.css }}"{% if slot.both_transform %} style="transform: {{ slot.both_transform }}"{% endif %}>{{ slot.labels.both }}</span>{% endif %}
+  </div>
+{% endmacro -%}
+{% for slot in content_slots %}{% if slot.show %}{{ content_slot(slot) }}{% endif %}{% endfor %}
+{% for block in annotation_blocks %}{% if block.lines %}  <div class="annotation-block annotation-{{ block.side }}-half{% if block.suffix == "_alt" %} label-alt{% elif label_swap_active and not block.suffix %} label-swappable{% endif %}" style="{{ block.position }}">{% for line in block.lines %}<span class="annotation-line">{{ line }}</span>{% endfor %}</div>{% endif %}{% endfor %}
+{% if show_advert %}  <div class="advert-cue">
+    <div class="cue-ring"></div>
+    <div class="cue-pulse"><i></i><i></i><i></i></div>
+  </div>{% endif %}
+  </div>
+</div>

@@ -48,7 +48,7 @@ How-to guides
 
 **A how-to guide addresses a real-world goal or problem**, by providing practical directions to help the user who is in that situation.
 
-A how-to guide always addresses an already-competent user, who is expected to be able to use the guide to help them get their work done. In contrast to a tutorial, a how-to guide is concerned with *work* rather than *study*.
+A how-to guide always addresses an already-competent user, who is expected to be able to use the guide to help them get their work done. In contrast to a tutorial, a how-to guide is concerned with the development of skill rather than its application – with *work* rather than *study*.
 
 A how-to guide might be: *How to store cellulose nitrate film* (in motion picture photography) or *How to configure frame profiling* (in software). Or even: *Troubleshooting deployment problems*.
 
@@ -60,9 +60,9 @@ Reference
 
     * :ref:`Reference in more detail <reference>`
 
-**Reference guides contain the technical description** - facts - that a user needs in order to do things correctly: accurate, complete, reliable information, free of distraction and interpretation. They contain *propositional or theoretical knowledge*, not guides to action.
+**Reference guides contain the technical description** - facts - that a user needs in order to do things correctly: accurate, complete, reliable information, free of distraction and interpretation. They describe *what is the case*. They contain propositional or theoretical knowledge, not guides to action.
 
-Like a how-to guide, reference documentation serves the user who is at *work*, and it's up to the user to be sufficiently competent to interpret and use it correctly.
+Like a how-to guide, reference documentation serves the user who is *applying skill*, and it's up to the user to be sufficiently competent to interpret and use it correctly.
 
 *Reference material is neutral.* It is not concerned with what the user is doing. A marine chart could be used by a ship's navigator to plot a course, but equally well by an investigating judge.
 
@@ -82,7 +82,7 @@ Explanation
 
 Explanation often needs to circle around its subject, and approach it from different directions. It can contain opinions and take perspectives.
 
-Like reference, explanation belongs to the realm of propositional knowledge rather than action. However its purpose is to serve the user's study - as tutorials do - and not their work.
+Like reference, explanation belongs to the realm of propositional knowledge rather than action. However its purpose is to serve the user's study or development of skill - as tutorials do - and not their work.
 
 Often, writers of tutorials who are anxious that their students should *know* things overload their tutorials with distracting and unhelpful explanation. It would be much more useful to give the learner the most minimal explanation ("Here, we use HTTPS because it's safer") and then link to an in-depth article (*Secure communication using HTTPS encryption*) for when the user is ready for it.
 
@@ -102,8 +102,7 @@ Diátaxis is not just a list of four different things, but a conceptual arrangem
 
 Crossing or blurring the boundaries described in the map is at the heart of a vast number of problems in documentation.
 
-.. image:: /images/diataxis.png
-   :alt: Diátaxis
+..  include:: /snippets/diagram.rst
 
 
 -----------
@@ -114,14 +113,14 @@ The Diátaxis compass
 As you can see from the map:
 
 * tutorials and how-to guides are concerned with what the user *does* (**action**)
-* reference and explanation are about what the user *knows* (**cognition**)
+* reference and explanation are about what the user *knows* (**what is the case**)
 
 On the other hand:
 
-* tutorials and explanation serve the *acquisition* of skill (the user's **study**)
-* how-to guides and reference serve the *application* of skill (the user's **work**)
+* tutorials and explanation serve *study* (the user's **development** of skill)
+* how-to guides and reference serve *work* (the user's **application** of skill)
 
-But a map doesn't tell you what to *do* - it's reference. To guide your action you need a different sort of tool, in this case, a kind of Diátaxis compass.
+But a map doesn't tell you what to *do* - it's reference. To guide *your* action you need a different sort of tool, in this case, a kind of Diátaxis compass.
 
 ..  sidebar::
 
@@ -135,28 +134,7 @@ When looking at documentation, it helps understand what's going on in it, and ma
 
 The compass is not nearly as eye-catching as the map, but when you're at work puzzling over a documentation problem it's what will help you move forward.
 
-.. list-table::
-   :widths: 33 33 34
-   :header-rows: 1
-   :stub-columns: 0
-   :class: wider
-
-   * - If the content...
-     - ...and serves the user's...
-     - ...then it must belong to...
-   * - informs action
-     - acquisition of skill
-     - a tutorial
-   * - informs action
-     - application of skill
-     - a how-to guide
-   * - informs cognition
-     - application of skill
-     - reference
-   * - informs cognition
-     - acquisition of skill
-     - explanation
-
+..  include:: /snippets/compass.rst
 
 
 -----------

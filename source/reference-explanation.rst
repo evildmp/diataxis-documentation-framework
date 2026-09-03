@@ -7,8 +7,20 @@ Explanation and reference both belong to the *theory* half of the Diátaxis map 
 steps to guide the reader, they contain theoretical knowledge.
 
 The difference between them is - just as in the difference between tutorials and how-to guides - the
-difference between the *acquisition* of skill and knowledge, and its *application*. In other words
+difference between the *development* of skill and knowledge, and its *application*. In other words
 it's the distinction between *study* and *work*.
+
+..  diataxis-diagram:: axes bottom-right bottom-left
+    :title: Reference and explanation
+    :desc: Reference and explanation both describe what is. Reference serves the application of skill, but explanation serves the development of skill. They are information-oriented and understanding-oriented respectively.
+
+    :name-bottom-right:    Reference
+    :name-bottom-left:     Explanation
+    :purpose-bottom-right: Information-oriented
+    :purpose-bottom-left:  Understanding-oriented
+    :axis-label-bottom:    Describes what is
+    :axis-label-left:      Serves development of skill
+    :axis-label-right:     Serves application of skill
 
 
 A straightforward distinction, *mostly*
@@ -39,7 +51,7 @@ most likely going to be an *explanation* of it.
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Mostly we can rely safely on intuition to manage the distinction between
-reference and explanations. But only *mostly* - because it's also quite easy
+reference and explanation. But only *mostly* - because it's also quite easy
 to slip between one form and the other.
 
 It usually happens while writing reference material that starts to become expansive. For example,
@@ -68,10 +80,10 @@ the reader stands in relation to the craft in question, in a relationship of *wo
 
 	To help avoid being misled by intuition, see :ref:`compass`.
 
-**Reference** is what a user needs in order help *apply* knowledge and skill, while they
+**Reference** is what a user needs in order to help *apply* knowledge and skill, while they
 are working.
 
-**Explanation** is what someone will turn to to help them *acquire* knowledge
+**Explanation** is what someone will turn to to help them *develop* knowledge
 and skill - "study".
 
 

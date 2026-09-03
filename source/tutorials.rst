@@ -9,11 +9,18 @@ Tutorials
 
 A tutorial is a *practical activity*, in which the student learns by doing something meaningful, towards some achievable goal.
 
-A tutorial serves the user's *acquisition* of skills and knowledge - their study. Its purpose is not to help the user get something done, but to help them learn.
+A tutorial serves the user's *development* of skills and knowledge - their study. Its purpose is not to help the user get something done, but to help them learn.
 
-..  image:: /images/overview-tutorials.png
-    :alt: Tutorials - learning-oriented guides that describe practical steps and are intended to serve our study.
-    :class: sidebar
+.. rst-class:: sidebar
+
+..  diataxis-diagram:: axes top-left
+    :title: Tutorials
+    :desc: Tutorials direct action, and serve the development of skill. They are learning-oriented.
+
+    :name-top-left:        Tutorials
+    :purpose-top-left:     Learning-oriented
+    :axis-label-top:       Directs action
+    :axis-label-left:      Serves development of skill
 
 A tutorial in other words is a lesson.
 
@@ -86,7 +93,7 @@ Still, there are straightforward, effective ways to address the problems of peda
     * choices
     * information
 
-The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give into it and try to teach by telling and explaining, you will jeopardise the learning experience.
+The first rule of teaching is simply: **don't try to teach**. Your job, as a teacher, is to provide the learner with an experience that will allow them to learn. A teacher inevitably feels a kind of anxiety to impart knowledge and understanding, but if you give in to it and try to teach by telling and explaining, you will jeopardise the learning experience.
 
 Instead, *allow learning to take place*, and trust that it will. Give your learner things to *do*, through which they can learn. Only your pupil can learn. Sadly, however much you desire it, you will not be able to learn for your pupil. You cannot make them learn. All you can do is make it so *they* can learn.
 
@@ -124,7 +131,7 @@ It's helpful to prepare the user for possibly surprising actions: "The command w
 Point out what the learner should notice
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Learning requires reflection. This happens at multiple levels and depths, but one of the first is when the learner  observes the signs in their environment. In a lesson, a learner is typically too focused on what they are doing to notice them, unless they are prompted by the teacher.
+Learning requires reflection. This happens at multiple levels and depths, but one of the first is when the learner observes the signs in their environment. In a lesson, a learner is typically too focused on what they are doing to notice them, unless they are prompted by the teacher.
 
 Your job as teacher is to close the loops of learning by pointing things out, in passing, as the lesson moves along. This can be as simple as pointing out how a command line prompt changes, for example.
 

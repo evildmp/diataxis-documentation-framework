@@ -7,13 +7,20 @@ How-to guides
 
 ===========
 
-A how-to guide helps the user get something done, correctly and safely; it guides the user's *action*. 
+A how-to guide helps the user get something done, correctly and safely; it guides the user's *action*.
 
 It's concerned with *work* - navigating from one side to the other of a real-world problem-field.
 
-..  image:: /images/overview-how-to.png
-    :alt: How-to guides - task oriented, practical steps, that serve our work
-    :class: sidebar
+.. rst-class:: sidebar
+
+..  diataxis-diagram:: axes top-right
+    :title: How-to guides
+    :desc: How-to guides direct action, and serve the application of skill. They are goal-oriented.
+
+    :name-top-right:       How-to guides
+    :purpose-top-right:    Goal-oriented
+    :axis-label-top:       Directs action
+    :axis-label-right:     Serves application of skill
 
 Examples could be: *how to calibrate the radar array*; *how to use fixtures in pytest*; *how to configure
 reconnection back-off policies*. On the other hand, *how to build a web application* is not - that's not
@@ -30,34 +37,34 @@ Well-written how-to guides that address the right questions are likely to be the
 How-to guides addressed to problems
 -----------------------------------
 
-**How-to guides must be written from the perspective of the user, not of the machinery.** A how-to guide represents something that someone needs to get done. It's defined in other words by the needs of a user. Every how-to guide should answer to a human project, in other words. It should show what the human needs to do, with the tools at hand, to obtain the result they need. 
+**How-to guides must be written from the perspective of the user, not of the machinery.** A how-to guide represents something that someone needs to get done. It's defined in other words by the needs of a user. Every how-to guide should answer to a human project, in other words. It should show what the human needs to do, with the tools at hand, to obtain the result they need.
 
-This is in strong contrast to common pattern for how-to guides that often prevails, in which how-to guides are defined by operations that can be performed with a tool or system. The problem with this latter pattern is that it offers little value to the user; it is not addressed to any need the user has. Instead, it's focused on the tool, on taking the machinery through its motions.
+This is in strong contrast to the common pattern for how-to guides that often prevails, in which how-to guides are defined by operations that can be performed with a tool or system. The problem with this latter pattern is that it offers little value to the user; it is not addressed to any need the user has. Instead, it's focused on the tool, on taking the machinery through its motions.
 
-This is fundamentally a distinction of *meaningfulness*. Meaning is given by purpose and need. There is no purpose or need in the functionality of a machine. It is merely a series of causes and effects, inputs and outputs. 
+This is fundamentally a distinction of *meaningfulness*. Meaning is given by purpose and need. There is no purpose or need in the functionality of a machine. It is merely a series of causes and effects, inputs and outputs.
 
 Consider:
 
 * "To shut off the flow of water, turn the tap clockwise."
 * "To deploy the desired database configuration, select the appropriate options and press **Deploy**."
 
-..  sidebar:: 
-    
+..  sidebar::
+
     We really do not need to be informed that we turn on a device using the power switch, but it is shocking how often how-to guides in software documentation are written at this level.
 
-The examples above *look* like examples of guidance, but they are not. 
+The examples above *look* like examples of guidance, but they are not.
 
-They represent mostly useless information that anyone with basic competence - anyone who is working in this domain - should be expected to know. Between them, standardised interfaces and generally-expected knowledge should make it quite clear what effect most actions will have. 
+They represent mostly useless information that anyone with basic competence - anyone who is working in this domain - should be expected to know. Between them, standardised interfaces and generally-expected knowledge should make it quite clear what effect most actions will have.
 
 Secondly, they are disconnected from purpose. What the user needs to know might be things like:
 
 * how much water to run, and how vigorously to run it, for a certain purpose
 * what database configuration options align with particular real-world needs
 
-..  sidebar:: 
-    
-    How-to guides are about goals, projects and problems, not about tools. 
-    
+..  sidebar::
+
+    How-to guides are about goals, projects and problems, not about tools.
+
 Tools appear in how-to guides as incidental bit-players, the means to the user's end. Sometimes of course, a particular end is closely aligned with a particular tool or part of the system, and then you will find that a how-to guide indeed concentrates on that. Just as often, a how-to guide will cut across different tools or parts of a system, joining them up together in a series of activities defined by something a human being needs to get done. In either case, it is that project that defines what a how-to guide must cover.
 
 
@@ -69,14 +76,14 @@ What how-to guides are not
 **How-to guides are wholly distinct from tutorials**. They are often confused, but the user needs that they serve are quite different. Conflating them is at the root of many difficulties that afflict documentation. See :ref:`tutorials-how-to` for a discussion of this distinction.
 
 In another confusion, how-to guides are often construed merely as procedural guides. But solving a problem or accomplishing a task cannot always be reduced to a procedure. Real-world problems do not always offer themselves up to linear solutions. The sequences of action in a how-to guide sometimes need to fork and overlap, and they have multiple entry and exit-points. Often, a how-to guide will need the user to rely on their judgement in applying the guidance it can provide.
-    
+
 
 =================
 
 Key principles
 ---------------------------------------
 
-A how to-guide is concerned with work - a task or problem, with a practical goal. *Maintain focus on that goal*. 
+A how-to guide is concerned with work - a task or problem, with a practical goal. *Maintain focus on that goal*.
 
 ..  sidebar:: How-to characteristics
 
@@ -124,15 +131,15 @@ Sometimes the need is more subtle - it might be possible to *perform* two operat
 Seek flow
 ~~~~~~~~~
 
-At all times, try to ground your sequences in the patterns of the *user's* activities and thinking, in such a way that the guide acquires *flow*: smooth progress.  
+At all times, try to ground your sequences in the patterns of the *user's* activities and thinking, in such a way that the guide acquires *flow*: smooth progress.
 
-Achieving flow means successfully understanding the user. Paying attention to sense and meaning in ordering requires paying attention to the way human beings think and act, and the needs of someone following directions. 
+Achieving flow means successfully understanding the user. Paying attention to sense and meaning in ordering requires paying attention to the way human beings think and act, and the needs of someone following directions.
 
 Again, this can be somewhat obvious: a workflow that has the user repeatedly switching between contexts and tools is clearly clumsy and inefficient. But you should look more deeply than this. What are you asking the user to think about, and how will their thinking flow from subject to subject during their work? How long do you require the user to hold thoughts open before they can be resolved in action? If you require the user to jump back to earlier concerns, is this necessary or avoidable?
 
 A how-to guide is concerned not just with logical ordering in time, but action taking place in time. Action, and a guide to it, has pace and rhythm. Badly-judged pace or disrupted rhythm are both damaging to flow.
 
-At its best, how-to documentation gives the user flow. There is a distinct experience of encountering a guide that appears to *anticipate* the user - the documentation equivalent of a helper who has the tool you were about to reach for, ready to place it in your hand. 
+At its best, how-to documentation gives the user flow. There is a distinct experience of encountering a guide that appears to *anticipate* the user - the documentation equivalent of a helper who has the tool you were about to reach for, ready to place it in your hand.
 
 
 Pay attention to naming

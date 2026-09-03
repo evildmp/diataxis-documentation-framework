@@ -24,7 +24,6 @@ In this section
 
 These pages dig deeper into the thinking that underpins Diátaxis.
 
-* :doc:`foundations` - *why* Diátaxis works
 * :doc:`map` - documentation in two dimensions
 * :doc:`quality`
 

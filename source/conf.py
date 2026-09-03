@@ -9,7 +9,7 @@ author = "Daniele Procida"
 
 # -- General configuration ---------------------------------------------------
 
-extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed"]
+extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed", "diataxis_diagram"]
 
 templates_path = ["../_templates"]
 
@@ -21,6 +21,7 @@ exclude_patterns = [
     "LICENSE.rst",
     "README.rst",
     "stashed",
+    "snippets",
 ]
 
 # -- Options for HTML output -------------------------------------------------
@@ -39,7 +40,7 @@ html_theme_options = {
 }
 html_static_path = ["../_static"]
 html_logo = "images/diataxis-white-416.png"
-html_css_files = ["diataxis.css"]
+html_css_files = ["diataxis.css", "skia-font.css"]
 html_js_files = ["language-switcher.js"]
 html_context = {
     "language_switcher": [
@@ -87,7 +88,7 @@ redirects = {
      "colofon": "/colophon",
 }
 
-# Translation settings
+# -- Translation settings ---------------------------------------------------
 
 language = "en"
 locale_dirs = ["../translation"]
@@ -96,6 +97,30 @@ gettext_compact = False
 gettext_uuid = False
 gettext_location = True
 
+diataxis_diagram = {
+    "default": {
+      "font-sizes": {"type": 105, "purpose": 50, "axis": 48, "annotation": 140, "need": 60},
+      "offsets": {
+          "axis-x": 154,
+          "type-purpose-x": 154,
+          "type-x-correction": 0,
+          "axis-y": 120,
+          "purpose-y": 120,
+          "type-y": 260
+      },
+      "y-axis-rotation": "rotated",
+      "guides": {"show": False, "x": 154, "y": 120,}
+    },
+    "en": {},
+    "pl": {"font-sizes": {"type": 57, "purpose": 44, "axis": 44}},
+    # "it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}},
+    # "fr": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}},
+    # "zh_CN": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    # "pt_BR": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    # "ko": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    # "ja": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+
+}
 
 # -- Atom feed configuration ---------------------------------------------------
 

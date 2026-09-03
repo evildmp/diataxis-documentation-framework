@@ -1,0 +1,408 @@
+/* Styles for the diataxis-diagram extension.
+ *
+ * One shared stylesheet for every diagram instance on a page. Instance
+ * variation comes from CSS custom properties set inline on each diagram's
+ * .diagram-root element (see diataxis-diagram-template.html), so no selector
+ * here may reference a per-instance id.
+ */
+
+/* --- Diagram root ------------------------------------------------------- */
+.diataxis-diagram .diagram-root {
+  position: relative;
+  width: 100%;
+  container-type: inline-size;
+  aspect-ratio: var(--aspect-ratio);
+  display: grid;
+  grid-template-columns: var(--grid-cols);
+  grid-template-rows: var(--grid-rows);
+  background: #fff;
+  overflow: hidden;
+  line-height: 1;
+  /* Override Furo's inherited article-wide overflow-wrap: break-word so
+     diagram labels never split a word; .need re-enables breaking below. */
+  overflow-wrap: normal;
+}
+.diataxis-diagram .axis-line {
+  position: absolute;
+  background: #000;
+  pointer-events: none;
+}
+.diataxis-diagram .axis-line.x-axis {
+  left: 0; right: 0;
+  top: var(--axis-y-pos);
+  height: var(--axis-stroke);
+  transform: translateY(-50%);
+}
+.diataxis-diagram .axis-line.y-axis {
+  top: 0; bottom: 0;
+  left: var(--axis-x-pos);
+  width: var(--axis-stroke);
+  transform: translateX(-50%);
+}
+/* --- Guide lines (construction aids, gated by guides) --------------- */
+.diataxis-diagram .guide-line {
+  position: absolute;
+  background: #999;
+  pointer-events: none;
+}
+/* Frame border (4 edges), centred on the container edge. */
+.diataxis-diagram .guide-line.guide-top {
+  left: 0; right: 0; top: 0;
+  height: var(--guide-stroke);
+  transform: translateY(-50%);
+}
+.diataxis-diagram .guide-line.guide-bottom {
+  left: 0; right: 0; bottom: 0;
+  height: var(--guide-stroke);
+  transform: translateY(50%);
+}
+.diataxis-diagram .guide-line.guide-left {
+  top: 0; bottom: 0; left: 0;
+  width: var(--guide-stroke);
+  transform: translateX(-50%);
+}
+.diataxis-diagram .guide-line.guide-right {
+  top: 0; bottom: 0; right: 0;
+  width: var(--guide-stroke);
+  transform: translateX(50%);
+}
+/* Inner cross at the purpose-label edges (+/-purpose-x, +/-purpose-y). */
+.diataxis-diagram .guide-line.guide-v-left {
+  top: 0; bottom: 0;
+  left: var(--guide-v-left);
+  width: var(--guide-stroke);
+  transform: translateX(-50%);
+}
+.diataxis-diagram .guide-line.guide-v-right {
+  top: 0; bottom: 0;
+  left: var(--guide-v-right);
+  width: var(--guide-stroke);
+  transform: translateX(-50%);
+}
+.diataxis-diagram .guide-line.guide-h-top {
+  left: 0; right: 0;
+  top: var(--guide-h-top);
+  height: var(--guide-stroke);
+  transform: translateY(-50%);
+}
+.diataxis-diagram .guide-line.guide-h-bottom {
+  left: 0; right: 0;
+  top: var(--guide-h-bottom);
+  height: var(--guide-stroke);
+  transform: translateY(-50%);
+}
+/* --- Typography -------------------------------------------------------- */
+.diataxis-diagram .axis {
+  font-family: "Skia", sans-serif;
+  font-weight: 500;
+  font-variation-settings: "wght" 1.3, "wdth" 1.0;
+  font-size: var(--axis-font);
+  text-rendering: geometricPrecision;
+  background: #fff;
+  padding: 0.5em;
+  white-space: nowrap;
+}
+.diataxis-diagram .type {
+  font-family: "Skia", sans-serif;
+  font-weight: 230;
+  font-variation-settings: "wght" 0.6, "wdth" 1.0;
+  font-size: var(--type-font);
+  text-transform: uppercase;
+  text-rendering: geometricPrecision;
+  white-space: nowrap;
+  text-box-edge: cap alphabetic;
+  text-box-trim: trim-both;
+}
+.diataxis-diagram .purpose {
+  font-family: "Skia", sans-serif;
+  font-weight: 500;
+  font-variation-settings: "wght" 1.3, "wdth" 1.0;
+  font-size: var(--purpose-font);
+  text-transform: uppercase;
+  text-rendering: geometricPrecision;
+  letter-spacing: var(--purpose-ls);
+  color: #FF9300;
+  white-space: nowrap;
+  text-box-edge: cap alphabetic;
+  text-box-trim: trim-both;
+}
+.diataxis-diagram .need {
+  font-family: "Skia", sans-serif;
+  font-size: var(--need-font);
+  text-rendering: geometricPrecision;
+  max-width: 100%;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+/* Skia's wght axis uses a non-standard multiplier scale (Regular 1.0,
+   Bold 1.95), so CSS font-weight keywords cannot select real weights;
+   strong/em inside labels set the axis directly. */
+.diataxis-diagram strong {
+  font-variation-settings: "wght" 1.95;
+}
+/* Annotation font styling applied via .annotation-block below. */
+/* --- Label slots ------------------------------------------------------ */
+.diataxis-diagram .slot {
+  position: relative;
+}
+/* Type labels — at the inner corner of each quadrant cell, offset from
+   the cell edge by --type-y-pct (toward the centre). */
+.diataxis-diagram .slot.type-top-left      { grid-column: 1; grid-row: 1; }
+.diataxis-diagram .slot.type-top-right     { grid-column: -2 / -1; grid-row: 1; }
+.diataxis-diagram .slot.type-bottom-left   { grid-column: 1; grid-row: -2 / -1; }
+.diataxis-diagram .slot.type-bottom-right  { grid-column: -2 / -1; grid-row: -2 / -1; }
+.diataxis-diagram .slot.type > span {
+  position: absolute;
+}
+.diataxis-diagram .slot.type-top-left > span {
+  right: var(--type-x-pct); bottom: var(--type-y-pct);
+  transform: translateY(50%); text-align: right;
+}
+.diataxis-diagram .slot.type-top-right > span {
+  left: var(--type-x-pct); bottom: var(--type-y-pct);
+  transform: translateY(50%); text-align: left;
+}
+.diataxis-diagram .slot.type-bottom-left > span {
+  right: var(--type-x-pct); top: var(--type-y-pct);
+  transform: translateY(-50%); text-align: right;
+}
+.diataxis-diagram .slot.type-bottom-right > span {
+  left: var(--type-x-pct); top: var(--type-y-pct);
+  transform: translateY(-50%); text-align: left;
+}
+/* Need labels — same corner-anchoring as type, but wrapping is enabled
+   in the .need class above. */
+.diataxis-diagram .slot.need-top-left      { grid-column: 1; grid-row: 1; }
+.diataxis-diagram .slot.need-top-right     { grid-column: -2 / -1; grid-row: 1; }
+.diataxis-diagram .slot.need-bottom-left   { grid-column: 1; grid-row: -2 / -1; }
+.diataxis-diagram .slot.need-bottom-right  { grid-column: -2 / -1; grid-row: -2 / -1; }
+.diataxis-diagram .slot.need > span {
+  position: absolute;
+}
+.diataxis-diagram .slot.need-top-left > span {
+  right: var(--type-x-pct); bottom: var(--type-y-pct);
+  transform: translateY(50%); text-align: right;
+}
+.diataxis-diagram .slot.need-top-right > span {
+  left: var(--type-x-pct); bottom: var(--type-y-pct);
+  transform: translateY(50%); text-align: left;
+}
+.diataxis-diagram .slot.need-bottom-left > span {
+  right: var(--type-x-pct); top: var(--type-y-pct);
+  transform: translateY(-50%); text-align: right;
+}
+.diataxis-diagram .slot.need-bottom-right > span {
+  left: var(--type-x-pct); top: var(--type-y-pct);
+  transform: translateY(-50%); text-align: left;
+}
+/* Purpose labels — at the inner edge of each quadrant cell, sitting on
+   the boundary with the central row. */
+.diataxis-diagram .slot.purpose-top-left     { grid-column: 1; grid-row: 1; }
+.diataxis-diagram .slot.purpose-top-right    { grid-column: -2 / -1; grid-row: 1; }
+.diataxis-diagram .slot.purpose-bottom-left  { grid-column: 1; grid-row: -2 / -1; }
+.diataxis-diagram .slot.purpose-bottom-right { grid-column: -2 / -1; grid-row: -2 / -1; }
+.diataxis-diagram .slot.purpose > span {
+  position: absolute;
+}
+.diataxis-diagram .slot.purpose-top-left > span {
+  right: var(--purpose-x-pct); bottom: 0; text-align: right;
+}
+.diataxis-diagram .slot.purpose-top-right > span {
+  left: var(--purpose-x-pct); bottom: 0; text-align: left;
+}
+.diataxis-diagram .slot.purpose-bottom-left > span {
+  right: var(--purpose-x-pct); top: 0; text-align: right;
+}
+.diataxis-diagram .slot.purpose-bottom-right > span {
+  left: var(--purpose-x-pct); top: 0; text-align: left;
+}
+/* Axis labels — horizontal (left/right) overlay the full grid, sitting on
+   the y-axis (vertically centered on the axis) with a half-width gap. */
+.diataxis-diagram .slot.axis-label-left,
+.diataxis-diagram .slot.axis-label-right {
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+}
+.diataxis-diagram .slot.axis-label-left > span,
+.diataxis-diagram .slot.axis-label-right > span {
+  position: absolute;
+  top: var(--axis-y-pos);
+  transform: translateY(-50%);
+}
+.diataxis-diagram .slot.axis-label-left > span {
+  margin-right: -0.5em;
+  right: calc(100% - var(--axis-x-pos) + var(--axis-x-label-pct) / 2);
+  text-align: right;
+}
+.diataxis-diagram .slot.axis-label-right > span {
+  margin-left: -0.5em;
+  left: calc(var(--axis-x-pos) + var(--axis-x-label-pct) / 2);
+  text-align: left;
+}
+/* Axis labels — vertical (top/bottom) overlay the full grid, anchored at
+   the y-axis. Default directions: top extends UP, bottom extends DOWN
+   (correct for the full diagram, where the axis sits at 50% with room on
+   both sides). */
+.diataxis-diagram .slot.axis-label-top,
+.diataxis-diagram .slot.axis-label-bottom {
+  grid-column: 1 / -1;
+  grid-row: 1 / -1;
+}
+.diataxis-diagram .slot.axis-label-top > span,
+.diataxis-diagram .slot.axis-label-bottom > span {
+  position: absolute;
+  left: var(--axis-x-pos);
+  white-space: nowrap;
+}
+.diataxis-diagram .slot.axis-label-top > span {
+  /* DIAGNOSTIC: raw positioning — no margin, no padding. */
+  margin: 0;
+  padding: 0;
+  top: calc(var(--axis-y-pos) - var(--axis-y-label-pct));
+  transform-origin: 50% 0%;
+}
+.diataxis-diagram .slot.axis-label-bottom > span {
+  margin: 0;
+  padding: 0;
+  bottom: calc(100% - var(--axis-y-pos) - var(--axis-y-label-pct));
+  transform-origin: 50% 100%;
+}
+/* For subset views the axis sits near a cut edge; flip the extension
+   direction toward the container centre (the large visible area) so the
+   rotated text is not clipped by overflow:hidden.
+     axis-high (top* variants): axis-label-bottom extends UP.
+     axis-low  (bottom* variants): axis-label-top extends DOWN. */
+.diataxis-diagram .diagram--axis-high .slot.axis-label-bottom > span {
+  /* Flipped to top-anchored. */
+  margin: 0;
+  padding: 0;
+  top: calc(var(--axis-y-pos) - var(--axis-y-label-pct));
+  bottom: auto;
+  transform-origin: 50% 0%;
+}
+.diataxis-diagram .diagram--axis-low .slot.axis-label-top > span {
+  /* Flipped to bottom-anchored. */
+  margin: 0;
+  padding: 0;
+  bottom: calc(100% - var(--axis-y-pos) - var(--axis-y-label-pct));
+  top: auto;
+  transform-origin: 50% 100%;
+}
+/* Rotated: vertical text read bottom-to-top. The transform-origin set
+   above controls which way rotate(180deg) sends the text. */
+.diataxis-diagram .diagram--rotated .slot.axis-label-top > span,
+.diataxis-diagram .diagram--rotated .slot.axis-label-bottom > span {
+  writing-mode: vertical-rl;
+  transform: translateX(-50%) rotate(180deg);
+}
+/* Stacked: upright glyphs (no rotation; transform-origin irrelevant). */
+.diataxis-diagram .diagram--stacked .slot.axis-label-top > span,
+.diataxis-diagram .diagram--stacked .slot.axis-label-bottom > span {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  transform: translateX(-50%);
+}
+/* --- Half-annotations (overlays) -------------------------------------- */
+.diataxis-diagram .annotation-block {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  pointer-events: none;
+  font-family: "Skia", sans-serif;
+  font-weight: 230;
+  font-variation-settings: "wght" 0.6, "wdth" 1.0;
+  font-size: var(--annotation-font);
+  text-rendering: geometricPrecision;
+  white-space: nowrap;
+}
+.diataxis-diagram .annotation-block .annotation-line {
+  display: block;
+}
+.diataxis-diagram .annotation-block.annotation-top-half {
+  text-align: center;
+}
+
+.diataxis-diagram .annotation-block.annotation-bottom-half {
+  text-align: center;
+}
+.diataxis-diagram .annotation-block.annotation-left-half {
+  /* Anchor the axis-facing edge (right) at the 25% point so the block
+     grows outward, away from the axis, as text width changes. */
+  transform: translate(-100%, -50%);
+  text-align: right;
+}
+.diataxis-diagram .annotation-block.annotation-right-half {
+  /* Anchor the axis-facing edge (left) at the 75% point. */
+  transform: translate(0, -50%);
+  text-align: left;
+}
+/* --- Interactive swap -------------------------------------------------- */
+.diataxis-diagram .label-alt {
+  opacity: 0;
+  transition: opacity 1s ease;
+  pointer-events: none;
+}
+.diataxis-diagram .label-swappable {
+  transition: opacity 1s ease;
+}
+.diataxis-diagram .diagram-root:hover .label-swappable,
+.diataxis-diagram .diagram-root:focus-visible .label-swappable {
+  opacity: 0;
+}
+.diataxis-diagram .diagram-root:hover .label-alt,
+.diataxis-diagram .diagram-root:focus-visible .label-alt {
+  opacity: 1;
+}
+/* Touch screens: taps don't produce :hover/:focus-visible, so key the same
+   reveal on :focus (tap focuses the tabindex="0" root; tapping elsewhere
+   blurs it). Scoped to hover-incapable devices so a desktop click can't
+   latch the hover state. */
+@media (hover: none) {
+  .diataxis-diagram .diagram-root:focus .label-swappable {
+    opacity: 0;
+  }
+  .diataxis-diagram .diagram-root:focus .label-alt {
+    opacity: 1;
+  }
+  .diataxis-diagram .diagram-root:focus .advert-cue {
+    display: none;
+  }
+}
+/* --- Advert cue -------------------------------------------------------- */
+.diataxis-diagram .advert-cue {
+  position: absolute;
+  width: var(--cue-size);
+  height: var(--cue-size);
+  bottom: var(--cue-inset);
+  right: var(--cue-inset);
+  pointer-events: none;
+}
+.diataxis-diagram .cue-ring {
+  position: absolute;
+  inset: 0;
+  border: var(--cue-border) solid #FF9300;
+  border-radius: 50%;
+  box-sizing: border-box;
+}
+.diataxis-diagram .cue-pulse {
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: #FF9300;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.1042cqw;
+  animation: diataxis-diagram-cue-pulse 2s ease-in-out infinite;
+}
+.diataxis-diagram .cue-pulse i {
+  display: block;
+  width: var(--cue-dot);
+  height: var(--cue-dot);
+  border-radius: 50%;
+  background: #fff;
+}
+@keyframes diataxis-diagram-cue-pulse {
+  0%   { opacity: 1; }
+  50%  { opacity: 0; }
+  100% { opacity: 1; }
+}
