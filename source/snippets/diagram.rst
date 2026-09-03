@@ -1,4 +1,4 @@
-..  diataxis-diagram::
+..  diataxis-diagram:: axes
     :title: The Diátaxis map of documentation types
     :desc: The map is defined by two axes that divide it into four quadrants.
       Above and below, documentation that directs actions versus documentation that describes what is the case.
@@ -9,17 +9,17 @@
       Bottom right: information-oriented reference.
       Bottom left: understanding-oriented explanation.
 
-    :tutorials:               "Tutorials"
-    :how-to:                  "How-to guides"
-    :reference:               "Reference"
-    :explanation:             "Explanation"
+    :name-top-left:        Tutorials
+    :name-top-right:       How-to guides
+    :name-bottom-right:    Reference
+    :name-bottom-left:     Explanation
 
-    :orientation-tutorial:    "Learning-oriented"
-    :orientation-how-to:      "Goal-oriented"
-    :orientation-reference:   "Information-oriented"
-    :orientation-explanation: "Understanding-oriented"
+    :purpose-top-left:     Learning-oriented
+    :purpose-top-right:    Goal-oriented
+    :purpose-bottom-right: Information-oriented
+    :purpose-bottom-left:  Understanding-oriented
 
-    :dimension-theory:         "Describes what is"
-    :dimension-action:         "Directs action"
-    :relation-development:     "Serves development of skill"
-    :relation-application:     "Serves application of skill"
+    :axis-label-top:       Directs action
+    :axis-label-bottom:    Describes what is
+    :axis-label-left:      Serves development of skill
+    :axis-label-right:     Serves application of skill

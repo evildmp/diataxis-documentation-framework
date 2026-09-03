@@ -10,18 +10,25 @@ Reference
 Reference material contains *propositional or theoretical* knowledge that a user looks to in their *work*.
 
 The only purpose of a reference guide is to describe, as succinctly as possible, and in an orderly
-way. Whereas the content of tutorials and how-to guides are led by needs of the user, reference
+way. Whereas the content of tutorials and how-to guides is led by the needs of the user, reference
 material is led by the product it describes.
 
-.. rst-class:: sidebar
+..  rst-class:: sidebar
 
-..  include:: /snippets/diagram-reference.rst
+..  diataxis-diagram:: axes bottom-right
+    :title: Reference
+    :desc: Reference describes what is, and serves the application of skill. It is information-oriented.
+
+    :name-bottom-right:    Reference
+    :purpose-bottom-right: Information-oriented
+    :axis-label-bottom:    Describes what is
+    :axis-label-right:     Serves application of skill
 
 In the case of software, reference guides describe the software itself - APIs, classes, functions
 and so on - and how to use them.
 
 Your users need reference material because they need truth and certainty - firm platforms on which to stand while
-they work. Good technical reference is essential to provide users with the confidence to do their work.
+they apply their skill. Good technical reference is essential to provide users with the confidence to do their work.
 
 -----------
 

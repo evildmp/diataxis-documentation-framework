@@ -57,7 +57,7 @@ Translation practice
 Where to start
 ..............
 
-**The first page to translate** (Transifex calls pages "resources) for a new language should be *Start here*. It should also be the first one to refer to if you're contributing to an existing language.
+**The first page to translate** (Transifex calls pages "resources") for a new language should be *Start here*. It should also be the first one to refer to if you're contributing to an existing language.
 
 The reason for that is that it covers the whole of Diátaxis in one page, and gathers together almost all the special terms and forms of words that you will encounter elsewhere. It should be a good guide to translation decisions in general.
 

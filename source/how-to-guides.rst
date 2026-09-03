@@ -13,7 +13,14 @@ It's concerned with *work* - navigating from one side to the other of a real-wor
 
 .. rst-class:: sidebar
 
-..  include:: /snippets/diagram-how-to.rst
+..  diataxis-diagram:: axes top-right
+    :title: How-to guides
+    :desc: How-to guides direct action, and serve the application of skill. They are goal-oriented.
+
+    :name-top-right:       How-to guides
+    :purpose-top-right:    Goal-oriented
+    :axis-label-top:       Directs action
+    :axis-label-right:     Serves application of skill
 
 Examples could be: *how to calibrate the radar array*; *how to use fixtures in pytest*; *how to configure
 reconnection back-off policies*. On the other hand, *how to build a web application* is not - that's not
@@ -32,7 +39,7 @@ How-to guides addressed to problems
 
 **How-to guides must be written from the perspective of the user, not of the machinery.** A how-to guide represents something that someone needs to get done. It's defined in other words by the needs of a user. Every how-to guide should answer to a human project, in other words. It should show what the human needs to do, with the tools at hand, to obtain the result they need.
 
-This is in strong contrast to common pattern for how-to guides that often prevails, in which how-to guides are defined by operations that can be performed with a tool or system. The problem with this latter pattern is that it offers little value to the user; it is not addressed to any need the user has. Instead, it's focused on the tool, on taking the machinery through its motions.
+This is in strong contrast to the common pattern for how-to guides that often prevails, in which how-to guides are defined by operations that can be performed with a tool or system. The problem with this latter pattern is that it offers little value to the user; it is not addressed to any need the user has. Instead, it's focused on the tool, on taking the machinery through its motions.
 
 This is fundamentally a distinction of *meaningfulness*. Meaning is given by purpose and need. There is no purpose or need in the functionality of a machine. It is merely a series of causes and effects, inputs and outputs.
 
@@ -76,7 +83,7 @@ In another confusion, how-to guides are often construed merely as procedural gui
 Key principles
 ---------------------------------------
 
-A how to-guide is concerned with work - a task or problem, with a practical goal. *Maintain focus on that goal*.
+A how-to guide is concerned with work - a task or problem, with a practical goal. *Maintain focus on that goal*.
 
 ..  sidebar:: How-to characteristics
 

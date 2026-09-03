@@ -99,15 +99,27 @@ Each piece of content is of a kind that not only has one particular job to do, t
 from and contrasted with the other functions of documentation.
 
 
-Blur
+Blur and collapse
 --------------------------
-
 Most documentation systems and authors recognise at least some of these distinctions and try to observe them in
 practice.
 
-..  image:: /images/partial-collapse.png
-    :alt: Partial collapse of the structure
-    :class: sidebar
+.. rst-class:: sidebar
+
+..  diataxis-diagram:: blur
+    :title: Partial collapse of the structure
+    :desc: Concepts and intentions from adjacent quadrants blur and overlap with each other; the documentation's purposes and forms become confused and indistinct.
+
+    :name-top-left:        "Tutorials"
+    :name-top-right:       "How-to guides"
+    :name-bottom-right:    "Reference"
+    :name-bottom-left:     "Explanation"
+
+    :purpose-top-left:     "Learning-oriented"
+    :purpose-top-right:    "Goal-oriented"
+    :purpose-bottom-right: "Information-oriented"
+    :purpose-bottom-left:  "Understanding-oriented"
+
 
 However, there is a kind of natural affinity between each of the different forms of documentation and its
 neighbours on the map, and a natural tendency to blur the distinctions (that can be seen repeatedly in examples of
@@ -117,26 +129,38 @@ documentation).
    :widths: 50  25 25
    :stub-columns: 1
 
-   * - guide action
+   * - directs action
      - tutorials
      - how-to guides
-   * - serve the application of skill
+   * - serve the development of skill
      - reference
      - how-to guides
-   * - contain propositional knowledge
+   * - describe what is the case
      - reference
      - explanation
-   * - serve the acquisition of skill
+   * - serves the development of skill
      - tutorials
      - explanation
 
 When these distinctions are allowed to blur, the different kinds of documentation bleed into each other. Writing style and content make their way into inappropriate places. It also causes structural problems, which make it even more difficult to maintain the discipline of appropriate writing.
 
-..  image:: /images/total-collapse.png
-    :alt: Total collapse of the structure
-    :class: sidebar
+.. rst-class:: sidebar
 
-In the worst case there is a complete or partial collapse of tutorials and how-to guides into each other, making it impossible to meet the needs served by either.
+..  diataxis-diagram:: collapse
+    :title: Total collapse of the structure
+    :desc: All structure breaks down; even the idea of purpose in writing is lost in the confusion.
+
+    :name-top-left:        "Tutorials"
+    :name-top-right:       "How-to guides"
+    :name-bottom-right:    "Reference"
+    :name-bottom-left:     "Explanation"
+
+    :purpose-top-left:     "Learning-oriented"
+    :purpose-top-right:    "Goal-oriented"
+    :purpose-bottom-right: "Information-oriented"
+    :purpose-bottom-left:  "Understanding-oriented"
+
+In the worst case there is a complete collapse of different forms into each other, making it impossible to meet the needs served by either.
 
 
 -------------

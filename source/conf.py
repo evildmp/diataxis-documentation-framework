@@ -98,17 +98,17 @@ gettext_location = True
 
 diataxis_diagram = {
     "default": {
-      "font-sizes": {"type": 105, "purpose": 50, "axis": 55},
+      "font-sizes": {"type": 105, "purpose": 50, "axis": 48, "annotation": 140, "need": 60},
       "offsets": {
           "axis-x": 154,
           "type-purpose-x": 154,
           "type-x-correction": 0,
-          "axis-y": 110,
+          "axis-y": 120,
           "purpose-y": 120,
           "type-y": 260
       },
       "y-axis-rotation": "rotated",
-      "guides": False
+      "guides": {"show": False, "x": 154, "y": 120,}
     },
     "en": {},
     "pl": {"font-sizes": {"type": 57, "purpose": 44, "axis": 44}},
