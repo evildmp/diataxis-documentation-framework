@@ -188,7 +188,7 @@ class NewsItemDirective(Directive):
             format="html",
         )
         open_aside = nodes.raw(
-            "", '<div class="news-item-aside">', format="html"
+            "", '<div class="sidebar-block">', format="html"
         )
         heading_html = (
             f'<h2>{safe_title}'

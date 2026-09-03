@@ -1,9 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,700;1,400;1,700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,700;1,8..60,400;1,8..60,700&display=swap');
 
 
-:root {
-  --orange: #FF9300;
-}
+:root {--orange: #FF9300;}
 
 body {
     --font-stack: 'Source Serif 4', serif;
@@ -44,8 +42,14 @@ h3 {
     width: 12em;
 }
 
-div.sidebar-tree .toctree-l1.current-page>.reference {color: var(--orange); font-weight: normal;}
-div.sidebar-tree .toctree-l1>.reference {color: #666; padding: .3rem .5rem}
+div.sidebar-tree .toctree-l1.current-page>.reference {
+    color: var(--orange);
+    font-weight: normal;
+}
+div.sidebar-tree .toctree-l1>.reference {
+    color: #666;
+    padding: .3rem .5rem
+}
 div.sidebar-tree .toctree-l1>.reference:hover {color: var(--orange);}
 div.sidebar-tree .toctree-l1:first-child>.reference {font-weight: bold;}
 
@@ -109,17 +113,17 @@ article .sidebar {
     position: relative;
     float: none;
     margin: 2em 0;
-    background: none; border: none;
+    background: none;
+    border: none;
+    font-size: 90%;
 }
+
 article aside.sidebar {
     border: 1px solid #999;
     border-left: 2px solid #999;
     border-radius: 0;
 }
-article .sidebar>* {
-    font-size: 90%;
-    border: none
-}
+
 article .sidebar p.sidebar-title {
     font-weight: 700;
 }
@@ -134,22 +138,43 @@ article .sidebar p.sidebar-title {
         width: 36em;
     }
 
+    /*.content::before {
+        content: "";
+        position: absolute;
+        inset: 0;
+        pointer-events: none;
+        background:
+            linear-gradient(#ddd, #ddd) no-repeat 1rem 0 / 1px 100%,
+            linear-gradient(#ddd, #ddd) no-repeat 13rem 0 / 1px 100%,
+            linear-gradient(#ddd, #ddd) no-repeat 15em 0 / 1px 100%,
+            linear-gradient(#ddd, #ddd) no-repeat 51em 0 / 1px 100%;
+    }*/
+
+    /* items in the sidebar will either be h2 or have have a .sidebar class
+       they should share layout properties */
+
     article .sidebar,
-    h2,
-    .news-item-aside {
+    .sidebar-block,
+    section > h2 {
         position: absolute; left: 0;
         width: 12rem;
-        margin: -2rem 2rem 0 1rem;
-        padding-top: 2rem;
+        margin: 0 0 0 1rem;
         padding-right: 0;
         padding-left: 0;
         text-align: right;
-        background: none;
+        overflow-wrap: normal;
     }
 
+    .sidebar-block h2 {margin: 0; padding: 0;}
+
     article aside.sidebar {border: none;}
-    article .sidebar>*,
-    article .sidebar .sidebar-title {padding-left: 0; padding-right: 0;}
+
+    article .sidebar > *,
+    .sidebar h2 {
+        padding-left: 0; padding-right: 0; /* clears Furo's padding for the box */
+        position: static;
+        }
+
     img.wider, table.wider, figure.wider, .diataxis-diagram.wider {
         width: 50em; max-width: 50em;
         margin: 2em 0;
@@ -158,28 +183,40 @@ article .sidebar p.sidebar-title {
     }
 
     article .sidebar>ol, article .sidebar>ul {text-align: left; padding-left: 1.2rem;}
+
     img.floated, .diataxis-diagram.floated {
         width: 50%;
         float: right;
         margin-bottom: 1rem; margin-left: 1rem;
     }
 
-    h2>.headerlink,
+    h2 > .headerlink,
     .sidebar p .headerlink {
         position: absolute; top: 0; right: 0;
     }
 
-    h2 + *,
-    .news-item-aside + * {margin-top: 2rem;}
+    section h2 + * {margin-top: 2rem;}
 }
 
 /* --------- even more space at 67em --------- */
 
 @media only screen and (min-width: 67em) {
     .content {padding: 0 1em 0 17em;}
+
+    /*.content::before {
+        background:
+            linear-gradient(#ddd, #ddd) no-repeat 1rem 0 / 1px 100%,
+            linear-gradient(#ddd, #ddd) no-repeat 15rem 0 / 1px 100%,
+            linear-gradient(#ddd, #ddd) no-repeat 17em 0 / 1px 100%,
+            linear-gradient(#ddd, #ddd) no-repeat 53em 0 / 1px 100%;
+    }*/
+
     article .sidebar,
-    h2,
-    .news-item-aside {width: 14rem;}
+    .sidebar-block,
+    section > h2 {
+      width: 14rem;
+    }
+
     img.wider, table.wider, figure.wider, .diataxis-diagram.wider {
         width: 52em; max-width: 52em;
         margin: 2em 0;
@@ -305,23 +342,7 @@ section.news-item {
     min-height: calc(2 * 1.75rem * var(--news-item-h2-line-height));
 }
 
-.news-item-aside h2 {
-    line-height: var(--news-item-h2-line-height);
-}
-
-@media only screen and (min-width: 52em) {
-    /* .news-item-aside picks up the floating-aside layout from the shared
-       article .sidebar / h2 rule above. These overrides keep the aside's
-       own <h2> static (it lives inside the floated aside, not floated itself). */
-    .news-item-aside h2 {
-        position: static;
-        margin: 0;
-        padding: 0;
-        width: auto;
-    }
-
-    .news-item-aside .date {
-        margin: 0;
-        font-style: italic;
-    }
+section.news-item .date {
+    margin: 0;
+    font-style: italic;
 }
