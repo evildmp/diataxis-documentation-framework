@@ -527,13 +527,13 @@ def on_html_visit_diataxis_diagram(self, node):
     # Three-layer merge: DEFAULT_TYPOGRAPHY, conf.py ``default`` key,
     # per-locale entry; nested dicts merge per-key.
     typography = env.config.diataxis_diagram or {}
-    if env.config.language not in typography:
+    if "default" not in typography:
         raise ExtensionError(
-            f"diataxis-diagram: language {env.config.language!r} has no entry in "
-            f"diataxis_diagram; add one (see source/conf.py)."
+            "diataxis-diagram: diataxis_diagram has no 'default' entry; "
+            "add one (see source/conf.py)."
         )
-    resolved = merge_typography_layer(DEFAULT_TYPOGRAPHY, typography.get("default", {}))
-    resolved = merge_typography_layer(resolved, typography[env.config.language])
+    resolved = merge_typography_layer(DEFAULT_TYPOGRAPHY, typography["default"])
+    resolved = merge_typography_layer(resolved, typography.get(env.config.language, {}))
 
     offsets = resolved["offsets"]
     font_sizes = resolved["font-sizes"]
