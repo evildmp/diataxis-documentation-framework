@@ -23,14 +23,14 @@ msgstr ""
 
 #: ../../source/foundations.rst:2
 msgid "Foundations"
-msgstr ""
+msgstr "基础"
 
 #: ../../source/foundations.rst:4
 msgid ""
 "Diátaxis is successful because it *works* - both users and creators have a "
 "better experience of documentation as a result. It makes sense and it feels "
 "right."
-msgstr ""
+msgstr "Diátaxis 的成功之处在于它 *行之有效*。无论是用户还是创作者，都会由此获得更好的文档体验。它既合乎情理，又符合直觉。"
 
 #: ../../source/foundations.rst:6
 msgid ""
@@ -40,23 +40,25 @@ msgid ""
 "documentation, not three or five. It needs to demonstrate rigorous thinking "
 "and analysis, and that it stands on a sound theoretical foundation."
 msgstr ""
+"然而，仅凭这些，尚不足以让人树立对 Diátaxis 作为文档理论的信心。作为理论，它需要阐明自己 *为何* "
+"行之有效。它需要展示，文档之所以恰好分为四类，既不是三类，也不是五类，背后到底存在何种缘由。它还需展现缜密的思辨与剖析，并证明自身立于坚实的理论基础之上。"
 
 #: ../../source/foundations.rst:8
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
-msgstr ""
+msgstr "否则，它便不过是另一种可资借鉴的方法，我们最多只能称其为“看起来行之有效”。"
 
 #: ../../source/foundations.rst:12
 msgid "Two dimensions of craft"
-msgstr ""
+msgstr "技艺的两个维度"
 
 #: ../../source/foundations.rst:14
 msgid ""
 "Diátaxis is based on the principle that documentation must serve the needs "
 "of its users. Knowing how to do that means understanding what the needs of "
 "users are."
-msgstr ""
+msgstr "Diátaxis 基于这样一项原则：文档必须服务于用户的需求。要知道如何做到这一点，便需要理解用户的需求是什么。"
 
 #: ../../source/foundations.rst:16
 msgid ""
@@ -66,16 +68,18 @@ msgid ""
 "programming language is a craft, as is flying a particular aircraft, or even"
 " being a pilot in general."
 msgstr ""
+"Diátaxis 所服务的用户，是 "
+"*技能领域中的实践者*。技能领域由一门技艺所界定——工具或产品的使用即是一门技艺。整个学科或专业皆是如此。使用编程语言是一门技艺，驾驶特定型号的飞机亦然，乃至广义上担任一名飞行员亦是如此。"
 
 #: ../../source/foundations.rst:18
 msgid ""
 "Understanding the needs of these users means in turn understanding the "
 "essential characteristics of craft or skill."
-msgstr ""
+msgstr "要理解这些用户的需求，便须进而把握技艺或技能的基本特性。"
 
 #: ../../source/foundations.rst:22
 msgid "Action/cognition"
-msgstr ""
+msgstr "行动 / 认知"
 
 #: ../../source/foundations.rst:24
 msgid ""
@@ -85,10 +89,12 @@ msgid ""
 "but they are counterparts, wholly distinct from each other, two different "
 "aspects of the same thing."
 msgstr ""
+"一项技能、技艺或实践活动，都兼具 **行动**（实践知识，即知道如何做，也就是我们所做的）与 "
+"**认知**（理论知识，即知道是什么，也就是我们所想的）两个层面。两者紧密交织，却交相辉映，彼此之间截然不同，一体两面。"
 
 #: ../../source/foundations.rst:28
 msgid "Acquisition/application"
-msgstr ""
+msgstr "习得 / 运用"
 
 #: ../../source/foundations.rst:30
 msgid ""
@@ -98,20 +104,22 @@ msgid ""
 " and being \"at study\" (concerned with acquiring them) are once again "
 "counterparts, distinct but bound up with each other."
 msgstr ""
+"同样，实践者与其实践的关系，体现为实践本身既要 **习得**，也要 **运用**。所谓 “工作状态”（关注于运用技艺的知识与技能）与 "
+"“学习状态”（关注于习得这些知识与技能）同样是相互对应的关系，彼此截然不同，却又紧密交织。"
 
 #: ../../source/foundations.rst:34
 msgid "The map of the territory"
-msgstr ""
+msgstr "领域地图"
 
 #: ../../source/foundations.rst:36
 msgid ""
 "This gives us two dimensions of skill, that we can lay out on a map - a map "
 "of the territory of craft:"
-msgstr ""
+msgstr "由此我们得到技能的两个维度，我们可将其呈现于一张地图之上——即技艺领域的地图："
 
 #: ../../source/foundations.rst:38 ../../source/foundations.rst:51
 msgid "The territory of craft as a two-dimensional map"
-msgstr ""
+msgstr "技艺领域的二维地图"
 
 #: ../../source/foundations.rst:41
 msgid ""
@@ -120,6 +128,8 @@ msgid ""
 "necessarily four quarters to it, and there could not be three, or five. It "
 "is not an arbitrary number."
 msgstr ""
+"这是一张 *完整* "
+"的地图。它所包含的维度仅有这两个，但它们不仅覆盖了整个领域，更界定了领域本身。这便是为何它必然划分为四个象限，而非三个或五个。这个数字并非随意而定。"
 
 #: ../../source/foundations.rst:43
 msgid ""
@@ -128,10 +138,12 @@ msgid ""
 "map, it reveals in turn what documentation must be and do to fulfil those "
 "obligations - in four distinct ways."
 msgstr ""
+"它也向我们展示了技艺的 "
+"*特质*，这些特质定义了每一个象限。当“文档必须服务于技艺需求”这一理念被运用于这张地图时，它便反过来昭示出，文档必须以四种各异的途径成其所是，行其所为，方能践行这一理念。"
 
 #: ../../source/foundations.rst:47
 msgid "Serving needs"
-msgstr ""
+msgstr "服务于需求"
 
 #: ../../source/foundations.rst:49
 msgid ""
@@ -140,41 +152,43 @@ msgid ""
 " documentation do to align with these qualities of skill, and to what need "
 "is it oriented in each case?"
 msgstr ""
+"我们熟悉的 Diátaxis "
+"文档地图，便源自这张技艺领域的地图。它实质上是对以下问题的回应：文档必须做到什么，才能与技能的这些性质相协调，而针对每一种情况，它又需要服务于何种需求？"
 
 #: ../../source/foundations.rst:54
 msgid ""
 "We can see how the map of documentation addresses *needs* across those two "
 "dimensions, each need also defined by the characteristics of its quarter of "
 "the map."
-msgstr ""
+msgstr "我们可以看出，在这两个维度上，文档处理的需求是如何分布的。而每个需求也同样由其所在象限的特征所界定。"
 
 #: ../../source/foundations.rst:61
 msgid "need"
-msgstr ""
+msgstr "需求"
 
 #: ../../source/foundations.rst:62
 msgid "addressed in"
-msgstr ""
+msgstr "涉及"
 
 #: ../../source/foundations.rst:63
 msgid "the user"
-msgstr ""
+msgstr "用户"
 
 #: ../../source/foundations.rst:64
 msgid "the documentation"
-msgstr ""
+msgstr "文档"
 
 #: ../../source/foundations.rst:65
 msgid "learning"
-msgstr ""
+msgstr "学习"
 
 #: ../../source/foundations.rst:66
 msgid "tutorials"
-msgstr ""
+msgstr "教程"
 
 #: ../../source/foundations.rst:67 ../../source/foundations.rst:79
 msgid "acquires their craft"
-msgstr ""
+msgstr "习得他们的技艺"
 
 #: ../../source/foundations.rst:68 ../../source/foundations.rst:72
 msgid "informs action"
@@ -182,19 +196,19 @@ msgstr "指导行动"
 
 #: ../../source/foundations.rst:69
 msgid "goals"
-msgstr ""
+msgstr "目标"
 
 #: ../../source/foundations.rst:70
 msgid "how-to guides"
-msgstr ""
+msgstr "操作指南"
 
 #: ../../source/foundations.rst:71 ../../source/foundations.rst:75
 msgid "applies their craft"
-msgstr ""
+msgstr "运用他们的技艺"
 
 #: ../../source/foundations.rst:73
 msgid "information"
-msgstr "信息过载"
+msgstr "信息"
 
 #: ../../source/foundations.rst:74
 msgid "reference"
@@ -206,11 +220,11 @@ msgstr "影响认知"
 
 #: ../../source/foundations.rst:77
 msgid "understanding"
-msgstr ""
+msgstr "理解"
 
 #: ../../source/foundations.rst:78
 msgid "explanation"
-msgstr "过度解释"
+msgstr "解释"
 
 #: ../../source/foundations.rst:83
 msgid ""
@@ -219,6 +233,8 @@ msgid ""
 "underpinned by a systematic description and analysis of generalised **user "
 "needs**."
 msgstr ""
+"Diátaxis 文档地图是一个令人难忘且易于理解的概念。不过，一张地图只有在能够充分描述现实情况时才具有可靠性。Diátaxis "
+"这一概念基于对通用用户需求的系统化描述与分析而建立起来。"
 
 #: ../../source/foundations.rst:85
 msgid ""
@@ -227,3 +243,5 @@ msgid ""
 " practitioners in a craft. This is why there are four and only four types of"
 " documentation. There is simply no other territory to cover."
 msgstr ""
+"正因如此，关于 Diátaxis "
+"的教程、操作指南、参考资料以及解释等内容，作为服务于技艺实践者的文档类型，已经尽善尽美了。也正因如此，文档类型有且仅有四种，除此之外，别无其它领域可及。"

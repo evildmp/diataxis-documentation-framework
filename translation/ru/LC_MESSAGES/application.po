@@ -3,6 +3,10 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# leilabshl, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: leilabshl, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,12 +24,12 @@ msgstr ""
 
 #: ../../source/application.rst:2
 msgid "Applying Diátaxis"
-msgstr ""
+msgstr "Применение Diátaxis"
 
 #: ../../source/application.rst:5
 msgid ""
 "The pages in this section are concerned with putting Diátaxis into practice."
-msgstr ""
+msgstr "В этом разделе описано, как применять Diátaxis на практике."
 
 #: ../../source/application.rst:9
 msgid ""
@@ -32,6 +37,9 @@ msgid ""
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
 msgstr ""
+"Хотя Diátaxis опирается на :doc:`systematic theoretical principles<theory>`,"
+" не обязательно досконально разбираться в теории, чтобы начать успешно "
+"применять подход на практике."
 
 #: ../../source/application.rst:11
 msgid ""
@@ -39,6 +47,9 @@ msgid ""
 " documentation. Most of the key principles required to put it into practice "
 "successfully can be grasped intuitively."
 msgstr ""
+"Прежде всего Diátaxis задуман как практический подход для тех, кто работает "
+"с документацией. Большинство ключевых принципов, необходимых для работы, "
+"можно легко понять интуитивно."
 
 #: ../../source/application.rst:13
 msgid ""
@@ -47,6 +58,10 @@ msgid ""
 "you will not understand it until you have started using it (this itself is a"
 " Diátaxis principle)."
 msgstr ""
+"Не нужно ждать, пока вы до конца разберётесь в Diátaxis, чтобы начать "
+"применять его в работе. Вам не нужно знать Diátaxis целиком, чтобы им "
+"пользоваться — более того, по-настоящему понять его можно только на практике"
+" (и это один из его ключевых принципов)."
 
 #: ../../source/application.rst:15
 msgid ""
@@ -54,10 +69,15 @@ msgid ""
 "your work, try applying it. Come back here when you need more clarity or "
 "reassurance. Iterate between your work and reflecting on your work."
 msgstr ""
+"Нашли что-то, что захотелось использовать в своей работе? Сразу попробуйте "
+"применить это на практике. Возвращайтесь сюда, когда вам понадобится лучше в"
+" чём-то разобраться или убедиться, что вы всё делаете правильно. Чередуйте "
+"практику с анализом: разбирайте, что вы делаете и как можно делать это "
+"лучше."
 
 #: ../../source/application.rst:20
 msgid "In this section"
-msgstr ""
+msgstr "В этом разделе"
 
 #: ../../source/application.rst:22
 msgid ""
@@ -65,22 +85,28 @@ msgid ""
 "identifies. If you're encountering Diátaxis for the first time, start with "
 "these pages."
 msgstr ""
+"В основе Diátaxis лежат четыре типа документации. Если вы впервые "
+"знакомитесь с Diátaxis, начните с этих разделов:"
 
 #: ../../source/application.rst:24
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ""
+msgstr ":doc:`tutorials` — помогают освоить новые навыки на практике"
 
 #: ../../source/application.rst:25
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ""
+msgstr ":doc:`how-to-guides` — помогают выполнить конкретные задачи"
 
 #: ../../source/application.rst:26
 msgid ":doc:`reference` - information-oriented technical description"
 msgstr ""
+":doc:`reference` — содержит техническую информацию, которая может "
+"понадобиться вам при работе"
 
 #: ../../source/application.rst:27
 msgid ":doc:`explanation` - understanding-oriented discussion"
 msgstr ""
+":doc:`explanation` — помогает понять, как всё устроено и почему работает "
+"именно так"
 
 #: ../../source/application.rst:29
 msgid ""
@@ -89,11 +115,17 @@ msgid ""
 "execution. Once you've made your first start, the tools and methods outlined"
 " here will help smooth your way."
 msgstr ""
+"Diátaxis предлагает принципы, которые помогают выстроить работу с "
+"документацией. С их помощью можно определить, как создавать документацию и "
+"организовать работу над ней. Когда вы начнёте применять Diátaxis, описанные "
+"здесь инструменты и методы помогут вам двигаться дальше."
 
 #: ../../source/application.rst:31
 msgid ":doc:`compass` - a simple tool for direction-finding"
 msgstr ""
+":doc:`compass` — простой инструмент, который помогает понять, что делать "
+"дальше"
 
 #: ../../source/application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
-msgstr ""
+msgstr ":doc:`Workflow <how-to-use-diataxis>` в Diátaxis"

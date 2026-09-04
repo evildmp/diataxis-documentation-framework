@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,29 +23,34 @@ msgstr ""
 
 #: ../../source/how-to-guides.rst:4
 msgid "How-to guides"
-msgstr ""
+msgstr "Инструкции"
 
 #: ../../source/how-to-guides.rst:7
 msgid ""
 "How-to guides are **directions** that guide the reader through a problem or "
 "towards a result. How-to guides are **goal-oriented**."
 msgstr ""
+"Инструкции — это **указания**, которые помогают читателю решить проблему или"
+" прийти к нужному результату. Они всегда **нацелены на конкретную цель**."
 
 #: ../../source/how-to-guides.rst:10
 msgid ""
 "A how-to guide helps the user get something done, correctly and safely; it "
 "guides the user's *action*."
 msgstr ""
+"Инструкция помогает пользователю правильно и безопасно сделать то, что ему "
+"нужно; она направляет его *действия*."
 
 #: ../../source/how-to-guides.rst:12
 msgid ""
 "It's concerned with *work* - navigating from one side to the other of a "
 "real-world problem-field."
 msgstr ""
+"Она нужна для *работы*: чтобы пройти путь от реальной проблемы к её решению."
 
 #: ../../source/how-to-guides.rst:14
 msgid "How-to guides - task oriented, practical steps, that serve our work"
-msgstr ""
+msgstr "Инструкции — практические шаги для решения конкретных задач в работе"
 
 #: ../../source/how-to-guides.rst:18
 msgid ""
@@ -50,6 +59,10 @@ msgid ""
 "hand, *how to build a web application* is not - that's not addressing a "
 "specific goal or problem, it's a vastly open-ended sphere of skill."
 msgstr ""
+"Например: *как откалибровать радарную решётку*; *как использовать фикстуры в"
+" pytest*; *как настроить интервалы между попытками переподключения*. А вот "
+"*как создать веб-приложение* — уже не инструкция. Это не конкретная задача "
+"или проблема, а целая область навыков без чёткой конечной точки."
 
 #: ../../source/how-to-guides.rst:22
 msgid ""
@@ -58,16 +71,21 @@ msgid ""
 "picture of what your product can actually *do*. A rich list of how-to guides"
 " is an encouraging suggestion of a product's capabilities."
 msgstr ""
+"Инструкции важны не только потому, что помогают пользователям решать задачи."
+" По их списку сразу видно, что вообще *умеет* ваш продукт. Чем больше "
+"полезных сценариев покрыто инструкциями, тем лучше видны его возможности."
 
 #: ../../source/how-to-guides.rst:26
 msgid ""
 "Well-written how-to guides that address the right questions are likely to be"
 " the most-read sections of your documentation."
 msgstr ""
+"Хорошо написанные инструкции, которые отвечают на реальные вопросы "
+"пользователей, скорее всего станут самыми читаемыми страницами документации."
 
 #: ../../source/how-to-guides.rst:31
 msgid "How-to guides addressed to problems"
-msgstr ""
+msgstr "Инструкции строятся вокруг задач"
 
 #: ../../source/how-to-guides.rst:33
 msgid ""
@@ -77,6 +95,10 @@ msgid ""
 " should answer to a human project, in other words. It should show what the "
 "human needs to do, with the tools at hand, to obtain the result they need."
 msgstr ""
+"**Инструкции нужно писать с точки зрения пользователя, а не продукта.** "
+"Инструкция существует потому, что человеку нужно что-то сделать. Именно "
+"задача пользователя определяет её содержание. Она должна показывать, что "
+"нужно сделать доступными средствами, чтобы получить нужный результат."
 
 #: ../../source/how-to-guides.rst:35
 msgid ""
@@ -87,6 +109,10 @@ msgid ""
 " user has. Instead, it's focused on the tool, on taking the machinery "
 "through its motions."
 msgstr ""
+"На практике часто делают наоборот: строят инструкции вокруг операций, "
+"которые умеет выполнять инструмент или система. Пользователю от такого "
+"подхода мало пользы, потому что его реальную задачу никто не решает. В "
+"центре оказывается инструмент и его функции, а не человек."
 
 #: ../../source/how-to-guides.rst:37
 msgid ""
@@ -94,20 +120,25 @@ msgid ""
 " purpose and need. There is no purpose or need in the functionality of a "
 "machine. It is merely a series of causes and effects, inputs and outputs."
 msgstr ""
+"Разница прежде всего в *смысле*. Смысл появляется там, где есть цель и "
+"потребность. У функций машины собственной цели нет: это просто цепочка "
+"причин и следствий, входных и выходных данных."
 
 #: ../../source/how-to-guides.rst:39
 msgid "Consider:"
-msgstr ""
+msgstr "Например:"
 
 #: ../../source/how-to-guides.rst:41
 msgid "\"To shut off the flow of water, turn the tap clockwise.\""
-msgstr ""
+msgstr "«Чтобы перекрыть воду, поверните кран по часовой стрелке»."
 
 #: ../../source/how-to-guides.rst:42
 msgid ""
 "\"To deploy the desired database configuration, select the appropriate "
 "options and press **Deploy**.\""
 msgstr ""
+"«Чтобы развернуть нужную конфигурацию базы данных, выберите подходящие "
+"параметры и нажмите **Deploy**»."
 
 #: ../../source/how-to-guides.rst:46
 msgid ""
@@ -115,10 +146,14 @@ msgid ""
 "power switch, but it is shocking how often how-to guides in software "
 "documentation are written at this level."
 msgstr ""
+"Нам не нужно объяснять, что устройство включается кнопкой питания. И всё же "
+"поразительно много инструкций к программным продуктам написано именно на "
+"таком уровне."
 
 #: ../../source/how-to-guides.rst:48
 msgid "The examples above *look* like examples of guidance, but they are not."
 msgstr ""
+"Примеры выше *выглядят* как полезные указания, но на самом деле это не так."
 
 #: ../../source/how-to-guides.rst:50
 msgid ""
@@ -127,26 +162,33 @@ msgid ""
 " them, standardised interfaces and generally-expected knowledge should make "
 "it quite clear what effect most actions will have."
 msgstr ""
+"В основном это бесполезная информация, которую и так должен знать любой "
+"человек с базовыми навыками в этой области. Стандартные интерфейсы и обычный"
+" опыт уже подсказывают, к чему приведёт большинство таких действий."
 
 #: ../../source/how-to-guides.rst:52
 msgid ""
 "Secondly, they are disconnected from purpose. What the user needs to know "
 "might be things like:"
 msgstr ""
+"Но главное — эти указания оторваны от цели. На самом деле пользователю может"
+" быть нужно знать, например:"
 
 #: ../../source/how-to-guides.rst:54
 msgid ""
 "how much water to run, and how vigorously to run it, for a certain purpose"
-msgstr ""
+msgstr "сколько воды нужно и с каким напором её пустить для конкретной задачи"
 
 #: ../../source/how-to-guides.rst:55
 msgid ""
 "what database configuration options align with particular real-world needs"
 msgstr ""
+"какие параметры базы данных подходят под конкретные рабочие требования"
 
 #: ../../source/how-to-guides.rst:59
 msgid "How-to guides are about goals, projects and problems, not about tools."
 msgstr ""
+"Инструкции строятся вокруг целей, задач и проблем, а не вокруг инструментов."
 
 #: ../../source/how-to-guides.rst:61
 msgid ""
@@ -159,10 +201,16 @@ msgid ""
 "In either case, it is that project that defines what a how-to guide must "
 "cover."
 msgstr ""
+"Инструменты в инструкции — лишь средства для достижения цели. Иногда задача "
+"действительно тесно связана с одним инструментом или частью системы, и тогда"
+" инструкция будет сосредоточена на них. Но так же часто решение требует "
+"сразу нескольких инструментов и частей системы. Их объединяет не устройство "
+"продукта, а задача, которую человеку нужно решить. Именно она и определяет, "
+"что должно войти в инструкцию."
 
 #: ../../source/how-to-guides.rst:67
 msgid "What how-to guides are not"
-msgstr ""
+msgstr "Чем инструкции не являются"
 
 #: ../../source/how-to-guides.rst:69
 msgid ""
@@ -171,6 +219,10 @@ msgid ""
 " them is at the root of many difficulties that afflict documentation. See "
 ":ref:`tutorials-how-to` for a discussion of this distinction."
 msgstr ""
+"**Инструкции принципиально отличаются от уроков.** Их часто путают, хотя они"
+" отвечают на совершенно разные потребности пользователя. Из-за смешения этих"
+" двух типов возникает множество проблем в документации. Подробнее об этом — "
+"в :ref:`tutorials-how-to`."
 
 #: ../../source/how-to-guides.rst:71
 msgid ""
@@ -182,32 +234,39 @@ msgid ""
 "Often, a how-to guide will need the user to rely on their judgement in "
 "applying the guidance it can provide."
 msgstr ""
+"Ещё одна ошибка — считать инструкцию просто линейной процедурой. Реальную "
+"задачу не всегда можно свести к последовательности шагов. Иногда путь "
+"разветвляется, разные действия пересекаются, а начать или закончить можно в "
+"нескольких местах. Часто инструкция даёт ориентиры, а пользователю всё равно"
+" приходится самому оценивать ситуацию и принимать решения."
 
 #: ../../source/how-to-guides.rst:77
 msgid "Key principles"
-msgstr ""
+msgstr "Основные принципы"
 
 #: ../../source/how-to-guides.rst:79
 msgid ""
 "A how to-guide is concerned with work - a task or problem, with a practical "
 "goal. *Maintain focus on that goal*."
 msgstr ""
+"Инструкция нужна для работы: у пользователя есть задача или проблема и "
+"конкретный результат, который нужно получить. *Не теряйте эту цель из виду*."
 
 #: ../../source/how-to-guides.rst:83
 msgid "focused on tasks or problems"
-msgstr ""
+msgstr "сосредоточена на задачах и проблемах"
 
 #: ../../source/how-to-guides.rst:84
 msgid "assume the user knows what they want to achieve"
-msgstr ""
+msgstr "предполагает, что пользователь знает, чего хочет добиться"
 
 #: ../../source/how-to-guides.rst:85
 msgid "action and only action"
-msgstr ""
+msgstr "только то, что помогает действовать"
 
 #: ../../source/how-to-guides.rst:86
 msgid "no digression, explanation, teaching"
-msgstr ""
+msgstr "без отступлений, объяснений и обучения"
 
 #: ../../source/how-to-guides.rst:88
 msgid ""
@@ -217,6 +276,10 @@ msgid ""
 " user in their work. They get in the way of the action; if they're "
 "important, link to them."
 msgstr ""
+"Всё лишнее отвлекает и автора, и пользователя и делает инструкцию слабее. "
+"Чаще всего хочется что-нибудь объяснить или добавить справочные сведения "
+"«для полноты». Ни то ни другое не помогает пользователю выполнить работу. "
+"Если эта информация важна, просто дайте на неё ссылку."
 
 #: ../../source/how-to-guides.rst:90
 msgid ""
@@ -224,10 +287,13 @@ msgid ""
 "assume to know what they want to do, and to be able to follow your "
 "instructions correctly."
 msgstr ""
+"Инструкция рассчитана на пользователя, который уже знает основы. Можно "
+"предполагать, что он понимает свою цель и способен правильно следовать вашим"
+" указаниям."
 
 #: ../../source/how-to-guides.rst:94
 msgid "Address real-world complexity"
-msgstr ""
+msgstr "Учитывайте реальные ситуации"
 
 #: ../../source/how-to-guides.rst:96
 msgid ""
@@ -237,10 +303,14 @@ msgid ""
 "must find ways to remain open to the range of possibilities, in such a way "
 "that the user can adapt your guidance to their needs."
 msgstr ""
+"**Инструкцию должно быть можно адаптировать к реальным ситуациям.** Если она"
+" работает только для *ровно одного* узкого случая, пользы от неё немного. "
+"Описать все возможные ситуации нельзя, поэтому оставляйте пользователю "
+"пространство, чтобы он мог подстроить ваши рекомендации под свою задачу."
 
 #: ../../source/how-to-guides.rst:99
 msgid "Omit the unnecessary"
-msgstr ""
+msgstr "Убирайте лишнее"
 
 #: ../../source/how-to-guides.rst:101
 msgid ""
@@ -249,10 +319,14 @@ msgid ""
 " does not. It should start and end in some reasonable, meaningful place, and"
 " require the reader to join it up to their own work."
 msgstr ""
+"В инструкциях **практическая польза важнее полноты**. Урок должен провести "
+"ученика через весь путь от начала до конца, а инструкция — нет. Она может "
+"начинаться и заканчиваться там, где это имеет смысл, а пользователь сам "
+"встроит её в свою работу."
 
 #: ../../source/how-to-guides.rst:107
 msgid "Provide a set of instructions"
-msgstr ""
+msgstr "Давайте конкретные шаги"
 
 #: ../../source/how-to-guides.rst:109
 msgid ""
@@ -261,6 +335,9 @@ msgid ""
 " you can work your way through it by taking the steps outlined in this "
 "approach. The steps are in the form of *actions*."
 msgstr ""
+"Инструкция описывает *рабочее решение* реальной задачи или проблемы. По сути"
+" это договор: если вы оказались в такой ситуации, вот последовательность "
+"шагов, которая поможет из неё выйти. Каждый шаг — это *действие*."
 
 #: ../../source/how-to-guides.rst:111
 msgid ""
@@ -268,10 +345,14 @@ msgid ""
 "judgement - solving a problem involves thinking it through. A how-to guide "
 "should address how the user thinks as well as what the user does."
 msgstr ""
+"Под «действиями» здесь понимаются не только физические операции, но и "
+"размышления и решения. Чтобы решить проблему, нужно её обдумать. Поэтому "
+"хорошая инструкция учитывает не только то, что делает пользователь, но и то,"
+" о чём ему приходится думать."
 
 #: ../../source/how-to-guides.rst:115
 msgid "Describe a logical sequence"
-msgstr ""
+msgstr "Выстраивайте шаги в логичном порядке"
 
 #: ../../source/how-to-guides.rst:117
 msgid ""
@@ -279,6 +360,8 @@ msgid ""
 "logical ordering in time, that there is a sense and meaning to this "
 "particular order."
 msgstr ""
+"В основе инструкции лежит *последовательность*. Шаги идут друг за другом не "
+"случайно: их порядок должен иметь смысл."
 
 #: ../../source/how-to-guides.rst:119
 msgid ""
@@ -286,6 +369,8 @@ msgid ""
 "(step two requires completion of step one, for example). In this case it's "
 "obvious what order your directions should take."
 msgstr ""
+"Иногда порядок диктует сама задача: например, второй шаг невозможно сделать,"
+" пока не закончен первый. Здесь всё очевидно."
 
 #: ../../source/how-to-guides.rst:121
 msgid ""
@@ -294,10 +379,14 @@ msgid ""
 "the user's working environment or even their thinking in a way that benefits"
 " the other, that's a good reason for putting it first."
 msgstr ""
+"Но бывает и сложнее. Две операции можно *выполнить* в любом порядке, однако "
+"одна из них может подготовить рабочее окружение или просто помочь "
+"пользователю правильно настроиться на следующую. Тогда её стоит поставить "
+"раньше."
 
 #: ../../source/how-to-guides.rst:125
 msgid "Seek flow"
-msgstr ""
+msgstr "Сохраняйте естественный ход работы"
 
 #: ../../source/how-to-guides.rst:127
 msgid ""
@@ -305,6 +394,9 @@ msgid ""
 "activities and thinking, in such a way that the guide acquires *flow*: "
 "smooth progress."
 msgstr ""
+"Стройте последовательность вокруг того, как *пользователь* на самом деле "
+"работает и думает. Тогда инструкция приобретает естественный *ход*: один шаг"
+" плавно ведёт к следующему."
 
 #: ../../source/how-to-guides.rst:129
 msgid ""
@@ -312,6 +404,9 @@ msgid ""
 "to sense and meaning in ordering requires paying attention to the way human "
 "beings think and act, and the needs of someone following directions."
 msgstr ""
+"Чтобы добиться такого хода, нужно хорошо понимать пользователя. Продумывая "
+"порядок шагов, учитывайте, как человек думает, действует и что ему нужно в "
+"каждый момент."
 
 #: ../../source/how-to-guides.rst:131
 msgid ""
@@ -323,6 +418,13 @@ msgid ""
 "they can be resolved in action? If you require the user to jump back to "
 "earlier concerns, is this necessary or avoidable?"
 msgstr ""
+"Иногда проблема очевидна: если пользователю приходится постоянно прыгать "
+"между разными инструментами и контекстами, работать неудобно. Но стоит "
+"смотреть глубже. О чём вы просите человека думать на каждом шаге? Насколько "
+"естественно внимание переходит от одной темы к другой? Долго ли приходится "
+"держать в голове незакрытый вопрос, прежде чем появится возможность что-то с"
+" ним сделать? Если нужно возвращаться к тому, что обсуждалось раньше, точно "
+"ли без этого нельзя обойтись?"
 
 #: ../../source/how-to-guides.rst:133
 msgid ""
@@ -330,6 +432,9 @@ msgid ""
 "action taking place in time. Action, and a guide to it, has pace and rhythm."
 " Badly-judged pace or disrupted rhythm are both damaging to flow."
 msgstr ""
+"Важен не только логичный порядок шагов, но и то, как работа ощущается во "
+"времени. У действий есть темп и ритм, и неудачный темп или постоянные сбои "
+"ломают естественный ход работы."
 
 #: ../../source/how-to-guides.rst:135
 msgid ""
@@ -338,71 +443,83 @@ msgid ""
 "the documentation equivalent of a helper who has the tool you were about to "
 "reach for, ready to place it in your hand."
 msgstr ""
+"Лучшая инструкция словно *предугадывает* следующий шаг пользователя. Это как"
+" помощник, который уже держит наготове инструмент ровно в тот момент, когда "
+"вы собирались за ним потянуться."
 
 #: ../../source/how-to-guides.rst:139
 msgid "Pay attention to naming"
-msgstr ""
+msgstr "Следите за названиями"
 
 #: ../../source/how-to-guides.rst:141
 msgid "**Choose titles that say exactly what a how-to guide shows.**"
 msgstr ""
+"**По заголовку должно быть сразу понятно, что показывает инструкция.**"
 
 #: ../../source/how-to-guides.rst:143
 msgid "good: *How to integrate application performance monitoring*"
-msgstr ""
+msgstr "хорошо: *Как подключить мониторинг производительности приложения*"
 
 #: ../../source/how-to-guides.rst:144
 msgid ""
 "bad: *Integrating application performance monitoring* (maybe the document is"
 " about how to decide whether you should, not about how to do it)"
 msgstr ""
+"плохо: *Подключение мониторинга производительности приложения* (возможно, "
+"документ объясняет, стоит ли вообще его подключать, а не как это сделать)"
 
 #: ../../source/how-to-guides.rst:145
 msgid ""
 "very bad: *Application performance monitoring* (maybe it's about *how* - but"
 " maybe it's about *whether*, or even just an explanation of *what* it is)"
 msgstr ""
+"очень плохо: *Мониторинг производительности приложения* (может быть, речь о "
+"том, *как* его подключить, а может — *зачем* он нужен или вообще *что* это "
+"такое)"
 
 #: ../../source/how-to-guides.rst:147
 msgid ""
 "Note that search engines appreciate good titles just as much as humans do."
-msgstr ""
+msgstr "Кстати, хорошие заголовки нравятся поисковикам не меньше, чем людям."
 
 #: ../../source/how-to-guides.rst:152
 msgid "The language of how-to guides"
-msgstr ""
+msgstr "Язык инструкций"
 
 #: ../../source/how-to-guides.rst:154
 msgid "*This guide shows you how to...*"
-msgstr ""
+msgstr "*В этой инструкции вы узнаете, как...*"
 
 #: ../../source/how-to-guides.rst:155
 msgid ""
 "Describe clearly the problem or task that the guide shows the user how to "
 "solve."
 msgstr ""
+"Сразу назовите задачу или проблему, которую поможет решить инструкция."
 
 #: ../../source/how-to-guides.rst:156
 msgid "*If you want x, do y. To achieve w, do z.*"
-msgstr ""
+msgstr "*Если вам нужно x, сделайте y. Чтобы получить w, сделайте z.*"
 
 #: ../../source/how-to-guides.rst:157
 msgid "Use conditional imperatives."
-msgstr ""
+msgstr "Стройте указания по схеме «если нужно x — сделайте y»."
 
 #: ../../source/how-to-guides.rst:158
 msgid "*Refer to the x reference guide for a full list of options.*"
-msgstr ""
+msgstr "*Полный список параметров смотрите в справочнике по x.*"
 
 #: ../../source/how-to-guides.rst:159
 msgid ""
 "Don't pollute your practical how-to guide with every possible thing the user"
 " might do related to x."
 msgstr ""
+"Не забивайте практическую инструкцию всем, что пользователь вообще может "
+"сделать с x."
 
 #: ../../source/how-to-guides.rst:165
 msgid "Applied to food and cooking"
-msgstr ""
+msgstr "На примере готовки"
 
 #: ../../source/how-to-guides.rst:167
 msgid ""
@@ -410,10 +527,13 @@ msgid ""
 "defines what will be achieved by following it, and **addresses a specific "
 "question** (*How do I make...?* or *What can I make with...?*)."
 msgstr ""
+"Хороший пример инструкции — рецепт. Он сразу говорит, какой результат вы "
+"получите, и **отвечает на конкретный вопрос**: *Как приготовить...?* или "
+"*Что можно приготовить из...?*"
 
 #: ../../source/how-to-guides.rst:169
 msgid "A recipe contains a list of ingredients and a list of steps."
-msgstr ""
+msgstr "В рецепте есть список ингредиентов и последовательность шагов."
 
 #: ../../source/how-to-guides.rst:172
 msgid ""
@@ -422,6 +542,9 @@ msgid ""
 "times before may still follow a recipe - even if they *created* the recipe "
 "themselves - to ensure that they do it correctly."
 msgstr ""
+"Рецепт не обязан *учить* вас готовить. Даже профессиональный повар, который "
+"готовил это блюдо десятки раз, может сверяться с рецептом — причём даже с "
+"тем, который *написал сам*, — просто чтобы ничего не упустить."
 
 #: ../../source/how-to-guides.rst:174
 msgid ""
@@ -429,6 +552,9 @@ msgid ""
 "has never cooked before should not be expected to follow a recipe with "
 "success, so a recipe is not a substitute for a cooking lesson."
 msgstr ""
+"Даже для того, чтобы следовать рецепту, **нужны хотя бы базовые навыки**. "
+"Человек, который никогда не готовил, вполне может не справиться. Поэтому "
+"рецепт не заменяет урок готовки."
 
 #: ../../source/how-to-guides.rst:176
 msgid ""
@@ -440,3 +566,9 @@ msgid ""
 " excludes both teaching and discussion, and focuses only on **how** to make "
 "the dish concerned."
 msgstr ""
+"Если человек пришёл за рецептом, а вместо него получил урок готовки, он "
+"скорее всего только разозлится. История блюда и интересные подробности тоже "
+"могут быть полезны — но точно не в тот момент, когда вы стоите у плиты и "
+"пытаетесь его приготовить. Хороший рецепт следует привычному формату, не "
+"пытается учить или рассуждать и сосредоточен только на том, **как** "
+"приготовить нужное блюдо."

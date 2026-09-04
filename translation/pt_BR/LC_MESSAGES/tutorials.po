@@ -276,7 +276,7 @@ msgstr "abstração, generalização"
 
 #: ../../source/tutorials.rst:85
 msgid "explanation"
-msgstr "explanação"
+msgstr "explicação"
 
 #: ../../source/tutorials.rst:86
 msgid "choices"

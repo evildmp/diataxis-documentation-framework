@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../source/foundations.rst:2
 msgid "Foundations"
-msgstr ""
+msgstr "Основы"
 
 #: ../../source/foundations.rst:4
 msgid ""
@@ -27,6 +31,9 @@ msgid ""
 "better experience of documentation as a result. It makes sense and it feels "
 "right."
 msgstr ""
+"Diátaxis ценят прежде всего потому, что он *работает*. С ним документация "
+"становится удобнее и для пользователей, и для авторов. Подход выглядит "
+"логично и ощущается правильным."
 
 #: ../../source/foundations.rst:6
 msgid ""
@@ -36,16 +43,22 @@ msgid ""
 "documentation, not three or five. It needs to demonstrate rigorous thinking "
 "and analysis, and that it stands on a sound theoretical foundation."
 msgstr ""
+"Но для полноценной теории документации этого мало. Нужно объяснить, *почему*"
+" Diátaxis работает. Почему типов документации именно четыре, а не три или "
+"пять? За этой схемой должна стоять не просто удачная догадка, а понятная "
+"логика и прочная теоретическая основа."
 
 #: ../../source/foundations.rst:8
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
 msgstr ""
+"Иначе Diátaxis останется просто ещё одним полезным практическим приёмом, про"
+" который можно сказать только: «кажется, работает неплохо»."
 
 #: ../../source/foundations.rst:12
 msgid "Two dimensions of craft"
-msgstr ""
+msgstr "Два измерения практики"
 
 #: ../../source/foundations.rst:14
 msgid ""
@@ -53,6 +66,8 @@ msgid ""
 "of its users. Knowing how to do that means understanding what the needs of "
 "users are."
 msgstr ""
+"В основе Diátaxis простой принцип: документация должна отвечать потребностям"
+" пользователей. Значит, сначала нужно понять, что именно им нужно."
 
 #: ../../source/foundations.rst:16
 msgid ""
@@ -62,16 +77,23 @@ msgid ""
 "programming language is a craft, as is flying a particular aircraft, or even"
 " being a pilot in general."
 msgstr ""
+"Пользователь, о котором говорит Diátaxis, — это человек, который осваивает и"
+" применяет какой-то навык. Масштаб здесь может быть любым. Можно учиться "
+"работать с конкретным инструментом или продуктом, программировать на "
+"определённом языке, управлять конкретной моделью самолёта или вообще "
+"осваивать профессию пилота."
 
 #: ../../source/foundations.rst:18
 msgid ""
 "Understanding the needs of these users means in turn understanding the "
 "essential characteristics of craft or skill."
 msgstr ""
+"Чтобы понять потребности такого пользователя, нужно сначала разобраться, как"
+" вообще устроено освоение и применение навыков."
 
 #: ../../source/foundations.rst:22
 msgid "Action/cognition"
-msgstr ""
+msgstr "Действие / понимание"
 
 #: ../../source/foundations.rst:24
 msgid ""
@@ -81,10 +103,14 @@ msgid ""
 "but they are counterparts, wholly distinct from each other, two different "
 "aspects of the same thing."
 msgstr ""
+"В любом навыке есть две стороны: **действие** — практическое знание, "
+"понимание *как* что-то делать — и **понимание** — знания о том, *что* и "
+"почему происходит. Они постоянно работают вместе, но это всё-таки разные "
+"стороны одного и того же навыка."
 
 #: ../../source/foundations.rst:28
 msgid "Acquisition/application"
-msgstr ""
+msgstr "Освоение / применение"
 
 #: ../../source/foundations.rst:30
 msgid ""
@@ -94,20 +120,24 @@ msgid ""
 " and being \"at study\" (concerned with acquiring them) are once again "
 "counterparts, distinct but bound up with each other."
 msgstr ""
+"Есть и второе разделение. Навык нужно сначала **освоить**, а потом "
+"**применять**. Когда человек учится, он получает новые знания и навыки. "
+"Когда работает — использует то, что уже освоил. Эти процессы связаны, но "
+"задачи у них разные."
 
 #: ../../source/foundations.rst:34
 msgid "The map of the territory"
-msgstr ""
+msgstr "Карта"
 
 #: ../../source/foundations.rst:36
 msgid ""
 "This gives us two dimensions of skill, that we can lay out on a map - a map "
 "of the territory of craft:"
-msgstr ""
+msgstr "Получаются два измерения любого навыка. Их можно разложить по карте:"
 
 #: ../../source/foundations.rst:38 ../../source/foundations.rst:51
 msgid "The territory of craft as a two-dimensional map"
-msgstr ""
+msgstr "Два измерения навыка на карте"
 
 #: ../../source/foundations.rst:41
 msgid ""
@@ -116,6 +146,9 @@ msgid ""
 "necessarily four quarters to it, and there could not be three, or five. It "
 "is not an arbitrary number."
 msgstr ""
+"Эта карта *полная*. Два измерения охватывают всё пространство и делят его "
+"ровно на четыре части. Поэтому частей не может быть три или пять. Четыре — "
+"не случайное число."
 
 #: ../../source/foundations.rst:43
 msgid ""
@@ -124,10 +157,14 @@ msgid ""
 "map, it reveals in turn what documentation must be and do to fulfil those "
 "obligations - in four distinct ways."
 msgstr ""
+"Каждая часть карты соответствует своей потребности. Если документация должна"
+" помогать человеку осваивать и применять навыки, то из этой карты становится"
+" понятно, какие задачи должна решать документация. Получаются четыре разных "
+"задачи."
 
 #: ../../source/foundations.rst:47
 msgid "Serving needs"
-msgstr ""
+msgstr "От потребностей к документации"
 
 #: ../../source/foundations.rst:49
 msgid ""
@@ -136,6 +173,9 @@ msgid ""
 " documentation do to align with these qualities of skill, and to what need "
 "is it oriented in each case?"
 msgstr ""
+"Из этой схемы и получается знакомая карта Diátaxis. По сути она отвечает на "
+"вопрос: что должна делать документация в каждой из четырёх ситуаций и какую "
+"потребность пользователя закрывать?"
 
 #: ../../source/foundations.rst:54
 msgid ""
@@ -143,70 +183,72 @@ msgid ""
 "dimensions, each need also defined by the characteristics of its quarter of "
 "the map."
 msgstr ""
+"Теперь видно, как четыре типа документации отвечают на разные *потребности* "
+"пользователя в этих двух измерениях."
 
 #: ../../source/foundations.rst:61
 msgid "need"
-msgstr ""
+msgstr "потребность"
 
 #: ../../source/foundations.rst:62
 msgid "addressed in"
-msgstr ""
+msgstr "где решается"
 
 #: ../../source/foundations.rst:63
 msgid "the user"
-msgstr ""
+msgstr "пользователь"
 
 #: ../../source/foundations.rst:64
 msgid "the documentation"
-msgstr ""
+msgstr "документация"
 
 #: ../../source/foundations.rst:65
 msgid "learning"
-msgstr ""
+msgstr "обучение"
 
 #: ../../source/foundations.rst:66
 msgid "tutorials"
-msgstr ""
+msgstr "уроки"
 
 #: ../../source/foundations.rst:67 ../../source/foundations.rst:79
 msgid "acquires their craft"
-msgstr ""
+msgstr "осваивает навык"
 
 #: ../../source/foundations.rst:68 ../../source/foundations.rst:72
 msgid "informs action"
-msgstr ""
+msgstr "помогает действовать"
 
 #: ../../source/foundations.rst:69
 msgid "goals"
-msgstr ""
+msgstr "цели"
 
 #: ../../source/foundations.rst:70
 msgid "how-to guides"
-msgstr ""
+msgstr "инструкции"
 
 #: ../../source/foundations.rst:71 ../../source/foundations.rst:75
 msgid "applies their craft"
-msgstr ""
+msgstr "применяет навык"
 
 #: ../../source/foundations.rst:73
 msgid "information"
-msgstr ""
+msgstr "информация"
 
 #: ../../source/foundations.rst:74
 msgid "reference"
-msgstr ""
+msgstr "справочник"
 
 #: ../../source/foundations.rst:76 ../../source/foundations.rst:80
 msgid "informs cognition"
-msgstr ""
+msgstr "помогает понять"
 
 #: ../../source/foundations.rst:77
 msgid "understanding"
-msgstr ""
+msgstr "понимание"
 
 #: ../../source/foundations.rst:78
 msgid "explanation"
-msgstr ""
+msgstr "объяснение"
 
 #: ../../source/foundations.rst:83
 msgid ""
@@ -215,6 +257,10 @@ msgid ""
 "underpinned by a systematic description and analysis of generalised **user "
 "needs**."
 msgstr ""
+"Карту Diátaxis легко понять и запомнить. Но карта полезна только тогда, "
+"когда правильно описывает реальность. В основе Diátaxis лежит системный "
+"разбор **потребностей пользователей**, а не просто удобная схема из четырёх "
+"квадратов."
 
 #: ../../source/foundations.rst:85
 msgid ""
@@ -223,3 +269,7 @@ msgid ""
 " practitioners in a craft. This is why there are four and only four types of"
 " documentation. There is simply no other territory to cover."
 msgstr ""
+"Поэтому уроки, инструкции, справочники и объяснения образуют полный набор "
+"документации, которая нужна человеку для освоения и применения навыков. "
+"Именно поэтому типов четыре — не больше и не меньше. Других потребностей на "
+"этой карте просто не остаётся."

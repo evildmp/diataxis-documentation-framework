@@ -458,7 +458,7 @@ msgstr "referencia"
 
 #: ../../source/start-here.rst:158
 msgid "explanation"
-msgstr "explanação"
+msgstr "explicação"
 
 #: ../../source/start-here.rst:165
 msgid "Working"

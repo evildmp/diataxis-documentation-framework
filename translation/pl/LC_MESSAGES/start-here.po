@@ -4,8 +4,8 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# evildmp <daniele@vurt.org>, 2026
 # Piotr Nawrot, 2026
+# evildmp <daniele@vurt.org>, 2026
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: Piotr Nawrot, 2026\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -188,7 +188,7 @@ msgstr "Referencje"
 
 #: ../../source/start-here.rst:61
 msgid ":ref:`Reference in more detail <reference>`"
-msgstr "f:`Reference in more detail <reference>`"
+msgstr ":ref:`Dokumentacja referencyjna w większym szczególe <reference>`"
 
 #: ../../source/start-here.rst:63
 msgid ""

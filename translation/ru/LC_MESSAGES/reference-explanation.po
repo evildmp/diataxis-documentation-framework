@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../source/reference-explanation.rst:4
 msgid "The difference between reference and explanation"
-msgstr ""
+msgstr "Чем справочник отличается от объяснения"
 
 #: ../../source/reference-explanation.rst:6
 msgid ""
@@ -27,6 +31,8 @@ msgid ""
 "map - they don't contain steps to guide the reader, they contain theoretical"
 " knowledge."
 msgstr ""
+"Объяснения и справочник находятся в *теоретической* половине карты Diátaxis."
+" Они не ведут читателя по шагам, а дают знания."
 
 #: ../../source/reference-explanation.rst:9
 msgid ""
@@ -35,10 +41,13 @@ msgid ""
 "knowledge, and its *application*. In other words it's the distinction "
 "between *study* and *work*."
 msgstr ""
+"Разница между ними такая же, как между уроками и инструкциями: одно помогает"
+" *осваивать* знания и навыки, другое — *применять* их. Проще говоря, это "
+"разница между *учёбой* и *работой*."
 
 #: ../../source/reference-explanation.rst:15
 msgid "A straightforward distinction, *mostly*"
-msgstr ""
+msgstr "В основном разница очевидна"
 
 #: ../../source/reference-explanation.rst:17
 msgid ""
@@ -46,6 +55,9 @@ msgid ""
 "one or the other. *Reference*, as a form of writing, is well understood; "
 "it's used in distinctions we make about writing from an early age."
 msgstr ""
+"Обычно понять, что перед нами — справочник или объяснение, довольно легко. "
+"*Справочник* как тип текста всем хорошо знаком: отличать такие материалы от "
+"других нас учат ещё довольно рано."
 
 #: ../../source/reference-explanation.rst:21
 msgid ""
@@ -54,20 +66,27 @@ msgid ""
 "material. An article that explains *why* there are tides and how they behave"
 " is self-evidently explanation."
 msgstr ""
+"Да и сами примеры обычно не оставляют сомнений. Таблица приливов с цифрами —"
+" явный справочник. Статья о том, *почему* возникают приливы и как они себя "
+"ведут, — очевидное объяснение."
 
 #: ../../source/reference-explanation.rst:25
 msgid "There are good rules of thumb:"
-msgstr ""
+msgstr "Есть несколько простых ориентиров:"
 
 #: ../../source/reference-explanation.rst:27
 msgid "**If it's boring and unmemorable** it's probably *reference*."
 msgstr ""
+"**Если текст скучный и совершенно не запоминается**, скорее всего, это "
+"*справочник*."
 
 #: ../../source/reference-explanation.rst:29
 msgid ""
 "**Lists of things** (such as classes or methods or attributes), and **tables"
 " of information**, will generally turn out to belong in *reference*."
 msgstr ""
+"**Списки** — например, классов, методов или атрибутов — и **таблицы с "
+"данными** почти всегда относятся к *справочнику*."
 
 #: ../../source/reference-explanation.rst:31
 msgid ""
@@ -75,6 +94,9 @@ msgid ""
 "probably, it's *explanation* (even if really there is no accounting for what"
 " people might read in the bath)."
 msgstr ""
+"А вот **если вы легко представляете, как читаете этот текст в ванной**, "
+"скорее всего, это *объяснение*. Хотя кто знает, что люди вообще читают в "
+"ванной."
 
 #: ../../source/reference-explanation.rst:33
 msgid ""
@@ -82,10 +104,13 @@ msgid ""
 "tell me more about <topic>?** - the answer or discussion that follows is "
 "most likely going to be an *explanation* of it."
 msgstr ""
+"Представьте, что на прогулке или за бокалом вы спрашиваете друга: **Можешь "
+"рассказать подробнее про <тему>?** Скорее всего, следующий за этим разговор "
+"и будет *объяснением*."
 
 #: ../../source/reference-explanation.rst:39
 msgid "... but intuition isn't reliable enough"
-msgstr ""
+msgstr "...но одной интуиции недостаточно"
 
 #: ../../source/reference-explanation.rst:41
 msgid ""
@@ -93,6 +118,9 @@ msgid ""
 "reference and explanations. But only *mostly* - because it's also quite easy"
 " to slip between one form and the other."
 msgstr ""
+"Обычно отличить справочник от объяснения действительно можно интуитивно. Но "
+"только *обычно*: один тип текста довольно легко незаметно превратить в "
+"другой."
 
 #: ../../source/reference-explanation.rst:45
 msgid ""
@@ -103,6 +131,11 @@ msgid ""
 " them into explanation (using them to say *why*, or show *what if*, or how "
 "it came to be)."
 msgstr ""
+"Чаще всего это происходит, когда справочник начинает разрастаться. Добавлять"
+" в него короткие примеры вполне нормально — так же как в энциклопедии бывают"
+" иллюстрации. Но примеры легко увлекают автора. Хочется развить их дальше: "
+"объяснить, *почему* всё работает именно так, что будет, *если* сделать "
+"иначе, или как всё к этому пришло. И вот это уже объяснение."
 
 #: ../../source/reference-explanation.rst:50
 msgid ""
@@ -111,10 +144,14 @@ msgid ""
 "it's bad for the explanation too, because it's not allowed to develop "
 "appropriately and do its own work."
 msgstr ""
+"Поэтому объяснения часто оказываются разбросаны по справочнику маленькими "
+"кусочками. От этого страдают оба типа документации. Справочнику мешают "
+"постоянные отступления, а объяснение не получает достаточно места, чтобы "
+"нормально раскрыть тему."
 
 #: ../../source/reference-explanation.rst:56
 msgid "Work and study"
-msgstr ""
+msgstr "Работа и учёба"
 
 #: ../../source/reference-explanation.rst:58
 msgid ""
@@ -124,6 +161,10 @@ msgid ""
 "task? Or is it something they'd need once they have stepped away from the "
 "work, and want to think about it?"
 msgstr ""
+"Если всё-таки сомневаетесь, задайте простой вопрос. Этот материал нужен "
+"человеку *во время работы*, когда он прямо сейчас решает конкретную задачу? "
+"Или он понадобится позже, когда человек отложит работу и захочет разобраться"
+" в теме глубже?"
 
 #: ../../source/reference-explanation.rst:64
 msgid ""
@@ -131,25 +172,34 @@ msgid ""
 "reflect how, at that moment, the reader stands in relation to the craft in "
 "question, in a relationship of *work* or *study*."
 msgstr ""
+"Это две совершенно разные *потребности*. В один момент человек применяет "
+"свои знания и навыки в *работе*, в другой — *учится* и пытается лучше понять"
+" своё дело."
 
 #: ../../source/reference-explanation.rst:69
 msgid "To help avoid being misled by intuition, see :ref:`compass`."
-msgstr ""
+msgstr "Если интуиция всё-таки подводит, воспользуйтесь :ref:`compass`."
 
 #: ../../source/reference-explanation.rst:71
 msgid ""
 "**Reference** is what a user needs in order help *apply* knowledge and "
 "skill, while they are working."
 msgstr ""
+"**Справочник** нужен пользователю во время работы, чтобы *применять* знания "
+"и навыки."
 
 #: ../../source/reference-explanation.rst:74
 msgid ""
 "**Explanation** is what someone will turn to to help them *acquire* "
 "knowledge and skill - \"study\"."
 msgstr ""
+"**Объяснение** помогает *осваивать* знания и навыки — то есть учиться."
 
 #: ../../source/reference-explanation.rst:78
 msgid ""
 "Understanding those two relationships and responding to the needs in them is"
 " the key to creating effective reference and explanation."
 msgstr ""
+"Если понимать разницу между этими двумя ситуациями и потребностями "
+"пользователя, становится гораздо проще писать хорошие справочники и "
+"объяснения."

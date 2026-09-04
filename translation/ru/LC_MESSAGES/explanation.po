@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,25 +23,30 @@ msgstr ""
 
 #: ../../source/explanation.rst:4
 msgid "Explanation"
-msgstr ""
+msgstr "Объяснение"
 
 #: ../../source/explanation.rst:8
 msgid ""
 "Explanation is a discursive treatment of a subject, that permits "
 "*reflection*. Explanation is **understanding-oriented**."
 msgstr ""
+"Объяснение помогает разобраться в теме и посмотреть на неё шире. Здесь можно"
+" остановиться и *осмыслить* то, что уже знаешь. Объяснение всегда **нацелено"
+" на понимание**."
 
 #: ../../source/explanation.rst:11
 msgid ""
 "Explanation deepens and broadens the reader's understanding of a subject. It"
 " brings clarity, light and context."
 msgstr ""
+"Объяснение помогает глубже понять тему, увидеть связи и разобраться в "
+"контексте."
 
 #: ../../source/explanation.rst:13
 msgid ""
 "Explanation - understanding oriented, theoretical knowledge, that serves our"
 " study"
-msgstr ""
+msgstr "Объяснение — материалы, которые помогают лучше понять тему"
 
 #: ../../source/explanation.rst:17
 msgid ""
@@ -45,6 +54,9 @@ msgid ""
 "something else, and depends on something else, yet at the same time brings "
 "something new - shines a new light - on the subject matter."
 msgstr ""
+"Здесь важно *осмысление*. Сначала мы что-то узнаём или делаем, а уже потом "
+"можем остановиться и подумать об этом. Такой взгляд назад часто помогает "
+"увидеть в теме что-то новое."
 
 #: ../../source/explanation.rst:19
 msgid ""
@@ -54,12 +66,18 @@ msgid ""
 "scope in each case is a topic - \"an area of knowledge\", that somehow has "
 "to be bounded in a reasonable, meaningful way."
 msgstr ""
+"Объяснение смотрит на тему шире остальных трёх типов документации. Оно не "
+"ведёт пользователя к конкретному результату, как инструкция, и не описывает "
+"продукт в деталях, как справочник. Обычно объяснение охватывает целую тему. "
+"Поэтому автору самому приходится решать, где провести её границы."
 
 #: ../../source/explanation.rst:21
 msgid ""
 "For the user, explanation joins things together. It's an answer to the "
 "question: *Can you tell me about ...?*"
 msgstr ""
+"Объяснение связывает отдельные знания в общую картину. Оно отвечает на "
+"вопрос: *Расскажите мне о...*"
 
 #: ../../source/explanation.rst:23
 msgid ""
@@ -67,14 +85,17 @@ msgid ""
 "itself (one could say, explanation is the only kind of documentation that it"
 " might make sense to read in the bath)."
 msgstr ""
+"Такую документацию вполне можно читать вдали от самого продукта. Можно даже "
+"сказать, что объяснение — единственный тип документации, который имеет смысл"
+" читать в ванной."
 
 #: ../../source/explanation.rst:28
 msgid "The value and place of explanation"
-msgstr ""
+msgstr "Зачем нужны объяснения"
 
 #: ../../source/explanation.rst:31
 msgid "Explanation and understanding"
-msgstr ""
+msgstr "Объяснение и понимание"
 
 #: ../../source/explanation.rst:33
 msgid ""
@@ -86,28 +107,36 @@ msgid ""
 "can afford to be without an understanding of that craft, and needs the "
 "explanatory material that will help weave it together."
 msgstr ""
+"Объяснение редко помогает решить задачу прямо сейчас. Оно не говорит, какую "
+"кнопку нажать и что делать дальше, поэтому иногда кажется менее важным. Это "
+"ошибка. Объяснение может быть менее *срочным*, чем другие три типа "
+"документации, но оно не менее *важно*. Чтобы хорошо заниматься своим делом, "
+"нужно понимать, как оно устроено и почему всё работает именно так. "
+"Объяснения помогают собрать это понимание."
 
 #: ../../source/explanation.rst:38
 msgid ""
 "Your explanation documentation doesn't need to be called *Explanation*. "
 "Alternatives include:"
 msgstr ""
+"Раздел с объяснениями необязательно так и называть — *Объяснения*. Подойдут,"
+" например:"
 
 #: ../../source/explanation.rst:40
 msgid "*Discussion*"
-msgstr ""
+msgstr "*Обсуждение*"
 
 #: ../../source/explanation.rst:41
 msgid "*Background*"
-msgstr ""
+msgstr "*Контекст*"
 
 #: ../../source/explanation.rst:42
 msgid "*Conceptual guides*"
-msgstr ""
+msgstr "*Основные понятия*"
 
 #: ../../source/explanation.rst:43
 msgid "*Topics*"
-msgstr ""
+msgstr "*Темы*"
 
 #: ../../source/explanation.rst:45
 msgid ""
@@ -115,6 +144,10 @@ msgid ""
 "*unfolding*, the revelation of what is hidden in the folds. So explanation "
 "brings to the light things that were implicit or obscured."
 msgstr ""
+"Английское слово *explanation* и родственные ему слова в других языках "
+"связаны с идеей *разворачивания*: раскрыть то, что было спрятано в складках."
+" Объяснение делает явным то, что раньше было скрыто или только "
+"подразумевалось."
 
 #: ../../source/explanation.rst:47
 msgid ""
@@ -124,6 +157,10 @@ msgid ""
 "Understanding seals together the other components of our mastery of a craft,"
 " and makes it safely our own."
 msgstr ""
+"Со словами со значением *понимать* похожая история: во многих языках их "
+"корни связаны с идеей что-то схватить или охватить — как в английском "
+"*comprehend*. И в этом есть смысл. Когда мы понимаем тему, отдельные знания "
+"и навыки складываются в цельную картину."
 
 #: ../../source/explanation.rst:49
 msgid ""
@@ -132,10 +169,14 @@ msgid ""
 "practitioner's knowledge of their craft is loose and fragmented and fragile,"
 " and their exercise of it is *anxious*."
 msgstr ""
+"Одних объяснений недостаточно, чтобы что-то понять. Но без них знания так и "
+"остаются разрозненными и плохо держатся вместе. В итоге человек вроде бы "
+"умеет выполнять отдельные действия, но не чувствует уверенности в том, что "
+"понимает всю систему."
 
 #: ../../source/explanation.rst:55
 msgid "Explanation and its boundaries"
-msgstr ""
+msgstr "Границы объяснения"
 
 #: ../../source/explanation.rst:57
 msgid ""
@@ -144,6 +185,9 @@ msgid ""
 "Instead, explanation tends to be scattered in small parcels in other "
 "sections."
 msgstr ""
+"Объяснения часто вообще не выделяют в отдельный тип документации. Вроде бы "
+"понятно, что некоторые вещи нужно объяснить, но в итоге такие кусочки просто"
+" разбрасывают по другим разделам."
 
 #: ../../source/explanation.rst:61
 msgid ""
@@ -151,6 +195,9 @@ msgid ""
 "start? It's also not clear where to conclude. There is an open-endedness "
 "about it that can give the writer too many possibilities."
 msgstr ""
+"Хорошее объяснение написать непросто. С чего начать? Где остановиться? У "
+"темы редко есть очевидные границы, поэтому очень легко попытаться рассказать"
+" вообще всё."
 
 #: ../../source/explanation.rst:64
 msgid ""
@@ -159,6 +206,9 @@ msgid ""
 "learn, what task the user needs to achieve, or just by the scope of the "
 "machine itself."
 msgstr ""
+"С уроками, инструкциями и справочниками проще. Их границы задаёт что-то "
+"конкретное: чему должен научиться пользователь, какую задачу ему нужно "
+"решить или как устроен сам продукт."
 
 #: ../../source/explanation.rst:67
 msgid ""
@@ -166,14 +216,17 @@ msgid ""
 "question to serve as a prompt. Otherwise, you simply have to draw some lines"
 " that mark out a reasonable area and be satisfied with that."
 msgstr ""
+"Для объяснения удобно отталкиваться от реального или воображаемого вопроса "
+"*почему?* Если такого вопроса нет, просто выберите разумные границы темы и "
+"не пытайтесь охватить всё."
 
 #: ../../source/explanation.rst:75
 msgid "Writing good explanation"
-msgstr ""
+msgstr "Как писать хорошие объяснения"
 
 #: ../../source/explanation.rst:78
 msgid "Make connections"
-msgstr ""
+msgstr "Показывайте связи"
 
 #: ../../source/explanation.rst:80
 msgid ""
@@ -181,10 +234,13 @@ msgid ""
 " your readers. **Make connections** to other things, even to things outside "
 "the immediate topic, if that helps."
 msgstr ""
+"Объяснение помогает читателю собрать отдельные знания в общую картину. "
+"**Показывайте связи** с другими вещами, даже за пределами самой темы, если "
+"это помогает её понять."
 
 #: ../../source/explanation.rst:85
 msgid "Provide context"
-msgstr ""
+msgstr "Добавляйте контекст"
 
 #: ../../source/explanation.rst:87
 msgid ""
@@ -192,26 +248,30 @@ msgid ""
 " are so - design decisions, historical reasons, technical constraints - draw"
 " implications, mention specific examples."
 msgstr ""
+"**Давайте предысторию и контекст.** Объясняйте, *почему* всё устроено именно"
+" так: какие решения были приняты, какие были исторические причины и "
+"технические ограничения. Показывайте последствия и приводите конкретные "
+"примеры."
 
 #: ../../source/explanation.rst:92
 msgid "Talk *about* the subject"
-msgstr ""
+msgstr "Говорите *о* теме"
 
 #: ../../source/explanation.rst:96
 msgid "the bigger picture"
-msgstr ""
+msgstr "общая картина"
 
 #: ../../source/explanation.rst:97
 msgid "history"
-msgstr ""
+msgstr "история"
 
 #: ../../source/explanation.rst:98
 msgid "choices, alternatives, possibilities"
-msgstr ""
+msgstr "варианты, альтернативы, возможности"
 
 #: ../../source/explanation.rst:99
 msgid "why: reasons and justifications"
-msgstr ""
+msgstr "почему: причины и обоснования"
 
 #: ../../source/explanation.rst:101
 msgid ""
@@ -221,10 +281,14 @@ msgid ""
 "each title. For example: *About user authentication*, or *About database "
 "connection policies*."
 msgstr ""
+"Объяснение рассматривает тему *со всех сторон*. Это полезно отражать даже в "
+"заголовках: перед названием должно естественно вставляться слово *о*. "
+"Например: *Об аутентификации пользователей* или *О правилах подключения к "
+"базе данных*."
 
 #: ../../source/explanation.rst:107
 msgid "Admit opinion and perspective"
-msgstr ""
+msgstr "Не бойтесь мнений и разных точек зрения"
 
 #: ../../source/explanation.rst:109
 msgid ""
@@ -233,6 +297,9 @@ msgid ""
 "with beliefs and thoughts. The reality of any human creation is rich with "
 "opinion, and that needs to be part of any understanding of it."
 msgstr ""
+"Мнения могут казаться странной вещью для документации. Но продукты создают "
+"люди, а люди постоянно принимают решения, исходя из своих взглядов и "
+"представлений. Если мы хотим понять продукт, важно понимать и эти решения."
 
 #: ../../source/explanation.rst:111
 msgid ""
@@ -241,6 +308,9 @@ msgid ""
 "**Explanation can and must consider alternatives**, counter-examples or "
 "multiple different approaches to the same question."
 msgstr ""
+"На одну и ту же тему можно смотреть по-разному. Поэтому **в объяснении стоит"
+" показывать альтернативы**: другие подходы, точки зрения и примеры, которые "
+"помогают увидеть границы основной идеи."
 
 #: ../../source/explanation.rst:113
 msgid ""
@@ -248,10 +318,14 @@ msgid ""
 "opening up the topic for consideration. It helps to think of explanation as "
 "discussion: discussions can even consider and weigh up contrary *opinions*."
 msgstr ""
+"В объяснении вы не даёте инструкций и не просто перечисляете факты — вы "
+"помогаете читателю разобраться в теме. Полезно относиться к объяснению как к"
+" обсуждению: здесь можно сравнивать разные подходы и даже противоположные "
+"*мнения*."
 
 #: ../../source/explanation.rst:117
 msgid "Keep explanation closely bounded"
-msgstr ""
+msgstr "Не выходите за границы темы"
 
 #: ../../source/explanation.rst:119
 msgid ""
@@ -261,62 +335,72 @@ msgid ""
 "places for these, and allowing them to creep in interferes with the "
 "explanation itself, and removes them from view in the correct place."
 msgstr ""
+"Объяснения легко начинают поглощать всё подряд. Хочется раскрыть тему "
+"полностью — и вот в текст уже попадают инструкции и технические детали. Но "
+"для них есть свои места. Здесь они только мешают, а заодно становятся "
+"труднее найти там, где пользователь ожидает их увидеть."
 
 #: ../../source/explanation.rst:125
 msgid "The language of explanation"
-msgstr ""
+msgstr "Язык объяснений"
 
 #: ../../source/explanation.rst:127
 msgid "*The reason for x is because historically, y ...*"
-msgstr ""
+msgstr "*Причина x в том, что исторически y...*"
 
 #: ../../source/explanation.rst:128
 msgid "Explain."
-msgstr ""
+msgstr "Объясняйте."
 
 #: ../../source/explanation.rst:129
 msgid "*W is better than z, because ...*"
-msgstr ""
+msgstr "*W лучше z, потому что...*"
 
 #: ../../source/explanation.rst:130
 msgid "Offer judgements and even opinions where appropriate.."
-msgstr ""
+msgstr "Давайте оценки и высказывайте мнение, когда это уместно."
 
 #: ../../source/explanation.rst:131
 msgid "*An x in system y is analogous to a w in system z. However ...*"
-msgstr ""
+msgstr "*X в системе y похож на w в системе z. Однако...*"
 
 #: ../../source/explanation.rst:132
 msgid "Provide context that helps the reader."
-msgstr ""
+msgstr "Давайте контекст, который помогает читателю разобраться."
 
 #: ../../source/explanation.rst:133
 msgid "*Some users prefer w (because z). This can be a good approach, but...*"
 msgstr ""
+"*Некоторые пользователи предпочитают w (потому что z). Это может быть "
+"хорошим подходом, но...*"
 
 #: ../../source/explanation.rst:134
 msgid "Weigh up alternatives."
-msgstr ""
+msgstr "Сравнивайте разные варианты."
 
 #: ../../source/explanation.rst:135
 msgid "*An x interacts with a y as follows: ...*"
-msgstr ""
+msgstr "*X взаимодействует с y следующим образом: ...*"
 
 #: ../../source/explanation.rst:136
 msgid ""
 "Unfold the machinery's internal secrets, to help understand why something "
 "does what it does."
 msgstr ""
+"Показывайте, что происходит внутри системы, чтобы было понятно, почему она "
+"ведёт себя именно так."
 
 #: ../../source/explanation.rst:141
 msgid "Analogy from food and cooking"
-msgstr ""
+msgstr "На примере еды и готовки"
 
 #: ../../source/explanation.rst:144
 msgid ""
 "In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
 " cooking*."
 msgstr ""
+"В 1984 году `Harold McGee <https://www.curiouscook.com>`_ выпустил книгу *On"
+" food and cooking*."
 
 #: ../../source/explanation.rst:150
 msgid ""
@@ -326,6 +410,11 @@ msgid ""
 "technology. It explains for example why we do what we do in the kitchen and "
 "how that has changed."
 msgstr ""
+"Эта книга не учит готовить. В ней нет рецептов — кроме исторических примеров"
+" — и это не справочник. Вместо этого она рассматривает еду и готовку в "
+"контексте истории, общества, науки и технологий. Например, объясняет, почему"
+" на кухне мы делаем привычные вещи именно так и как эти привычки менялись со"
+" временем."
 
 #: ../../source/explanation.rst:152
 msgid ""
@@ -333,6 +422,9 @@ msgid ""
 " want to reflect on cooking. It illuminates the subject by taking multiple "
 "different perspectives on it, shining light from different angles."
 msgstr ""
+"Очевидно, это не та книга, которую читают *во время* готовки. Её открывают, "
+"когда хочется подумать о самой готовке и лучше её понять. Книга смотрит на "
+"тему с разных сторон и каждый раз подсвечивает что-то новое."
 
 #: ../../source/explanation.rst:154
 msgid ""
@@ -342,3 +434,7 @@ msgid ""
 "kitchen, but *it will change how we think about our craft, and will affect "
 "our practice*."
 msgstr ""
+"После такой книги, как *On food and cooking*, мы уже иначе понимаем готовку."
+" Знаем больше и видим глубже. Возможно, при следующем походе на кухню ничего"
+" из прочитанного не пригодится напрямую. Но *это изменит наше представление "
+"о готовке и в итоге повлияет на то, как мы готовим*."

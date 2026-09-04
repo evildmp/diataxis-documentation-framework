@@ -150,7 +150,7 @@ msgid ""
 "steps to arrive where you want to go."
 msgstr ""
 "尽管 Diátaxis 旨在提供文档的整体图景，但 **不要试图从全局着手**。这既无必要，也无助益。Diátaxis "
-"的设计初衷是引导你小步快跑；坚持不懈地迈出小步，最终就能抵达彼岸。"
+"的设计初衷是引导你小步快跑；不积跬步，无以至千里。"
 
 #: ../../source/how-to-use-diataxis.rst:59
 msgid "Just do something"
@@ -174,6 +174,8 @@ msgid ""
 "that moment: the file you’re in, the last page you read - it doesn’t matter."
 " If there isn’t one just choose something, literally at random."
 msgstr ""
+"**抉择** —— "
+"在文档之中的任意角落。如果你当下没有想要纠正的地方，那就不必刻意去搜寻显著的问题。只需看看此刻眼前的内容：你正在查看的文件、最后阅读的界面，都无妨。如果没有，那就随意选一个，完全随机即可。"
 
 #: ../../source/how-to-use-diataxis.rst:70
 msgid ""
@@ -184,12 +186,15 @@ msgid ""
 "What can be added, moved, removed or changed to serve that need better? Do "
 "its language and logic meet the requirements of this mode of documentation?*"
 msgstr ""
+"**评估它**。接着，请你用批判的眼光审视它。最好选一个较小的对象，以篇幅不超过一页为佳，要是能再小一点，比如一个段落或一个句子，就更理想了。然后，请你对照"
+" Diátaxis "
+"框架提出的几个问题来拷问它：这段内容背后代表的用户需求是什么？它在多大程度上满足了那个需求？为了让需求得到更好的满足，我们可以添加、挪动、删减或改动哪些东西？它的措辞和行文逻辑，又是否达到了这类文档应有的标准？"
 
 #: ../../source/how-to-use-diataxis.rst:75
 msgid ""
 "**Decide what to do**. Decide, based on your answers to those questions: "
 "*What single next action will produce an immediate improvement here?*"
-msgstr ""
+msgstr "**做出决策**：基于你对这一问题的答案：*哪一项具体的行动能产生立竿见影的改进？*"
 
 #: ../../source/how-to-use-diataxis.rst:78
 msgid ""
@@ -197,10 +202,11 @@ msgid ""
 "i.e. publish it, or at least commit the change. Don't feel that you need to "
 "do anything else to make a worthy improvement."
 msgstr ""
+"**付诸行动**。完成下一步行动，*并确保其为已完成状态*。也就是说，发布它，或至少提交更改。无需觉得你还需要做些什么，才能使这次改进称得上足斤足两。"
 
 #: ../../source/how-to-use-diataxis.rst:81
 msgid "And then go back to the beginning of the cycle."
-msgstr ""
+msgstr "随后返回这个循环的开端。"
 
 #: ../../source/how-to-use-diataxis.rst:83
 msgid ""
@@ -209,21 +215,22 @@ msgid ""
 "do. It keeps work flowing in the right direction, always towards the desired"
 " end, without having to expend energies on a plan."
 msgstr ""
+"以这种方式工作，有助于缓解文档编写工作中最棘手也最令人困扰的一个问题，也就是厘清下一步行动所带来的压力。它能使工作始终沿着正确的方向推进，持续朝向既定目标，而不必为制定计划劳心费力。"
 
 #: ../../source/how-to-use-diataxis.rst:89
 msgid "Allow your work to develop organically"
-msgstr ""
+msgstr "让工作顺其自然地发展"
 
 #: ../../source/how-to-use-diataxis.rst:91
 msgid ""
 "There's a strong urge to work in a cycle of planning and execution in order "
 "to work towards results. But it's not the only way, and there are often "
 "better ways when working with documentation."
-msgstr ""
+msgstr "人们往往有一种强烈的冲动，倾向于在规划与执行的循环中开展工作，以求取得成果。但这并非唯一的路径，在处理文档工作时，往往存在更优秀的方法。"
 
 #: ../../source/how-to-use-diataxis.rst:95
 msgid "Well-formed organic growth"
-msgstr ""
+msgstr "良性有机演进"
 
 #: ../../source/how-to-use-diataxis.rst:97
 msgid ""
@@ -234,12 +241,13 @@ msgid ""
 "of cell. It's not the other way round, that a structure is imposed on the "
 "organism from above or outside. Good structure develops from within."
 msgstr ""
+"一种理想的文档组织方式，是顺应外部条件而有机演进、形态良好的发展。有机演进始于细胞层次。整体结构之所以稳固，在于各类细胞按其固有规律健康成长。反之，结构并非从外部或上层强行赋予。良好的结构源自其内在生长。"
 
 #: ../../source/how-to-use-diataxis.rst:106
 msgid ""
 "Illustration copyright `Linette Voller <https://linettevoller.com>`_ 2021, "
 "reproduced with kind permission."
-msgstr ""
+msgstr "插图版权来自于 `Linette Voller <https://linettevoller.com>`_ 2021，经许可方能使用。"
 
 #: ../../source/how-to-use-diataxis.rst:108
 msgid ""
@@ -248,10 +256,12 @@ msgid ""
 "internal components themselves are well-formed - like a living organism, it "
 "will have built itself up from the inside-out, one cell at a time."
 msgstr ""
+"文档编写也是如此：遵循 Diátaxis "
+"的原则，您的文档便会形成健全的结构，这得益于其自身的良好结构。就像是有机生命体一样，从内部逐层生长，由细胞一点点构建出来。"
 
 #: ../../source/how-to-use-diataxis.rst:113
 msgid "Complete, not finished"
-msgstr ""
+msgstr "完成，而不是结束"
 
 #: ../../source/how-to-use-diataxis.rst:115
 msgid ""
@@ -262,17 +272,18 @@ msgid ""
 "missing from it. At any point, it is in a state that is appropriate to its "
 "stage of development."
 msgstr ""
+"试想一株植物。作为活的、生长中的有机体，植物从未完成——它总能进一步发展，迈向成长与成熟的下一个阶段。然而，在其发展的每一个阶段，从种子到枝繁叶茂的大树，它又始终完整，从未缺少什么。无论何时，它的状态总是与其发展阶段所匹配。"
 
 #: ../../source/how-to-use-diataxis.rst:120
 msgid ""
 "Similarly, documentation is also never finished, because it always has to "
 "keep adapting and changing to the product and to users' needs, and can "
 "always be developed and improved further."
-msgstr ""
+msgstr "文档亦是如此，永无终了。因为它始终需要不断适应和调整以应对产品与用户需求的变化，并且总能被进一步开发和完善。"
 
 #: ../../source/how-to-use-diataxis.rst:123
 msgid ""
 "However it can always be complete: useful to users, appropriate to its "
 "current stage of development, and in a healthy structural state and ready to"
 " go on to the next stage."
-msgstr ""
+msgstr "然而，它总能保持完整：对用户有用，与其当前发展阶段相称，处于健康的结构状态，并准备好进入下一阶段。"

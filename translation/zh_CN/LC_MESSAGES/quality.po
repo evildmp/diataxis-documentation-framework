@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,11 +23,11 @@ msgstr ""
 
 #: ../../source/quality.rst:2
 msgid "Towards a theory of quality in documentation"
-msgstr ""
+msgstr "论文档质量理论"
 
 #: ../../source/quality.rst:4
 msgid "Diátaxis is an approach to *quality* in documentation."
-msgstr ""
+msgstr "Diátaxis 是提高文档质量的一种方法。"
 
 #: ../../source/quality.rst:6
 msgid ""
@@ -32,6 +36,7 @@ msgid ""
 "rigorous way. We want quality in our documentation, but much less often "
 "specify what exactly we mean by that."
 msgstr ""
+"“质量”这个词，正面临有部分含义渐趋模糊的危险。我们人人都认可它的价值，却很少试图以严谨的方式去描述它。我们希望文档具备质量，却极少明确指出这究竟意味着什么。"
 
 #: ../../source/quality.rst:11
 msgid ""
@@ -40,6 +45,7 @@ msgid ""
 "them - and more than that, we often agree when we do. This suggests that we "
 "still have a useful grasp on the notion of quality."
 msgstr ""
+"尽管如此，当被问及时，我们通常仍能指出“高质量文档”的实例，并且能在看到质量缺陷时识别出来——不仅如此，我们往往对此还能达成共识。这表明我们对质量这一概念仍心中有数。"
 
 #: ../../source/quality.rst:16
 msgid ""
@@ -47,10 +53,12 @@ msgid ""
 " paying some attention to it - here, attempting to refine our grasp by "
 "positing a distinction between **functional quality** and **deep quality**."
 msgstr ""
+"当我们致力于提升文档质量时，对这一概念本身加以审视，能使我们的理解更为确切 —— 本文试图在 *功能性质量* 与 *深度质量* "
+"之间作出区分，以此磨砺我们对质量这一概念的把握。"
 
 #: ../../source/quality.rst:22 ../../source/quality.rst:118
 msgid "Functional quality"
-msgstr ""
+msgstr "功能性质量"
 
 #: ../../source/quality.rst:24
 msgid ""
@@ -59,6 +67,8 @@ msgid ""
 "aspects of its **functional quality**. Documentation that fails to meet any "
 "one of them is failing to perform one of its key functions."
 msgstr ""
+"我们需要文档满足 *准确性*，*完整性*，*一致性*，*实用性*，*精确性* 等标准。我们可以将这些方面称为 "
+"**功能性质量**，但凡文档在任一标准上有所欠缺，都会使某项关键职能难以为继。"
 
 #: ../../source/quality.rst:29
 msgid ""
@@ -66,59 +76,59 @@ msgid ""
 "Documentation can be accurate without being complete. It can be complete, "
 "but inaccurate and inconsistent. It can be accurate, complete, consistent "
 "and also useless."
-msgstr ""
+msgstr "功能性质量的这些属性是彼此独立的。文档可能准确却不完整；可能完整却欠准确且不一致；也可能准确、完整、一致，却毫无实用价值。"
 
 #: ../../source/quality.rst:34
 msgid ""
 "Attaining functional quality means meeting high, objectively-measurable "
 "standards in multiple independent dimensions, consistently. It requires "
 "discipline and attention to detail, and high levels of technical skill."
-msgstr ""
+msgstr "功能性质量的达成，要求文档在多个独立维度上始终符合较高的、可客观衡量的标准。这既需要严谨的作风与对细节的重视，也离不开扎实的技术能力。"
 
 #: ../../source/quality.rst:38
 msgid ""
 "To make it harder for the creator of documentation, any failure to meet all "
 "of these standards is readily apparent to the user."
-msgstr ""
+msgstr "对文档创建者而言，更棘手的是，但凡未能达到上述各项标准之处，用户都能一目了然。"
 
 #: ../../source/quality.rst:45 ../../source/quality.rst:119
 msgid "Deep quality"
-msgstr ""
+msgstr "深度质量"
 
 #: ../../source/quality.rst:46
 msgid "There are other characteristics, that we can call **deep quality**."
-msgstr ""
+msgstr "除此之外还有一些特征，我们称之为 **深度质量**。"
 
 #: ../../source/quality.rst:48
 msgid ""
 "Functional quality is not enough, or even satisfactory on its own as an "
 "ambition. True excellence in documentation implies characteristics of "
 "quality that are not included in accuracy, completeness and so on."
-msgstr ""
+msgstr "仅凭功能性质量并不足够，况且，单单以此为目标的话，也难称圆满。文档的真正优秀之处，在于那些超乎准确性、完整性等常规标准之外的质量特征。"
 
 #: ../../source/quality.rst:52
 msgid "Think of characteristics such as:"
-msgstr ""
+msgstr "不妨试想以下特征，例如："
 
 #: ../../source/quality.rst:54
 msgid "*feeling good to use*"
-msgstr ""
+msgstr "*良好的使用体验*"
 
 #: ../../source/quality.rst:55
 msgid "*having flow*"
-msgstr ""
+msgstr "*自然流畅*"
 
 #: ../../source/quality.rst:56
 msgid "*fitting to human needs*"
-msgstr ""
+msgstr "*符合人的需求*"
 
 #: ../../source/quality.rst:57
 msgid "*being beautiful*"
-msgstr ""
+msgstr "*具有美感*"
 
 #: ../../source/quality.rst:58
 msgid "*anticipating the user*"
-msgstr ""
+msgstr "*能先于用户而有所预见*"
 
 #: ../../source/quality.rst:60
 msgid ""
@@ -126,20 +136,21 @@ msgid ""
 "measured, but they can still be clearly identified. When we encounter them, "
 "we usually (not always, because we need to be capable of it) recognise them."
 msgstr ""
+"不同于功能性质量的那些属性，深层的质量特征既无法检验，也无法度量，却依然能被明确地辨认。我们在遇到它们时，往往（并非总是如此，因为还需我们具备一定的感知能力）都能察觉出来。"
 
 #: ../../source/quality.rst:65
 msgid "They are characteristics of *deep quality*."
-msgstr ""
+msgstr "它们正是 *深层质量* 的特征。"
 
 #: ../../source/quality.rst:69
 msgid "What's the difference?"
-msgstr ""
+msgstr "不同之处是什么？"
 
 #: ../../source/quality.rst:71
 msgid ""
 "Aspects of deep quality seem to be genuinely distinct in kind from the "
 "characteristics of functional quality."
-msgstr ""
+msgstr "深层质量在各个方面，似乎确实有别于功能性质量的特征。"
 
 #: ../../source/quality.rst:74
 msgid ""
@@ -148,6 +159,7 @@ msgid ""
 "accurate and consistent (and even very useful) but which is also awkward and"
 " unpleasant to use."
 msgstr ""
+"文档即便在功能性质量的各项指标上全部达标，仍可能缺乏深层质量。大量实例表明，有些文档虽然准确、一致（甚至相当实用），但使用起来却依然显得生硬、令人不适。"
 
 #: ../../source/quality.rst:79
 msgid ""
@@ -157,6 +169,8 @@ msgid ""
 "user* are aspects of each other - they are **interdependent**. It's hard to "
 "see how something could feel good to use without fitting to our needs."
 msgstr ""
+"同样值得注意的是，虽然功能性质量的特征，例如完整性和准确性彼此 **独立**，但深层质量的特征却难解难分。**具有流畅感** 与 **预见用户** "
+"本来就是一体两面 —— 它们是 **相互依存** 的。难以想象，一样东西若不符合我们的需求，怎能带来良好的使用感受。"
 
 #: ../../source/quality.rst:85
 msgid ""
@@ -166,6 +180,8 @@ msgid ""
 "enquired into, interrogated. Instead of taking **measurements**, we must "
 "make **judgements**."
 msgstr ""
+"功能性质量的很多方面是可以衡量的，某些情况下（例如完整性方面），甚至可以用数字来度量。但诸如 *流畅感* "
+"之类的品质，显然不在此列，它们只能被探究与辨析。因此，我们所依赖的并非 *度量*，而是 *判断*。"
 
 #: ../../source/quality.rst:91
 msgid ""
@@ -175,6 +191,9 @@ msgid ""
 "the world. It’s **subjective**, which means that we can assess it only in "
 "the light of the needs of the subject of experience, the human."
 msgstr ""
+"功能性质量是 **客观** "
+"的，它存在于客观世界之中。文档的准确性，衡量的正是它与所描述对象之间的一致程度。而深层质量无法通过对照外部现实来加以验证。它是 **主观** "
+"的，也就是说，我们只能从体验者，也就是人的需求出发来评价它。"
 
 #: ../../source/quality.rst:97
 msgid ""
@@ -186,6 +205,7 @@ msgid ""
 "inconsistent. The moment we run into such lapses the experience of "
 "documentation is tarnished."
 msgstr ""
+"此外，深层质量取决于功能性质量。文档可以做到准确、完整且一致，却未必达到真正的卓越；也就是说，如果不具备这些特征，则绝无可能拥有深层质量。不准确的文档，用户不会觉得它美；不一致的文档，用户也不会欣赏其预见能力。一旦出现此类疏漏，整个文档体验便会黯然失色。"
 
 #: ../../source/quality.rst:105
 msgid ""
@@ -199,50 +219,54 @@ msgid ""
 "attain functional quality in our work, we must *conform* to constraints; to "
 "attain deep quality we must *invent*."
 msgstr ""
+"最后，作为文档创建者，功能性质量的所有特征在我们看来都是负担和 **约束**。其中每一项都代表着一个我们可能无法通过的测试或挑战。与此同时，即使我们 "
+"*当下* "
+"已经满足了某一项，也容不得片刻松懈，因为下一个版本或更新一旦到来，就必须再次对照文档所描述的对象，从头检查我们的工作。另一方面，诸如预判用户需求、流畅感等特征，则代表着"
+" **解放**，是创造力与品味的施展空间。要在工作中达成功能性质量，我们须 *遵从* 约束；要获得深层质量，我们须主动 *创造*。"
 
 #: ../../source/quality.rst:120
 msgid "independent characteristics"
-msgstr ""
+msgstr "无关特征"
 
 #: ../../source/quality.rst:121
 msgid "interdependent characteristics"
-msgstr ""
+msgstr "相关特征"
 
 #: ../../source/quality.rst:122
 msgid "objective"
-msgstr ""
+msgstr "客观的"
 
 #: ../../source/quality.rst:123
 msgid "subjective"
-msgstr ""
+msgstr "主观的"
 
 #: ../../source/quality.rst:124
 msgid "measured against the world"
-msgstr ""
+msgstr "以客观世界为衡量尺度"
 
 #: ../../source/quality.rst:125
 msgid "assessed against the human"
-msgstr ""
+msgstr "根据人类主观情况来评估"
 
 #: ../../source/quality.rst:126
 msgid "a condition of deep quality"
-msgstr ""
+msgstr "深度质量的先决条件"
 
 #: ../../source/quality.rst:127
 msgid "conditional upon functional quality"
-msgstr ""
+msgstr "以功能性质量为前提"
 
 #: ../../source/quality.rst:128
 msgid "aspects of constraint"
-msgstr ""
+msgstr "约束的体现"
 
 #: ../../source/quality.rst:129
 msgid "aspects of liberation"
-msgstr ""
+msgstr "解放的体现"
 
 #: ../../source/quality.rst:133
 msgid "How we recognise deep quality"
-msgstr ""
+msgstr "我们该如何识别深度质量？"
 
 #: ../../source/quality.rst:135
 msgid ""
@@ -252,6 +276,8 @@ msgid ""
 " know much about clothes to assess how well they do those things. If water "
 "gets in, or the clothing falls apart - it lacks quality."
 msgstr ""
+"不妨想一想我们如何评判一件衣物的质量。衣服要有 "
+"*功能性质量*（必须能提供适当的保暖与防潮，且耐穿耐磨）。这些方面是可以客观衡量的。这些都是可以客观衡量的，并不需要多少专业知识就能判断它们是否达标。若有雨水渗入，或布料破裂——那便是质量不合格。"
 
 #: ../../source/quality.rst:141
 msgid ""
@@ -263,6 +289,8 @@ msgid ""
 "developing at least a basic eye for those things. And these are its "
 "characteristics of *deep quality*."
 msgstr ""
+"然而，衣物还有其他一些品质特征，无法客观衡量。而要识别这些特征，我们需要对衣物有所了解。材料或做工的好坏，并非总能一目了然。要判断一件衣服是否垂顺、是否合身、是否剪裁精到，至少需要培养一点基本的鉴赏眼光。这些，正是其"
+" **深层质量** 的体现。"
 
 #: ../../source/quality.rst:149
 msgid ""
@@ -273,6 +301,8 @@ msgid ""
 " required to realise that clothing does or doesn't feel comfortable as you "
 "move in it, that it fits and moves with you well. *Your body knows it*."
 msgstr ""
+"但即便是那些无法辨认、甚至不理解这些特征的人，也就是那些说不出它们 *是什么* 的人，也依然能清楚地感知到衣物 *有多么好*，因为他们觉得 "
+"**穿起来舒服**，因为它让他们心生穿着的意愿。无需专业知识，便能察觉衣物在活动中是否舒适、是否贴身合体。**你的身体知道答案**。"
 
 #: ../../source/quality.rst:156
 msgid ""
@@ -282,6 +312,8 @@ msgid ""
 "documentation **feels good**; you feel pleasure and satisfaction when you "
 "use it - it feels like it fits and moves with you."
 msgstr ""
+"文档亦是如此。或许你需要具备行家的眼光，才能辨识出究竟是 *什么* 才能使文档出色。但感知到文档的优秀，却不必如此。好的文档 "
+"**用起来令人愉悦**。使用时，你会感到舒心与满足，如同衣物般贴身合体，随心而动。"
 
 #: ../../source/quality.rst:162
 msgid ""
@@ -291,6 +323,8 @@ msgid ""
 "deeper excellence. That doesn't matter - it will feel good, or not, and "
 "that's what is important."
 msgstr ""
+"文档的使用者或许具备、也或许不具备足够的理解力来说明文档为何优秀，抑或质量在何处有所欠缺。他们也许只能辨识出其中较为显著的功能性质量特征，而将这些误认为是其更深层的卓越所在。这并无大碍"
+" —— 阅读感受的好坏，才是关键。"
 
 #: ../../source/quality.rst:168
 msgid ""
@@ -300,14 +334,16 @@ msgid ""
 " to develop an understanding of how people will *feel* when they're using "
 "it."
 msgstr ""
+"然而，作为文档的创作者，我们需要清晰而有效地理解，究竟是什么造就了优秀的文档。我们需不断磨炼自身的感知，以便既能辨识出文档 *好在哪里*，也能判定 "
+"*这就是一个好文档*。同时，我们还需要培养一种理解力，去理解人们在使用过程中会产生怎样的 *感受*。"
 
 #: ../../source/quality.rst:173
 msgid "Producing work of deep quality depends on our ability to do this."
-msgstr ""
+msgstr "创作具有深层质量的作品，取决于我们的能力是否可以做到这一点"
 
 #: ../../source/quality.rst:177
 msgid "Diátaxis and quality"
-msgstr ""
+msgstr "Diátaxis 和质量"
 
 #: ../../source/quality.rst:179
 msgid ""
@@ -316,6 +352,7 @@ msgid ""
 "knowledge of the technical domain, the ability to gather up a complete "
 "terrain into a single, coherent, consistent map of it."
 msgstr ""
+"想要达成功能性质量，应认真遵循文档编写技艺的各项要求。这需要扎实的技能与对技术领域的深入了解，同时还需具备将整个领域版图整合为一幅完整、连贯且一致的地图的能力。"
 
 #: ../../source/quality.rst:184
 msgid ""
@@ -324,16 +361,18 @@ msgid ""
 " though if all the aspects of deep quality are tangled up in each other, "
 "then it affects all of them."
 msgstr ""
+"Diátaxis "
+"无法解决文档中的功能性质量问题。它只关注深层质量的某些方面，且对不同方面的侧重有所不同。不过，若深层质量的各个方面本就交织在一起，那么它势必对所有方面都会有所影响。"
 
 #: ../../source/quality.rst:191
 msgid "Exposing lapses in functional quality"
-msgstr ""
+msgstr "暴露功能性质量的缺陷"
 
 #: ../../source/quality.rst:193
 msgid ""
 "Although Diátaxis cannot address, or *give* us, functional quality, it can "
 "still serve it."
-msgstr ""
+msgstr "虽然 Diátaxis 并不处理，也无法 *直接给予* 我们功能性质量，但它仍然可以为功能性质量服务。"
 
 #: ../../source/quality.rst:196
 msgid ""
@@ -341,7 +380,7 @@ msgid ""
 "often remarked that one effect of applying Diátaxis to existing "
 "documentation is that problems in it suddenly become apparent that were "
 "obscured before."
-msgstr ""
+msgstr "它在 *暴露* 功能性质量缺陷方面殊为有效。人们常常指出，将 Diátaxis 应用于既有文档之后，其中原本被掩盖的问题突然变得清晰可见。"
 
 #: ../../source/quality.rst:200
 msgid ""
@@ -350,34 +389,36 @@ msgid ""
 "documents <respect-structure>`. This makes gaps in the documentation much "
 "more clearly visible."
 msgstr ""
+"例如，Diátaxis 方法建议，:ref:`参考文档的架构应该参照其所记录的代码架构<respect-"
+"structure>`，这将使文档与代码架构不符之处更加清晰可鉴。"
 
 #: ../../source/quality.rst:205
 msgid ""
 "Or, moving explanatory verbiage out of a tutorial (in accordance with "
 "Diátaxis demands) often has the effect of highlighting a section where the "
 "reader has been left to work something out for themselves."
-msgstr ""
+msgstr "或者，移出连篇累牍的解释性文字（根据 Diátaxis 的要求），往往能够凸显出那些原本需要读者自行理解的段落。"
 
 #: ../../source/quality.rst:209
 msgid ""
 "But, as far as functional quality goes, Diátaxis principles can have only an"
 " *analytical* role."
-msgstr ""
+msgstr "然而，就功能性质量这一层面来说，Diátaxis 原则所能扮演的，仅仅是一种 *分析性* 的角色。"
 
 #: ../../source/quality.rst:214
 msgid "Creating deep quality"
-msgstr ""
+msgstr "创造深度质量"
 
 #: ../../source/quality.rst:216
 msgid "In deep quality on the other hand, the Diátaxis approach can do more."
-msgstr ""
+msgstr "就深度质量而言，Diátaxis 方法大有可为。"
 
 #: ../../source/quality.rst:218
 msgid ""
 "For example, it helps documentation *fit user needs* by describing "
 "documentation modes that are based on them; its categories exist as a "
 "response to needs."
-msgstr ""
+msgstr "例如，它通过描述基于 Diátaxis 的文档模式，帮助文档 *贴合用户需求*；其分类体系的存在，正是为了响应这些需求。"
 
 #: ../../source/quality.rst:222
 msgid ""
@@ -385,7 +426,7 @@ msgid ""
 "and the arrangement of its material and the relationships within them, the "
 "form and language adopted in different parts of documentation - as a way of "
 "fitting to user needs."
-msgstr ""
+msgstr "我们必须注意正确地组织这些类别、编排相关材料、组织各部分之间的关系，并组织文档不同部分所采用的形式与语言，以此作为贴合用户需求的一种途径。"
 
 #: ../../source/quality.rst:227
 msgid ""
@@ -395,6 +436,8 @@ msgid ""
 "with both our concerns of the moment, and the way our minds and bodies work "
 "in general."
 msgstr ""
+"此外，在 Diátaxis 中，我们直接关注的是 "
+"*流畅感*。所谓流畅感，不论是在文档场景还是其他情境中，是指我们体验到的一种从一个阶段或状态向下一个阶段或状态的过渡，它显得自然而然、毫无勉强，既贴合我们当时的关注所在，也契合我们身心运转的自然方式。"
 
 #: ../../source/quality.rst:233
 msgid ""
@@ -403,26 +446,28 @@ msgid ""
 "towards it (for example when a digression into explanation interrupts a how-"
 "to guide)."
 msgstr ""
+"Diátaxis "
+"有助于防止节奏的中断，从而保持流畅感。所谓节奏中断，即当某事物阻挡了我们的目标，阻碍我们向目标平稳推进时（例如，在操作指南中插入了离题的解释性内容），便会出现这种中断。"
 
 #: ../../source/quality.rst:238
 msgid "And so on."
-msgstr ""
+msgstr "诸如此类。"
 
 #: ../../source/quality.rst:242
 msgid "Understanding the limits"
-msgstr ""
+msgstr "理解其局限"
 
 #: ../../source/quality.rst:244
 msgid ""
 "It's important to understand that Diátaxis can never be *all* that is "
 "required in the pursuit of deep quality."
-msgstr ""
+msgstr "必须认识到，在追求深层质量的过程中，Diátaxis 绝不可能涵盖 *一切* 所需。"
 
 #: ../../source/quality.rst:247
 msgid ""
 "For example, while it can *help* attain beauty in documentation, at least in"
 " its overall form, it doesn't by itself *make documentation beautiful*."
-msgstr ""
+msgstr "例如，Diátaxis 虽能 *帮助* 文档在整体形式上达到一定美感，但它本身并不能直接 *赋予文档以优美*。"
 
 #: ../../source/quality.rst:250
 msgid ""
@@ -431,6 +476,8 @@ msgid ""
 "insights of disciplines such as user experience or user interaction design, "
 "or even visual design."
 msgstr ""
+"Diátaxis "
+"所提供的是一套原则，而非某种固定配方。它当然无法提供一条通向成功的捷径，也不可能绕过用户体验设计、交互设计乃至视觉设计等学科所依赖的技能与洞见。"
 
 #: ../../source/quality.rst:255
 msgid ""
@@ -439,3 +486,5 @@ msgid ""
 "reinvented. But what Diátaxis *can* do is lay down some conditions for the "
 "*possibility* of deep quality in documentation."
 msgstr ""
+"采用 Diátaxis 并不等于拥有了深层质量。深层质量的种种特征，始终处于不断的重新商榷、重新诠释、重新发掘与重新创造之中。但是，Diátaxis "
+"真正 *能* 做的，是为文档中的深层质量创造一些条件和 *可能性*。"

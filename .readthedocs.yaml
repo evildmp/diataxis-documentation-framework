@@ -16,6 +16,7 @@ build:
     - sphinx-build -b dirhtml -D language=zh_CN source $READTHEDOCS_OUTPUT/html/zh_CN
     - sphinx-build -b dirhtml -D language=ko source $READTHEDOCS_OUTPUT/html/ko
     - sphinx-build -b dirhtml -D language=es source $READTHEDOCS_OUTPUT/html/es
+    - sphinx-build -b dirhtml -D language=ru source $READTHEDOCS_OUTPUT/html/ru
 
 formats:
   - pdf

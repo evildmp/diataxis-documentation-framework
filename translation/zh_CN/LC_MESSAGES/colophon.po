@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-07 20:49+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,34 +23,34 @@ msgstr ""
 
 #: ../../source/colophon.rst:2
 msgid "Colophon"
-msgstr ""
+msgstr "版权页"
 
 #: ../../source/colophon.rst:4
 msgid "Diátaxis is the work of `Daniele Procida <https://vurt.eu>`_."
-msgstr ""
+msgstr "Diátaxis 是 `Daniele Procida <https://vurt.eu>`_ 的作品。"
 
 #: ../../source/colophon.rst:6
 msgid ""
 "It has been developed over a number of years, and continues to be elaborated"
 " and explored."
-msgstr ""
+msgstr "它经过多年的发展，并且仍在不断完善和探索之中。"
 
 #: ../../source/colophon.rst:12
 msgid "Contact me"
-msgstr ""
+msgstr "联系我"
 
 #: ../../source/colophon.rst:14
 msgid ""
 "`Email me <daniele@vurt.org>`_. I enjoy hearing about other people's "
 "experiences with Diátaxis and read everything I receive."
-msgstr ""
+msgstr "`请给我发邮件 <daniele@vurt.org>`_。我很乐于了解其他人使用 Diátaxis 的经验，并且会阅读收到的每一封邮件。"
 
 #: ../../source/colophon.rst:16
 msgid ""
 "I appreciate all the interest and do my best to reply, but I get a "
 "considerable quantity of email related to Diátaxis and I can't promise to "
 "respond to every message."
-msgstr ""
+msgstr "感谢大家的关注，我会尽力回复，然而，由于收到的与 Diátaxis 相关的邮件数量较多，恐难一一作答，还望见谅。"
 
 #: ../../source/colophon.rst:18
 msgid ""
@@ -57,10 +61,14 @@ msgid ""
 "section of the `GitHub repository for this website "
 "<https://github.com/evildmp/diataxis-documentation-framework>`_."
 msgstr ""
+"若您希望与其他用户讨论 Diátaxis，请参阅 `Write the Docs Slack 群组 "
+"<https://www.writethedocs.org/slack/>`_ 中的*#diataxis* 频道，或 `本网站 GitHub 仓库 "
+"<https://github.com/evildmp/diataxis-documentation-framework>`_ 中的 `讨论区 "
+"<https://github.com/evildmp/diataxis-documentation-framework/discussions>`_。"
 
 #: ../../source/colophon.rst:25
 msgid "Origins and development"
-msgstr ""
+msgstr "起源与发展"
 
 #: ../../source/colophon.rst:27
 msgid ""
@@ -69,12 +77,14 @@ msgid ""
 "between 2014-2021. I still agree with most of it, though there are several "
 "aspects that I now think I got wrong."
 msgstr ""
+"您可以找到 `这些想法的一个早期演示版本 <https://documentation.divio.com>`_，该网站是我在 2014 至 2021 "
+"年间于 Divio 工作期间创建的。其中大部分内容我至今仍然认同，尽管有几个方面，在如今看来当时的认知并不准确。"
 
 #: ../../source/colophon.rst:29
 msgid ""
 "The original context for the Diátaxis approach was limited to software "
 "product documentation."
-msgstr ""
+msgstr "Diátaxis 方法最初应用于软件产品文档领域。"
 
 #: ../../source/colophon.rst:31
 msgid ""
@@ -85,22 +95,25 @@ msgid ""
 "corporate documentation, organisational management and education, and also "
 "its application at scale. This work is on-going."
 msgstr ""
+"2021 年，我获得了 `软件可持续性研究所 <http://software.ac.uk/blog/sorry-state-usable-"
+"software-open-science-results-open-science-retreat>`_ "
+"的研究员资格，以探索该方法在科学研究领域的应用。随后，我进一步将其应用范围拓展至企业内部文档、组织管理、教育以及它的规模化应用。目前，这项工作仍在继续。"
 
 #: ../../source/colophon.rst:33
 msgid ""
 "Other people have corresponded with me to share their experience of applying"
 " Diátaxis to note-taking systems and even as part of a systematic approach "
 "to household management."
-msgstr ""
+msgstr "此外，也有读者来信与我分享他们在笔记系统中应用 Diátaxis 的经验，甚至有人将其作为家庭管理的一种系统化方法。"
 
 #: ../../source/colophon.rst:37
 msgid "Citation and contribution"
-msgstr ""
+msgstr "引用和贡献"
 
 #: ../../source/colophon.rst:39
 msgid ""
 "To cite Diátaxis, please refer to :doc:`this website, diataxis.fr <index>`."
-msgstr ""
+msgstr "要引用 Diátaxis，请参考 :doc:`此网站 diataxis.fr <index>`."
 
 #: ../../source/colophon.rst:41
 msgid ""
@@ -108,12 +121,16 @@ msgid ""
 "`CITATION.cff <https://github.com/evildmp/diataxis-documentation-"
 "framework/blob/main/CITATION.cff>`_."
 msgstr ""
+"存放原始材料的 Git 仓库中，包含一个引用文件 `CITATION.cff <https://github.com/evildmp/diataxis-"
+"documentation-framework/blob/main/CITATION.cff>`_。"
 
 #: ../../source/colophon.rst:44
 msgid ""
 "APA and BibTeX metadata are available from the *Cite this repository* option"
 " at https://github.com/evildmp/diataxis-documentation-framework."
 msgstr ""
+"APA 和 BibTeX 元数据可从 https://github.com/evildmp/diataxis-documentation-"
+"framework 上的 *引用此仓库* 选项中获取。"
 
 #: ../../source/colophon.rst:47
 msgid ""
@@ -121,17 +138,19 @@ msgid ""
 "or `file an issue <https://github.com/evildmp/diataxis-documentation-"
 "framework/issues>`_."
 msgstr ""
+"您也可以提交 Pull Request 以提出改进或者修正建议，或者 `提交 Issue "
+"<https://github.com/evildmp/diataxis-documentation-framework/issues>`_."
 
 #: ../../source/colophon.rst:50
 msgid ""
 "Diátaxis is now used in several hundred projects and it is no longer "
 "possible for me to keep up with requests to have projects listed here as "
 "examples of Diátaxis adoption."
-msgstr ""
+msgstr "目前已有数百个项目采用了 Diátaxis，我已无力再一一满足那些希望将项目在此列为 Diátaxis 使用范例的请求。"
 
 #: ../../source/colophon.rst:54
 msgid "Website"
-msgstr ""
+msgstr "网站"
 
 #: ../../source/colophon.rst:56
 msgid ""
@@ -140,3 +159,6 @@ msgid ""
 "`Pradyun Gedam <https://pradyunsg.me/>`_'s `Furo "
 "<https://github.com/pradyunsg/furo>`_ theme."
 msgstr ""
+"本网站使用 `Sphinx <https://www.sphinx-doc.org>`_ 构建，并托管于 `Read the Docs "
+"<http://readthedocs.org>`_，采用 `Pradyun Gedam <https://pradyunsg.me/>`_ 的 "
+"`Furo <https://github.com/pradyunsg/furo>`_ 主题的一个修改版本."

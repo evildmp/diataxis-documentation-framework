@@ -9,7 +9,7 @@ GETTEXTDIR    = $(BUILDDIR)/gettext
 SPELLINGDIR   = $(BUILDDIR)/spelling
 
 TRANSLATIONSDIR = translation
-TRANSLATIONLANGUAGES = fr it pt_BR zh_CN pl ja ko es
+TRANSLATIONLANGUAGES = fr it pt_BR zh_CN pl ja ko es ru
 
 VENV = env/bin/activate
 PORT = 8090
@@ -43,26 +43,20 @@ test:
 html:
 	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=en $(SOURCEDIR) $(HTMLDIR)
 
-#html-fr:
-#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
+html-fr:
+	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=fr $(SOURCEDIR) $(HTMLDIR)/fr
 
-#html-pt_BR:
-#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
+html-pt_BR:
+	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=pt_BR $(SOURCEDIR) $(HTMLDIR)/pt_BR
 
-#html-it:
-#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=it $(SOURCEDIR) $(HTMLDIR)/it
+html-it:
+	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=it $(SOURCEDIR) $(HTMLDIR)/it
 
 html-pl:
 	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=pl $(SOURCEDIR) $(HTMLDIR)/pl
 
-#html-ja:
-#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
-
-#html-zh_CN:
-#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=zh_CN $(SOURCEDIR) $(HTMLDIR)/zh_CN
-
-#html-ko:
-#	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=ko $(SOURCEDIR) $(HTMLDIR)/ko
+html-ja:
+	. $(VENV); $(SPHINXBUILD) -W -b dirhtml -D language=ja $(SOURCEDIR) $(HTMLDIR)/ja
 
 html-zh_CN:
 	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=zh_CN $(SOURCEDIR) $(HTMLDIR)/zh_CN
@@ -73,7 +67,10 @@ html-ko:
 html-es:
 	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=es $(SOURCEDIR) $(HTMLDIR)/es
 
-html-all: html html-fr html-it html-pt_BR html-pl html-ja html-zh_CN html-ko html-es
+html-ru:
+	. $(VENV); $(SPHINXBUILD) -b dirhtml -D language=ru $(SOURCEDIR) $(HTMLDIR)/ru
+
+html-all: html html-fr html-it html-pt_BR html-pl html-ja html-zh_CN html-ko html-es html-ru
 
 run-all: html-all run
 
@@ -90,7 +87,7 @@ spelling:
 		"$(SPELLINGDIR)/output.txt."
 
 
-.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-ja html-zh_CN html-ko html-es html-all run-all gettext update-po-files spelling quickstart Makefile
+.PHONY: help install clean run html html-fr html-it html-pt_BR html-pl html-ja html-zh_CN html-ko html-es html-ru html-all run-all gettext update-po-files spelling quickstart Makefile
 
 # Catch-all target: route all unknown targets to Sphinx using the new
 # "make mode" option.  $(O) is meant as a shortcut for $(SPHINXOPTS).

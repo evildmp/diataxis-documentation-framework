@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,15 +23,15 @@ msgstr ""
 
 #: ../../source/theory.rst:2
 msgid "Understanding Diátaxis"
-msgstr ""
+msgstr "Как устроен Diátaxis"
 
 #: ../../source/theory.rst:6
 msgid "The Grand Unified Theory of Documentation"
-msgstr ""
+msgstr "Великая единая теория документации"
 
 #: ../../source/theory.rst:8
 msgid "David Laing"
-msgstr ""
+msgstr "David Laing"
 
 #: ../../source/theory.rst:12
 msgid ""
@@ -35,6 +39,8 @@ msgid ""
 " for the practices Diátaxis prescribes, and to explore some of the questions"
 " it raises."
 msgstr ""
+"В этом разделе разберём теорию, которая стоит за практическими принципами "
+"Diátaxis, и некоторые вопросы, которые из них возникают."
 
 #: ../../source/theory.rst:14
 msgid ""
@@ -42,6 +48,8 @@ msgid ""
 "practical and concrete. The approach is generally heuristic: guidelines, "
 "rules of thumb, specific imperatives, principles that we know work."
 msgstr ""
+"О документации обычно говорят в практических терминах: рекомендации, "
+"проверенные приёмы, конкретные правила и принципы, которые просто работают."
 
 #: ../../source/theory.rst:16
 msgid ""
@@ -51,41 +59,48 @@ msgid ""
 " and experience. The theoretical aspect of the discipline receives far less "
 "attention."
 msgstr ""
+"Мы хорошо умеем рассказывать, *что* делать, *как* это делать и как всё "
+"работает. А вот вопросу, *почему* это работает, уделяем гораздо меньше "
+"внимания. Представление о правильном подходе обычно складывается из опыта и "
+"интуиции, а теория остаётся на втором плане."
 
 #: ../../source/theory.rst:18
 msgid ""
 "Diátaxis aims to place documentation practice on a more rigorous theoretical"
 " footing."
 msgstr ""
+"Diátaxis пытается подвести под практику работы с документацией более прочную"
+" теоретическую основу."
 
 #: ../../source/theory.rst:23
 msgid "In this section"
-msgstr ""
+msgstr "В этом разделе"
 
 #: ../../source/theory.rst:25
 msgid "These pages dig deeper into the thinking that underpins Diátaxis."
 msgstr ""
+"На этих страницах подробнее разберём идеи, на которых построен Diátaxis."
 
 #: ../../source/theory.rst:27
 msgid ":doc:`foundations` - *why* Diátaxis works"
-msgstr ""
+msgstr ":doc:`foundations` — *почему* Diátaxis работает"
 
 #: ../../source/theory.rst:28
 msgid ":doc:`map` - documentation in two dimensions"
-msgstr ""
+msgstr ":doc:`map` — документация в двух измерениях"
 
 #: ../../source/theory.rst:29
 msgid ":doc:`quality`"
-msgstr ""
+msgstr ":doc:`quality`"
 
 #: ../../source/theory.rst:31
 msgid "Common problems explored:"
-msgstr ""
+msgstr "Отдельно разберём частые проблемы:"
 
 #: ../../source/theory.rst:33
 msgid ":doc:`tutorials-how-to`"
-msgstr ""
+msgstr ":doc:`tutorials-how-to`"
 
 #: ../../source/theory.rst:34
 msgid ":doc:`reference-explanation`"
-msgstr ""
+msgstr ":doc:`reference-explanation`"

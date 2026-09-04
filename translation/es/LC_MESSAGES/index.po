@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Miguel Galán, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Miguel Galán, 2026\n"
 "Language-Team: Spanish (https://app.transifex.com/danieleprocida/teams/120528/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,19 +31,19 @@ msgstr ""
 
 #: ../../source/index.rst:78
 msgid "Tutorials"
-msgstr ""
+msgstr "Tutoriales"
 
 #: ../../source/index.rst:78
 msgid "How-to guides"
-msgstr ""
+msgstr "Guías paso a paso"
 
 #: ../../source/index.rst:78
 msgid "Reference"
-msgstr ""
+msgstr "Referencia"
 
 #: ../../source/index.rst:78
 msgid "Explanation"
-msgstr ""
+msgstr "Explanation"
 
 #: ../../source/index.rst:78
 msgid "Workflow"
@@ -69,7 +73,7 @@ msgstr ""
 
 #: ../../source/index.rst:9 ../../source/index.rst:33
 msgid "Diátaxis"
-msgstr ""
+msgstr "Diátaxis"
 
 #: ../../source/index.rst:19
 msgid "A systematic approach to technical documentation authoring."

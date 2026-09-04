@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,19 +23,23 @@ msgstr ""
 
 #: ../../source/map.rst:4
 msgid "The map"
-msgstr ""
+msgstr "Карта"
 
 #: ../../source/map.rst:7
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr ""
+"Diátaxis хорошо помогает организовать документацию в том числе потому, что "
+"предлагает **двумерную структуру**, а не просто *список* типов."
 
 #: ../../source/map.rst:14
 msgid ""
 "It specifies its types of documentation in such a way that the structure "
 "naturally helps guide and shape the material it contains."
 msgstr ""
+"Типы документации расположены так, что сама структура помогает понять, каким"
+" должен быть каждый материал и где ему место."
 
 #: ../../source/map.rst:17
 msgid ""
@@ -39,10 +47,13 @@ msgid ""
 "with each other. Each one occupies a space in the mental territory it "
 "outlines, and the boundaries between them highlight their distinctions."
 msgstr ""
+"Карта показывает не только четыре типа документации, но и связи между ними. "
+"У каждого есть своё место, а границы между областями помогают увидеть, чем "
+"один тип отличается от другого."
 
 #: ../../source/map.rst:23
 msgid "The problem of structure"
-msgstr ""
+msgstr "Проблема структуры"
 
 #: ../../source/map.rst:25
 msgid ""
@@ -50,6 +61,9 @@ msgid ""
 "problem of structure (though it's bad enough that it makes it harder to use "
 "and maintain). Architectural faults infect and undermine content too."
 msgstr ""
+"Плохая структура редко остаётся только проблемой структуры. Уже сама по себе"
+" она мешает пользоваться документацией и поддерживать её, но со временем "
+"начинает портить и содержание."
 
 #: ../../source/map.rst:27
 msgid ""
@@ -57,6 +71,8 @@ msgid ""
 "documentation creators will often try to structure their work around "
 "features of a product."
 msgstr ""
+"Если общего принципа организации нет, авторы часто начинают строить "
+"документацию вокруг функций продукта."
 
 #: ../../source/map.rst:29
 msgid ""
@@ -65,6 +81,10 @@ msgid ""
 "the adoption of a scheme that tries to provide an answer to the question: "
 "how to arrange documentation *in general?*"
 msgstr ""
+"Даже для одного проекта такой подход редко работает хорошо. А если проектов "
+"несколько, структура быстро становится совершенно непоследовательной. Лучше "
+"использовать схему, которая отвечает на более общий вопрос: как организовать"
+" документацию *в принципе*?"
 
 #: ../../source/map.rst:34
 msgid ""
@@ -72,6 +92,8 @@ msgid ""
 "categories will help improve it (for authors as well as users), by providing"
 " lists of content types."
 msgstr ""
+"Вообще почти любая попытка разделить документацию на понятные категории уже "
+"делает её удобнее и для авторов, и для пользователей."
 
 #: ../../source/map.rst:38
 msgid ""
@@ -82,10 +104,15 @@ msgid ""
 "themselves working with - why this particular list of content types rather "
 "than another? And if another competing list is proposed, which to adopt?"
 msgstr ""
+"Но тут быстро возникает другая проблема. Новый материал не всегда хорошо "
+"вписывается в выбранные категории, а существующий приходится насильно под "
+"них переделывать. И рано или поздно появляется вопрос: почему категории "
+"именно такие? Почему не другие? А если кто-то предложит другую схему, какую "
+"из них выбирать?"
 
 #: ../../source/map.rst:48
 msgid "Expectations and guidance"
-msgstr ""
+msgstr "Понятные ожидания и ориентиры"
 
 #: ../../source/map.rst:50
 msgid ""
@@ -94,146 +121,149 @@ msgid ""
 "clear what the purpose of any particular piece of content is, it specifies "
 "how it should be written and it shows where it should be placed."
 msgstr ""
+"У карты Diátaxis есть важное преимущество: читатель понимает, *чего ждать* "
+"от материала, а автор — *как его писать*. У каждого типа есть понятная "
+"задача, свои правила и своё место в документации."
 
 #: ../../source/map.rst:62
 msgid "\\"
-msgstr ""
+msgstr "\\"
 
 #: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"
-msgstr ""
+msgstr ":ref:`Уроки <tutorials>`"
 
 #: ../../source/map.rst:64
 msgid ":ref:`How-to guides <how-to>`"
-msgstr ""
+msgstr ":ref:`Инструкции <how-to>`"
 
 #: ../../source/map.rst:65
 msgid ":ref:`Reference <reference>`"
-msgstr ""
+msgstr ":ref:`Справочник <reference>`"
 
 #: ../../source/map.rst:66
 msgid ":ref:`Explanation <explanation>`"
-msgstr ""
+msgstr ":ref:`Объяснения <explanation>`"
 
 #: ../../source/map.rst:67
 msgid "what they do"
-msgstr ""
+msgstr "что делают"
 
 #: ../../source/map.rst:68
 msgid "introduce, educate, lead"
-msgstr ""
+msgstr "знакомят, учат, ведут"
 
 #: ../../source/map.rst:69
 msgid "guide"
-msgstr ""
+msgstr "направляют"
 
 #: ../../source/map.rst:70
 msgid "state, describe, inform"
-msgstr ""
+msgstr "фиксируют, описывают, сообщают"
 
 #: ../../source/map.rst:71
 msgid "explain, clarify, discuss"
-msgstr ""
+msgstr "объясняют, проясняют, обсуждают"
 
 #: ../../source/map.rst:72
 msgid "answers the question"
-msgstr ""
+msgstr "отвечают на вопрос"
 
 #: ../../source/map.rst:73
 msgid "\"Can you teach me to...?\""
-msgstr ""
+msgstr "«Можете научить меня...?»"
 
 #: ../../source/map.rst:74
 msgid "\"How do I...?\""
-msgstr ""
+msgstr "«Как мне...?»"
 
 #: ../../source/map.rst:75
 msgid "\"What is...?\""
-msgstr ""
+msgstr "«Что такое...?»"
 
 #: ../../source/map.rst:76
 msgid "\"Why...?\""
-msgstr ""
+msgstr "«Почему...?»"
 
 #: ../../source/map.rst:77
 msgid "oriented to"
-msgstr ""
+msgstr "нацелены на"
 
 #: ../../source/map.rst:78
 msgid "learning"
-msgstr ""
+msgstr "обучение"
 
 #: ../../source/map.rst:79
 msgid "goals"
-msgstr ""
+msgstr "цели"
 
 #: ../../source/map.rst:80
 msgid "information"
-msgstr ""
+msgstr "информацию"
 
 #: ../../source/map.rst:81
 msgid "understanding"
-msgstr ""
+msgstr "понимание"
 
 #: ../../source/map.rst:82
 msgid "purpose"
-msgstr ""
+msgstr "задача"
 
 #: ../../source/map.rst:83
 msgid "to provide a learning experience"
-msgstr ""
+msgstr "помочь научиться"
 
 #: ../../source/map.rst:84
 msgid "to help achieve a particular goal"
-msgstr ""
+msgstr "помочь достичь конкретной цели"
 
 #: ../../source/map.rst:85
 msgid "to describe the machinery"
-msgstr ""
+msgstr "описать устройство продукта"
 
 #: ../../source/map.rst:86
 msgid "to illuminate a topic"
-msgstr ""
+msgstr "помочь разобраться в теме"
 
 #: ../../source/map.rst:87
 msgid "form"
-msgstr ""
+msgstr "форма"
 
 #: ../../source/map.rst:88
 msgid "a lesson"
-msgstr ""
+msgstr "урок"
 
 #: ../../source/map.rst:89
 msgid "a series of steps"
-msgstr ""
+msgstr "последовательность шагов"
 
 #: ../../source/map.rst:90
 msgid "dry description"
-msgstr ""
+msgstr "сухое описание"
 
 #: ../../source/map.rst:91
 msgid "discursive explanation"
-msgstr ""
+msgstr "свободный разбор темы"
 
 #: ../../source/map.rst:92
 msgid "analogy"
-msgstr ""
+msgstr "аналогия"
 
 #: ../../source/map.rst:93
 msgid "teaching a child how to cook"
-msgstr ""
+msgstr "учим ребёнка готовить"
 
 #: ../../source/map.rst:94
 msgid "a recipe in a cookery book"
-msgstr ""
+msgstr "рецепт в кулинарной книге"
 
 #: ../../source/map.rst:95
 msgid "information on the back of a food packet"
-msgstr ""
+msgstr "информация на упаковке продукта"
 
 #: ../../source/map.rst:96
 msgid "an article on culinary social history"
-msgstr ""
+msgstr "статья об истории еды и кулинарии"
 
 #: ../../source/map.rst:98
 msgid ""
@@ -241,20 +271,24 @@ msgid ""
 "do, that job is also clearly distinguished from and contrasted with the "
 "other functions of documentation."
 msgstr ""
+"У каждого типа материала есть своя конкретная задача. И эта задача явно "
+"отличается от задач остальных типов документации."
 
 #: ../../source/map.rst:103
 msgid "Blur"
-msgstr ""
+msgstr "Размытые границы"
 
 #: ../../source/map.rst:105
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
 msgstr ""
+"Большинство авторов и систем документации хотя бы частично замечают эти "
+"различия и стараются учитывать их на практике."
 
 #: ../../source/map.rst:108
 msgid "Partial collapse of the structure"
-msgstr ""
+msgstr "Когда границы начинают исчезать"
 
 #: ../../source/map.rst:112
 msgid ""
@@ -263,38 +297,41 @@ msgid ""
 " to blur the distinctions (that can be seen repeatedly in examples of "
 "documentation)."
 msgstr ""
+"Но соседние области карты во многом похожи друг на друга, поэтому границы "
+"между ними легко размываются. В реальной документации это происходит "
+"постоянно."
 
 #: ../../source/map.rst:120
 msgid "guide action"
-msgstr ""
+msgstr "помогают действовать"
 
 #: ../../source/map.rst:121 ../../source/map.rst:130
 msgid "tutorials"
-msgstr ""
+msgstr "уроки"
 
 #: ../../source/map.rst:122 ../../source/map.rst:125
 msgid "how-to guides"
-msgstr ""
+msgstr "инструкции"
 
 #: ../../source/map.rst:123
 msgid "serve the application of skill"
-msgstr ""
+msgstr "помогают применять навыки"
 
 #: ../../source/map.rst:124 ../../source/map.rst:127
 msgid "reference"
-msgstr ""
+msgstr "справочник"
 
 #: ../../source/map.rst:126
 msgid "contain propositional knowledge"
-msgstr ""
+msgstr "дают факты и знания"
 
 #: ../../source/map.rst:128 ../../source/map.rst:131
 msgid "explanation"
-msgstr ""
+msgstr "объяснения"
 
 #: ../../source/map.rst:129
 msgid "serve the acquisition of skill"
-msgstr ""
+msgstr "помогают осваивать навыки"
 
 #: ../../source/map.rst:133
 msgid ""
@@ -304,10 +341,14 @@ msgid ""
 "make it even more difficult to maintain the discipline of appropriate "
 "writing."
 msgstr ""
+"Когда границы размываются, разные типы документации начинают смешиваться. Не"
+" тот стиль и не тот контент оказываются не на своих местах. Из-за этого "
+"портится и структура, а авторам становится ещё сложнее понимать, что и как "
+"писать."
 
 #: ../../source/map.rst:135
 msgid "Total collapse of the structure"
-msgstr ""
+msgstr "Когда структура разваливается совсем"
 
 #: ../../source/map.rst:139
 msgid ""
@@ -315,16 +356,21 @@ msgid ""
 "how-to guides into each other, making it impossible to meet the needs served"
 " by either."
 msgstr ""
+"Хуже всего, когда уроки и инструкции частично или полностью сливаются друг с"
+" другом. В итоге такой материал уже не может нормально ни научить, ни помочь"
+" решить конкретную задачу."
 
 #: ../../source/map.rst:145
 msgid "The journey around the map"
-msgstr ""
+msgstr "Движение по карте"
 
 #: ../../source/map.rst:147
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
 msgstr ""
+"Diátaxis помогает документации поддерживать пользователя на разных этапах "
+"его *работы с продуктом*."
 
 #: ../../source/map.rst:149
 msgid ""
@@ -335,6 +381,10 @@ msgid ""
 "guidance on some particular subject, and what they want to read will change "
 "from moment to moment as they use your documentation."
 msgstr ""
+"Не стоит понимать этот цикл слишком буквально. Пользователь не обязан идти "
+"строго по цепочке *уроки* > *инструкции* > *технический справочник* > "
+"*объяснения*. На практике он может открыть документацию в любом месте, а "
+"нужный тип материала будет меняться вместе с его текущей задачей."
 
 #: ../../source/map.rst:154
 msgid ""
@@ -342,10 +392,13 @@ msgid ""
 "different phases, is sound and corresponds to the way that people actually "
 "do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
+"Но сама идея цикла верна. Когда человек осваивает какое-то дело, его "
+"потребности действительно проходят через разные этапы. Поэтому в таком "
+"порядке есть смысл."
 
 #: ../../source/map.rst:157
 msgid "Moving around the map"
-msgstr ""
+msgstr "Как мы движемся по карте"
 
 #: ../../source/map.rst:162
 msgid ""
@@ -353,10 +406,13 @@ msgid ""
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
 msgstr ""
+"*обучение*: сначала мы учимся. Чтобы освоить навык, приходится сразу "
+"пробовать что-то делать — если повезёт, под руководством наставника."
 
 #: ../../source/map.rst:164
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr ""
+"*работа с конкретной целью*: затем мы хотим применить навык на практике."
 
 #: ../../source/map.rst:165
 msgid ""
@@ -364,15 +420,21 @@ msgid ""
 "we don't already have in our head, it requires us to consult technical "
 "reference."
 msgstr ""
+"*поиск информации*: как только для работы понадобилось то, чего мы не помним"
+" или не знаем, обращаемся к техническому справочнику."
 
 #: ../../source/map.rst:167
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
 msgstr ""
+"*понимание*: наконец, отложив текущую задачу, мы осмысливаем опыт и знания, "
+"чтобы лучше понять общую картину."
 
 #: ../../source/map.rst:170
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."
 msgstr ""
+"А потом цикл начинается снова: появляется что-то новое, чему нужно "
+"научиться, или хочется разобраться в знакомой теме глубже."

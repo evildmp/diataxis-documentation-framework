@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Yufei Li <yufeiminds@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../source/tutorials-how-to.rst:4
 msgid "The difference between a tutorial and how-to guide"
-msgstr ""
+msgstr "教程与操作指南之异同"
 
 #: ../../source/tutorials-how-to.rst:6
 msgid ""
@@ -28,22 +32,24 @@ msgid ""
 " made in software product documentation is that between the *tutorial* and "
 "the *how-to guide*."
 msgstr ""
+"Diátaxis 对 *教程* 和 *操作指南* "
+"作出了严格的区分。然而，这种区分在实践中往往被忽略；事实上，软件产品文档中最常见的混淆，恰恰发生在这两者之间。"
 
 #: ../../source/tutorials-how-to.rst:10
 msgid ""
 "So: what *is* the difference between tutorials and how to-guides? Why does "
 "it matter? And why do they get confused?"
-msgstr ""
+msgstr "那么，教程与操作指南之间的区别 *究竟是什么*？这个区别为什么重要？它们又为什么会被混为一谈？"
 
 #: ../../source/tutorials-how-to.rst:12
 msgid ""
 "These are all good questions. Let’s start with the last one. *If the "
 "distinction is really so important, why isn’t it more obvious?*"
-msgstr ""
+msgstr "这些都是好问题。让我们从最后一个问题开始。*如果这一区分确实如此重要，那为何它不能更加显而易见呢？*"
 
 #: ../../source/tutorials-how-to.rst:17
 msgid "What they have in common"
-msgstr ""
+msgstr "它们的共同之处"
 
 #: ../../source/tutorials-how-to.rst:19
 msgid ""
@@ -52,6 +58,8 @@ msgid ""
 "They’re not there to explain or convey information. They exist to guide the "
 "user in what to *do* rather than what there is *to know or understand*."
 msgstr ""
+"从某些重要方面来看，教程与操作指南确实具有相似性。两者都是实践性的指引：包含供用户遵循的操作步骤，目的不在于解释或传达信息，在于引导用户去 "
+"*行动*，而非 *去知晓或理解* 什么。"
 
 #: ../../source/tutorials-how-to.rst:23
 msgid ""
@@ -62,29 +70,30 @@ msgid ""
 " sequences of actions. You can’t expect success unless you perform the "
 "actions in the right order."
 msgstr ""
+"两者都为用户列出可供遵循的步骤，并且都承诺，如果用户遵循这些步骤，便能达成预期的成功结果。唯有那些已经准备就绪、即将动手操作的用户，才能从中真正获益。它们都刻画了有序的行动序列，若不按正确顺序执行，便难以指望获得成功。"
 
 #: ../../source/tutorials-how-to.rst:28
 msgid ""
 "They are closely related, and like many close relations, can be mistaken for"
 " one another at first glance."
-msgstr ""
+msgstr "它们密切相关，正如许多关系密切的事物一样，乍一看可能会彼此混淆。"
 
 #: ../../source/tutorials-how-to.rst:32
 msgid "What matters is what the user needs"
-msgstr ""
+msgstr "用户的需求才是关键"
 
 #: ../../source/tutorials-how-to.rst:34
 msgid ""
 "Diátaxis insists that what matters in documentation is the needs of the "
 "user, and it's by paying attention to this that we can correctly distinguish"
 " between tutorials and how-to guides."
-msgstr ""
+msgstr "Diátaxis 的主张是：文档中用户的需求才是关键。唯有立足于这一关注点，我们才能对教程与操作指南作出准确的区分。"
 
 #: ../../source/tutorials-how-to.rst:37
 msgid ""
 "Sometimes the user is **at study**, and sometimes the user is **at work**. "
 "Documentation has to serve both those needs."
-msgstr ""
+msgstr "有时用户处于 **学习** 之中，有时处于 **工作** 之中。文档必须兼顾这两方面的需求。"
 
 #: ../../source/tutorials-how-to.rst:39
 msgid ""
@@ -96,17 +105,20 @@ msgid ""
 "matters: tutorials are **learning-oriented**, and how-to guides are **task-"
 "oriented**."
 msgstr ""
+"教程面向学习状态的用户，其职责在于 *提供一次成功的学习体验*。操作指南面向工作状态的用户，其职责在于 "
+"*帮助用户完成一项任务*。这两种需求与职责截然不同——正因如此，教程与操作指南的区分才显得至关重要：教程属于 **学习导向**，而操作指南则属于 "
+"**任务导向**。"
 
 #: ../../source/tutorials-how-to.rst:45
 msgid "At study and at work"
-msgstr ""
+msgstr "在学与用之时"
 
 #: ../../source/tutorials-how-to.rst:47
 msgid ""
 "We can consider this from the perspective of an actual example. Let’s say "
 "you’re in medicine: a doctor, someone who needs to acquire and apply the "
 "practical, clinical skills of their craft."
-msgstr ""
+msgstr "我们可以从一个具体的例子出发来思考。假设你身处医学领域：比如你是一名医生，一个需要掌握并运用专业技艺中的实践性临床技能的人。"
 
 #: ../../source/tutorials-how-to.rst:50
 msgid ""
@@ -115,10 +127,11 @@ msgid ""
 "(all good doctors, even those with long careers behind them, continue to "
 "study to improve their skills)."
 msgstr ""
+"身为医生，你有时处于工作场景之中，*运用自己的技能*；有时则处于学习场景，*习得新的技能*（任何优秀的医生，即便已有多年从医经验，也会不断学习以求精进）。"
 
 #: ../../source/tutorials-how-to.rst:55
 msgid "At study"
-msgstr ""
+msgstr "在学习中"
 
 #: ../../source/tutorials-how-to.rst:57
 msgid ""
@@ -131,6 +144,7 @@ msgid ""
 "gloves, scalpel, needle, thread and so on - and step-by-step you’ll be shown"
 " what to do, and what will happen when you do it."
 msgstr ""
+"在培训的早期阶段，你会学习如何缝合伤口。你将和同学一起从实验室开始，面前的实验台上放着小块的皮肤垫（皮肤垫是由多层合成材料制成的方块，模拟表皮、脂肪及其他组织，其硬度与质地接近人体组织，切割和缝合时的反应亦有一定相似性）。所需工具也一应俱全：手套、手术刀、缝合针、缝线等，并且会一步步地向你演示操作步骤，以及每一步所对应的结果。"
 
 #: ../../source/tutorials-how-to.rst:63
 msgid ""
@@ -141,13 +155,14 @@ msgid ""
 "dismayed at their own attempt, a ragged cut of wildly uneven depths that "
 "looks like something from a knife-fight."
 msgstr ""
+"接着便轮到你了。你拿起手术刀，试探性地在皮肤垫表面划过，只在上层留下一道有气无力的切口（或许会有助教打趣你：这可怜的垫子到底做了什么，竟要受你这么一道难看的划痕）。身旁的同学看着自己的练习成果也面露沮丧，一道深浅不均、粗糙参差的切口，看上去像是浴血奋战留下的痕迹。"
 
 #: ../../source/tutorials-how-to.rst:68
 msgid ""
 "After a few attempts, with feedback and correction from the tutor, you’ll "
 "have made a more or less clean cut that mostly goes through the fat layer "
 "without cutting into the muscle beneath. Triumph!"
-msgstr ""
+msgstr "经过若干次尝试，再加上导师的反馈与纠正，你终于能切出一道较为干净的切口。它基本穿过了脂肪层，却未触及下方的肌肉。大功告成！"
 
 #: ../../source/tutorials-how-to.rst:75
 msgid ""
@@ -158,6 +173,7 @@ msgid ""
 "put them down in the wrong places. You will drop the needle. The thread will"
 " fall out. You will be told off for failing to maintain sterility."
 msgstr ""
+"然而，现在却轮到你将它重新缝合起来！你会先观看导师的演示，他的手法精准而熟练，几针整齐均匀的缝线便将皮肤垫上的伤口闭合。而你呢，却手忙脚乱地对付起针线来：拿错手，拿反方向，放在不该放的地方；掉落缝合针，缝线也会滑脱；还会因为未能保持无菌操作而被训斥。"
 
 #: ../../source/tutorials-how-to.rst:80
 msgid ""
@@ -167,6 +183,7 @@ msgid ""
 "stitches. The teaching assistants will have some critical things to say even"
 " about parts of it that you thought you’d got right."
 msgstr ""
+"最终，你总算获得了缝合伤口的实践机会。你会在不该进针的地方穿针，把切口边缘撕裂开来。最后的成果可谓惨不忍睹，皮肤拉伸起皱，缝线粗糙而凌乱。就连你自认为做得不错的部分，助教们也能挑出不少毛病。"
 
 #: ../../source/tutorials-how-to.rst:84
 msgid ""
@@ -175,16 +192,18 @@ msgid ""
 "confident practice. You will have acquired basic competence. You will have "
 "**learned by doing**."
 msgstr ""
+"然而，**你已然缝合了第一道伤口**。并且你将会反复重温这一课，一步一步地，当初的笨拙会逐渐转化为自信的实践。你将打下基本功，并将 "
+"**在实践中学习**。"
 
 #: ../../source/tutorials-how-to.rst:88
 msgid ""
 "This is a tutorial. It’s a *lesson*, safely in the hands of an instructor, a"
 " teacher who looks after the interests of a pupil."
-msgstr ""
+msgstr "这就是教程。他是一堂课，由指导者稳妥地把控，这位教师始终关注着学习者的成长。"
 
 #: ../../source/tutorials-how-to.rst:92
 msgid "At work"
-msgstr ""
+msgstr "在工作中"
 
 #: ../../source/tutorials-how-to.rst:94
 msgid ""
@@ -193,6 +212,7 @@ msgid ""
 "suturing, as well as many others, and you’re able to put them together on a "
 "daily basis to apply them to medical situations in the real world."
 msgstr ""
+"现在，让我们试想一下工作中的医生。作为一位已然胜任的执业者，你已经掌握并精进了包括缝合在内的诸多临床技能，并且能够每天将它们融会贯通，运用于真实世界中的医疗情境。"
 
 #: ../../source/tutorials-how-to.rst:98
 msgid ""
@@ -202,6 +222,7 @@ msgid ""
 "monitors. It will proceed step-by-step through the actions the team will "
 "need to follow, ending with the formal handover to the post-operative team."
 msgstr ""
+"以一个标准的阑尾切除术为例。临床手册将会列出手术室所需的设备与人员，它会说明如何安排团队成员的位置，以及如何布置所需器械、支架和监护仪。随后，它会按照团队需要遵循的操作步骤逐一展开，并以向术后团队正式交接作为结束。"
 
 #: ../../source/tutorials-how-to.rst:107
 msgid ""
@@ -212,6 +233,7 @@ msgid ""
 "juvenile patient, or when converting to an open appendectomy mid-procedure. "
 "Many of the steps will be of the form *if this, then that*."
 msgstr ""
+"手册中会说明应在何处切开、采用何种切口，但具体方案取决于手术方式是开放还是腹腔镜，是否有术前影像可供参考，以及其他诸多因素。手册还会列出针对婴幼儿患者的特殊步骤或检查项目，以及术中转为开放阑尾切除术时的对应处理流程。不少步骤都以“如果……那么……”的条件形式出现。"
 
 #: ../../source/tutorials-how-to.rst:112
 msgid ""
@@ -220,6 +242,7 @@ msgid ""
 " to remind yourselves of key steps; sometimes you'll refer to it during the "
 "procedure itself."
 msgstr ""
+"备有一份手册，有助于确保所有步骤依序执行，无一疏漏。作为一个团队，术前将逐一核查手术细节，以提醒自己关键步骤；有时在手术进行中也会即时查阅。"
 
 #: ../../source/tutorials-how-to.rst:116
 msgid ""
@@ -229,27 +252,29 @@ msgid ""
 "They are there to guide you safely in your clinical practice to accomplish a"
 " particular task - **they serve your work**."
 msgstr ""
+"即使是常规外科手术，临床手册也包含步骤和检查清单，这些手册正是操作指南。它们的用途不是教你，因为你已然掌握了相应的技能，对这些流程也早已谙熟于心。它们的作用是在临床实践中，引导你安全地完成特定任务"
+" —— **它们为你的工作服务**"
 
 #: ../../source/tutorials-how-to.rst:122
 msgid "Understanding the distinction"
-msgstr ""
+msgstr "理解这些区别"
 
 #: ../../source/tutorials-how-to.rst:124
 msgid ""
 "The distinction between a lesson in medical school and a clinical manual is "
 "the distinction between a tutorial and a how-to guide."
-msgstr ""
+msgstr "医学院的一堂课与一本临床手册之间的区别，正如教程与操作指南之间的区别一样。"
 
 #: ../../source/tutorials-how-to.rst:136
 msgid ""
 "A tutorial’s purpose is **to help the pupil acquire basic competence**."
-msgstr ""
+msgstr "教程的目的是 **帮助学员习得基本能力**。"
 
 #: ../../source/tutorials-how-to.rst:140
 msgid ""
 "A how-to guide’s purpose is **to help the already-competent user perform a "
 "particular task correctly**."
-msgstr ""
+msgstr "操作指南的目的是 **帮助已然具备能力的用户，正确完成某一特定任务**。"
 
 #: ../../source/tutorials-how-to.rst:145
 msgid ""
@@ -257,10 +282,11 @@ msgid ""
 "practical, hands-on experience. What matters in a tutorial is what the "
 "learner *does*, and what they experience while doing it."
 msgstr ""
+"教程 **提供一种学习体验**。技能的习得依赖于实践性的亲身操作。在教程中，重要的是学习者 *做* 了什么，以及他们在做的过程中获得了怎样的体验。"
 
 #: ../../source/tutorials-how-to.rst:150
 msgid "A how-to guide **directs the user’s work**."
-msgstr ""
+msgstr "操作指南 **为用户的工作引航**."
 
 #: ../../source/tutorials-how-to.rst:154
 msgid ""
@@ -268,6 +294,7 @@ msgid ""
 " and working to a conclusion. Along that path, the learner must have the "
 "*encounters* that the lesson requires."
 msgstr ""
+"教程遵循一条 **精心设计** 的路径，从既定起点出发，导向一个结论。在这条路径上，学习者必须 **亲身经历** 课程所设定的那些学习环节。"
 
 #: ../../source/tutorials-how-to.rst:160
 msgid ""
@@ -275,6 +302,8 @@ msgid ""
 "the safest, surest way to the goal, but **the path can’t be managed**: it’s "
 "the real world, and anything could appear to disrupt the journey."
 msgstr ""
+"而操作指南旨在达成一个成功的 *结果*，并引导用户沿着最安全可靠的途径抵达目标。但 "
+"**这条路径无法被预先规划**：现实世界变幻莫测，任何意外都可能扰乱这一过程。"
 
 #: ../../source/tutorials-how-to.rst:166
 msgid ""
@@ -283,82 +312,84 @@ msgid ""
 "and responds, and so on. Its job is to introduce them, manufacturing a "
 "structured, repeatable encounter with them."
 msgstr ""
+"教程的作用在于 "
+"**引导学习者熟悉工作环境**：包括所用工具、术语、流程，以及它们的行为与响应方式等。它旨在通过营造一种结构化的、可复现的接触体验，将这些内容呈现给学习者。"
 
 #: ../../source/tutorials-how-to.rst:172
 msgid "The how-to guide can and should **assume familiarity** with them all."
-msgstr ""
+msgstr "操作指南可以且应当 **假定用户已熟悉** 所有这些内容。"
 
 #: ../../source/tutorials-how-to.rst:176
 msgid ""
 "The tutorial takes place in a **contrived setting**, a learning environment "
 "where as much as possible is set out in advance to ensure a successful "
 "experience."
-msgstr ""
+msgstr "教程在一个 **人为设定** 的环境中进行 —— 在这个学习环境中，事先已尽可能安排妥当，以确保学习者能够获得成功的体验。"
 
 #: ../../source/tutorials-how-to.rst:181
 msgid ""
 "A how-to guide applies to the **real world**, where you have to deal with "
 "what it throws at you."
-msgstr ""
+msgstr "操作指南则适用于 **真实世界** —— 在那里，你不得不应对它所抛来的一切。"
 
 #: ../../source/tutorials-how-to.rst:186
 msgid "The tutorial **eliminates the unexpected**."
-msgstr ""
+msgstr "教程 **排除一切意外因素**。"
 
 #: ../../source/tutorials-how-to.rst:190
 msgid ""
 "The how-to guide must **prepare for the unexpected**, alerting the user to "
 "its possibility and providing guidance on how to deal with it."
-msgstr ""
+msgstr "操作指南必须 **为意外情况做好准备**，既要提醒用户意外可能发生，也要就如何应对提供明确的指引。"
 
 #: ../../source/tutorials-how-to.rst:195
 msgid ""
 "A tutorial’s path follows a single line. **It doesn’t offer choices or "
 "alternatives**."
-msgstr ""
+msgstr "教程沿着一条单一的路径展开，**它既不提供选项，也不提供替代方案**。"
 
 #: ../../source/tutorials-how-to.rst:199
 msgid ""
 "A **how-to guide will typically fork and branch**, describing different "
 "routes to the same destination: *If this, then that. In the case of ..., an "
 "alternative approach is to…*"
-msgstr ""
+msgstr "**操作指南通常会出现分叉和分支**，描述通往同一目标的不同路径：*如果是这种情况，则那样处理；在……的情形下，可采用替代做法 ……*"
 
 #: ../../source/tutorials-how-to.rst:205
 msgid ""
 "A tutorial **must be safe**. No harm should come to the learner; it must "
 "always be possible to go back to the beginning and start again."
-msgstr ""
+msgstr "教程 **必须确保安全性**。学习者不应受到任何伤害；并且始终能够退回起点，重新来过。"
 
 #: ../../source/tutorials-how-to.rst:210
 msgid ""
 "A how-to guide **cannot promise safety**; often there’s only one chance to "
 "get it right."
-msgstr ""
+msgstr "操作指南 **无法承诺安全性**；往往只有一次成功完成操作的机会。"
 
 #: ../../source/tutorials-how-to.rst:214
 msgid ""
 "In a tutorial, **responsibility lies with the teacher**. If the learner gets"
 " into trouble, that's the teacher's problem to put right."
-msgstr ""
+msgstr "在教程中，**责任由教师承担**。一旦学习者遇到问题，那便需要教师加以补救。"
 
 #: ../../source/tutorials-how-to.rst:219
 msgid ""
 "In a how-to guide, **the user has responsibility** for getting themselves in"
 " and out of trouble."
-msgstr ""
+msgstr "而操作指南中，**责任在于用户自身**，无论是陷入问题还是解决问题，都需自己设法处理。"
 
 #: ../../source/tutorials-how-to.rst:223
 msgid ""
 "The learner **may not even have sufficient competence to ask the questions**"
 " that a tutorial answers."
-msgstr ""
+msgstr "学习者 **甚至可能不具备足够的能力**，来提出那些需要教程解答的问题。"
 
 #: ../../source/tutorials-how-to.rst:227
 msgid ""
 "A how-to guide can assume that **the user is asking the right questions in "
 "the first place**."
-msgstr ""
+msgstr "操作指南会假设 **用户一开始就提出了正确的问题**。"
 
 #: ../../source/tutorials-how-to.rst:232
 msgid ""
@@ -368,55 +399,57 @@ msgid ""
 " software tutorial, it could be where to type a command, or how long to wait"
 " for a response."
 msgstr ""
+"教程 **对基础事项做出明确说明** —— "
+"在哪里操作、放在哪里、如何操作对象。它涉及的是切身的操作体验：以我们医学中的例子而言，即按压的力度、器械的握持方式；而在软件教程中，则可能是命令的输入位置，或等待响应的时间长短。"
 
 #: ../../source/tutorials-how-to.rst:238
 msgid ""
 "A how-to guide relies on this as **implicit knowledge** - even bodily "
 "knowledge."
-msgstr ""
+msgstr "操作指南则将它们视为一种 **隐性知识**，以至于早已化为身体记忆。"
 
 #: ../../source/tutorials-how-to.rst:242
 msgid ""
 "A tutorial is **concrete and particular** in its approach. It refers to the "
 "specific, known, defined tools, materials, processes and conditions that we "
 "have carefully set before the learner."
-msgstr ""
+msgstr "教程的方法讲究 **具体而明确**。它指向的是我们为学习者精心准备的那些具体的、已知的、明确的工具、材料、流程和条件。"
 
 #: ../../source/tutorials-how-to.rst:247
 msgid ""
 "The how-to guide has to take a **general** approach: many of these things "
 "will be unknowable in advance, or different in each real-world case."
-msgstr ""
+msgstr "而操作指南则必须采取一种 **通用的** 方法：其中诸多事情事先难以预知，或因真实世界情况的不同而各有差异。"
 
 #: ../../source/tutorials-how-to.rst:252
 msgid ""
 "The tutorial **teaches general skills and principles** that later could be "
 "applied to a multitude of cases."
-msgstr ""
+msgstr "教程 **传授的是通用的技能与原理**，日后可运用于多种不同的情形中。"
 
 #: ../../source/tutorials-how-to.rst:257
 msgid ""
 "The user following a how-to guide is doing so in order to **complete a "
 "particular task**."
-msgstr ""
+msgstr "而用户查阅操作指南，则是为了 **完成某一特定任务**。"
 
 #: ../../source/tutorials-how-to.rst:259
 msgid ""
 "None of these distinctions are arbitrary. They all emerge from the "
 "distinction between **study** and **work**, which we understand as a key "
 "distinction in making sense of what the user of documentation needs."
-msgstr ""
+msgstr "这些区分绝非随意而为。它们皆源于 **学习** 与 **工作** 之别，我们正是以此作为理解文档用户需求的关键区别所在。"
 
 #: ../../source/tutorials-how-to.rst:265
 msgid "The basic and the advanced"
-msgstr ""
+msgstr "基础和进阶"
 
 #: ../../source/tutorials-how-to.rst:267
 msgid ""
 "A common but understandable conflation is to see the difference between "
 "tutorials and how-to guides as being the difference between **the basic** "
 "and **the advanced**."
-msgstr ""
+msgstr "有一种混淆颇为常见，却也并非不可理解。那就是：把教程和操作指南之间的区分，视同于基础与进阶之间的区别。"
 
 #: ../../source/tutorials-how-to.rst:270
 msgid ""
@@ -424,6 +457,7 @@ msgid ""
 "skilled practitioners. Tutorials must cover the basics, while how-to guides "
 "have to deal with complexities that learners should not have to face."
 msgstr ""
+"毕竟，教程面向的是学习者，而操作指南则服务于已然具备技能的从业者。教程必须覆盖基础内容，而操作指南则需应对各种复杂情形，那些本就是学习者无需面对的。"
 
 #: ../../source/tutorials-how-to.rst:273
 msgid ""
@@ -433,6 +467,7 @@ msgid ""
 "paperwork or disposal of particular materials. *How-to guides can, do and "
 "often should cover basic procedures.*"
 msgstr ""
+"然而，情况远不止如此。以一份临床操作手册为例：它可能针对的是一项基础性的常规操作，复杂程度极低；其中的步骤或许只是关于如何正确填写文书，或者处理特定材料之类的日常事务。*操作指南能够、也往往确实需要涵盖基础性的操作流程。*"
 
 #: ../../source/tutorials-how-to.rst:277
 msgid ""
@@ -440,6 +475,7 @@ msgid ""
 " training situations. Some of them may be very advanced and specialised, "
 "requiring a high level of skill and expertise already."
 msgstr ""
+"与此同时，即使你已是一名合格的医生，你依然会发现，自己也会重返培训之中，其中一些培训可能非常高级且专业化，已然要求具备高水平的技能和专业知识。"
 
 #: ../../source/tutorials-how-to.rst:280
 msgid ""
@@ -450,6 +486,7 @@ msgid ""
 "your skills - just as it was when years earlier, you were learning to suture"
 " your first wound."
 msgstr ""
+"假设你是一位有着多年经验的麻醉师，参加了一门名为“困难新生儿插管”的课程。其中的实操环节本身便是一次学习体验。在指导者的安全指导下，你会进行特定的操作练习来提升技能，正如多年前你学习缝合第一道伤口时所经历的那样。"
 
 #: ../../source/tutorials-how-to.rst:285
 msgid ""
@@ -457,6 +494,7 @@ msgid ""
 "required even to participate in the learning experience. But, it’s of the "
 "same form, and serves the same kind of need, as that much earlier lesson."
 msgstr ""
+"然而，其中的复杂度已是天壤之别，参与这一学习体验所需的技能基准也截然不同。但就形式而言，它与多年前的那次学习并无二致，所满足的需求也如出一辙。"
 
 #: ../../source/tutorials-how-to.rst:288
 msgid ""
@@ -465,10 +503,12 @@ msgid ""
 " well-known. The difference between the two lies in the need they serve: "
 "**the user’s study**, or **their work**."
 msgstr ""
+"软件文档亦是如此：教程可以呈现复杂或进阶的内容，而操作指南也可以涵盖基础或常规的内容。两者之间的根本区别，在于所服务的用户需求：是 "
+"**用户的学习**，还是 **用户的工作**。"
 
 #: ../../source/tutorials-how-to.rst:294
 msgid "Safety and success"
-msgstr ""
+msgstr "安全性与成功"
 
 #: ../../source/tutorials-how-to.rst:296
 msgid ""
@@ -478,6 +518,7 @@ msgid ""
 "time providing a guide to a real-world procedure would be a literally deadly"
 " document. It would kill people."
 msgstr ""
+"理解这些区分，以及支持这些分类的原因，是写出成功文档的关键所在。一本将教育与实践混为一谈的临床手册，既想传道授业，又想指导现实世界的操作，势必将成为一份名副其实的致命文档，它会害死人的。"
 
 #: ../../source/tutorials-how-to.rst:300
 msgid ""
@@ -489,6 +530,7 @@ msgid ""
 "their study - the acquisition of skills - or in their work - the application"
 " of skills."
 msgstr ""
+"在软件文档这类领域中，我们能够侥幸过关，是因为我们的混淆与失误很少造成致命的后果。然而，我们却会给用户造成大量琐碎的不便与困扰，而且每当我们发布一篇教程或操作指南，而它又未能明确自身的目的是帮助用户学习（即习得技能）还是工作（即运用技能）时，这种损害便增加一分。"
 
 #: ../../source/tutorials-how-to.rst:305
 msgid ""
@@ -497,6 +539,7 @@ msgid ""
 "needs that they have at a particular stage in their cycle of interaction "
 "with our product - they will find something else that does, if they can."
 msgstr ""
+"更有甚者，我们也在伤害自己。用户并非必须使用我们的产品。如果我们的文档不能帮助他们走向成功，也就是说，如果它不能满足他们在与产品交互周期的特定阶段所具有的需求，他们便会去找其他能做到的产品，只要他们能找到的话。"
 
 #: ../../source/tutorials-how-to.rst:309
 msgid ""
@@ -507,3 +550,4 @@ msgid ""
 "the sake of those users, and of our own product, getting the distinction "
 "right is a key to success."
 msgstr ""
+"教程和操作指南的混淆，虽不是文档类型间唯一的混淆，但却是最容易发生的一类，其危害尤甚。因为它可能阻碍那些我们希望转化为忠实用户的新手。为了这些用户，也为了我们自身的产品，正确把握这一区分，乃是成功的关键。"

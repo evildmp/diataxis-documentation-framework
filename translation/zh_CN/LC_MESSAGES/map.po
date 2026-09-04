@@ -23,30 +23,30 @@ msgstr ""
 
 #: ../../source/map.rst:4
 msgid "The map"
-msgstr ""
+msgstr "地图"
 
 #: ../../source/map.rst:7
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
-msgstr ""
+msgstr "Diátaxis 作为组织文档的指南之所以有效，是因为它描述了一个 **二维结构**，而不仅仅是一个 **清单**。"
 
 #: ../../source/map.rst:14
 msgid ""
 "It specifies its types of documentation in such a way that the structure "
 "naturally helps guide and shape the material it contains."
-msgstr ""
+msgstr "它通过对文档类型的明确界定，使结构本身自然而然地引导和塑造其所包含的内容。"
 
 #: ../../source/map.rst:17
 msgid ""
 "As a map, it places the different forms of documentation into relationships "
 "with each other. Each one occupies a space in the mental territory it "
 "outlines, and the boundaries between them highlight their distinctions."
-msgstr ""
+msgstr "作为一张地图，它将不同形式的文档彼此关联起来。每一种文档都在其所描绘的心智领域中占据一席之地，而彼此之间的边界则凸显了各自的差异。"
 
 #: ../../source/map.rst:23
 msgid "The problem of structure"
-msgstr ""
+msgstr "结构的问题"
 
 #: ../../source/map.rst:25
 msgid ""
@@ -54,13 +54,14 @@ msgid ""
 "problem of structure (though it's bad enough that it makes it harder to use "
 "and maintain). Architectural faults infect and undermine content too."
 msgstr ""
+"若文档未能形成良好的结构，所暴露出的往往不止于结构问题（尽管这已经足够糟糕了，因为它使文档更难以使用和维护）。架构层面的缺陷，同样会殃及并侵蚀内容本身。"
 
 #: ../../source/map.rst:27
 msgid ""
 "In the absence of a clear, generalised documentation architecture, "
 "documentation creators will often try to structure their work around "
 "features of a product."
-msgstr ""
+msgstr "在缺乏清晰、通用的文档架构的情况下，文档编写者往往会尝试围绕产品的功能特性，来组织他们的工作。"
 
 #: ../../source/map.rst:29
 msgid ""
@@ -69,13 +70,14 @@ msgid ""
 "the adoption of a scheme that tries to provide an answer to the question: "
 "how to arrange documentation *in general?*"
 msgstr ""
+"这种做法鲜有成功，即便在单个实例中也是如此。在多个文档实例的组合中，更会带来严重的不一致。更好的做法是采用一种方案，该方案试图回答这样一个问题：*一般而言*，应该如何组织文档？"
 
 #: ../../source/map.rst:34
 msgid ""
 "In fact any orderly attempt to organise documentation into clear content "
 "categories will help improve it (for authors as well as users), by providing"
 " lists of content types."
-msgstr ""
+msgstr "实际上，只要有序地将文档归入清晰的内容类别，都会有助于文档的改善（对作者和用户来说都是如此），因为这样可以提供各种内容类型的清单作为指引。"
 
 #: ../../source/map.rst:38
 msgid ""
@@ -86,10 +88,11 @@ msgid ""
 "themselves working with - why this particular list of content types rather "
 "than another? And if another competing list is proposed, which to adopt?"
 msgstr ""
+"然而，作者们常会遇到这样的情况：需要撰写的特定文档内容，难以归入某个方案划定的类别，或者不得不为改写既有材料而费神。他们所使用的结构，往往给人一种草台班子的感觉——为什么偏偏是这些内容类型，而不是别的？若再有另一套不同的内容分类方案，又该如何取舍？"
 
 #: ../../source/map.rst:48
 msgid "Expectations and guidance"
-msgstr ""
+msgstr "预期和引导"
 
 #: ../../source/map.rst:50
 msgid ""
@@ -98,167 +101,168 @@ msgid ""
 "clear what the purpose of any particular piece of content is, it specifies "
 "how it should be written and it shows where it should be placed."
 msgstr ""
+"以这种方式组织材料的一个明显优势在于，它既为读者设定了清晰的预期，也向作者提供了明确的指引。任何具体内容的用途都一目了然，它规定了该内容的写作方式，也指明了它应该放置的位置。"
 
 #: ../../source/map.rst:62
 msgid "\\"
-msgstr ""
+msgstr "\\"
 
 #: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"
-msgstr ""
+msgstr ":ref:`Tutorials <tutorials>`"
 
 #: ../../source/map.rst:64
 msgid ":ref:`How-to guides <how-to>`"
-msgstr ""
+msgstr ":ref:`How-to guides <how-to>`"
 
 #: ../../source/map.rst:65
 msgid ":ref:`Reference <reference>`"
-msgstr ""
+msgstr ":ref:`Reference <reference>`"
 
 #: ../../source/map.rst:66
 msgid ":ref:`Explanation <explanation>`"
-msgstr ""
+msgstr ":ref:`Explanation <explanation>`"
 
 #: ../../source/map.rst:67
 msgid "what they do"
-msgstr ""
+msgstr "他们所做的事情"
 
 #: ../../source/map.rst:68
 msgid "introduce, educate, lead"
-msgstr ""
+msgstr "介绍、教学、引导"
 
 #: ../../source/map.rst:69
 msgid "guide"
-msgstr ""
+msgstr "指导"
 
 #: ../../source/map.rst:70
 msgid "state, describe, inform"
-msgstr ""
+msgstr "描述、说明、告知"
 
 #: ../../source/map.rst:71
 msgid "explain, clarify, discuss"
-msgstr ""
+msgstr "解释、阐明、讨论"
 
 #: ../../source/map.rst:72
 msgid "answers the question"
-msgstr ""
+msgstr "回答了问题"
 
 #: ../../source/map.rst:73
 msgid "\"Can you teach me to...?\""
-msgstr ""
+msgstr "“你能教我如何 …… 吗？”"
 
 #: ../../source/map.rst:74
 msgid "\"How do I...?\""
-msgstr ""
+msgstr "“我该如何 ……？”"
 
 #: ../../source/map.rst:75
 msgid "\"What is...?\""
-msgstr ""
+msgstr "“什么是 ……？”"
 
 #: ../../source/map.rst:76
 msgid "\"Why...?\""
-msgstr ""
+msgstr "“为什么 ……？”"
 
 #: ../../source/map.rst:77
 msgid "oriented to"
-msgstr ""
+msgstr "面向"
 
 #: ../../source/map.rst:78
 msgid "learning"
-msgstr ""
+msgstr "学习"
 
 #: ../../source/map.rst:79
 msgid "goals"
-msgstr ""
+msgstr "目标"
 
 #: ../../source/map.rst:80
 msgid "information"
-msgstr "信息过载"
+msgstr "信息"
 
 #: ../../source/map.rst:81
 msgid "understanding"
-msgstr ""
+msgstr "理解"
 
 #: ../../source/map.rst:82
 msgid "purpose"
-msgstr ""
+msgstr "目的"
 
 #: ../../source/map.rst:83
 msgid "to provide a learning experience"
-msgstr ""
+msgstr "提供一种学习体验"
 
 #: ../../source/map.rst:84
 msgid "to help achieve a particular goal"
-msgstr ""
+msgstr "帮助实现某个特定目标"
 
 #: ../../source/map.rst:85
 msgid "to describe the machinery"
-msgstr ""
+msgstr "阐释其内部原理"
 
 #: ../../source/map.rst:86
 msgid "to illuminate a topic"
-msgstr ""
+msgstr "阐明某个主题"
 
 #: ../../source/map.rst:87
 msgid "form"
-msgstr ""
+msgstr "形式"
 
 #: ../../source/map.rst:88
 msgid "a lesson"
-msgstr ""
+msgstr "一堂课"
 
 #: ../../source/map.rst:89
 msgid "a series of steps"
-msgstr ""
+msgstr "一系列步骤"
 
 #: ../../source/map.rst:90
 msgid "dry description"
-msgstr ""
+msgstr "事实性描述"
 
 #: ../../source/map.rst:91
 msgid "discursive explanation"
-msgstr ""
+msgstr "论述性解释"
 
 #: ../../source/map.rst:92
 msgid "analogy"
-msgstr ""
+msgstr "类比"
 
 #: ../../source/map.rst:93
 msgid "teaching a child how to cook"
-msgstr ""
+msgstr "教孩子如何烹饪"
 
 #: ../../source/map.rst:94
 msgid "a recipe in a cookery book"
-msgstr ""
+msgstr "烹饪书中的食谱"
 
 #: ../../source/map.rst:95
 msgid "information on the back of a food packet"
-msgstr ""
+msgstr "食品包装袋背面的信息"
 
 #: ../../source/map.rst:96
 msgid "an article on culinary social history"
-msgstr ""
+msgstr "一篇关于烹饪社会历史的文章"
 
 #: ../../source/map.rst:98
 msgid ""
 "Each piece of content is of a kind that not only has one particular job to "
 "do, that job is also clearly distinguished from and contrasted with the "
 "other functions of documentation."
-msgstr ""
+msgstr "每份内容皆有其归属的类型，而该类型不仅赋予它一项特定的职责，且与文档的其他功能形成明确的区别和对照。"
 
 #: ../../source/map.rst:103
 msgid "Blur"
-msgstr ""
+msgstr "模糊化"
 
 #: ../../source/map.rst:105
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
-msgstr ""
+msgstr "大多数文档系统和作者至少能识别其中部分区别，并尝试在实践中加以遵守。"
 
 #: ../../source/map.rst:108
 msgid "Partial collapse of the structure"
-msgstr ""
+msgstr "结构的局部崩塌"
 
 #: ../../source/map.rst:112
 msgid ""
@@ -267,22 +271,23 @@ msgid ""
 " to blur the distinctions (that can be seen repeatedly in examples of "
 "documentation)."
 msgstr ""
+"然而，在地图上每一种类型的文档及其临近类型之间，总有一种天然的亲和性，因而也存在一种模糊彼此边界的自然趋势（这种情形在文档的实例中屡见不鲜）。"
 
 #: ../../source/map.rst:120
 msgid "guide action"
-msgstr ""
+msgstr "引导动作"
 
 #: ../../source/map.rst:121 ../../source/map.rst:130
 msgid "tutorials"
-msgstr ""
+msgstr "教程"
 
 #: ../../source/map.rst:122 ../../source/map.rst:125
 msgid "how-to guides"
-msgstr ""
+msgstr "操作指南"
 
 #: ../../source/map.rst:123
 msgid "serve the application of skill"
-msgstr ""
+msgstr "服务于技能的运用"
 
 #: ../../source/map.rst:124 ../../source/map.rst:127
 msgid "reference"
@@ -290,15 +295,15 @@ msgstr "参考"
 
 #: ../../source/map.rst:126
 msgid "contain propositional knowledge"
-msgstr ""
+msgstr "包含命题性知识"
 
 #: ../../source/map.rst:128 ../../source/map.rst:131
 msgid "explanation"
-msgstr "过度解释"
+msgstr "解释"
 
 #: ../../source/map.rst:129
 msgid "serve the acquisition of skill"
-msgstr ""
+msgstr "服务于技能的习得"
 
 #: ../../source/map.rst:133
 msgid ""
@@ -307,28 +312,28 @@ msgid ""
 "way into inappropriate places. It also causes structural problems, which "
 "make it even more difficult to maintain the discipline of appropriate "
 "writing."
-msgstr ""
+msgstr "一旦允许这些边界模糊化，各类文档便会相互杂糅，写作风格和内容彼此错配。这也会诱发结构性的问题，进而使维持恰当的写作规范变得更加困难。"
 
 #: ../../source/map.rst:135
 msgid "Total collapse of the structure"
-msgstr ""
+msgstr "结构的整体崩塌"
 
 #: ../../source/map.rst:139
 msgid ""
 "In the worst case there is a complete or partial collapse of tutorials and "
 "how-to guides into each other, making it impossible to meet the needs served"
 " by either."
-msgstr ""
+msgstr "最糟糕的情形是，教程和操作指南完全或部分地彼此混杂，从而导致二者所服务的需求均难以实现。"
 
 #: ../../source/map.rst:145
 msgid "The journey around the map"
-msgstr ""
+msgstr "周游地图之旅"
 
 #: ../../source/map.rst:147
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
-msgstr ""
+msgstr "Diátaxis 的宗旨，在于使文档在用户与产品的 *交互周期* 之中，更有效地满足用户所需。"
 
 #: ../../source/map.rst:149
 msgid ""
@@ -339,6 +344,8 @@ msgid ""
 "guidance on some particular subject, and what they want to read will change "
 "from moment to moment as they use your documentation."
 msgstr ""
+"这一说法，不应作过于机械的字面解读。用户未必需要按照 *教程* > *操作指南* > *技术参考* > *解释* "
+"的顺序来接触各类文档。实践中，实际用户可能从文档的任意位置切入，以寻求某个特定主题的指导。而随着他们使用你的文档，想要阅读的内容也会随时变化。"
 
 #: ../../source/map.rst:154
 msgid ""
@@ -346,37 +353,38 @@ msgid ""
 "different phases, is sound and corresponds to the way that people actually "
 "do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
+"然后，文档需求在不同阶段间往复循环的理念，本身是站得住脚的，它与人们实际精通一门技艺的过程相契合。这一顺序并非率性而为，而是有其内在的意义与合理性。"
 
 #: ../../source/map.rst:157
 msgid "Moving around the map"
-msgstr ""
+msgstr "在地图上穿行"
 
 #: ../../source/map.rst:162
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
-msgstr ""
+msgstr "*以学习为导向的阶段*：一切始于学习。而学习一项技能意味着躬身入局。如果有幸，还能在老师的指导下进行实践。"
 
 #: ../../source/map.rst:164
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
-msgstr ""
+msgstr "*以目标为导向的阶段*：下一步，我们要把技能加以运用。"
 
 #: ../../source/map.rst:165
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
-msgstr ""
+msgstr "*以信息为导向的阶段*：一旦我们的工作涉及尚未掌握的知识时，便需要查阅技术参考文档。"
 
 #: ../../source/map.rst:167
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
-msgstr ""
+msgstr "*以解释为导向的阶段*：最后，我们脱离工作语境，对自身的实践与知识进行反思，以求通盘理解。"
 
 #: ../../source/map.rst:170
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."
-msgstr ""
+msgstr "然后回到起点，也许是为了掌握新的事物，或是为了更深入地探索。"

@@ -5,6 +5,7 @@
 # 
 # Translators:
 # daisuke osada (daiskeh) <dosada@gmail.com>, 2026
+# evildmp <daniele@vurt.org>, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: daisuke osada (daiskeh) <dosada@gmail.com>, 2026\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
 "Language-Team: Japanese (https://app.transifex.com/danieleprocida/teams/120528/ja/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,8 +37,8 @@ msgid ""
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
 msgstr ""
-"Diátaxisは:doc:`体系的な理論的原則に基づいています "
-"1`、しかし、それらを理解することは、システムを効果的に利用するために必ずしも必要ではありません。"
+"Diátaxisは :doc:`体系的な理論的原則に基づいています "
+"<theory>`、しかし、それらを理解することは、システムを効果的に利用するために必ずしも必要ではありません。"
 
 #: ../../source/application.rst:11
 msgid ""

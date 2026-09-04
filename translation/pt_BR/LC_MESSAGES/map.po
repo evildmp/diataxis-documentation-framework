@@ -336,7 +336,7 @@ msgstr "conter conhecimento proposicional"
 
 #: ../../source/map.rst:128 ../../source/map.rst:131
 msgid "explanation"
-msgstr "explanação"
+msgstr "explicação"
 
 #: ../../source/map.rst:129
 msgid "serve the acquisition of skill"

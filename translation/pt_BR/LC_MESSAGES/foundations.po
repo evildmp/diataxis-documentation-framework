@@ -259,7 +259,7 @@ msgstr "entendimento"
 
 #: ../../source/foundations.rst:78
 msgid "explanation"
-msgstr "explanação"
+msgstr "explicação"
 
 #: ../../source/foundations.rst:83
 msgid ""

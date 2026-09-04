@@ -5,6 +5,7 @@
 # 
 # Translators:
 # evildmp <daniele@vurt.org>, 2026
+# Camille Begnis, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Last-Translator: Camille Begnis, 2026\n"
 "Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,18 +31,24 @@ msgid ""
 "Explanation is a discursive treatment of a subject, that permits "
 "*reflection*. Explanation is **understanding-oriented**."
 msgstr ""
+"L'explication est un traitement discursif d'un sujet qui permet la "
+"*réflexion*. L'explication est **orientée vers la compréhension**."
 
 #: ../../source/explanation.rst:11
 msgid ""
 "Explanation deepens and broadens the reader's understanding of a subject. It"
 " brings clarity, light and context."
 msgstr ""
+"L'explication approfondit et élargit la compréhension que le lecteur a d'un "
+"sujet. Elle apporte clarté, lumière et contexte."
 
 #: ../../source/explanation.rst:13
 msgid ""
 "Explanation - understanding oriented, theoretical knowledge, that serves our"
 " study"
 msgstr ""
+"Explication – savoir théorique axé sur la compréhension, qui sert notre "
+"étude"
 
 #: ../../source/explanation.rst:17
 msgid ""
@@ -49,6 +56,9 @@ msgid ""
 "something else, and depends on something else, yet at the same time brings "
 "something new - shines a new light - on the subject matter."
 msgstr ""
+"Le concept de *réflexion* est important. La réflexion survient *après* autre"
+" chose et en dépend, tout en apportant quelque chose de nouveau — en jetant "
+"un éclairage inédit — sur le sujet traité."
 
 #: ../../source/explanation.rst:19
 msgid ""
@@ -58,12 +68,21 @@ msgid ""
 "scope in each case is a topic - \"an area of knowledge\", that somehow has "
 "to be bounded in a reasonable, meaningful way."
 msgstr ""
+"La perspective adoptée pour l'explication est plus élevée et plus vaste que "
+"celle des trois autres types. Elle ne se place pas au niveau du regard de "
+"l'utilisateur, comme dans un guide pratique, ni ne propose une vue "
+"rapprochée du mécanisme, comme le ferait un document de référence. Dans "
+"chaque cas, son champ d'application est un sujet — « un domaine de "
+"connaissances » — qu'il convient, d'une manière ou d'une autre, de délimiter"
+" de façon raisonnable et pertinente."
 
 #: ../../source/explanation.rst:21
 msgid ""
 "For the user, explanation joins things together. It's an answer to the "
 "question: *Can you tell me about ...?*"
 msgstr ""
+"Pour l'utilisateur, l'explication relie les éléments entre eux. C'est une "
+"réponse à la question : *Peux-tu me parler de... ?*"
 
 #: ../../source/explanation.rst:23
 msgid ""
@@ -71,14 +90,17 @@ msgid ""
 "itself (one could say, explanation is the only kind of documentation that it"
 " might make sense to read in the bath)."
 msgstr ""
+"Il s'agit d'une documentation qu'il est judicieux de consulter à distance du"
+" produit lui-même (on pourrait dire que les explications constituent le seul"
+" type de documentation qu'il peut être pertinent de lire dans son lit)."
 
 #: ../../source/explanation.rst:28
 msgid "The value and place of explanation"
-msgstr ""
+msgstr "La valeur et la place de l'explication"
 
 #: ../../source/explanation.rst:31
 msgid "Explanation and understanding"
-msgstr ""
+msgstr "Explication et compréhension"
 
 #: ../../source/explanation.rst:33
 msgid ""

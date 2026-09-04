@@ -54,6 +54,7 @@ html_context = {
         ["es", "Español"],
         # ["de", "Deutsche"],
         ["ja", "日本語"],
+        ["ru", "Русский"],
     ],
     "default_language": "en",
 }

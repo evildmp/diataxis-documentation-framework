@@ -3,6 +3,9 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Ian Corvin <dev.darkside@gmail.com>, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -10,6 +13,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-08-01 12:29+0200\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,7 +23,7 @@ msgstr ""
 
 #: ../../source/compass.rst:4
 msgid "The compass"
-msgstr ""
+msgstr "Компас"
 
 #: ../../source/compass.rst:10
 msgid ""
@@ -27,6 +31,9 @@ msgid ""
 "documentation and their relationship, and it accords well with intuitions "
 "about documentation."
 msgstr ""
+"Карта Diátaxis хорошо напоминает о четырёх типах документации и связях между"
+" ними. Во многом она совпадает с тем, как мы и так интуитивно думаем о "
+"документации."
 
 #: ../../source/compass.rst:14
 msgid ""
@@ -35,17 +42,22 @@ msgid ""
 "documentation is this?* or *what form of documentation is needed here?* - "
 "and no obvious, intuitive answer."
 msgstr ""
+"Но интуиции нельзя доверять всегда. Работая с документацией, автор часто "
+"спрашивает себя: *что это вообще за тип документации?* или *какая "
+"документация нужна здесь?* — и очевидного ответа нет."
 
 #: ../../source/compass.rst:19
 msgid ""
 "Worse, sometimes intuition provides an immediate answer that is also wrong."
-msgstr ""
+msgstr "Хуже того, иногда интуиция сразу подсказывает ответ — и ошибается."
 
 #: ../../source/compass.rst:21
 msgid ""
 "A map is most powerful in unfamiliar territory when we also have a compass "
 "to guide us."
 msgstr ""
+"В незнакомой местности карта особенно полезна, когда вместе с ней есть ещё и"
+" компас."
 
 #: ../../source/compass.rst:24
 msgid ""
@@ -53,50 +65,53 @@ msgid ""
 "documentation. It reduces a more complex, two-dimensional problem to its "
 "simpler parts, and provides the author with a course-correction tool."
 msgstr ""
+"Компас Diátaxis — что-то вроде таблицы или дерева решений для документации. "
+"Он раскладывает сложную задачу на простые части и помогает понять, куда "
+"двигаться дальше или где стоит скорректировать направление."
 
 #: ../../source/compass.rst:35
 msgid "If the content..."
-msgstr ""
+msgstr "Если материал..."
 
 #: ../../source/compass.rst:36
 msgid "...and serves the user's..."
-msgstr ""
+msgstr "...и помогает пользователю..."
 
 #: ../../source/compass.rst:37
 msgid "...then it must belong to..."
-msgstr ""
+msgstr "...то это..."
 
 #: ../../source/compass.rst:38 ../../source/compass.rst:41
 msgid "informs action"
-msgstr ""
+msgstr "помогает понять, что делать"
 
 #: ../../source/compass.rst:39 ../../source/compass.rst:48
 msgid "acquisition of skill"
-msgstr ""
+msgstr "освоить новый навык"
 
 #: ../../source/compass.rst:40
 msgid "a tutorial"
-msgstr ""
+msgstr "урок"
 
 #: ../../source/compass.rst:42 ../../source/compass.rst:45
 msgid "application of skill"
-msgstr ""
+msgstr "применить навык на практике"
 
 #: ../../source/compass.rst:43
 msgid "a how-to guide"
-msgstr ""
+msgstr "инструкция"
 
 #: ../../source/compass.rst:44 ../../source/compass.rst:47
 msgid "informs cognition"
-msgstr ""
+msgstr "помогает разобраться в теме"
 
 #: ../../source/compass.rst:46
 msgid "reference"
-msgstr ""
+msgstr "справочник"
 
 #: ../../source/compass.rst:49
 msgid "explanation"
-msgstr ""
+msgstr "объяснение"
 
 #: ../../source/compass.rst:51
 msgid ""
@@ -104,20 +119,26 @@ msgid ""
 "documentation, or to documentation itself that perhaps needs to be moved or "
 "improved. Like many good tools, it's surprisingly banal."
 msgstr ""
+"Компас можно использовать и когда вы решаете, какая документация нужна "
+"пользователю, и когда разбираете уже существующую документацию и думаете, "
+"что в ней перенести или улучшить. Как многие хорошие инструменты, он до "
+"смешного прост."
 
 #: ../../source/compass.rst:53
 msgid ""
 "To use the compass, just two questions need to be asked: *action or "
 "cognition?* *acquisition or application?*"
 msgstr ""
+"Чтобы воспользоваться компасом, достаточно двух вопросов: *действие или "
+"понимание?* *обучение или работа?*"
 
 #: ../../source/compass.rst:55
 msgid "And it yields the answer."
-msgstr ""
+msgstr "И ответ становится очевиден."
 
 #: ../../source/compass.rst:59
 msgid "Using the compass"
-msgstr ""
+msgstr "Как пользоваться компасом"
 
 #: ../../source/compass.rst:61
 msgid ""
@@ -126,51 +147,58 @@ msgid ""
 " a sense of doubt, or by some difficulty in the work. The compass forces you"
 " to stop and reconsider."
 msgstr ""
+"Компас особенно полезен, когда вам кажется, что вы — или документация перед "
+"вами — делаете одно, но что-то не сходится или работа начинает буксовать. "
+"Компас заставляет остановиться и ещё раз проверить, туда ли вы идёте."
 
 #: ../../source/compass.rst:63
 msgid ""
 "Especially when you are trying to find your initial bearings, use the "
 "compass's terms flexibly; don't get fixated on the exact names."
 msgstr ""
+"Особенно поначалу не цепляйтесь за точные формулировки. Используйте термины "
+"компаса свободно — важен смысл, а не название."
 
 #: ../../source/compass.rst:65
 msgid "*action*: practical steps, doing"
-msgstr ""
+msgstr "*действие*: практические шаги, что-то делать"
 
 #: ../../source/compass.rst:66
 msgid "*cognition*: theoretical or propositional knowledge, thinking"
-msgstr ""
+msgstr "*понимание*: знания, размышления, понимание темы"
 
 #: ../../source/compass.rst:67
 msgid "*acquisition*: study"
-msgstr ""
+msgstr "*обучение*: учиться, осваивать"
 
 #: ../../source/compass.rst:68
 msgid "*application*: work"
-msgstr ""
+msgstr "*работа*: применять на практике"
 
 #: ../../source/compass.rst:70
 msgid "And the questions themselves can also be used in different ways:"
-msgstr ""
+msgstr "И сами вопросы можно задавать по-разному:"
 
 #: ../../source/compass.rst:72
 msgid "Do I think I am writing for *x* or *y*?"
-msgstr ""
+msgstr "Как мне кажется, я пишу для *x* или для *y*?"
 
 #: ../../source/compass.rst:73
 msgid "Is this writing in front of me engaged in *x* or *y*?"
-msgstr ""
+msgstr "Этот текст передо мной сейчас про *x* или про *y*?"
 
 #: ../../source/compass.rst:74
 msgid "Does the user need *x* or *y*?"
-msgstr ""
+msgstr "Пользователю нужно *x* или *y*?"
 
 #: ../../source/compass.rst:75
 msgid "Do I want to *x* or *y*?"
-msgstr ""
+msgstr "Что мне нужно здесь: *x* или *y*?"
 
 #: ../../source/compass.rst:77
 msgid ""
 "And try applying them close-up, at the level of sentences and words, or from"
 " a wider perspective, considering an entire document."
 msgstr ""
+"Пробуйте задавать эти вопросы и на уровне отдельных слов и предложений, и "
+"шире — рассматривая документ целиком."
