@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -33,6 +33,86 @@ msgstr ""
 "Uma razão pela qual o Diátaxis é eficaz como um guia para organizar a "
 "documentação é que ele descreve uma **estrutura bidimensional**, em vez de "
 "uma *lista*."
+
+#: ../../source/snippets/diagram.rst:15
+msgid "The Diátaxis map of documentation types"
+msgstr "O mapa Diátaxis de tipos de documentação"
+
+#: ../../source/snippets/diagram.rst:15
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"O mapa é definido por dois eixos que o dividem em quatro quadrantes. Acima e"
+" abaixo, documentação que direciona ações versus documentação que descreve o"
+" que é o caso. Esquerda e direita, documentação que serve ao desenvolvimento"
+" de habilidade versus documentação que serve à aplicação de habilidade. Isso"
+" nos dá quatro tipos de documentação. Superior esquerdo: tutoriais "
+"orientados ao aprendizado. Superior direito: guias práticos orientados a "
+"objetivos. Inferior direito: referência orientada à informação. Inferior "
+"esquerdo: explicação orientada à compreensão."
+
+#: ../../source/map.rst:138 ../../source/map.rst:178
+#: ../../source/snippets/diagram.rst:15
+msgid "Tutorials"
+msgstr "Tutoriais"
+
+#: ../../source/map.rst:139 ../../source/map.rst:179
+#: ../../source/snippets/diagram.rst:16
+msgid "How-to guides"
+msgstr "Guias práticos"
+
+#: ../../source/map.rst:140 ../../source/map.rst:180
+#: ../../source/snippets/diagram.rst:17
+msgid "Reference"
+msgstr "Referência"
+
+#: ../../source/map.rst:141 ../../source/map.rst:181
+#: ../../source/snippets/diagram.rst:18
+msgid "Explanation"
+msgstr "Explicação"
+
+#: ../../source/map.rst:143 ../../source/map.rst:183
+#: ../../source/snippets/diagram.rst:20
+msgid "Learning-oriented"
+msgstr "Orientado para o aprendizado"
+
+#: ../../source/map.rst:144 ../../source/map.rst:184
+#: ../../source/snippets/diagram.rst:21
+msgid "Goal-oriented"
+msgstr "Orientado a objetivos"
+
+#: ../../source/map.rst:145 ../../source/map.rst:185
+#: ../../source/snippets/diagram.rst:22
+msgid "Information-oriented"
+msgstr "Orientado à informação"
+
+#: ../../source/map.rst:146 ../../source/map.rst:186
+#: ../../source/snippets/diagram.rst:23
+msgid "Understanding-oriented"
+msgstr "Orientado para a compreensão"
+
+#: ../../source/snippets/diagram.rst:25
+msgid "Directs action"
+msgstr "Direciona a ação"
+
+#: ../../source/snippets/diagram.rst:26
+msgid "Describes what is"
+msgstr "Descreve o que é"
+
+#: ../../source/snippets/diagram.rst:27
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
+
+#: ../../source/snippets/diagram.rst:28
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
 
 #: ../../source/map.rst:14
 msgid ""
@@ -283,10 +363,10 @@ msgstr ""
 "com as outras funções da documentação."
 
 #: ../../source/map.rst:103
-msgid "Blur"
-msgstr "Desfoque"
+msgid "Blur and collapse"
+msgstr "Desfoque e colapso"
 
-#: ../../source/map.rst:105
+#: ../../source/map.rst:104
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
@@ -294,11 +374,20 @@ msgstr ""
 "A maioria dos sistemas de documentação e autores reconhece pelo menos "
 "algumas dessas distinções e tenta observá-las na prática."
 
-#: ../../source/map.rst:108
+#: ../../source/map.rst:138
 msgid "Partial collapse of the structure"
 msgstr "Desabamento parcial da estrutura"
 
-#: ../../source/map.rst:112
+#: ../../source/map.rst:138
+msgid ""
+"Concepts and intentions from adjacent quadrants blur and overlap with each "
+"other; the documentation's purposes and forms become confused and "
+"indistinct."
+msgstr ""
+"Conceitos e intenções de quadrantes adjacentes se confundem e se sobrepõem; "
+"os propósitos e as formas da documentação tornam-se confusos e indistintos."
+
+#: ../../source/map.rst:124
 msgid ""
 "However, there is a kind of natural affinity between each of the different "
 "forms of documentation and its neighbours on the map, and a natural tendency"
@@ -310,39 +399,39 @@ msgstr ""
 "natural de borrar as distinções (que pode ser vista repetidamente em "
 "exemplos de documentação)."
 
-#: ../../source/map.rst:120
-msgid "guide action"
-msgstr "guiar ação"
+#: ../../source/map.rst:132
+msgid "directs action"
+msgstr "direciona a ação"
 
-#: ../../source/map.rst:121 ../../source/map.rst:130
+#: ../../source/map.rst:133 ../../source/map.rst:142
 msgid "tutorials"
 msgstr "tutoriais"
 
-#: ../../source/map.rst:122 ../../source/map.rst:125
+#: ../../source/map.rst:134 ../../source/map.rst:137
 msgid "how-to guides"
 msgstr "guias práticos"
 
-#: ../../source/map.rst:123
-msgid "serve the application of skill"
-msgstr "servir à aplicação de habilidade"
+#: ../../source/map.rst:135
+msgid "serve the development of skill"
+msgstr "servem ao desenvolvimento de habilidade"
 
-#: ../../source/map.rst:124 ../../source/map.rst:127
+#: ../../source/map.rst:136 ../../source/map.rst:139
 msgid "reference"
 msgstr "referencia"
 
-#: ../../source/map.rst:126
-msgid "contain propositional knowledge"
-msgstr "conter conhecimento proposicional"
+#: ../../source/map.rst:138
+msgid "describe what is the case"
+msgstr "descreva qual é o caso"
 
-#: ../../source/map.rst:128 ../../source/map.rst:131
+#: ../../source/map.rst:140 ../../source/map.rst:143
 msgid "explanation"
 msgstr "explicação"
 
-#: ../../source/map.rst:129
-msgid "serve the acquisition of skill"
-msgstr "servir para a aquisição de habilidades"
+#: ../../source/map.rst:141
+msgid "serves the development of skill"
+msgstr "serve ao desenvolvimento de habilidade"
 
-#: ../../source/map.rst:133
+#: ../../source/map.rst:145
 msgid ""
 "When these distinctions are allowed to blur, the different kinds of "
 "documentation bleed into each other. Writing style and content make their "
@@ -355,25 +444,32 @@ msgstr ""
 "infiltrando em locais inadequados. Isso também causa problemas estruturais, "
 "o que torna ainda mais difícil manter a disciplina da escrita adequada."
 
-#: ../../source/map.rst:135
+#: ../../source/map.rst:178
 msgid "Total collapse of the structure"
 msgstr "Colapso total da estrutura"
 
-#: ../../source/map.rst:139
+#: ../../source/map.rst:178
 msgid ""
-"In the worst case there is a complete or partial collapse of tutorials and "
-"how-to guides into each other, making it impossible to meet the needs served"
-" by either."
+"All structure breaks down; even the idea of purpose in writing is lost in "
+"the confusion."
 msgstr ""
-"No pior caso, ocorre um colapso completo ou parcial de tutoriais e guias "
-"práticos uns nos outros, tornando impossível atender às necessidades "
-"atendidas por qualquer um deles."
+"Toda estrutura desmorona; até mesmo a ideia de propósito na escrita se perde"
+" na confusão."
 
-#: ../../source/map.rst:145
+#: ../../source/map.rst:163
+msgid ""
+"In the worst case there is a complete collapse of different forms into each "
+"other, making it impossible to meet the needs served by either."
+msgstr ""
+"No pior caso, ocorre um colapso completo de diferentes formas umas nas "
+"outras, tornando impossível atender às necessidades supridas por qualquer "
+"uma delas."
+
+#: ../../source/map.rst:169
 msgid "The journey around the map"
 msgstr "A jornada ao redor do mapa"
 
-#: ../../source/map.rst:147
+#: ../../source/map.rst:171
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
@@ -381,7 +477,7 @@ msgstr ""
 "O Diátaxis tem o objetivo de ajudar a documentação a atender melhor os "
 "usuários em seu *ciclo de interação* com um produto."
 
-#: ../../source/map.rst:149
+#: ../../source/map.rst:173
 msgid ""
 "This phrase should not be understood too literally. It is not the case that "
 "a user must encounter the different kinds of documentation in the order "
@@ -397,7 +493,7 @@ msgstr ""
 "busca de orientação sobre algum assunto específico, e o que ele deseja ler "
 "mudará de momento para momento conforme ele utiliza sua documentação."
 
-#: ../../source/map.rst:154
+#: ../../source/map.rst:178
 msgid ""
 "However, the idea of a cycle of documentation needs, that proceeds through "
 "different phases, is sound and corresponds to the way that people actually "
@@ -408,11 +504,11 @@ msgstr ""
 "realmente se tornam especialistas em um ofício. Há um sentido e um "
 "significado nesta ordenação."
 
-#: ../../source/map.rst:157
+#: ../../source/map.rst:181
 msgid "Moving around the map"
 msgstr "Movendo-se pelo mapa"
 
-#: ../../source/map.rst:162
+#: ../../source/map.rst:186
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
@@ -422,13 +518,13 @@ msgstr ""
 "habilidade significa mergulhar de cabeça para fazê-la - sob a orientação de "
 "um professor, se tivermos sorte."
 
-#: ../../source/map.rst:164
+#: ../../source/map.rst:188
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr ""
 "*fase orientada a objetivos*: Em seguida, queremos colocar a habilidade em "
 "prática."
 
-#: ../../source/map.rst:165
+#: ../../source/map.rst:189
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
@@ -438,7 +534,7 @@ msgstr ""
 " que já não tenhamos na cabeça, ele nos exige consultar referências "
 "técnicas."
 
-#: ../../source/map.rst:167
+#: ../../source/map.rst:191
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
@@ -446,7 +542,7 @@ msgstr ""
 "*fase orientada à explicação*: Finalmente, longe do trabalho, refletimos "
 "sobre nossa prática e conhecimento para compreender o todo."
 
-#: ../../source/map.rst:170
+#: ../../source/map.rst:194
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."

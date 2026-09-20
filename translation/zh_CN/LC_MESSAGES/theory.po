@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -73,25 +73,21 @@ msgid "These pages dig deeper into the thinking that underpins Diátaxis."
 msgstr "这些页面深入探讨了 Diátaxis 背后的思考。"
 
 #: ../../source/theory.rst:27
-msgid ":doc:`foundations` - *why* Diátaxis works"
-msgstr ":doc:`foundations` - *为什么* Diátaxis 卓有成效"
-
-#: ../../source/theory.rst:28
 msgid ":doc:`map` - documentation in two dimensions"
 msgstr ":doc:`map` - 两个维度的文档"
 
-#: ../../source/theory.rst:29
+#: ../../source/theory.rst:28
 msgid ":doc:`quality`"
 msgstr ":doc:`quality`"
 
-#: ../../source/theory.rst:31
+#: ../../source/theory.rst:30
 msgid "Common problems explored:"
 msgstr "对常见问题的探讨："
 
-#: ../../source/theory.rst:33
+#: ../../source/theory.rst:32
 msgid ":doc:`tutorials-how-to`"
 msgstr ":doc:`tutorials-how-to`"
 
-#: ../../source/theory.rst:34
+#: ../../source/theory.rst:33
 msgid ":doc:`reference-explanation`"
 msgstr ":doc:`reference-explanation`"

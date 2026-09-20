@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+# yms, 2026
 # Yufei Li <yufeiminds@gmail.com>, 2026
 # 
 #, fuzzy
@@ -11,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -30,6 +31,79 @@ msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr "Diátaxis 作为组织文档的指南之所以有效，是因为它描述了一个 **二维结构**，而不仅仅是一个 **清单**。"
+
+#: ../../source/snippets/diagram.rst:15
+msgid "The Diátaxis map of documentation types"
+msgstr "Diátaxis 文档类型地图"
+
+#: ../../source/snippets/diagram.rst:15
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"这张地图以两条轴线为基准，划分成四个象限。纵向来看，代表了指导行动与陈述事实的文档之间的区别；横向来看，则是面向技能开发和技能运用的文档之间的区别。由此得出四种文档类型：左上为面向学习导向的教程，右上为目标导向的操作指南，右下为信息导向的参考，左下为理解导向的解释。"
+
+#: ../../source/map.rst:138 ../../source/map.rst:178
+#: ../../source/snippets/diagram.rst:15
+msgid "Tutorials"
+msgstr "教程"
+
+#: ../../source/map.rst:139 ../../source/map.rst:179
+#: ../../source/snippets/diagram.rst:16
+msgid "How-to guides"
+msgstr "操作指南"
+
+#: ../../source/map.rst:140 ../../source/map.rst:180
+#: ../../source/snippets/diagram.rst:17
+msgid "Reference"
+msgstr "参考内容"
+
+#: ../../source/map.rst:141 ../../source/map.rst:181
+#: ../../source/snippets/diagram.rst:18
+msgid "Explanation"
+msgstr "解释说明"
+
+#: ../../source/map.rst:143 ../../source/map.rst:183
+#: ../../source/snippets/diagram.rst:20
+msgid "Learning-oriented"
+msgstr "学习导向"
+
+#: ../../source/map.rst:144 ../../source/map.rst:184
+#: ../../source/snippets/diagram.rst:21
+msgid "Goal-oriented"
+msgstr "目标导向"
+
+#: ../../source/map.rst:145 ../../source/map.rst:185
+#: ../../source/snippets/diagram.rst:22
+msgid "Information-oriented"
+msgstr "信息导向"
+
+#: ../../source/map.rst:146 ../../source/map.rst:186
+#: ../../source/snippets/diagram.rst:23
+msgid "Understanding-oriented"
+msgstr "理解导向"
+
+#: ../../source/snippets/diagram.rst:25
+msgid "Directs action"
+msgstr "指导行动"
+
+#: ../../source/snippets/diagram.rst:26
+msgid "Describes what is"
+msgstr "陈述事实"
+
+#: ../../source/snippets/diagram.rst:27
+msgid "Serves development of skill"
+msgstr "面向技能开发"
+
+#: ../../source/snippets/diagram.rst:28
+msgid "Serves application of skill"
+msgstr "面向技能运用"
 
 #: ../../source/map.rst:14
 msgid ""
@@ -251,20 +325,27 @@ msgid ""
 msgstr "每份内容皆有其归属的类型，而该类型不仅赋予它一项特定的职责，且与文档的其他功能形成明确的区别和对照。"
 
 #: ../../source/map.rst:103
-msgid "Blur"
-msgstr "模糊化"
+msgid "Blur and collapse"
+msgstr "模糊和崩塌"
 
-#: ../../source/map.rst:105
+#: ../../source/map.rst:104
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
 msgstr "大多数文档系统和作者至少能识别其中部分区别，并尝试在实践中加以遵守。"
 
-#: ../../source/map.rst:108
+#: ../../source/map.rst:138
 msgid "Partial collapse of the structure"
 msgstr "结构的局部崩塌"
 
-#: ../../source/map.rst:112
+#: ../../source/map.rst:138
+msgid ""
+"Concepts and intentions from adjacent quadrants blur and overlap with each "
+"other; the documentation's purposes and forms become confused and "
+"indistinct."
+msgstr "来自相邻象限的概念和意图界限模糊且彼此交叠，文档的目的与形式也随之变得含混不清。"
+
+#: ../../source/map.rst:124
 msgid ""
 "However, there is a kind of natural affinity between each of the different "
 "forms of documentation and its neighbours on the map, and a natural tendency"
@@ -273,39 +354,39 @@ msgid ""
 msgstr ""
 "然而，在地图上每一种类型的文档及其临近类型之间，总有一种天然的亲和性，因而也存在一种模糊彼此边界的自然趋势（这种情形在文档的实例中屡见不鲜）。"
 
-#: ../../source/map.rst:120
-msgid "guide action"
-msgstr "引导动作"
+#: ../../source/map.rst:132
+msgid "directs action"
+msgstr "指导行动"
 
-#: ../../source/map.rst:121 ../../source/map.rst:130
+#: ../../source/map.rst:133 ../../source/map.rst:142
 msgid "tutorials"
 msgstr "教程"
 
-#: ../../source/map.rst:122 ../../source/map.rst:125
+#: ../../source/map.rst:134 ../../source/map.rst:137
 msgid "how-to guides"
 msgstr "操作指南"
 
-#: ../../source/map.rst:123
-msgid "serve the application of skill"
-msgstr "服务于技能的运用"
+#: ../../source/map.rst:135
+msgid "serve the development of skill"
+msgstr "面向技能开发"
 
-#: ../../source/map.rst:124 ../../source/map.rst:127
+#: ../../source/map.rst:136 ../../source/map.rst:139
 msgid "reference"
 msgstr "参考"
 
-#: ../../source/map.rst:126
-msgid "contain propositional knowledge"
-msgstr "包含命题性知识"
+#: ../../source/map.rst:138
+msgid "describe what is the case"
+msgstr "陈述事实案例"
 
-#: ../../source/map.rst:128 ../../source/map.rst:131
+#: ../../source/map.rst:140 ../../source/map.rst:143
 msgid "explanation"
 msgstr "解释"
 
-#: ../../source/map.rst:129
-msgid "serve the acquisition of skill"
-msgstr "服务于技能的习得"
+#: ../../source/map.rst:141
+msgid "serves the development of skill"
+msgstr "面向技能开发"
 
-#: ../../source/map.rst:133
+#: ../../source/map.rst:145
 msgid ""
 "When these distinctions are allowed to blur, the different kinds of "
 "documentation bleed into each other. Writing style and content make their "
@@ -314,28 +395,33 @@ msgid ""
 "writing."
 msgstr "一旦允许这些边界模糊化，各类文档便会相互杂糅，写作风格和内容彼此错配。这也会诱发结构性的问题，进而使维持恰当的写作规范变得更加困难。"
 
-#: ../../source/map.rst:135
+#: ../../source/map.rst:178
 msgid "Total collapse of the structure"
 msgstr "结构的整体崩塌"
 
-#: ../../source/map.rst:139
+#: ../../source/map.rst:178
 msgid ""
-"In the worst case there is a complete or partial collapse of tutorials and "
-"how-to guides into each other, making it impossible to meet the needs served"
-" by either."
-msgstr "最糟糕的情形是，教程和操作指南完全或部分地彼此混杂，从而导致二者所服务的需求均难以实现。"
+"All structure breaks down; even the idea of purpose in writing is lost in "
+"the confusion."
+msgstr "所有结构尽数崩塌；甚至连写作目的这一观念，也在混乱中消失殆尽。"
 
-#: ../../source/map.rst:145
+#: ../../source/map.rst:163
+msgid ""
+"In the worst case there is a complete collapse of different forms into each "
+"other, making it impossible to meet the needs served by either."
+msgstr "最坏的情形是，不同形式彻底混为一体，难解难分，以致于二者各自所服务的需求都无法得到满足。"
+
+#: ../../source/map.rst:169
 msgid "The journey around the map"
 msgstr "周游地图之旅"
 
-#: ../../source/map.rst:147
+#: ../../source/map.rst:171
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
 msgstr "Diátaxis 的宗旨，在于使文档在用户与产品的 *交互周期* 之中，更有效地满足用户所需。"
 
-#: ../../source/map.rst:149
+#: ../../source/map.rst:173
 msgid ""
 "This phrase should not be understood too literally. It is not the case that "
 "a user must encounter the different kinds of documentation in the order "
@@ -347,7 +433,7 @@ msgstr ""
 "这一说法，不应作过于机械的字面解读。用户未必需要按照 *教程* > *操作指南* > *技术参考* > *解释* "
 "的顺序来接触各类文档。实践中，实际用户可能从文档的任意位置切入，以寻求某个特定主题的指导。而随着他们使用你的文档，想要阅读的内容也会随时变化。"
 
-#: ../../source/map.rst:154
+#: ../../source/map.rst:178
 msgid ""
 "However, the idea of a cycle of documentation needs, that proceeds through "
 "different phases, is sound and corresponds to the way that people actually "
@@ -355,35 +441,35 @@ msgid ""
 msgstr ""
 "然后，文档需求在不同阶段间往复循环的理念，本身是站得住脚的，它与人们实际精通一门技艺的过程相契合。这一顺序并非率性而为，而是有其内在的意义与合理性。"
 
-#: ../../source/map.rst:157
+#: ../../source/map.rst:181
 msgid "Moving around the map"
 msgstr "在地图上穿行"
 
-#: ../../source/map.rst:162
+#: ../../source/map.rst:186
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
 msgstr "*以学习为导向的阶段*：一切始于学习。而学习一项技能意味着躬身入局。如果有幸，还能在老师的指导下进行实践。"
 
-#: ../../source/map.rst:164
+#: ../../source/map.rst:188
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr "*以目标为导向的阶段*：下一步，我们要把技能加以运用。"
 
-#: ../../source/map.rst:165
+#: ../../source/map.rst:189
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
 msgstr "*以信息为导向的阶段*：一旦我们的工作涉及尚未掌握的知识时，便需要查阅技术参考文档。"
 
-#: ../../source/map.rst:167
+#: ../../source/map.rst:191
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
 msgstr "*以解释为导向的阶段*：最后，我们脱离工作语境，对自身的实践与知识进行反思，以求通盘理解。"
 
-#: ../../source/map.rst:170
+#: ../../source/map.rst:194
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."

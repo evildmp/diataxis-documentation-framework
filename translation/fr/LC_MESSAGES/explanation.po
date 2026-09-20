@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Camille Begnis, 2026\n"
 "Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
@@ -22,7 +22,7 @@ msgstr ""
 "Language: fr\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../../source/explanation.rst:4
+#: ../../source/explanation.rst:4 ../../source/explanation.rst:15
 msgid "Explanation"
 msgstr "Explication"
 
@@ -42,15 +42,25 @@ msgstr ""
 "L'explication approfondit et élargit la compréhension que le lecteur a d'un "
 "sujet. Elle apporte clarté, lumière et contexte."
 
-#: ../../source/explanation.rst:13
+#: ../../source/explanation.rst:15
 msgid ""
-"Explanation - understanding oriented, theoretical knowledge, that serves our"
-" study"
+"Explanation describes what is, and serves the development of skill. It is "
+"understanding-oriented."
 msgstr ""
-"Explication – savoir théorique axé sur la compréhension, qui sert notre "
-"étude"
+
+#: ../../source/explanation.rst:16
+msgid "Understanding-oriented"
+msgstr ""
 
 #: ../../source/explanation.rst:17
+msgid "Describes what is"
+msgstr ""
+
+#: ../../source/explanation.rst:18
+msgid "Serves development of skill"
+msgstr ""
+
+#: ../../source/explanation.rst:24
 msgid ""
 "The concept of *reflection* is important. Reflection occurs *after* "
 "something else, and depends on something else, yet at the same time brings "
@@ -60,7 +70,7 @@ msgstr ""
 " chose et en dépend, tout en apportant quelque chose de nouveau — en jetant "
 "un éclairage inédit — sur le sujet traité."
 
-#: ../../source/explanation.rst:19
+#: ../../source/explanation.rst:26
 msgid ""
 "The perspective of explanation is higher and wider than that of the other "
 "three types. It does not take the user's eye-level view, as in a how-to "
@@ -76,7 +86,7 @@ msgstr ""
 "connaissances » — qu'il convient, d'une manière ou d'une autre, de délimiter"
 " de façon raisonnable et pertinente."
 
-#: ../../source/explanation.rst:21
+#: ../../source/explanation.rst:28
 msgid ""
 "For the user, explanation joins things together. It's an answer to the "
 "question: *Can you tell me about ...?*"
@@ -84,7 +94,7 @@ msgstr ""
 "Pour l'utilisateur, l'explication relie les éléments entre eux. C'est une "
 "réponse à la question : *Peux-tu me parler de... ?*"
 
-#: ../../source/explanation.rst:23
+#: ../../source/explanation.rst:30
 msgid ""
 "It's documentation that it makes sense to read while away from the product "
 "itself (one could say, explanation is the only kind of documentation that it"
@@ -94,55 +104,55 @@ msgstr ""
 " produit lui-même (on pourrait dire que les explications constituent le seul"
 " type de documentation qu'il peut être pertinent de lire dans son lit)."
 
-#: ../../source/explanation.rst:28
+#: ../../source/explanation.rst:35
 msgid "The value and place of explanation"
 msgstr "La valeur et la place de l'explication"
 
-#: ../../source/explanation.rst:31
+#: ../../source/explanation.rst:38
 msgid "Explanation and understanding"
 msgstr "Explication et compréhension"
 
-#: ../../source/explanation.rst:33
+#: ../../source/explanation.rst:40
 msgid ""
-"Explanation  is characterised by its distance from the active concerns of "
-"the practitioner. It doesn't have direct implications for what they do, or "
-"for their work. This means that it's sometimes seen as being of lesser "
+"Explanation is characterised by its distance from the active concerns of the"
+" practitioner. It doesn't have direct implications for what they do, or for "
+"their work. This means that it's sometimes seen as being of lesser "
 "importance. That's a mistake; it may be less *urgent* than the other three, "
 "but it's no less *important*. It's not a luxury. No practitioner of a craft "
 "can afford to be without an understanding of that craft, and needs the "
 "explanatory material that will help weave it together."
 msgstr ""
 
-#: ../../source/explanation.rst:38
+#: ../../source/explanation.rst:45
 msgid ""
 "Your explanation documentation doesn't need to be called *Explanation*. "
 "Alternatives include:"
 msgstr ""
 
-#: ../../source/explanation.rst:40
+#: ../../source/explanation.rst:47
 msgid "*Discussion*"
 msgstr ""
 
-#: ../../source/explanation.rst:41
+#: ../../source/explanation.rst:48
 msgid "*Background*"
 msgstr ""
 
-#: ../../source/explanation.rst:42
+#: ../../source/explanation.rst:49
 msgid "*Conceptual guides*"
 msgstr ""
 
-#: ../../source/explanation.rst:43
+#: ../../source/explanation.rst:50
 msgid "*Topics*"
 msgstr ""
 
-#: ../../source/explanation.rst:45
+#: ../../source/explanation.rst:52
 msgid ""
 "The word *explanation* - and its cognates in other languages - refer to "
 "*unfolding*, the revelation of what is hidden in the folds. So explanation "
 "brings to the light things that were implicit or obscured."
 msgstr ""
 
-#: ../../source/explanation.rst:47
+#: ../../source/explanation.rst:54
 msgid ""
 "Similarly, words that mean *understanding* share roots in words meaning to "
 "hold or grasp (as in *comprehend*). That's an important part of "
@@ -151,7 +161,7 @@ msgid ""
 " and makes it safely our own."
 msgstr ""
 
-#: ../../source/explanation.rst:49
+#: ../../source/explanation.rst:56
 msgid ""
 "Understanding doesn't *come from* explanation, but explanation is required "
 "to form that web that helps hold everything together. Without it, the "
@@ -159,11 +169,11 @@ msgid ""
 " and their exercise of it is *anxious*."
 msgstr ""
 
-#: ../../source/explanation.rst:55
+#: ../../source/explanation.rst:62
 msgid "Explanation and its boundaries"
 msgstr ""
 
-#: ../../source/explanation.rst:57
+#: ../../source/explanation.rst:64
 msgid ""
 "Quite often explanation is not explicitly recognised in documentation; and "
 "the idea that things need to be explained is often only faintly expressed. "
@@ -171,14 +181,14 @@ msgid ""
 "sections."
 msgstr ""
 
-#: ../../source/explanation.rst:61
+#: ../../source/explanation.rst:68
 msgid ""
 "It's not always easy to write good explanatory material. Where does one "
 "start? It's also not clear where to conclude. There is an open-endedness "
 "about it that can give the writer too many possibilities."
 msgstr ""
 
-#: ../../source/explanation.rst:64
+#: ../../source/explanation.rst:71
 msgid ""
 "Tutorials, how-to-guides and reference are all clearly defined in their "
 "scope by something that is also well-defined: by what you need the user to "
@@ -186,60 +196,60 @@ msgid ""
 "machine itself."
 msgstr ""
 
-#: ../../source/explanation.rst:67
+#: ../../source/explanation.rst:74
 msgid ""
 "In the case of explanation, it's useful to have a real or imagined *why* "
 "question to serve as a prompt. Otherwise, you simply have to draw some lines"
 " that mark out a reasonable area and be satisfied with that."
 msgstr ""
 
-#: ../../source/explanation.rst:75
+#: ../../source/explanation.rst:82
 msgid "Writing good explanation"
 msgstr ""
 
-#: ../../source/explanation.rst:78
+#: ../../source/explanation.rst:85
 msgid "Make connections"
 msgstr ""
 
-#: ../../source/explanation.rst:80
+#: ../../source/explanation.rst:87
 msgid ""
 "When writing explanation you are helping to weave a web of understanding for"
 " your readers. **Make connections** to other things, even to things outside "
 "the immediate topic, if that helps."
 msgstr ""
 
-#: ../../source/explanation.rst:85
+#: ../../source/explanation.rst:92
 msgid "Provide context"
 msgstr ""
 
-#: ../../source/explanation.rst:87
+#: ../../source/explanation.rst:94
 msgid ""
 "**Provide background and context in your explanation**: explain *why* things"
 " are so - design decisions, historical reasons, technical constraints - draw"
 " implications, mention specific examples."
 msgstr ""
 
-#: ../../source/explanation.rst:92
+#: ../../source/explanation.rst:99
 msgid "Talk *about* the subject"
 msgstr ""
 
-#: ../../source/explanation.rst:96
+#: ../../source/explanation.rst:103
 msgid "the bigger picture"
 msgstr ""
 
-#: ../../source/explanation.rst:97
+#: ../../source/explanation.rst:104
 msgid "history"
 msgstr ""
 
-#: ../../source/explanation.rst:98
+#: ../../source/explanation.rst:105
 msgid "choices, alternatives, possibilities"
 msgstr ""
 
-#: ../../source/explanation.rst:99
+#: ../../source/explanation.rst:106
 msgid "why: reasons and justifications"
 msgstr ""
 
-#: ../../source/explanation.rst:101
+#: ../../source/explanation.rst:108
 msgid ""
 "Explanation guides are *about* a topic in the sense that they are *around* "
 "it. Even the names of your explanation guides should reflect this; you "
@@ -248,11 +258,11 @@ msgid ""
 "connection policies*."
 msgstr ""
 
-#: ../../source/explanation.rst:107
+#: ../../source/explanation.rst:114
 msgid "Admit opinion and perspective"
 msgstr ""
 
-#: ../../source/explanation.rst:109
+#: ../../source/explanation.rst:116
 msgid ""
 "Opinion might seem like a funny thing to introduce into documentation. The "
 "fact is that all human activity and knowledge is invested within opinion, "
@@ -260,7 +270,7 @@ msgid ""
 "opinion, and that needs to be part of any understanding of it."
 msgstr ""
 
-#: ../../source/explanation.rst:111
+#: ../../source/explanation.rst:118
 msgid ""
 "Similarly, any understanding comes from a perspective, a particular stand-"
 "point - which means that other perspectives and stand-points exist. "
@@ -268,18 +278,18 @@ msgid ""
 "multiple different approaches to the same question."
 msgstr ""
 
-#: ../../source/explanation.rst:113
+#: ../../source/explanation.rst:120
 msgid ""
 "In explanation, you're not giving instruction or describing facts - you're "
 "opening up the topic for consideration. It helps to think of explanation as "
 "discussion: discussions can even consider and weigh up contrary *opinions*."
 msgstr ""
 
-#: ../../source/explanation.rst:117
+#: ../../source/explanation.rst:124
 msgid "Keep explanation closely bounded"
 msgstr ""
 
-#: ../../source/explanation.rst:119
+#: ../../source/explanation.rst:126
 msgid ""
 "One risk of explanation is that it tends to absorb other things. The writer,"
 " intent on covering the topic, feels the urge to include instruction or "
@@ -288,63 +298,63 @@ msgid ""
 "explanation itself, and removes them from view in the correct place."
 msgstr ""
 
-#: ../../source/explanation.rst:125
+#: ../../source/explanation.rst:132
 msgid "The language of explanation"
 msgstr ""
 
-#: ../../source/explanation.rst:127
+#: ../../source/explanation.rst:134
 msgid "*The reason for x is because historically, y ...*"
 msgstr ""
 
-#: ../../source/explanation.rst:128
+#: ../../source/explanation.rst:135
 msgid "Explain."
 msgstr ""
 
-#: ../../source/explanation.rst:129
+#: ../../source/explanation.rst:136
 msgid "*W is better than z, because ...*"
 msgstr ""
 
-#: ../../source/explanation.rst:130
-msgid "Offer judgements and even opinions where appropriate.."
+#: ../../source/explanation.rst:137
+msgid "Offer judgements and even opinions where appropriate."
 msgstr ""
 
-#: ../../source/explanation.rst:131
+#: ../../source/explanation.rst:138
 msgid "*An x in system y is analogous to a w in system z. However ...*"
 msgstr ""
 
-#: ../../source/explanation.rst:132
+#: ../../source/explanation.rst:139
 msgid "Provide context that helps the reader."
 msgstr ""
 
-#: ../../source/explanation.rst:133
+#: ../../source/explanation.rst:140
 msgid "*Some users prefer w (because z). This can be a good approach, but...*"
 msgstr ""
 
-#: ../../source/explanation.rst:134
+#: ../../source/explanation.rst:141
 msgid "Weigh up alternatives."
 msgstr ""
 
-#: ../../source/explanation.rst:135
+#: ../../source/explanation.rst:142
 msgid "*An x interacts with a y as follows: ...*"
 msgstr ""
 
-#: ../../source/explanation.rst:136
+#: ../../source/explanation.rst:143
 msgid ""
 "Unfold the machinery's internal secrets, to help understand why something "
 "does what it does."
 msgstr ""
 
-#: ../../source/explanation.rst:141
+#: ../../source/explanation.rst:148
 msgid "Analogy from food and cooking"
 msgstr ""
 
-#: ../../source/explanation.rst:144
+#: ../../source/explanation.rst:151
 msgid ""
 "In 1984 `Harold McGee <https://www.curiouscook.com>`_ published *On food and"
 " cooking*."
 msgstr ""
 
-#: ../../source/explanation.rst:150
+#: ../../source/explanation.rst:157
 msgid ""
 "The book doesn't teach how to cook anything. It doesn't contain recipes "
 "(except as historical examples) and it isn't a work of reference. Instead, "
@@ -353,14 +363,14 @@ msgid ""
 "how that has changed."
 msgstr ""
 
-#: ../../source/explanation.rst:152
+#: ../../source/explanation.rst:159
 msgid ""
 "It's clearly not a book we would read *while* cooking. We would read when we"
 " want to reflect on cooking. It illuminates the subject by taking multiple "
 "different perspectives on it, shining light from different angles."
 msgstr ""
 
-#: ../../source/explanation.rst:154
+#: ../../source/explanation.rst:161
 msgid ""
 "After reading a book like *On food and cooking*, our understanding is "
 "changed. Our knowledge is richer and deeper. What we have learned may or may"

@@ -4,16 +4,16 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# tii, 2026
+# Jiwon Kwak, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: tii, 2026\n"
+"Last-Translator: Jiwon Kwak, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,209 +21,545 @@ msgstr ""
 "Language: ko\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/foundations.rst:2
+#: ../../source/foundations.rst:4
 msgid "Foundations"
 msgstr ""
 
-#: ../../source/foundations.rst:4
+#: ../../source/foundations.rst:8
 msgid ""
-"Diátaxis is successful because it *works* - both users and creators have a "
-"better experience of documentation as a result. It makes sense and it feels "
-"right."
+"You don't need to read a single word of this page to use Diátaxis "
+"effectively or even to understand it properly."
 msgstr ""
 
-#: ../../source/foundations.rst:6
+#: ../../source/foundations.rst:10
+msgid ""
+"The only reason for reading it is to have a better appreciation of some of "
+"the thinking and theorising behind Diátaxis – *why* it works, not how it "
+"works."
+msgstr ""
+
+#: ../../source/foundations.rst:12
+msgid ""
+"Diátaxis is successful because it *works* – it gives both users and creators"
+" a better experience of documentation. It makes sense and it feels right."
+msgstr ""
+
+#: ../../source/foundations.rst:14
 msgid ""
 "However, that's not enough to be confident in Diátaxis as a theory of "
-"documentation. As a theory, it needs to show *why* it works. It needs to "
-"show that there is actually some reason why there are exactly four kinds of "
-"documentation, not three or five. It needs to demonstrate rigorous thinking "
-"and analysis, and that it stands on a sound theoretical foundation."
+"documentation. As a theory, it needs to show why it works. It needs to show "
+"that there is actually some reason why there are exactly four kinds of "
+"documentation for example, and not three or five. It needs to demonstrate "
+"rigorous thinking and analysis, and that it stands on a sound theoretical "
+"foundation."
 msgstr ""
 
-#: ../../source/foundations.rst:8
+#: ../../source/foundations.rst:16
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
 msgstr ""
 
-#: ../../source/foundations.rst:12
-msgid "Two dimensions of craft"
-msgstr ""
-
-#: ../../source/foundations.rst:14
-msgid ""
-"Diátaxis is based on the principle that documentation must serve the needs "
-"of its users. Knowing how to do that means understanding what the needs of "
-"users are."
-msgstr ""
-
-#: ../../source/foundations.rst:16
-msgid ""
-"The user whose needs Diátaxis serves is *the practitioner in a domain of "
-"skill*. A domain of skill is defined by a craft - the use of a tool or "
-"product is a craft. So is an entire discipline or profession. Using a "
-"programming language is a craft, as is flying a particular aircraft, or even"
-" being a pilot in general."
-msgstr ""
-
-#: ../../source/foundations.rst:18
-msgid ""
-"Understanding the needs of these users means in turn understanding the "
-"essential characteristics of craft or skill."
+#: ../../source/foundations.rst:20
+msgid "The underlying principle"
 msgstr ""
 
 #: ../../source/foundations.rst:22
-msgid "Action/cognition"
+msgid ""
+"Diátaxis is based on an understanding of the nature of the structure of "
+"skill. That allows us to understand something about the practitioner of a "
+"skill, and then have something to say about what guidance is appropriate to "
+"their needs."
 msgstr ""
 
-#: ../../source/foundations.rst:24
+#: ../../source/foundations.rst:26
 msgid ""
-"A skill or craft or practice contains both **action** (practical knowledge, "
-"knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing"
-" *that*, what we think). The two are completely bound up with each other, "
-"but they are counterparts, wholly distinct from each other, two different "
-"aspects of the same thing."
+"On this page I will refer to \"guidance\", rather than to \"documentation\"."
+" Documentation is guidance in written form, and what I have to say here "
+"applies to all guidance for skill."
 msgstr ""
 
 #: ../../source/foundations.rst:28
-msgid "Acquisition/application"
+msgid ""
+"The key claim of Diátaxis is that skill has certain characteristics, that we"
+" can lay out structurally."
 msgstr ""
 
 #: ../../source/foundations.rst:30
 msgid ""
-"Similarly, the relationship of a practitioner with their practice is that it"
-" is something that needs to be both **acquired**, and **applied**. Being "
-"\"at work\" (concerned with applying the skill and knowledge of their craft)"
-" and being \"at study\" (concerned with acquiring them) are once again "
-"counterparts, distinct but bound up with each other."
+"Skill contains particular structures and relationships. At any given time, "
+"where a practitioner of skill finds themselves within those structures and "
+"relationships points at the corresponding characteristics appropriate and "
+"effective guidance will have."
 msgstr ""
 
-#: ../../source/foundations.rst:34
-msgid "The map of the territory"
+#: ../../source/foundations.rst:32
+msgid ""
+"Skill and guidance can be overlaid upon each other to the extent that the "
+"same structure is able to describe both. This page shows how we can work "
+"from an understanding of skill to the characteristics that documentation "
+"must have, and why there are four distinct kinds, and why they exist in a "
+"particular relationship to each other."
 msgstr ""
 
 #: ../../source/foundations.rst:36
-msgid ""
-"This gives us two dimensions of skill, that we can lay out on a map - a map "
-"of the territory of craft:"
+msgid "The nature of craft"
 msgstr ""
 
-#: ../../source/foundations.rst:38 ../../source/foundations.rst:51
+#: ../../source/foundations.rst:38
+msgid ""
+"Let's start with *craft*. (A craft defines a domain of skill, and for most "
+"practical purposes in this discussion we can use words like *practice*, "
+"*craft* and *skill* fairly interchangeably.)"
+msgstr ""
+
+#: ../../source/foundations.rst:40
+msgid ""
+"The use of a tool or product is a craft. So is an entire discipline or "
+"profession. Using a programming language is a craft, and so is flying a "
+"particular aircraft, or simply being a pilot in general."
+msgstr ""
+
+#: ../../source/foundations.rst:44
+msgid "Practical expression and conceptual grasp"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid "Two halves of the map, practical expression and conceptual grasp"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid ""
+"Above: practical expression, correct action, execution, doing Below: truth, "
+"knowing, conception"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid "manual"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid "correct action"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid "**practical expression**"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid "execution"
+msgstr ""
+
+#: ../../source/foundations.rst:46
+msgid "doing"
+msgstr ""
+
+#: ../../source/foundations.rst:47
+msgid "truth"
+msgstr ""
+
+#: ../../source/foundations.rst:47
+msgid "knowing"
+msgstr ""
+
+#: ../../source/foundations.rst:47
+msgid "**conceptual grasp**"
+msgstr ""
+
+#: ../../source/foundations.rst:47
+msgid "conception"
+msgstr ""
+
+#: ../../source/foundations.rst:47
+msgid "mental"
+msgstr ""
+
+#: ../../source/foundations.rst:55
+msgid ""
+"Any skill (or craft or practice) contains both **practical expression** and "
+"**conceptual grasp**."
+msgstr ""
+
+#: ../../source/foundations.rst:57
+msgid ""
+"Skill contains both, and they are enmeshed in each other, but at any given "
+"moment, one of these is the key concern."
+msgstr ""
+
+#: ../../source/foundations.rst:59
+msgid ""
+"Sometimes what matters is what the pilot *does* (practices or executes an "
+"operation) and sometimes it's what the pilot *knows* (the correct heading, "
+"what a certain cloud formation indicates). In the fluid realities of any "
+"skill – and aviation is no different – the two conditions ceaselessly "
+"succeed each other, but they remain clearly distinct: sometimes what matters"
+" in skill belongs to the upper half of the diagram, and sometimes to the "
+"lower."
+msgstr ""
+
+#: ../../source/foundations.rst:61
+msgid ""
+"It doesn't matter very much how we express the distinction between the two "
+"domains; there are multiple pairs of ideas that can do the work. Different "
+"ways of articulating it might fit better with a particular case."
+msgstr ""
+
+#: ../../source/foundations.rst:65
+msgid "Development and application of skill"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid "Two halves of the map, development and application of skill"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid ""
+"Left: developing skill, becoming good at, being at study Right: applying "
+"skill, being good at, being at work"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid "being at study"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid "acquiring potential"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid "**development of skill**"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid "becoming good at"
+msgstr ""
+
+#: ../../source/foundations.rst:67
+msgid "practitioner focus"
+msgstr ""
+
+#: ../../source/foundations.rst:68
+msgid "being at work"
+msgstr ""
+
+#: ../../source/foundations.rst:68
+msgid "exercising potential"
+msgstr ""
+
+#: ../../source/foundations.rst:68
+msgid "**application of skill**"
+msgstr ""
+
+#: ../../source/foundations.rst:68
+msgid "being good at"
+msgstr ""
+
+#: ../../source/foundations.rst:68
+msgid "results-focus"
+msgstr ""
+
+#: ../../source/foundations.rst:76
+msgid ""
+"Skill is something someone has. A practitioner stands in relation to their "
+"practice."
+msgstr ""
+
+#: ../../source/foundations.rst:78
+msgid ""
+"We acquire and use skill. A practice is something that needs to be both "
+"**developed**, and **applied**. Sometimes we are \"at work\" and sometimes "
+"we are \"at study\", and so on."
+msgstr ""
+
+#: ../../source/foundations.rst:80
+msgid ""
+"Once again these are two distinct conditions of the practitioner. In any "
+"kind of reality, they are bound up with each other, but that doesn't mean "
+"that we can't identify them clearly."
+msgstr ""
+
+#: ../../source/foundations.rst:82
+msgid ""
+"For example, a student pilot who is learning to fly is indeed also actually "
+"flying the plane, applying the skills they have acquired so far. But what "
+"matters, what we really care about at these times, is the *development* of "
+"their skill. When a pilot is performing their job, what matters is the "
+"correct, successful *application* of their skill. That's what the point of "
+"that activity is (even though it would be a disappointing pilot, however "
+"experienced, who failed to develop their skills through their flying)."
+msgstr ""
+
+#: ../../source/foundations.rst:84
+msgid ""
+"As for the other axis, we can quickly identify multiple counterparts that "
+"represent this relationship. The particular choice of pair or form of words "
+"matters much less than the distinction that they maintain."
+msgstr ""
+
+#: ../../source/foundations.rst:88
+msgid "The map of the territory"
+msgstr ""
+
+#: ../../source/foundations.rst:90
+msgid ""
+"The distinctions and the counterparts that describe them give us two axes, "
+"on which we can lay out a map of the territory of craft."
+msgstr ""
+
+#: ../../source/foundations.rst:92
+msgid ""
+"I've chosen labels that I hope have the most general application, but it "
+"should be possible to substitute any of the counterparts suggested above, or"
+" find others, and make as much sense."
+msgstr ""
+
+#: ../../source/foundations.rst:94 ../../source/foundations.rst:139
 msgid "The territory of craft as a two-dimensional map"
 msgstr ""
 
-#: ../../source/foundations.rst:41
+#: ../../source/foundations.rst:94
 msgid ""
-"This is a *complete* map. There are only two dimensions, and they don't just"
-" cover the entire territory, they define it. This is why there are "
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, practical expression versus conceptual grasp. Left and right, the "
+"development of skill versus application of skill."
+msgstr ""
+
+#: ../../source/foundations.rst:94 ../../source/foundations.rst:152
+msgid "Practical expression"
+msgstr ""
+
+#: ../../source/foundations.rst:95 ../../source/foundations.rst:153
+msgid "Conceptual grasp"
+msgstr ""
+
+#: ../../source/foundations.rst:96 ../../source/foundations.rst:154
+msgid "Development of skill"
+msgstr ""
+
+#: ../../source/foundations.rst:97 ../../source/foundations.rst:155
+msgid "Application of skill"
+msgstr ""
+
+#: ../../source/foundations.rst:107
+msgid ""
+"The vertical axis concerns the nature of skill itself. The horizontal axis "
+"concerns our relation to skill."
+msgstr ""
+
+#: ../../source/foundations.rst:109
+msgid ""
+"It's a *complete* map. There are only two dimensions, and they don't just "
+"cover the entire territory, they define it. This is why there are "
 "necessarily four quarters to it, and there could not be three, or five. It "
 "is not an arbitrary number."
 msgstr ""
 
-#: ../../source/foundations.rst:43
+#: ../../source/foundations.rst:113
+msgid "What the map can tell us"
+msgstr ""
+
+#: ../../source/foundations.rst:115
 msgid ""
-"It also shows us the *qualities* of craft that define each of them. When the"
-" idea that documentation must serve the needs of craft is applied to this "
-"map, it reveals in turn what documentation must be and do to fulfil those "
-"obligations - in four distinct ways."
+"If these axes represent a good map of the territory of craft, then what can "
+"we say about the guidance or documentation that is appropriate to what we "
+"find in it?"
 msgstr ""
 
-#: ../../source/foundations.rst:47
-msgid "Serving needs"
+#: ../../source/foundations.rst:117
+msgid ""
+"In reality, there is little that we can read *directly* from the map. For "
+"the horizontal axis, we can say for example that *development of skill* "
+"demands guidance that *serves the development of skill*. Which is true, but "
+"it's not exactly informative."
 msgstr ""
 
-#: ../../source/foundations.rst:49
+#: ../../source/foundations.rst:121
+msgid "It's not even the kind of thing we should *want* to read off a map."
+msgstr ""
+
+#: ../../source/foundations.rst:123
+msgid ""
+"We get a little further with the vertical axis. We can sense strongly and "
+"clearly that guidance that *directs action* is appropriate to *doing*, and "
+"that guidance that *describes what is the case* is appropriate to thinking. "
+"We can see immediately what *form* they must have to serve the corresponding"
+" axes of skill – so that's a little more than we get for the other axis, but"
+" it's still not very much."
+msgstr ""
+
+#: ../../source/foundations.rst:125
+msgid ""
+"**We shouldn't expect more.** That's not the point of the map at all. To "
+"discover and understand what forms of guidance or documentation are "
+"appropriate and effective is work we have to do, based on our understanding "
+"of human beings. We'll never close the book on the subject."
+msgstr ""
+
+#: ../../source/foundations.rst:127
+msgid ""
+"What the map does point out is how the practitioner of skill finds "
+"themselves in four fundamentally distinct conditions, in the four quadrants "
+"described by the two axes. And, they are not just four distinct conditions: "
+"they have a structural relationship to each other. This is indeed new, "
+"interesting and informative."
+msgstr ""
+
+#: ../../source/foundations.rst:129
+msgid ""
+"In turn, even though we can't directly discover precisely what the guidance "
+"that fits must do, we can see the combination of characteristics that "
+"belongs to each quadrant. We can see that the quadrants indicate four "
+"fundamentally different kinds of guidance to address these conditions of the"
+" practitioner. And, we can see how the structural relationships that hold "
+"for skill also hold for guidance, and that they map on to each other."
+msgstr ""
+
+#: ../../source/foundations.rst:133
+msgid "Documentation that answers to needs"
+msgstr ""
+
+#: ../../source/foundations.rst:135
 msgid ""
 "The map of the territory of craft is what gives us the familiar Diátaxis map"
-" of documentation. The map is in effect an answer to the question: what must"
-" documentation do to align with these qualities of skill, and to what need "
-"is it oriented in each case?"
+" of documentation. We can see what kind of guidance belongs in each "
+"quadrant, and from that we can identify clearly the documentation that can "
+"provide it."
 msgstr ""
 
-#: ../../source/foundations.rst:54
+#: ../../source/foundations.rst:137
 msgid ""
-"We can see how the map of documentation addresses *needs* across those two "
-"dimensions, each need also defined by the characteristics of its quarter of "
-"the map."
+"What belongs is what fits, what aligns with the characteristics of skill."
 msgstr ""
 
-#: ../../source/foundations.rst:61
-msgid "need"
+#: ../../source/foundations.rst:139
+msgid "Different forms of guidance fit into each quadrant."
 msgstr ""
 
-#: ../../source/foundations.rst:62
-msgid "addressed in"
+#: ../../source/foundations.rst:147
+msgid "a guided learning experience"
 msgstr ""
 
-#: ../../source/foundations.rst:63
-msgid "the user"
+#: ../../source/foundations.rst:148
+msgid "expert guidance and direction"
 msgstr ""
 
-#: ../../source/foundations.rst:64
-msgid "the documentation"
+#: ../../source/foundations.rst:149
+msgid "reliable information"
 msgstr ""
 
-#: ../../source/foundations.rst:65
-msgid "learning"
-msgstr "학습"
+#: ../../source/foundations.rst:150
+msgid "discussion that offers insight"
+msgstr ""
 
-#: ../../source/foundations.rst:66
-msgid "tutorials"
+#: ../../source/foundations.rst:157
+msgid "Directs action"
+msgstr ""
+
+#: ../../source/foundations.rst:158
+msgid "Describes what is"
+msgstr ""
+
+#: ../../source/foundations.rst:159
+msgid "Serves development of skill"
+msgstr ""
+
+#: ../../source/foundations.rst:160
+msgid "Serves application of skill"
+msgstr ""
+
+#: ../../source/foundations.rst:162
+msgid "Tutorials"
 msgstr "튜토리얼"
 
-#: ../../source/foundations.rst:67 ../../source/foundations.rst:79
-msgid "acquires their craft"
-msgstr ""
-
-#: ../../source/foundations.rst:68 ../../source/foundations.rst:72
-msgid "informs action"
-msgstr ""
-
-#: ../../source/foundations.rst:69
-msgid "goals"
-msgstr "목표"
-
-#: ../../source/foundations.rst:70
-msgid "how-to guides"
+#: ../../source/foundations.rst:163
+msgid "How-to guides"
 msgstr "하우투 가이드"
 
-#: ../../source/foundations.rst:71 ../../source/foundations.rst:75
-msgid "applies their craft"
-msgstr ""
-
-#: ../../source/foundations.rst:73
-msgid "information"
-msgstr "정보"
-
-#: ../../source/foundations.rst:74
-msgid "reference"
+#: ../../source/foundations.rst:164
+msgid "Reference"
 msgstr "레퍼런스"
 
-#: ../../source/foundations.rst:76 ../../source/foundations.rst:80
-msgid "informs cognition"
-msgstr ""
-
-#: ../../source/foundations.rst:77
-msgid "understanding"
-msgstr "이해"
-
-#: ../../source/foundations.rst:78
-msgid "explanation"
+#: ../../source/foundations.rst:165
+msgid "Explanation"
 msgstr "설명"
 
-#: ../../source/foundations.rst:83
-msgid ""
-"The Diátaxis map of documentation is a memorable and approachable idea. But,"
-" a map is only reliable if it adequately describes a reality. Diátaxis is "
-"underpinned by a systematic description and analysis of generalised **user "
-"needs**."
+#: ../../source/foundations.rst:167
+msgid "Learning-oriented"
 msgstr ""
 
-#: ../../source/foundations.rst:85
+#: ../../source/foundations.rst:168
+msgid "Goal-oriented"
+msgstr ""
+
+#: ../../source/foundations.rst:169
+msgid "Information-oriented"
+msgstr ""
+
+#: ../../source/foundations.rst:170
+msgid "Understanding-oriented"
+msgstr ""
+
+#: ../../source/foundations.rst:178
+msgid "Working with clusters of meaning"
+msgstr ""
+
+#: ../../source/foundations.rst:180
 msgid ""
-"This is why the tutorials, how-to guides, reference and explanation of "
-"Diátaxis are a complete enumeration of the types of documentation that serve"
-" practitioners in a craft. This is why there are four and only four types of"
-" documentation. There is simply no other territory to cover."
+"In most languages, words tend to fall quite awkwardly across some of the "
+"boundaries we are trying to work with."
+msgstr ""
+
+#: ../../source/foundations.rst:182
+msgid ""
+"For example, Diátaxis refers to \"practical expression\" as an aspect of "
+"skill that's opposed to \"conceptual grasp\". But theory and concept are "
+"*part of* practice, not opposed to it. Their counterpart is *action*, and "
+"the truth is that if it were not so hideous, \"actional expression\" would "
+"be more accurate than \"practical expression\"."
+msgstr ""
+
+#: ../../source/foundations.rst:184
+msgid ""
+"But rather than reaching for strained and ugly ways of speaking to avoid "
+"natural language's ambiguities and shades of meaning, it's better to allow "
+"clusters of meaning and association to do the work."
+msgstr ""
+
+#: ../../source/foundations.rst:186
+msgid ""
+"That's why we use so many different words, metaphors and images in Diátaxis "
+"to express this rather small collection of ideas. They form *clusters of "
+"meaning*. It's not just more accessible to the intuition and imagination "
+"than any pinned-down set of rigidly precise terms could ever be, but also "
+"genuinely more useful."
+msgstr ""
+
+#: ../../source/foundations.rst:188
+msgid ""
+"*Practical expression* versus *conceptual grasp*, *action* versus *theory*, "
+"*doing* versus *thinking* – they're not precisely the same pairs, but they "
+"place us in the same territory; similarly, *development* versus "
+"*application* of skill, *being at \"study\"* rather than *being at work* and"
+" so on."
+msgstr ""
+
+#: ../../source/foundations.rst:190
+msgid ""
+"We need to be able to reach for multiple different ways of articulating "
+"these meanings, because different ones will be right for the case or "
+"perspective we're speaking of."
+msgstr ""
+
+#: ../../source/foundations.rst:192
+msgid ""
+"There might be shades of meaning around the clusters and the words in them, "
+"but their centre of gravity is clear. People are intelligent and "
+"imaginative. They will find their own connections and anchors in them, and "
+"that is much more valuable than having precise terms for every idea."
+msgstr ""
+
+#: ../../source/foundations.rst:194
+msgid ""
+"With that in mind, you should find your own connections and related meaning "
+"in these diagrams."
 msgstr ""

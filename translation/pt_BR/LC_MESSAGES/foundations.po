@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -21,36 +21,54 @@ msgstr ""
 "Language: pt_BR\n"
 "Plural-Forms: nplurals=3; plural=(n == 0 || n == 1) ? 0 : n != 0 && n % 1000000 == 0 ? 1 : 2;\n"
 
-#: ../../source/foundations.rst:2
+#: ../../source/foundations.rst:4
 msgid "Foundations"
 msgstr "Fundamentos"
 
-#: ../../source/foundations.rst:4
+#: ../../source/foundations.rst:8
 msgid ""
-"Diátaxis is successful because it *works* - both users and creators have a "
-"better experience of documentation as a result. It makes sense and it feels "
-"right."
+"You don't need to read a single word of this page to use Diátaxis "
+"effectively or even to understand it properly."
 msgstr ""
-"O Diátaxis é bem-sucedido porque *funciona* - tanto usuários quanto "
-"criadores têm uma experiência melhor de documentação como resultado. Faz "
+"Você não precisa ler uma única palavra desta página para usar o Diátaxis de "
+"forma eficaz ou mesmo para entendê-lo adequadamente."
+
+#: ../../source/foundations.rst:10
+msgid ""
+"The only reason for reading it is to have a better appreciation of some of "
+"the thinking and theorising behind Diátaxis – *why* it works, not how it "
+"works."
+msgstr ""
+"O único motivo para lê-lo é ter uma melhor compreensão de parte do "
+"pensamento e da teorização por trás do Diátaxis - *por que* funciona, não "
+"como funciona."
+
+#: ../../source/foundations.rst:12
+msgid ""
+"Diátaxis is successful because it *works* – it gives both users and creators"
+" a better experience of documentation. It makes sense and it feels right."
+msgstr ""
+"O Diátaxis é bem-sucedido porque *funciona* – ele proporciona tanto a "
+"usuários quanto a criadores uma melhor experiência de documentação. Faz "
 "sentido e parece certo."
 
-#: ../../source/foundations.rst:6
+#: ../../source/foundations.rst:14
 msgid ""
 "However, that's not enough to be confident in Diátaxis as a theory of "
-"documentation. As a theory, it needs to show *why* it works. It needs to "
-"show that there is actually some reason why there are exactly four kinds of "
-"documentation, not three or five. It needs to demonstrate rigorous thinking "
-"and analysis, and that it stands on a sound theoretical foundation."
+"documentation. As a theory, it needs to show why it works. It needs to show "
+"that there is actually some reason why there are exactly four kinds of "
+"documentation for example, and not three or five. It needs to demonstrate "
+"rigorous thinking and analysis, and that it stands on a sound theoretical "
+"foundation."
 msgstr ""
-"No entanto, isso não é suficiente para ter confiança no Diátaxis como uma "
-"teoria de documentação. Como teoria, ele precisa mostrar *por que* funciona."
-" Ele precisa mostrar que há, de fato, algum motivo para existirem exatamente"
-" quatro tipos de documentação, não três ou cinco. Ele precisa demonstrar um "
-"pensamento e uma análise rigorosos, e que se baseia em um fundamento teórico"
-" sólido."
+"No entanto, isso não é o suficiente para confiar no Diátaxis como uma teoria"
+" de documentação. Como teoria, ele precisa mostrar por que funciona. Precisa"
+" mostrar que existe, de fato, algum motivo para haver exatamente quatro "
+"tipos de documentação, por exemplo, e não três ou cinco. Precisa demonstrar "
+"um pensamento e uma análise rigorosos, e que se sustenta em uma base teórica"
+" sólida."
 
-#: ../../source/foundations.rst:8
+#: ../../source/foundations.rst:16
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
@@ -59,229 +77,648 @@ msgstr ""
 "afirmação mais forte que podemos fazer sobre ela é que \"parece funcionar "
 "muito bem\"."
 
-#: ../../source/foundations.rst:12
-msgid "Two dimensions of craft"
-msgstr "Duas dimensões do ofício"
-
-#: ../../source/foundations.rst:14
-msgid ""
-"Diátaxis is based on the principle that documentation must serve the needs "
-"of its users. Knowing how to do that means understanding what the needs of "
-"users are."
-msgstr ""
-"Diátaxis baseia-se no princípio de que a documentação deve atender às "
-"necessidades de seus usuários. Saber como fazer isso significa entender "
-"quais são as necessidades dos usuários."
-
-#: ../../source/foundations.rst:16
-msgid ""
-"The user whose needs Diátaxis serves is *the practitioner in a domain of "
-"skill*. A domain of skill is defined by a craft - the use of a tool or "
-"product is a craft. So is an entire discipline or profession. Using a "
-"programming language is a craft, as is flying a particular aircraft, or even"
-" being a pilot in general."
-msgstr ""
-"O usuário cujas necessidades o Diátaxis atende é *o praticante em um domínio"
-" de habilidade*. Um domínio de habilidade é definido por um ofício - o uso "
-"de uma ferramenta ou produto é um ofício. O mesmo ocorre com uma disciplina "
-"ou profissão inteira. Usar uma linguagem de programação é um ofício, assim "
-"como pilotar uma aeronave específica, ou até mesmo ser um piloto em geral."
-
-#: ../../source/foundations.rst:18
-msgid ""
-"Understanding the needs of these users means in turn understanding the "
-"essential characteristics of craft or skill."
-msgstr ""
-"Compreender as necessidades desses usuários significa, por sua vez, "
-"compreender as características essenciais do ofício ou da habilidade."
+#: ../../source/foundations.rst:20
+msgid "The underlying principle"
+msgstr "O princípio subjacente"
 
 #: ../../source/foundations.rst:22
-msgid "Action/cognition"
-msgstr "Ação/cognição"
-
-#: ../../source/foundations.rst:24
 msgid ""
-"A skill or craft or practice contains both **action** (practical knowledge, "
-"knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing"
-" *that*, what we think). The two are completely bound up with each other, "
-"but they are counterparts, wholly distinct from each other, two different "
-"aspects of the same thing."
+"Diátaxis is based on an understanding of the nature of the structure of "
+"skill. That allows us to understand something about the practitioner of a "
+"skill, and then have something to say about what guidance is appropriate to "
+"their needs."
 msgstr ""
-"Uma habilidade, um ofício ou uma prática contém tanto a **ação** "
-"(conhecimento prático, o saber *como*, o que fazemos) quanto a **cognição** "
-"(conhecimento teórico, o saber *que*, o que pensamos). Os dois estão "
-"completamente interligados, mas são contrapartes, inteiramente distintos um "
-"do outro, dois aspectos diferentes da mesma coisa."
+"Diátaxis baseia-se em uma compreensão da natureza da estrutura da "
+"habilidade. Isso nos permite compreender algo sobre o praticante de uma "
+"habilidade e, então, ter algo a dizer sobre qual orientação é apropriada "
+"para as suas necessidades."
+
+#: ../../source/foundations.rst:26
+msgid ""
+"On this page I will refer to \"guidance\", rather than to \"documentation\"."
+" Documentation is guidance in written form, and what I have to say here "
+"applies to all guidance for skill."
+msgstr ""
+"Nesta página, eu me referirei a \"orientação\", em vez de a "
+"\"documentação\". A documentação é orientação em forma escrita, e o que "
+"tenho a dizer aqui se aplica a toda orientação para habilidade."
 
 #: ../../source/foundations.rst:28
-msgid "Acquisition/application"
-msgstr "Aquisição/aplicação"
+msgid ""
+"The key claim of Diátaxis is that skill has certain characteristics, that we"
+" can lay out structurally."
+msgstr ""
+"A principal afirmação do Diátaxis é que a habilidade possui certas "
+"características, que podemos apresentar estruturalmente."
 
 #: ../../source/foundations.rst:30
 msgid ""
-"Similarly, the relationship of a practitioner with their practice is that it"
-" is something that needs to be both **acquired**, and **applied**. Being "
-"\"at work\" (concerned with applying the skill and knowledge of their craft)"
-" and being \"at study\" (concerned with acquiring them) are once again "
-"counterparts, distinct but bound up with each other."
+"Skill contains particular structures and relationships. At any given time, "
+"where a practitioner of skill finds themselves within those structures and "
+"relationships points at the corresponding characteristics appropriate and "
+"effective guidance will have."
 msgstr ""
-"Da mesma forma, a relação de um praticante com sua prática é que ela é algo "
-"que precisa ser tanto **adquirido** quanto **aplicado**. Estar \"em "
-"atividade\" (preocupado em aplicar a habilidade e o conhecimento de seu "
-"ofício) e estar \"em estudo\" (preocupado em adquiri-los) são, mais uma vez,"
-" contrapartes, distintas, mas intrinsecamente ligadas uma à outra."
+"A habilidade contém estruturas e relações particulares. Em qualquer momento "
+"dado, onde um praticante de habilidade se encontra dentro dessas estruturas "
+"e relações aponta para as características correspondentes que uma orientação"
+" apropriada e eficaz terá."
 
-#: ../../source/foundations.rst:34
+#: ../../source/foundations.rst:32
+msgid ""
+"Skill and guidance can be overlaid upon each other to the extent that the "
+"same structure is able to describe both. This page shows how we can work "
+"from an understanding of skill to the characteristics that documentation "
+"must have, and why there are four distinct kinds, and why they exist in a "
+"particular relationship to each other."
+msgstr ""
+"Habilidade e orientação podem ser sobrepostas uma à outra a ponto de a mesma"
+" estrutura ser capaz de descrever ambas. Esta página mostra como podemos "
+"partir de uma compreensão de habilidade para as características que a "
+"documentação deve ter, e por que existem quatro tipos distintos, e por que "
+"eles existem em uma relação particular entre si."
+
+#: ../../source/foundations.rst:36
+msgid "The nature of craft"
+msgstr "A natureza do ofício"
+
+#: ../../source/foundations.rst:38
+msgid ""
+"Let's start with *craft*. (A craft defines a domain of skill, and for most "
+"practical purposes in this discussion we can use words like *practice*, "
+"*craft* and *skill* fairly interchangeably.)"
+msgstr ""
+"Vamos começar com *ofício*. (Um ofício define um domínio de habilidade, e "
+"para a maioria dos propósitos práticos nesta discussão podemos usar palavras"
+" como *prática*, *ofício* e *habilidade* de forma bastante intercambiável.)"
+
+#: ../../source/foundations.rst:40
+msgid ""
+"The use of a tool or product is a craft. So is an entire discipline or "
+"profession. Using a programming language is a craft, and so is flying a "
+"particular aircraft, or simply being a pilot in general."
+msgstr ""
+"O uso de uma ferramenta ou produto é um ofício. O mesmo vale para uma "
+"disciplina ou profissão inteira. Usar uma linguagem de programação é um "
+"ofício, assim como pilotar uma aeronave específica, ou simplesmente ser um "
+"piloto em geral."
+
+#: ../../source/foundations.rst:44
+msgid "Practical expression and conceptual grasp"
+msgstr "Expressão prática e compreensão conceitual"
+
+#: ../../source/foundations.rst:46
+msgid "Two halves of the map, practical expression and conceptual grasp"
+msgstr "Duas metades do mapa, expressão prática e compreensão conceitual"
+
+#: ../../source/foundations.rst:46
+msgid ""
+"Above: practical expression, correct action, execution, doing Below: truth, "
+"knowing, conception"
+msgstr ""
+"Acima: expressão prática, ação correta, execução, fazer Abaixo: verdade, "
+"saber, concepção"
+
+#: ../../source/foundations.rst:46
+msgid "manual"
+msgstr "manual"
+
+#: ../../source/foundations.rst:46
+msgid "correct action"
+msgstr "ação correta"
+
+#: ../../source/foundations.rst:46
+msgid "**practical expression**"
+msgstr "**expressão prática**"
+
+#: ../../source/foundations.rst:46
+msgid "execution"
+msgstr "execução"
+
+#: ../../source/foundations.rst:46
+msgid "doing"
+msgstr "fazendo"
+
+#: ../../source/foundations.rst:47
+msgid "truth"
+msgstr "verdade"
+
+#: ../../source/foundations.rst:47
+msgid "knowing"
+msgstr "sabendo"
+
+#: ../../source/foundations.rst:47
+msgid "**conceptual grasp**"
+msgstr "**compreensão conceitual**"
+
+#: ../../source/foundations.rst:47
+msgid "conception"
+msgstr "concepção"
+
+#: ../../source/foundations.rst:47
+msgid "mental"
+msgstr "mental"
+
+#: ../../source/foundations.rst:55
+msgid ""
+"Any skill (or craft or practice) contains both **practical expression** and "
+"**conceptual grasp**."
+msgstr ""
+"Qualquer habilidade (ou ofício ou prática) contém tanto **expressão "
+"prática** quanto **compreensão conceitual**."
+
+#: ../../source/foundations.rst:57
+msgid ""
+"Skill contains both, and they are enmeshed in each other, but at any given "
+"moment, one of these is the key concern."
+msgstr ""
+"A habilidade contém ambos, e eles estão entrelaçados um no outro, mas em "
+"qualquer momento dado, um deles é a preocupação principal."
+
+#: ../../source/foundations.rst:59
+msgid ""
+"Sometimes what matters is what the pilot *does* (practices or executes an "
+"operation) and sometimes it's what the pilot *knows* (the correct heading, "
+"what a certain cloud formation indicates). In the fluid realities of any "
+"skill – and aviation is no different – the two conditions ceaselessly "
+"succeed each other, but they remain clearly distinct: sometimes what matters"
+" in skill belongs to the upper half of the diagram, and sometimes to the "
+"lower."
+msgstr ""
+"Às vezes, o que importa é o que o piloto *faz* (pratica ou executa uma "
+"operação) e às vezes é o que o piloto *sabe* (o rumo correto, o que uma "
+"certa formação de nuvens indica). Nas realidades fluidas de qualquer "
+"habilidade – e a aviação não é diferente – as duas condições sucedem-se "
+"incessantemente, mas permanecem claramente distintas: às vezes o que importa"
+" na habilidade pertence à metade superior do diagrama, e às vezes à "
+"inferior."
+
+#: ../../source/foundations.rst:61
+msgid ""
+"It doesn't matter very much how we express the distinction between the two "
+"domains; there are multiple pairs of ideas that can do the work. Different "
+"ways of articulating it might fit better with a particular case."
+msgstr ""
+"Não importa muito como expressamos a distinção entre os dois domínios; "
+"existem múltiplos pares de ideias que podem cumprir esse papel. Diferentes "
+"formas de articulá-la podem se ajustar melhor a um caso particular."
+
+#: ../../source/foundations.rst:65
+msgid "Development and application of skill"
+msgstr "Desenvolvimento e aplicação de habilidade"
+
+#: ../../source/foundations.rst:67
+msgid "Two halves of the map, development and application of skill"
+msgstr "Duas metades do mapa, desenvolvimento e aplicação de habilidade"
+
+#: ../../source/foundations.rst:67
+msgid ""
+"Left: developing skill, becoming good at, being at study Right: applying "
+"skill, being good at, being at work"
+msgstr ""
+"Esquerda: desenvolvendo habilidade, tornando-se bom em, estar estudando "
+"Direita: aplicando habilidade, sendo bom em, estar trabalhando"
+
+#: ../../source/foundations.rst:67
+msgid "being at study"
+msgstr "estar estudando"
+
+#: ../../source/foundations.rst:67
+msgid "acquiring potential"
+msgstr "adquirindo potencial"
+
+#: ../../source/foundations.rst:67
+msgid "**development of skill**"
+msgstr "**desenvolvimento de habilidade**"
+
+#: ../../source/foundations.rst:67
+msgid "becoming good at"
+msgstr "tornando-se bom em"
+
+#: ../../source/foundations.rst:67
+msgid "practitioner focus"
+msgstr "foco no profissional"
+
+#: ../../source/foundations.rst:68
+msgid "being at work"
+msgstr "estar no trabalho"
+
+#: ../../source/foundations.rst:68
+msgid "exercising potential"
+msgstr "exercitando o potencial"
+
+#: ../../source/foundations.rst:68
+msgid "**application of skill**"
+msgstr "**aplicação de habilidade**"
+
+#: ../../source/foundations.rst:68
+msgid "being good at"
+msgstr "ser bom em"
+
+#: ../../source/foundations.rst:68
+msgid "results-focus"
+msgstr "foco em resultados"
+
+#: ../../source/foundations.rst:76
+msgid ""
+"Skill is something someone has. A practitioner stands in relation to their "
+"practice."
+msgstr ""
+"Habilidade é algo que alguém possui. Um praticante está em relação à sua "
+"prática."
+
+#: ../../source/foundations.rst:78
+msgid ""
+"We acquire and use skill. A practice is something that needs to be both "
+"**developed**, and **applied**. Sometimes we are \"at work\" and sometimes "
+"we are \"at study\", and so on."
+msgstr ""
+"Nós adquirimos e usamos habilidade. Uma prática é algo que precisa ser tanto"
+" **desenvolvida**, quanto **aplicada**. Às vezes estamos \"no trabalho\" e "
+"às vezes estamos \"em estudo\", e assim por diante."
+
+#: ../../source/foundations.rst:80
+msgid ""
+"Once again these are two distinct conditions of the practitioner. In any "
+"kind of reality, they are bound up with each other, but that doesn't mean "
+"that we can't identify them clearly."
+msgstr ""
+"Mais uma vez, estas são duas condições distintas do praticante. Em qualquer "
+"tipo de realidade, elas estão ligadas uma à outra, mas isso não significa "
+"que não possamos identificá-las claramente."
+
+#: ../../source/foundations.rst:82
+msgid ""
+"For example, a student pilot who is learning to fly is indeed also actually "
+"flying the plane, applying the skills they have acquired so far. But what "
+"matters, what we really care about at these times, is the *development* of "
+"their skill. When a pilot is performing their job, what matters is the "
+"correct, successful *application* of their skill. That's what the point of "
+"that activity is (even though it would be a disappointing pilot, however "
+"experienced, who failed to develop their skills through their flying)."
+msgstr ""
+"Por exemplo, um aluno piloto que está aprendendo a voar está, de fato, "
+"também realmente voando o avião, aplicando as habilidades que adquiriu até "
+"agora. Mas o que importa, o que realmente nos importa nesses momentos, é o "
+"*desenvolvimento* de sua habilidade. Quando um piloto está desempenhando seu"
+" trabalho, o que importa é a *aplicação* correta e bem-sucedida de sua "
+"habilidade. Esse é o objetivo dessa atividade (embora seria um piloto "
+"decepcionante, por mais experiente que fosse, aquele que falhasse em "
+"desenvolver suas habilidades por meio de seus voos)."
+
+#: ../../source/foundations.rst:84
+msgid ""
+"As for the other axis, we can quickly identify multiple counterparts that "
+"represent this relationship. The particular choice of pair or form of words "
+"matters much less than the distinction that they maintain."
+msgstr ""
+"Quanto ao outro eixo, podemos identificar rapidamente múltiplos "
+"correspondentes que representam essa relação. A escolha particular de par ou"
+" forma de palavras importa muito menos do que a distinção que eles mantêm."
+
+#: ../../source/foundations.rst:88
 msgid "The map of the territory"
 msgstr "O mapa do território"
 
-#: ../../source/foundations.rst:36
+#: ../../source/foundations.rst:90
 msgid ""
-"This gives us two dimensions of skill, that we can lay out on a map - a map "
-"of the territory of craft:"
+"The distinctions and the counterparts that describe them give us two axes, "
+"on which we can lay out a map of the territory of craft."
 msgstr ""
-"Isso nos dá duas dimensões de habilidade, que podemos traçar em um mapa - um"
-" mapa do território do ofício:"
+"As distinções e as contrapartidas que as descrevem nos dão dois eixos, nos "
+"quais podemos traçar um mapa do território do ofício."
 
-#: ../../source/foundations.rst:38 ../../source/foundations.rst:51
+#: ../../source/foundations.rst:92
+msgid ""
+"I've chosen labels that I hope have the most general application, but it "
+"should be possible to substitute any of the counterparts suggested above, or"
+" find others, and make as much sense."
+msgstr ""
+"Escolhi rótulos que espero que tenham a aplicação mais geral, mas deve ser "
+"possível substituir qualquer uma das contrapartidas sugeridas acima, ou "
+"encontrar outras, e que faça tanto sentido."
+
+#: ../../source/foundations.rst:94 ../../source/foundations.rst:139
 msgid "The territory of craft as a two-dimensional map"
 msgstr "O território do artesanato como um mapa bidimensional"
 
-#: ../../source/foundations.rst:41
+#: ../../source/foundations.rst:94
 msgid ""
-"This is a *complete* map. There are only two dimensions, and they don't just"
-" cover the entire territory, they define it. This is why there are "
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, practical expression versus conceptual grasp. Left and right, the "
+"development of skill versus application of skill."
+msgstr ""
+"O mapa é definido por dois eixos que o dividem em quatro quadrantes. Acima e"
+" abaixo, expressão prática versus compreensão conceitual. Esquerda e "
+"direita, o desenvolvimento de habilidade versus aplicação de habilidade."
+
+#: ../../source/foundations.rst:94 ../../source/foundations.rst:152
+msgid "Practical expression"
+msgstr "Expressão prática"
+
+#: ../../source/foundations.rst:95 ../../source/foundations.rst:153
+msgid "Conceptual grasp"
+msgstr "Compreensão conceitual"
+
+#: ../../source/foundations.rst:96 ../../source/foundations.rst:154
+msgid "Development of skill"
+msgstr "Desenvolvimento de habilidade"
+
+#: ../../source/foundations.rst:97 ../../source/foundations.rst:155
+msgid "Application of skill"
+msgstr "Aplicação de habilidade"
+
+#: ../../source/foundations.rst:107
+msgid ""
+"The vertical axis concerns the nature of skill itself. The horizontal axis "
+"concerns our relation to skill."
+msgstr ""
+"O eixo vertical diz respeito à própria natureza da habilidade. O eixo "
+"horizontal diz respeito à nossa relação com a habilidade."
+
+#: ../../source/foundations.rst:109
+msgid ""
+"It's a *complete* map. There are only two dimensions, and they don't just "
+"cover the entire territory, they define it. This is why there are "
 "necessarily four quarters to it, and there could not be three, or five. It "
 "is not an arbitrary number."
 msgstr ""
-"Este é um mapa *completo*. Existem apenas duas dimensões, e elas não apenas "
-"cobrem todo o território, elas o definem. É por isso que ele possui "
-"necessariamente quatro partes, e não poderia haver três, ou cinco. Não é um "
-"número arbitrário."
+"É um mapa *completo*. Existem apenas duas dimensões, e elas não apenas "
+"cobrem todo o território, elas o definem. É por isso que há necessariamente "
+"quatro partes nele, e não poderiam ser três, ou cinco. Não é um número "
+"arbitrário."
 
-#: ../../source/foundations.rst:43
+#: ../../source/foundations.rst:113
+msgid "What the map can tell us"
+msgstr "O que o mapa pode nos dizer"
+
+#: ../../source/foundations.rst:115
 msgid ""
-"It also shows us the *qualities* of craft that define each of them. When the"
-" idea that documentation must serve the needs of craft is applied to this "
-"map, it reveals in turn what documentation must be and do to fulfil those "
-"obligations - in four distinct ways."
+"If these axes represent a good map of the territory of craft, then what can "
+"we say about the guidance or documentation that is appropriate to what we "
+"find in it?"
 msgstr ""
-"Também nos mostra as *qualidades* do ofício que definem cada um deles. "
-"Quando a ideia de que a documentação deve servir às necessidades do ofício é"
-" aplicada a este mapa, ela revela, por sua vez, o que a documentação deve "
-"ser e fazer para cumprir essas obrigações - de quatro maneiras distintas."
+"Se estes eixos representam um bom mapa do território do ofício, então o que "
+"podemos dizer sobre a orientação ou documentação que seja adequada ao que "
+"encontramos nele?"
 
-#: ../../source/foundations.rst:47
-msgid "Serving needs"
-msgstr "Atender necessidades"
+#: ../../source/foundations.rst:117
+msgid ""
+"In reality, there is little that we can read *directly* from the map. For "
+"the horizontal axis, we can say for example that *development of skill* "
+"demands guidance that *serves the development of skill*. Which is true, but "
+"it's not exactly informative."
+msgstr ""
+"Na realidade, há pouco que possamos ler *diretamente* do mapa. Para o eixo "
+"horizontal, podemos dizer, por exemplo, que o *desenvolvimento de "
+"habilidade* exige orientação que *serve ao desenvolvimento de habilidade*. O"
+" que é verdade, mas não é exatamente informativo."
 
-#: ../../source/foundations.rst:49
+#: ../../source/foundations.rst:121
+msgid "It's not even the kind of thing we should *want* to read off a map."
+msgstr "Não é nem o tipo de coisa que deveríamos *querer* ler em um mapa."
+
+#: ../../source/foundations.rst:123
+msgid ""
+"We get a little further with the vertical axis. We can sense strongly and "
+"clearly that guidance that *directs action* is appropriate to *doing*, and "
+"that guidance that *describes what is the case* is appropriate to thinking. "
+"We can see immediately what *form* they must have to serve the corresponding"
+" axes of skill – so that's a little more than we get for the other axis, but"
+" it's still not very much."
+msgstr ""
+"Avançamos um pouco mais com o eixo vertical. Podemos perceber de forma forte"
+" e clara que a orientação que *direciona a ação* é apropriada ao *fazer*, e "
+"que a orientação que *descreve o que é o caso* é apropriada ao pensar. "
+"Podemos ver imediatamente qual *forma* elas devem ter para servir aos eixos "
+"correspondentes de habilidade – então isso é um pouco mais do que obtemos "
+"para o outro eixo, mas ainda não é muito."
+
+#: ../../source/foundations.rst:125
+msgid ""
+"**We shouldn't expect more.** That's not the point of the map at all. To "
+"discover and understand what forms of guidance or documentation are "
+"appropriate and effective is work we have to do, based on our understanding "
+"of human beings. We'll never close the book on the subject."
+msgstr ""
+"**Não devemos esperar mais.** Esse não é o propósito do mapa de forma "
+"alguma. Descobrir e entender quais formas de orientação ou documentação são "
+"apropriadas e eficazes é um trabalho que temos que fazer, com base em nossa "
+"compreensão dos seres humanos. Nunca daremos o assunto por encerrado."
+
+#: ../../source/foundations.rst:127
+msgid ""
+"What the map does point out is how the practitioner of skill finds "
+"themselves in four fundamentally distinct conditions, in the four quadrants "
+"described by the two axes. And, they are not just four distinct conditions: "
+"they have a structural relationship to each other. This is indeed new, "
+"interesting and informative."
+msgstr ""
+"O que o mapa aponta é como o praticante de habilidade se encontra em quatro "
+"condições fundamentalmente distintas, nos quatro quadrantes descritos pelos "
+"dois eixos. E elas não são apenas quatro condições distintas: elas têm uma "
+"relação estrutural entre si. Isso é, de fato, novo, interessante e "
+"informativo."
+
+#: ../../source/foundations.rst:129
+msgid ""
+"In turn, even though we can't directly discover precisely what the guidance "
+"that fits must do, we can see the combination of characteristics that "
+"belongs to each quadrant. We can see that the quadrants indicate four "
+"fundamentally different kinds of guidance to address these conditions of the"
+" practitioner. And, we can see how the structural relationships that hold "
+"for skill also hold for guidance, and that they map on to each other."
+msgstr ""
+"Por sua vez, embora não possamos descobrir diretamente o que exatamente a "
+"orientação adequada deve fazer, podemos ver a combinação de características "
+"que pertence a cada quadrante. Podemos ver que os quadrantes indicam quatro "
+"tipos fundamentalmente diferentes de orientação para lidar com essas "
+"condições do praticante. E podemos ver como as relações estruturais que se "
+"aplicam à habilidade também se aplicam à orientação, e que elas se mapeiam "
+"uma na outra."
+
+#: ../../source/foundations.rst:133
+msgid "Documentation that answers to needs"
+msgstr "Documentação que atende às necessidades"
+
+#: ../../source/foundations.rst:135
 msgid ""
 "The map of the territory of craft is what gives us the familiar Diátaxis map"
-" of documentation. The map is in effect an answer to the question: what must"
-" documentation do to align with these qualities of skill, and to what need "
-"is it oriented in each case?"
+" of documentation. We can see what kind of guidance belongs in each "
+"quadrant, and from that we can identify clearly the documentation that can "
+"provide it."
 msgstr ""
-"O mapa do território do ofício é o que nos fornece o familiar mapa Diátaxis "
-"de documentação. O mapa é, na prática, uma resposta à pergunta: o que a "
-"documentação deve fazer para se alinhar a essas qualidades de perícia, e a "
-"qual necessidade ela está orientada em cada caso?"
+"O mapa do território do ofício é o que nos dá o familiar mapa Diátaxis de "
+"documentação. Podemos ver que tipo de orientação pertence a cada quadrante "
+"e, a partir disso, podemos identificar claramente a documentação que pode "
+"fornecê-la."
 
-#: ../../source/foundations.rst:54
+#: ../../source/foundations.rst:137
 msgid ""
-"We can see how the map of documentation addresses *needs* across those two "
-"dimensions, each need also defined by the characteristics of its quarter of "
-"the map."
+"What belongs is what fits, what aligns with the characteristics of skill."
 msgstr ""
-"Podemos ver como o mapa de documentação aborda *necessidades* ao longo "
-"dessas duas dimensões, cada necessidade também definida pelas "
-"características do seu quadrante no mapa."
+"O que pertence é o que se encaixa, o que se alinha com as características da"
+" habilidade."
 
-#: ../../source/foundations.rst:61
-msgid "need"
-msgstr "necessita"
+#: ../../source/foundations.rst:139
+msgid "Different forms of guidance fit into each quadrant."
+msgstr "Diferentes formas de orientação se encaixam em cada quadrante."
 
-#: ../../source/foundations.rst:62
-msgid "addressed in"
-msgstr "endereçado em"
+#: ../../source/foundations.rst:147
+msgid "a guided learning experience"
+msgstr "uma experiência de aprendizagem guiada"
 
-#: ../../source/foundations.rst:63
-msgid "the user"
-msgstr "o usuário"
+#: ../../source/foundations.rst:148
+msgid "expert guidance and direction"
+msgstr "orientação e direção de especialistas"
 
-#: ../../source/foundations.rst:64
-msgid "the documentation"
-msgstr "a documentação"
+#: ../../source/foundations.rst:149
+msgid "reliable information"
+msgstr "informação confiável"
 
-#: ../../source/foundations.rst:65
-msgid "learning"
-msgstr "aprendizado"
+#: ../../source/foundations.rst:150
+msgid "discussion that offers insight"
+msgstr "discussão que oferece insights"
 
-#: ../../source/foundations.rst:66
-msgid "tutorials"
-msgstr "tutoriais"
+#: ../../source/foundations.rst:157
+msgid "Directs action"
+msgstr "Direciona a ação"
 
-#: ../../source/foundations.rst:67 ../../source/foundations.rst:79
-msgid "acquires their craft"
-msgstr "adquire seu ofício"
+#: ../../source/foundations.rst:158
+msgid "Describes what is"
+msgstr "Descreve o que é"
 
-#: ../../source/foundations.rst:68 ../../source/foundations.rst:72
-msgid "informs action"
-msgstr "orienta a ação"
+#: ../../source/foundations.rst:159
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
 
-#: ../../source/foundations.rst:69
-msgid "goals"
-msgstr "objetivos"
+#: ../../source/foundations.rst:160
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
 
-#: ../../source/foundations.rst:70
-msgid "how-to guides"
-msgstr "guias práticos"
+#: ../../source/foundations.rst:162
+msgid "Tutorials"
+msgstr "Tutoriais"
 
-#: ../../source/foundations.rst:71 ../../source/foundations.rst:75
-msgid "applies their craft"
-msgstr "aplica seu ofício"
+#: ../../source/foundations.rst:163
+msgid "How-to guides"
+msgstr "Guias práticos"
 
-#: ../../source/foundations.rst:73
-msgid "information"
-msgstr "informação"
+#: ../../source/foundations.rst:164
+msgid "Reference"
+msgstr "Referência"
 
-#: ../../source/foundations.rst:74
-msgid "reference"
-msgstr "referencia"
+#: ../../source/foundations.rst:165
+msgid "Explanation"
+msgstr "Explicação"
 
-#: ../../source/foundations.rst:76 ../../source/foundations.rst:80
-msgid "informs cognition"
-msgstr "embasa a cognição"
+#: ../../source/foundations.rst:167
+msgid "Learning-oriented"
+msgstr "Orientado para o aprendizado"
 
-#: ../../source/foundations.rst:77
-msgid "understanding"
-msgstr "entendimento"
+#: ../../source/foundations.rst:168
+msgid "Goal-oriented"
+msgstr "Orientado a objetivos"
 
-#: ../../source/foundations.rst:78
-msgid "explanation"
-msgstr "explicação"
+#: ../../source/foundations.rst:169
+msgid "Information-oriented"
+msgstr "Orientado à informação"
 
-#: ../../source/foundations.rst:83
+#: ../../source/foundations.rst:170
+msgid "Understanding-oriented"
+msgstr "Orientado para a compreensão"
+
+#: ../../source/foundations.rst:178
+msgid "Working with clusters of meaning"
+msgstr "Trabalhando com agrupamentos de significado"
+
+#: ../../source/foundations.rst:180
 msgid ""
-"The Diátaxis map of documentation is a memorable and approachable idea. But,"
-" a map is only reliable if it adequately describes a reality. Diátaxis is "
-"underpinned by a systematic description and analysis of generalised **user "
-"needs**."
+"In most languages, words tend to fall quite awkwardly across some of the "
+"boundaries we are trying to work with."
 msgstr ""
-"O mapa de documentação Diátaxis é uma ideia memorável e acessível. Mas um "
-"mapa só é confiável se descrever adequadamente uma realidade. O Diátaxis é "
-"fundamentado em uma descrição e análise sistemática de **necessidades dos "
-"usuários** generalizadas."
+"Na maioria dos idiomas, as palavras tendem a se posicionar de forma bastante"
+" desajeitada através de alguns dos limites com os quais estamos tentando "
+"trabalhar."
 
-#: ../../source/foundations.rst:85
+#: ../../source/foundations.rst:182
 msgid ""
-"This is why the tutorials, how-to guides, reference and explanation of "
-"Diátaxis are a complete enumeration of the types of documentation that serve"
-" practitioners in a craft. This is why there are four and only four types of"
-" documentation. There is simply no other territory to cover."
+"For example, Diátaxis refers to \"practical expression\" as an aspect of "
+"skill that's opposed to \"conceptual grasp\". But theory and concept are "
+"*part of* practice, not opposed to it. Their counterpart is *action*, and "
+"the truth is that if it were not so hideous, \"actional expression\" would "
+"be more accurate than \"practical expression\"."
 msgstr ""
-"É por isso que os tutoriais, guias práticos, referência e explicação do "
-"Diátaxis são uma enumeração completa dos tipos de documentação que servem "
-"aos praticantes de um ofício. É por isso que existem quatro, e apenas "
-"quatro, tipos de documentação. Simplesmente não há outro território a ser "
-"coberto."
+"Por exemplo, o Diátaxis refere-se à \"expressão prática\" como um aspecto da"
+" habilidade que se opõe à \"compreensão conceitual\". No entanto, a teoria e"
+" o conceito *fazem parte* da prática, não se opõem a ela. O equivalente "
+"deles é a *ação*, e a verdade é que, se não fosse tão horrível, \"expressão "
+"acional\" seria mais preciso do que \"expressão prática\"."
+
+#: ../../source/foundations.rst:184
+msgid ""
+"But rather than reaching for strained and ugly ways of speaking to avoid "
+"natural language's ambiguities and shades of meaning, it's better to allow "
+"clusters of meaning and association to do the work."
+msgstr ""
+"Mas, em vez de recorrer a formas de falar forçadas e feias para evitar as "
+"ambiguidades e as nuances de significado da linguagem natural, é melhor "
+"permitir que agrupamentos de significado e associação façam o trabalho."
+
+#: ../../source/foundations.rst:186
+msgid ""
+"That's why we use so many different words, metaphors and images in Diátaxis "
+"to express this rather small collection of ideas. They form *clusters of "
+"meaning*. It's not just more accessible to the intuition and imagination "
+"than any pinned-down set of rigidly precise terms could ever be, but also "
+"genuinely more useful."
+msgstr ""
+"É por isso que usamos tantas palavras, metáforas e imagens diferentes no "
+"Diátaxis para expressar essa coleção de ideias relativamente pequena. Elas "
+"formam *agrupamentos de significado*. Não é apenas mais acessível à intuição"
+" e à imaginação do que qualquer conjunto de termos rigidamente precisos e "
+"fixos poderia ser, mas também é genuinamente mais útil."
+
+#: ../../source/foundations.rst:188
+msgid ""
+"*Practical expression* versus *conceptual grasp*, *action* versus *theory*, "
+"*doing* versus *thinking* – they're not precisely the same pairs, but they "
+"place us in the same territory; similarly, *development* versus "
+"*application* of skill, *being at \"study\"* rather than *being at work* and"
+" so on."
+msgstr ""
+"*Expressão prática* versus *compreensão conceitual*, *ação* versus *teoria*,"
+" *fazer* versus *pensar* – não são precisamente os mesmos pares, mas nos "
+"colocam no mesmo território; da mesma forma, *desenvolvimento* versus "
+"*aplicação* de habilidade, *estar em \"estudo\"* em vez de *estar no "
+"trabalho* e assim por diante."
+
+#: ../../source/foundations.rst:190
+msgid ""
+"We need to be able to reach for multiple different ways of articulating "
+"these meanings, because different ones will be right for the case or "
+"perspective we're speaking of."
+msgstr ""
+"Precisamos ser capazes de recorrer a múltiplas e diferentes maneiras de "
+"articular esses significados, porque diferentes serão as mais adequadas para"
+" o caso ou perspectiva de que estamos falando."
+
+#: ../../source/foundations.rst:192
+msgid ""
+"There might be shades of meaning around the clusters and the words in them, "
+"but their centre of gravity is clear. People are intelligent and "
+"imaginative. They will find their own connections and anchors in them, and "
+"that is much more valuable than having precise terms for every idea."
+msgstr ""
+"Pode haver nuances de significado em torno dos agrupamentos e das palavras "
+"neles contidas, mas o seu centro de gravidade é claro. As pessoas são "
+"inteligentes e imaginativas. Elas encontrarão suas próprias conexões e "
+"âncoras neles, e isso é muito mais valioso do que ter termos precisos para "
+"cada ideia."
+
+#: ../../source/foundations.rst:194
+msgid ""
+"With that in mind, you should find your own connections and related meaning "
+"in these diagrams."
+msgstr ""
+"Com isso em mente, você deve encontrar suas próprias conexões e significados"
+" relacionados nestes diagramas."

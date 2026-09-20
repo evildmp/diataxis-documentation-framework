@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -39,7 +39,7 @@ msgstr ""
 
 #: ../../source/tutorials-how-to.rst:10
 msgid ""
-"So: what *is* the difference between tutorials and how to-guides? Why does "
+"So: what *is* the difference between tutorials and how-to guides? Why does "
 "it matter? And why do they get confused?"
 msgstr ""
 "Então: qual *é* a diferença entre tutoriais e guias práticos? Por que isso "
@@ -53,11 +53,54 @@ msgstr ""
 "Todas estas são boas perguntas. Vamos começar pela última. *Se a distinção é"
 " realmente tão importante, por que não é mais óbvia?*"
 
-#: ../../source/tutorials-how-to.rst:17
+#: ../../source/tutorials-how-to.rst:15
+msgid "Tutorials and how-to guides"
+msgstr "Tutoriais e guias práticos"
+
+#: ../../source/tutorials-how-to.rst:15
+msgid ""
+"Tutorials and how-to guides both direct action. Tutorials serve the "
+"development of skill, but how-to guides serve the application of skill. They"
+" are learning-oriented and goal-oriented respectively."
+msgstr ""
+"Tutoriais e guias práticos ambos direcionam a ação. Tutoriais servem ao "
+"desenvolvimento de habilidade, mas guias práticos servem à aplicação de "
+"habilidade. Eles são orientados ao aprendizado e orientados a objetivos, "
+"respectivamente."
+
+#: ../../source/tutorials-how-to.rst:15
+msgid "Tutorials"
+msgstr "Tutoriais"
+
+#: ../../source/tutorials-how-to.rst:16
+msgid "How-to guides"
+msgstr "Guias práticos"
+
+#: ../../source/tutorials-how-to.rst:18
+msgid "Learning-oriented"
+msgstr "Orientado para o aprendizado"
+
+#: ../../source/tutorials-how-to.rst:19
+msgid "Goal-oriented"
+msgstr "Orientado a objetivos"
+
+#: ../../source/tutorials-how-to.rst:21
+msgid "Directs action"
+msgstr "Direciona a ação"
+
+#: ../../source/tutorials-how-to.rst:22
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
+
+#: ../../source/tutorials-how-to.rst:23
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
+
+#: ../../source/tutorials-how-to.rst:31
 msgid "What they have in common"
 msgstr "O que eles têm em comum"
 
-#: ../../source/tutorials-how-to.rst:19
+#: ../../source/tutorials-how-to.rst:33
 msgid ""
 "In important respects, tutorials and how-to guides are indeed similar. They "
 "are both practical guides: they contain directions for the user to follow. "
@@ -70,7 +113,7 @@ msgstr ""
 "existem para orientar o usuário sobre o que *fazer*, em vez do que há para "
 "*saber ou entender*."
 
-#: ../../source/tutorials-how-to.rst:23
+#: ../../source/tutorials-how-to.rst:37
 msgid ""
 "They both set out steps for the reader to follow, and they both promise that"
 " if the reader follows those steps, they’ll arrive at a successful "
@@ -86,7 +129,7 @@ msgstr ""
 "Você não pode esperar o sucesso a menos que realize as ações na ordem "
 "correta."
 
-#: ../../source/tutorials-how-to.rst:28
+#: ../../source/tutorials-how-to.rst:42
 msgid ""
 "They are closely related, and like many close relations, can be mistaken for"
 " one another at first glance."
@@ -94,11 +137,11 @@ msgstr ""
 "Eles são intimamente relacionados e, como muitos parentes próximos, podem "
 "ser confundidos uns com os outros à primeira vista."
 
-#: ../../source/tutorials-how-to.rst:32
+#: ../../source/tutorials-how-to.rst:46
 msgid "What matters is what the user needs"
 msgstr "O que importa é o que o usuário precisa"
 
-#: ../../source/tutorials-how-to.rst:34
+#: ../../source/tutorials-how-to.rst:48
 msgid ""
 "Diátaxis insists that what matters in documentation is the needs of the "
 "user, and it's by paying attention to this that we can correctly distinguish"
@@ -108,7 +151,7 @@ msgstr ""
 "usuário, e é prestando atenção nisso que podemos distinguir corretamente "
 "entre tutoriais e guias práticos."
 
-#: ../../source/tutorials-how-to.rst:37
+#: ../../source/tutorials-how-to.rst:51
 msgid ""
 "Sometimes the user is **at study**, and sometimes the user is **at work**. "
 "Documentation has to serve both those needs."
@@ -116,7 +159,7 @@ msgstr ""
 "Às vezes o usuário está **estudando**, e às vezes o usuário está "
 "**trabalhando**. A documentação deve atender a ambas as necessidades."
 
-#: ../../source/tutorials-how-to.rst:39
+#: ../../source/tutorials-how-to.rst:53
 msgid ""
 "A tutorial serves the needs of the user who is at study. Its obligation is "
 "*to provide a successful learning experience*. A how-to guide serves the "
@@ -134,11 +177,11 @@ msgstr ""
 "tutoriais e guias práticos importa: tutoriais são **orientados ao "
 "aprendizado**, e guias práticos são **orientados à tarefa**."
 
-#: ../../source/tutorials-how-to.rst:45
+#: ../../source/tutorials-how-to.rst:59
 msgid "At study and at work"
 msgstr "Nos estudos e no trabalho"
 
-#: ../../source/tutorials-how-to.rst:47
+#: ../../source/tutorials-how-to.rst:61
 msgid ""
 "We can consider this from the perspective of an actual example. Let’s say "
 "you’re in medicine: a doctor, someone who needs to acquire and apply the "
@@ -148,23 +191,23 @@ msgstr ""
 "você esteja na medicina: um médico, alguém que precisa adquirir e aplicar as"
 " habilidades práticas e clínicas de seu ofício."
 
-#: ../../source/tutorials-how-to.rst:50
+#: ../../source/tutorials-how-to.rst:64
 msgid ""
 "As a doctor, sometimes you will be in work situations, *applying your "
-"skills*, and sometimes you will be in study situations, *acquiring skills* "
+"skills*, and sometimes you will be in study situations, *developing skills* "
 "(all good doctors, even those with long careers behind them, continue to "
 "study to improve their skills)."
 msgstr ""
 "Como médico, às vezes você estará em situações de trabalho, *aplicando suas "
-"habilidades*, e às vezes estará em situações de estudo, *adquirindo "
+"habilidades*, e às vezes você estará em situações de estudo, *desenvolvendo "
 "habilidades* (todos os bons médicos, mesmo aqueles com longas carreiras por "
 "trás, continuam a estudar para melhorar suas habilidades)."
 
-#: ../../source/tutorials-how-to.rst:55
+#: ../../source/tutorials-how-to.rst:68
 msgid "At study"
 msgstr "Nos estudos"
 
-#: ../../source/tutorials-how-to.rst:57
+#: ../../source/tutorials-how-to.rst:70
 msgid ""
 "Early on in your training, you’ll learn how to suture a wound. You’ll start "
 "in the lab with your fellow students, at benches with small skin pads in "
@@ -185,7 +228,7 @@ msgstr ""
 "assim por diante - e, passo a passo, lhe será mostrado o que fazer e o que "
 "acontecerá quando você o fizer."
 
-#: ../../source/tutorials-how-to.rst:63
+#: ../../source/tutorials-how-to.rst:76
 msgid ""
 "And then it’s your turn. You will pick up the scalpel and tentatively draw "
 "it across the top of the pad, and make an ineffectual incision into the top "
@@ -201,7 +244,7 @@ msgstr ""
 "própria tentativa, um corte irregular de profundidades totalmente desiguais "
 "que parece algo saído de uma briga de faca. "
 
-#: ../../source/tutorials-how-to.rst:68
+#: ../../source/tutorials-how-to.rst:81
 msgid ""
 "After a few attempts, with feedback and correction from the tutor, you’ll "
 "have made a more or less clean cut that mostly goes through the fat layer "
@@ -211,7 +254,7 @@ msgstr ""
 "um corte mais ou menos limpo que atravessa majoritariamente a camada de "
 "gordura sem cortar o músculo abaixo. Triunfo!"
 
-#: ../../source/tutorials-how-to.rst:75
+#: ../../source/tutorials-how-to.rst:88
 msgid ""
 "But now you’re being asked to stitch it back up again! You’ll watch the "
 "tutor demonstrate deftly and precisely, closing the wound in the pad with a "
@@ -227,7 +270,7 @@ msgstr ""
 " nos lugares errados. Você deixará a agulha cair. A linha vai se soltar. "
 "Você levará uma bronca por não conseguir manter a esterilidade."
 
-#: ../../source/tutorials-how-to.rst:80
+#: ../../source/tutorials-how-to.rst:93
 msgid ""
 "Eventually, you’ll actually get to stitch the wound. You will puncture the "
 "skin in the wrong places and tear the edges of the cut. Your final result "
@@ -241,7 +284,7 @@ msgstr ""
 "desleixados. Os assistentes de ensino terão críticas a fazer mesmo sobre "
 "partes que você achou que tinha acertado."
 
-#: ../../source/tutorials-how-to.rst:84
+#: ../../source/tutorials-how-to.rst:97
 msgid ""
 "But, *you will have stitched your first wound*. And you will come back to "
 "this lesson again and again, and bit by bit your fumbling will turn into "
@@ -253,7 +296,7 @@ msgstr ""
 " uma prática confiante. Você terá adquirido competência básica. Você terá "
 "**aprendido na prática**."
 
-#: ../../source/tutorials-how-to.rst:88
+#: ../../source/tutorials-how-to.rst:101
 msgid ""
 "This is a tutorial. It’s a *lesson*, safely in the hands of an instructor, a"
 " teacher who looks after the interests of a pupil."
@@ -261,11 +304,11 @@ msgstr ""
 "Este é um tutorial. É uma *lição*, em segurança nas mãos de um instrutor, um"
 " professor que zela pelos interesses de um aluno."
 
-#: ../../source/tutorials-how-to.rst:92
+#: ../../source/tutorials-how-to.rst:105
 msgid "At work"
 msgstr "No trabalho"
 
-#: ../../source/tutorials-how-to.rst:94
+#: ../../source/tutorials-how-to.rst:107
 msgid ""
 "Now, let’s think about the doctor at work. As a doctor at work, you are "
 "already competent. You have learned and refined clinical skills such as "
@@ -277,7 +320,7 @@ msgstr ""
 "bem como muitas outras, e é capaz de combiná-las diariamente para aplicá-las"
 " em situações médicas no mundo real."
 
-#: ../../source/tutorials-how-to.rst:98
+#: ../../source/tutorials-how-to.rst:111
 msgid ""
 "Consider a standard appendectomy. A clinical manual will list the equipment "
 "and personnel required in the theatre. It will show how to station the "
@@ -292,7 +335,7 @@ msgstr ""
 "equipe precisará seguir, terminando com a passagem formal de cuidados para a"
 " equipe pós-operatória."
 
-#: ../../source/tutorials-how-to.rst:107
+#: ../../source/tutorials-how-to.rst:120
 msgid ""
 "The manual will show what incisions need to be made where, but they will "
 "depend on whether you’re performing an open or a laparoscopic procedure, "
@@ -309,7 +352,7 @@ msgstr ""
 " para uma apendicectomia aberta durante o procedimento. Muitas das etapas "
 "serão do tipo *se isso, então aquilo*."
 
-#: ../../source/tutorials-how-to.rst:112
+#: ../../source/tutorials-how-to.rst:125
 msgid ""
 "Having a manual helps ensure that all the steps are done in the right order "
 "and none are omitted. As a team, you’ll check through details of a procedure"
@@ -321,7 +364,7 @@ msgstr ""
 "detalhes de um procedimento para relembrar etapas fundamentais; às vezes, "
 "vocês o consultarão durante o próprio procedimento."
 
-#: ../../source/tutorials-how-to.rst:116
+#: ../../source/tutorials-how-to.rst:129
 msgid ""
 "Even for routine surgical operations, clinical manuals contain lists of "
 "steps and checks. These manuals are how-to guides. They are not there to "
@@ -335,11 +378,11 @@ msgstr ""
 "processos. Eles estão lá para guiá-lo com segurança em sua prática clínica "
 "para realizar uma tarefa específica - **eles servem ao seu trabalho**."
 
-#: ../../source/tutorials-how-to.rst:122
+#: ../../source/tutorials-how-to.rst:135
 msgid "Understanding the distinction"
 msgstr "Compreendendo a distinção"
 
-#: ../../source/tutorials-how-to.rst:124
+#: ../../source/tutorials-how-to.rst:137
 msgid ""
 "The distinction between a lesson in medical school and a clinical manual is "
 "the distinction between a tutorial and a how-to guide."
@@ -347,14 +390,14 @@ msgstr ""
 "A distinção entre uma aula na faculdade de medicina e um manual clínico é a "
 "distinção entre um tutorial e um guia prático."
 
-#: ../../source/tutorials-how-to.rst:136
+#: ../../source/tutorials-how-to.rst:149
 msgid ""
 "A tutorial’s purpose is **to help the pupil acquire basic competence**."
 msgstr ""
 "O propósito de um tutorial é **ajudar o aluno a adquirir competência "
 "básica**."
 
-#: ../../source/tutorials-how-to.rst:140
+#: ../../source/tutorials-how-to.rst:153
 msgid ""
 "A how-to guide’s purpose is **to help the already-competent user perform a "
 "particular task correctly**."
@@ -362,7 +405,7 @@ msgstr ""
 "O propósito de um guia prático é **ajudar o usuário já competente a realizar"
 " uma tarefa específica corretamente**."
 
-#: ../../source/tutorials-how-to.rst:145
+#: ../../source/tutorials-how-to.rst:158
 msgid ""
 "A tutorial **provides a learning experience**. People learn skills through "
 "practical, hands-on experience. What matters in a tutorial is what the "
@@ -373,11 +416,11 @@ msgstr ""
 " em um tutorial é o que o aprendiz *faz*, e o que ele vivencia enquanto o "
 "faz."
 
-#: ../../source/tutorials-how-to.rst:150
+#: ../../source/tutorials-how-to.rst:163
 msgid "A how-to guide **directs the user’s work**."
 msgstr "Um guia prático **direciona o trabalho do usuário**."
 
-#: ../../source/tutorials-how-to.rst:154
+#: ../../source/tutorials-how-to.rst:167
 msgid ""
 "The tutorial follows a **carefully-managed path**, starting at a given point"
 " and working to a conclusion. Along that path, the learner must have the "
@@ -387,7 +430,7 @@ msgstr ""
 "determinado ponto e avançando até uma conclusão. Ao longo desse caminho, o "
 "aluno deve ter os *encontros* que a lição exige."
 
-#: ../../source/tutorials-how-to.rst:160
+#: ../../source/tutorials-how-to.rst:173
 msgid ""
 "The how-to guide aims for a successful *result*, and guides the user along "
 "the safest, surest way to the goal, but **the path can’t be managed**: it’s "
@@ -398,7 +441,7 @@ msgstr ""
 " gerenciado**: é o mundo real, e qualquer coisa pode surgir para interromper"
 " a jornada."
 
-#: ../../source/tutorials-how-to.rst:166
+#: ../../source/tutorials-how-to.rst:179
 msgid ""
 "A tutorial **familiarises the learner** with the work: with the tools, the "
 "language, the processes and the way that what they’re working with behaves "
@@ -410,11 +453,11 @@ msgstr ""
 " comporta e responde, e assim por diante. Seu trabalho é apresentá-los, "
 "criando um encontro estruturado e repetível com eles."
 
-#: ../../source/tutorials-how-to.rst:172
+#: ../../source/tutorials-how-to.rst:185
 msgid "The how-to guide can and should **assume familiarity** with them all."
 msgstr "O guia prático pode e deve **presumir familiaridade** com todos eles."
 
-#: ../../source/tutorials-how-to.rst:176
+#: ../../source/tutorials-how-to.rst:189
 msgid ""
 "The tutorial takes place in a **contrived setting**, a learning environment "
 "where as much as possible is set out in advance to ensure a successful "
@@ -424,7 +467,7 @@ msgstr ""
 "onde o máximo possível é definido antecipadamente para garantir uma "
 "experiência bem-sucedida."
 
-#: ../../source/tutorials-how-to.rst:181
+#: ../../source/tutorials-how-to.rst:194
 msgid ""
 "A how-to guide applies to the **real world**, where you have to deal with "
 "what it throws at you."
@@ -432,11 +475,11 @@ msgstr ""
 "Um guia prático se aplica ao **mundo real**, onde você tem que lidar com o "
 "que ele te joga."
 
-#: ../../source/tutorials-how-to.rst:186
+#: ../../source/tutorials-how-to.rst:199
 msgid "The tutorial **eliminates the unexpected**."
 msgstr "O tutorial **elimina o inesperado**."
 
-#: ../../source/tutorials-how-to.rst:190
+#: ../../source/tutorials-how-to.rst:203
 msgid ""
 "The how-to guide must **prepare for the unexpected**, alerting the user to "
 "its possibility and providing guidance on how to deal with it."
@@ -444,7 +487,7 @@ msgstr ""
 "O guia prático deve **preparar-se para o inesperado**, alertando o usuário "
 "sobre sua possibilidade e fornecendo orientações sobre como lidar com ele."
 
-#: ../../source/tutorials-how-to.rst:195
+#: ../../source/tutorials-how-to.rst:208
 msgid ""
 "A tutorial’s path follows a single line. **It doesn’t offer choices or "
 "alternatives**."
@@ -452,7 +495,7 @@ msgstr ""
 "O caminho de um tutorial segue uma única linha. **Ele não oferece escolhas "
 "ou alternativas**."
 
-#: ../../source/tutorials-how-to.rst:199
+#: ../../source/tutorials-how-to.rst:212
 msgid ""
 "A **how-to guide will typically fork and branch**, describing different "
 "routes to the same destination: *If this, then that. In the case of ..., an "
@@ -462,7 +505,7 @@ msgstr ""
 "diferentes rotas para o mesmo destino: *Se isso, então aquilo. No caso de "
 "..., uma abordagem alternativa é...*"
 
-#: ../../source/tutorials-how-to.rst:205
+#: ../../source/tutorials-how-to.rst:218
 msgid ""
 "A tutorial **must be safe**. No harm should come to the learner; it must "
 "always be possible to go back to the beginning and start again."
@@ -470,7 +513,7 @@ msgstr ""
 "Um tutorial **deve ser seguro**. Nenhum dano deve ser causado ao aprendiz; "
 "deve ser sempre possível voltar ao início e começar de novo."
 
-#: ../../source/tutorials-how-to.rst:210
+#: ../../source/tutorials-how-to.rst:223
 msgid ""
 "A how-to guide **cannot promise safety**; often there’s only one chance to "
 "get it right."
@@ -478,7 +521,7 @@ msgstr ""
 "Um guia prático **não pode prometer segurança**; muitas vezes há apenas uma "
 "chance de acertar."
 
-#: ../../source/tutorials-how-to.rst:214
+#: ../../source/tutorials-how-to.rst:227
 msgid ""
 "In a tutorial, **responsibility lies with the teacher**. If the learner gets"
 " into trouble, that's the teacher's problem to put right."
@@ -486,7 +529,7 @@ msgstr ""
 "Em uma tutoria, **a responsabilidade é do professor**. Se o aluno tiver "
 "problemas, cabe ao professor resolvê-los."
 
-#: ../../source/tutorials-how-to.rst:219
+#: ../../source/tutorials-how-to.rst:232
 msgid ""
 "In a how-to guide, **the user has responsibility** for getting themselves in"
 " and out of trouble."
@@ -494,7 +537,7 @@ msgstr ""
 "Em um guia prático, **o usuário tem a responsabilidade** de se meter e sair "
 "de problemas."
 
-#: ../../source/tutorials-how-to.rst:223
+#: ../../source/tutorials-how-to.rst:236
 msgid ""
 "The learner **may not even have sufficient competence to ask the questions**"
 " that a tutorial answers."
@@ -502,7 +545,7 @@ msgstr ""
 "O aprendiz **pode nem ter competência suficiente para fazer as perguntas** "
 "que um tutorial responde."
 
-#: ../../source/tutorials-how-to.rst:227
+#: ../../source/tutorials-how-to.rst:240
 msgid ""
 "A how-to guide can assume that **the user is asking the right questions in "
 "the first place**."
@@ -510,7 +553,7 @@ msgstr ""
 "Um guia prático pode pressupor que **o usuário esteja fazendo as perguntas "
 "certas desde o início**."
 
-#: ../../source/tutorials-how-to.rst:232
+#: ../../source/tutorials-how-to.rst:245
 msgid ""
 "The tutorial is **explicit about basic things** - where to do things, where "
 "to put them, how to manipulate objects. It addresses the embodied experience"
@@ -524,7 +567,7 @@ msgstr ""
 "instrumento; em um tutorial de software, poderia ser onde digitar um "
 "comando, ou quanto tempo esperar por uma resposta."
 
-#: ../../source/tutorials-how-to.rst:238
+#: ../../source/tutorials-how-to.rst:251
 msgid ""
 "A how-to guide relies on this as **implicit knowledge** - even bodily "
 "knowledge."
@@ -532,7 +575,7 @@ msgstr ""
 "Um guia prático depende disso como **conhecimento implícito** - até mesmo "
 "conhecimento corporal."
 
-#: ../../source/tutorials-how-to.rst:242
+#: ../../source/tutorials-how-to.rst:255
 msgid ""
 "A tutorial is **concrete and particular** in its approach. It refers to the "
 "specific, known, defined tools, materials, processes and conditions that we "
@@ -542,7 +585,7 @@ msgstr ""
 "ferramentas, materiais, processos e condições específicos, conhecidos e "
 "definidos que colocamos cuidadosamente diante do aprendiz."
 
-#: ../../source/tutorials-how-to.rst:247
+#: ../../source/tutorials-how-to.rst:260
 msgid ""
 "The how-to guide has to take a **general** approach: many of these things "
 "will be unknowable in advance, or different in each real-world case."
@@ -551,7 +594,7 @@ msgstr ""
 "serão impossíveis de saber com antecedência, ou diferentes em cada caso do "
 "mundo real."
 
-#: ../../source/tutorials-how-to.rst:252
+#: ../../source/tutorials-how-to.rst:265
 msgid ""
 "The tutorial **teaches general skills and principles** that later could be "
 "applied to a multitude of cases."
@@ -559,7 +602,7 @@ msgstr ""
 "O tutorial **ensina habilidades e princípios gerais** que posteriormente "
 "poderiam ser aplicados a uma multiplicidade de casos."
 
-#: ../../source/tutorials-how-to.rst:257
+#: ../../source/tutorials-how-to.rst:270
 msgid ""
 "The user following a how-to guide is doing so in order to **complete a "
 "particular task**."
@@ -567,7 +610,7 @@ msgstr ""
 "O usuário que segue um guia prático o faz para **concluir uma tarefa "
 "específica**."
 
-#: ../../source/tutorials-how-to.rst:259
+#: ../../source/tutorials-how-to.rst:272
 msgid ""
 "None of these distinctions are arbitrary. They all emerge from the "
 "distinction between **study** and **work**, which we understand as a key "
@@ -577,11 +620,11 @@ msgstr ""
 "entre **estudo** e **trabalho**, a qual entendemos como uma distinção "
 "fundamental para dar sentido ao que o usuário de documentação precisa."
 
-#: ../../source/tutorials-how-to.rst:265
+#: ../../source/tutorials-how-to.rst:278
 msgid "The basic and the advanced"
 msgstr "O básico e o avançado"
 
-#: ../../source/tutorials-how-to.rst:267
+#: ../../source/tutorials-how-to.rst:280
 msgid ""
 "A common but understandable conflation is to see the difference between "
 "tutorials and how-to guides as being the difference between **the basic** "
@@ -590,7 +633,7 @@ msgstr ""
 "Uma confusão comum, mas compreensível, é ver a diferença entre tutoriais e "
 "guias práticos como sendo a diferença entre **o básico** e **o avançado**."
 
-#: ../../source/tutorials-how-to.rst:270
+#: ../../source/tutorials-how-to.rst:283
 msgid ""
 "After all, tutorials are for learners, while how-to guides are for already-"
 "skilled practitioners. Tutorials must cover the basics, while how-to guides "
@@ -601,7 +644,7 @@ msgstr ""
 "enquanto guias práticos têm que lidar com complexidades que os aprendizes "
 "não deveriam ter que enfrentar."
 
-#: ../../source/tutorials-how-to.rst:273
+#: ../../source/tutorials-how-to.rst:286
 msgid ""
 "However, there’s more to the story. Consider a clinical procedure manual: it"
 " could be a manual for a basic routine procedure, of very low complexity. It"
@@ -616,7 +659,7 @@ msgstr ""
 "específicos. *Guias práticos podem, de fato, e muitas vezes devem, abranger "
 "procedimentos básicos.*"
 
-#: ../../source/tutorials-how-to.rst:277
+#: ../../source/tutorials-how-to.rst:290
 msgid ""
 "At the same time, even as a qualified doctor, you will find yourself back in"
 " training situations. Some of them may be very advanced and specialised, "
@@ -627,7 +670,7 @@ msgstr ""
 "avançadas e especializadas, exigindo já um alto nível de habilidade e "
 "experiência."
 
-#: ../../source/tutorials-how-to.rst:280
+#: ../../source/tutorials-how-to.rst:293
 msgid ""
 "Let’s say you’re an anaesthetist of many years’ experience, who attends a "
 "course: “Difficult neonatal intubations”. The practical part of the course "
@@ -643,7 +686,7 @@ msgstr ""
 "desenvolver suas habilidades - tal como foi quando, anos antes, você estava "
 "aprendendo a suturar sua primeira ferida."
 
-#: ../../source/tutorials-how-to.rst:285
+#: ../../source/tutorials-how-to.rst:298
 msgid ""
 "The complexity is wholly different though, and so is the baseline of skills "
 "required even to participate in the learning experience. But, it’s of the "
@@ -654,7 +697,7 @@ msgstr ""
 "aprendizagem. Mas, é da mesma forma, e atende ao mesmo tipo de necessidade, "
 "como aquela lição muito anterior."
 
-#: ../../source/tutorials-how-to.rst:288
+#: ../../source/tutorials-how-to.rst:301
 msgid ""
 "It’s the same in software documentation: a tutorial can present something "
 "complex or advanced. And, a how-to guide can cover something that’s basic or"
@@ -666,11 +709,11 @@ msgstr ""
 "bem conhecido. A diferença entre os dois reside na necessidade que atendem: "
 "**o estudo do usuário**, ou **o seu trabalho**."
 
-#: ../../source/tutorials-how-to.rst:294
+#: ../../source/tutorials-how-to.rst:307
 msgid "Safety and success"
 msgstr "Segurança e sucesso"
 
-#: ../../source/tutorials-how-to.rst:296
+#: ../../source/tutorials-how-to.rst:309
 msgid ""
 "Understanding these distinctions, and the reason for upholding them, is "
 "crucial to creating successful documentation. A clinical manual that "
@@ -684,25 +727,25 @@ msgstr ""
 "um guia para um procedimento do mundo real, seria um documento literalmente "
 "mortal. Ele mataria pessoas."
 
-#: ../../source/tutorials-how-to.rst:300
+#: ../../source/tutorials-how-to.rst:313
 msgid ""
 "In disciplines such as software documentation, we get away with a great "
 "deal, because our conflations and mistakes rarely kill anyone. However, we "
 "can cause a great deal of low-level inconvenience and unhappiness to our "
 "users, and we add to it, every single time we publish a tutorial or how-to "
 "guide that doesn’t understand whether its purpose is to help the user in "
-"their study - the acquisition of skills - or in their work - the application"
+"their study - the development of skills - or in their work - the application"
 " of skills."
 msgstr ""
-"Em disciplinas como documentação de software, nós nos safamos de muita "
+"Em disciplinas como documentação de software, passamos impunes por muita "
 "coisa, porque nossas confusões e erros raramente matam alguém. No entanto, "
 "podemos causar uma grande quantidade de inconveniência e infelicidade de "
-"baixo nível aos nossos usuários, e contribuímos para isso toda vez que "
+"baixo nível aos nossos usuários, e agravamos a situação toda vez que "
 "publicamos um tutorial ou guia prático que não entende se o seu propósito é "
-"ajudar o usuário em seu estudo - a aquisição de habilidades - ou em seu "
-"trabalho - a aplicação de habilidades."
+"ajudar o usuário em seu estudo - o desenvolvimento de habilidades - ou em "
+"seu trabalho - a aplicação de habilidades."
 
-#: ../../source/tutorials-how-to.rst:305
+#: ../../source/tutorials-how-to.rst:318
 msgid ""
 "What’s more, we hurt ourselves too. Users don’t have to use our product. If "
 "our documentation doesn’t bring them to success - if it doesn’t meet the "
@@ -715,7 +758,7 @@ msgstr ""
 "ciclo de interação com o nosso produto - eles encontrarão outra coisa que o "
 "faça, se puderem."
 
-#: ../../source/tutorials-how-to.rst:309
+#: ../../source/tutorials-how-to.rst:322
 msgid ""
 "The conflation of tutorials and how-to guides is by no means the only one "
 "made between different kinds of documentation, but it's one of the easiest "

@@ -6,15 +6,16 @@
 # Translators:
 # Piotr Nawrot, 2026
 # evildmp <daniele@vurt.org>, 2026
+# Aleksandra Pawlik, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Last-Translator: Aleksandra Pawlik, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -30,19 +31,19 @@ msgstr "Strona główna"
 msgid "Start here"
 msgstr "Zacznij tutaj"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:38
 msgid "Tutorials"
 msgstr "Tutoriale"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:39
 msgid "How-to guides"
 msgstr "Przewodniki krok po kroku"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:40
 msgid "Reference"
 msgstr "Referencje"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:41
 msgid "Explanation"
 msgstr "Wyjaśnienie"
 
@@ -74,7 +75,7 @@ msgstr ""
 msgid "documentation, four, kinds, architecture"
 msgstr "dokumentacja, cztery, rodzaje, architektura"
 
-#: ../../source/index.rst:9 ../../source/index.rst:33
+#: ../../source/index.rst:9
 msgid "Diátaxis"
 msgstr "Diátaxis"
 
@@ -111,6 +112,54 @@ msgstr ""
 "referencje* i *wyjaśnienia*. Umieszcza je w systematycznym związku i "
 "proponuje, aby dokumentacja sama w sobie była zorganizowana wokół struktur "
 "tych potrzeb."
+
+#: ../../source/snippets/diagram.rst:38
+msgid "The Diátaxis map of documentation types"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:38
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:43
+msgid "Learning-oriented"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:44
+msgid "Goal-oriented"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:45
+msgid "Information-oriented"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:46
+msgid "Understanding-oriented"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:48
+msgid "Directs action"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:49
+msgid "Describes what is"
+msgstr "Opisuje czym jest"
+
+#: ../../source/snippets/diagram.rst:50
+msgid "Serves development of skill"
+msgstr "Służy rozwijaniu umiejętności"
+
+#: ../../source/snippets/diagram.rst:51
+msgid "Serves application of skill"
+msgstr ""
 
 #: ../../source/index.rst:39
 msgid ""

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/reference.rst:4
+#: ../../source/reference.rst:4 ../../source/reference.rst:18
 msgid "Reference"
 msgstr "参考内容"
 
@@ -41,46 +41,59 @@ msgstr "参考材料包括 **命题性或理论性** 的指示，用户在实践
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
 "possible, and in an orderly way. Whereas the content of tutorials and how-to"
-" guides are led by needs of the user, reference material is led by the "
+" guides is led by the needs of the user, reference material is led by the "
 "product it describes."
 msgstr "参考指南的唯一目的，是以尽可能简洁、有序的方式进行描述。教程和操作指南的内容由用户需求驱动，而参考材料则由其所描述的产品驱动。"
 
-#: ../../source/reference.rst:16
+#: ../../source/reference.rst:18
 msgid ""
-"Reference - information oriented, theoretical knowledge, that serves our "
-"work"
-msgstr "参考指南 - 以信息为导向，包含理论知识，服务于我们的工作。"
+"Reference describes what is, and serves the application of skill. It is "
+"information-oriented."
+msgstr "参考陈述事实，并面向技能的运用，它是以信息为导向的。"
+
+#: ../../source/reference.rst:19
+msgid "Information-oriented"
+msgstr "信息导向"
 
 #: ../../source/reference.rst:20
+msgid "Describes what is"
+msgstr "陈述事实"
+
+#: ../../source/reference.rst:21
+msgid "Serves application of skill"
+msgstr "面向技能运用"
+
+#: ../../source/reference.rst:27
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
 msgstr "就软件而言，参考指南描述的是软件本身，包括 API、类、函数等，以及它们的使用方法。"
 
-#: ../../source/reference.rst:23
+#: ../../source/reference.rst:30
 msgid ""
 "Your users need reference material because they need truth and certainty - "
-"firm platforms on which to stand while they work. Good technical reference "
-"is essential to provide users with the confidence to do their work."
-msgstr "用户需要参考材料，因为他们需要事实和确定性，需要坚固的立足点来支撑他们的工作。好的技术参考在给予用户信心、让他们安心工作方面至关重要。"
+"firm platforms on which to stand while they apply their skill. Good "
+"technical reference is essential to provide users with the confidence to do "
+"their work."
+msgstr "你的用户需要参考材料，因为他们需要事实和确定性，需要坚固的立足点来运用技能。好的技术参考在给予用户信心、让他们安心工作方面至关重要。"
 
-#: ../../source/reference.rst:29
+#: ../../source/reference.rst:36
 msgid "Reference as description"
 msgstr "参考指南即描述"
 
-#: ../../source/reference.rst:31
+#: ../../source/reference.rst:38
 msgid ""
 "Reference material describes the machinery. It should be **austere**. One "
 "hardly *reads* reference material; one *consults* it."
 msgstr "参考材料描述的是系统本身。它理应 **简洁**。人们很少去 *阅读* 参考材料，而是去 *查阅* 它。"
 
-#: ../../source/reference.rst:34
+#: ../../source/reference.rst:41
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
 msgstr "参考文档不能有半点含糊或模棱两可，它的权威地位不可动摇。"
 
-#: ../../source/reference.rst:36
+#: ../../source/reference.rst:43
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
 "about the territory, without having to go out and check the territory for "
@@ -88,51 +101,51 @@ msgid ""
 "internal machinery."
 msgstr "参考材料就像一张地图，告诉你关于某片区域所需了解的信息，而无需实地勘测；参考指南之于产品及其内部机制，也是同样的作用。"
 
-#: ../../source/reference.rst:40
+#: ../../source/reference.rst:47
 msgid ""
 "Although reference should not attempt to show how to perform tasks, it can "
 "and often needs to include a description of how something works or the "
 "correct way to use it."
 msgstr "虽然参考指南不应该用来演示操作步骤，但它能够，也往往需要说明某些东西是如何运转的，以及如何正确使用。"
 
-#: ../../source/reference.rst:45
+#: ../../source/reference.rst:52
 msgid ""
 "Unfortunately, too many software developers think that auto-generated "
 "reference material is all the documentation required."
 msgstr "遗憾的是，太多的软件开发者认为，自动生成的参考材料就是文档的全部。"
 
-#: ../../source/reference.rst:48
+#: ../../source/reference.rst:55
 msgid ""
 "Some reference material (such as API documentation) can be generated "
 "automatically by the software it describes, which is a powerful way of "
 "ensuring that it remains faithfully accurate to the code."
 msgstr "某些参考材料（例如 API 文档）可以由其所描述的软件自动生成，这是确保其与代码始终精确一致的有效方式。"
 
-#: ../../source/reference.rst:56
+#: ../../source/reference.rst:63
 msgid "Key principles"
 msgstr "核心原则"
 
-#: ../../source/reference.rst:59
+#: ../../source/reference.rst:66
 msgid "Describe and only describe"
 msgstr "描述，且仅作描述。"
 
-#: ../../source/reference.rst:61
+#: ../../source/reference.rst:68
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr "*客观描述* 是技术参考指南的第一要义。"
 
-#: ../../source/reference.rst:65
+#: ../../source/reference.rst:72
 msgid "austere and uncompromising"
 msgstr "简练，且绝不含糊"
 
-#: ../../source/reference.rst:66
+#: ../../source/reference.rst:73
 msgid "neutrality, objectivity, factuality"
 msgstr "中立性、客观性、事实性"
 
-#: ../../source/reference.rst:67
+#: ../../source/reference.rst:74
 msgid "structured according to the structure of the machinery itself"
 msgstr "根据系统本身的结构进行结构化"
 
-#: ../../source/reference.rst:69
+#: ../../source/reference.rst:76
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
 "neutrally. It's not a natural way of communicating. What's natural on the "
@@ -143,7 +156,7 @@ msgstr ""
 "遗憾的是，最难做到的事情之一，就是中立地描述某样东西。这并非一种自然的沟通方式。相反，自然的做法是解释、指导、讨论、发表意见 —— "
 "而所有这些都与技术参考指南的需求背道而驰，技术参考指南要求的是准确、精确、完整与清晰。"
 
-#: ../../source/reference.rst:71
+#: ../../source/reference.rst:78
 msgid ""
 "It can be tempting to introduce instruction and explanation, simply because "
 "description can seem too inadequate to be useful, and because we do indeed "
@@ -152,11 +165,11 @@ msgid ""
 msgstr ""
 "写参考指南的人往往会忍不住想加一些指导或解释，因为单靠描述总觉得不够用，而且我们也确实需要那些内容。但更合适的做法是，放个链接，指向操作指南、解释文档或入门教程。"
 
-#: ../../source/reference.rst:75
+#: ../../source/reference.rst:82
 msgid "Adopt standard patterns"
 msgstr "遵循标准模式。"
 
-#: ../../source/reference.rst:77
+#: ../../source/reference.rst:84
 msgid ""
 "**Reference material is useful when it is consistent.** Standard patterns "
 "are what allow us to use reference material effectively. Your job is to "
@@ -166,18 +179,18 @@ msgstr ""
 "**参考材料只有在保持一致时才真正有用。** "
 "标准模式正是我们能够有效使用参考材料的原因所在。你的职责是将用户所需的内容置于他们期望的位置，用他们熟悉的格式来呈现。"
 
-#: ../../source/reference.rst:79
+#: ../../source/reference.rst:86
 msgid ""
 "There are many opportunities in writing to delight your readers with your "
 "extensive vocabulary and command of multiple styles, but reference material "
 "is definitely not one of them."
 msgstr "写作的时候，有很多机会让你秀出丰富的词汇和百变的文笔，让读者眼前一亮，但参考材料绝对不是干这个的地方。"
 
-#: ../../source/reference.rst:85
+#: ../../source/reference.rst:92
 msgid "Respect the structure of the machinery"
 msgstr "尊重系统的结构"
 
-#: ../../source/reference.rst:87
+#: ../../source/reference.rst:94
 msgid ""
 "The way a map corresponds to the territory it represents helps us use the "
 "former to find our way through the latter. It should be the same with "
@@ -187,18 +200,18 @@ msgid ""
 msgstr ""
 "地图和它画的这片地方是对应的，所以我们才能按图索骥。文档也应该是这样：**文档和产品的结构要遥相呼应**，这样用户才能一边看文档一边操作产品，两不耽误。"
 
-#: ../../source/reference.rst:92
+#: ../../source/reference.rst:99
 msgid ""
 "It doesn't mean forcing the documentation into an unnatural structure. "
 "What's important is that the logical, conceptual arrangement of and "
 "relations within the code should help make sense of the documentation."
 msgstr "这并非要把文档强行纳入某种不自然的结构。关键在于，代码的逻辑与概念组织，以及各部分的内部关联，应当有助于读者理解文档内容。"
 
-#: ../../source/reference.rst:98
+#: ../../source/reference.rst:105
 msgid "Provide examples"
 msgstr "提供示例"
 
-#: ../../source/reference.rst:100
+#: ../../source/reference.rst:107
 msgid ""
 "**Examples** are valuable ways of providing illustration that helps readers "
 "understand reference, while avoiding the risk of becoming distracted from "
@@ -209,11 +222,11 @@ msgstr ""
 "**示例** "
 "在提供例证方面具有举足轻重的作用，有助于读者准确理解所述内容，同时避免偏离描述的主旨。例如，命令的用法示例能够言简意赅地展示该命令及其语境，而不至于画蛇添足，陷入解释或指导的窠臼。"
 
-#: ../../source/reference.rst:106
+#: ../../source/reference.rst:113
 msgid "The language of reference guides"
 msgstr "参考指南的语言"
 
-#: ../../source/reference.rst:108
+#: ../../source/reference.rst:115
 msgid ""
 "Django's default logging configuration inherits Python's defaults. It's "
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
@@ -222,49 +235,49 @@ msgstr ""
 "Django 的默认日志配置继承自 Python 的默认值。该配置可通过 ``django.utils.log.DEFAULT_LOGGING`` "
 "获取，定义于 ``django/utils/log.py``"
 
-#: ../../source/reference.rst:109
+#: ../../source/reference.rst:116
 msgid "State facts about the machinery and its behaviour."
 msgstr "客观陈述机制与行为"
 
-#: ../../source/reference.rst:110
+#: ../../source/reference.rst:117
 msgid "Sub-commands are: a, b, c, d, e, f."
 msgstr "子命令包括：a, b, c, d, e, f."
 
-#: ../../source/reference.rst:111
+#: ../../source/reference.rst:118
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
 msgstr "列出命令、选项、操作、功能、标志、限制和错误消息等。"
 
-#: ../../source/reference.rst:112
+#: ../../source/reference.rst:119
 msgid "You must use a. You must not apply b unless c. Never d."
 msgstr "务必使用 a。除非 c，否则不得应用 b。绝不可 d。"
 
-#: ../../source/reference.rst:113
+#: ../../source/reference.rst:120
 msgid "Provide warnings where appropriate."
 msgstr "在适当之处提供警告。"
 
-#: ../../source/reference.rst:118
+#: ../../source/reference.rst:125
 msgid "Applied to food and cooking"
 msgstr "应用于食物与烹饪"
 
-#: ../../source/reference.rst:120
+#: ../../source/reference.rst:127
 msgid ""
 "You might check the information on a packet of food, in order to help you "
 "make a decision about what to do."
 msgstr "你或许会查看食品包装上的信息，以便帮助你做出行动决策。"
 
-#: ../../source/reference.rst:122
+#: ../../source/reference.rst:129
 msgid ""
 "When you're looking for information - relevant facts - you do not want to be"
 " confronted by opinions, speculation, instructions or interpretation."
 msgstr "当你查找某些信息，也就是相关事实时，你不会希望面对观点、推测、指令或阐释。"
 
-#: ../../source/reference.rst:124
+#: ../../source/reference.rst:131
 msgid "Information on the back of a packet of lasagne"
 msgstr "千层面包装背面的信息"
 
-#: ../../source/reference.rst:129
+#: ../../source/reference.rst:136
 msgid ""
 "You also expect that information to be presented in standard ways, so that "
 "you - when you need to know about something's nutritional properties, how it"
@@ -273,19 +286,19 @@ msgid ""
 msgstr ""
 "你也会期望这些信息以标准的方式呈现，这样当你想了解某物的营养特性、储存方式、成分以及可能带来的健康影响时，就能快速找到它们，并知道可以信赖这些信息。"
 
-#: ../../source/reference.rst:131
+#: ../../source/reference.rst:138
 msgid ""
 "So you expect to see for example: *May contain traces of wheat*. Or: *Net "
 "weight: 1000g*."
 msgstr "因此你想看到这样的例子：*可能含有微量小麦*。或者：*净含量：1000克* 这样的信息。"
 
-#: ../../source/reference.rst:133
+#: ../../source/reference.rst:140
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
 msgstr "你当然不会期望看到食谱或营销宣传与这些信息混杂在一起，那确实危险。"
 
-#: ../../source/reference.rst:135
+#: ../../source/reference.rst:142
 msgid ""
 "The way reference material is presented on food products is so important "
 "that it's usually governed by law, and the same kind of seriousness should "

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -25,16 +25,89 @@ msgstr ""
 msgid "The compass"
 msgstr "A bússola"
 
-#: ../../source/compass.rst:10
-msgid ""
-"The Diátaxis map is an effective reminder of the different kinds of "
-"documentation and their relationship, and it accords well with intuitions "
-"about documentation."
-msgstr ""
-"O mapa Diátaxis é um lembrete eficaz dos diferentes tipos de documentação e "
-"de sua relação, e vai ao encontro das intuições sobre documentação."
+#: ../../source/snippets/diagram.rst:12
+msgid "The Diátaxis map of documentation types"
+msgstr "O mapa Diátaxis de tipos de documentação"
 
-#: ../../source/compass.rst:14
+#: ../../source/snippets/diagram.rst:12
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"O mapa é definido por dois eixos que o dividem em quatro quadrantes. Acima e"
+" abaixo, documentação que direciona ações versus documentação que descreve o"
+" que é o caso. Esquerda e direita, documentação que serve ao desenvolvimento"
+" de habilidade versus documentação que serve à aplicação de habilidade. Isso"
+" nos dá quatro tipos de documentação. Superior esquerdo: tutoriais "
+"orientados ao aprendizado. Superior direito: guias práticos orientados a "
+"objetivos. Inferior direito: referência orientada à informação. Inferior "
+"esquerdo: explicação orientada à compreensão."
+
+#: ../../source/snippets/diagram.rst:12
+msgid "Tutorials"
+msgstr "Tutoriais"
+
+#: ../../source/snippets/diagram.rst:13
+msgid "How-to guides"
+msgstr "Guias práticos"
+
+#: ../../source/snippets/diagram.rst:14
+msgid "Reference"
+msgstr "Referência"
+
+#: ../../source/snippets/diagram.rst:15
+msgid "Explanation"
+msgstr "Explicação"
+
+#: ../../source/snippets/diagram.rst:17
+msgid "Learning-oriented"
+msgstr "Orientado para o aprendizado"
+
+#: ../../source/snippets/diagram.rst:18
+msgid "Goal-oriented"
+msgstr "Orientado a objetivos"
+
+#: ../../source/snippets/diagram.rst:19
+msgid "Information-oriented"
+msgstr "Orientado à informação"
+
+#: ../../source/snippets/diagram.rst:20
+msgid "Understanding-oriented"
+msgstr "Orientado para a compreensão"
+
+#: ../../source/snippets/diagram.rst:22
+msgid "Directs action"
+msgstr "Direciona a ação"
+
+#: ../../source/snippets/diagram.rst:23
+msgid "Describes what is"
+msgstr "Descreve o que é"
+
+#: ../../source/snippets/diagram.rst:24
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
+
+#: ../../source/snippets/diagram.rst:25
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
+
+#: ../../source/compass.rst:11
+msgid ""
+":doc:`The Diátaxis map <map>` is an effective reminder of the different "
+"kinds of documentation and their relationship, and it accords well with "
+"intuitions about documentation."
+msgstr ""
+":doc:`O mapa Diátaxis <map>` é um lembrete eficaz dos diferentes tipos de "
+"documentação e de sua relação, e condiz bem com as intuições sobre "
+"documentação."
+
+#: ../../source/compass.rst:15
 msgid ""
 "However intuition is not always to be relied upon. Often when working with "
 "documentation, an author is faced with the question: *what form of "
@@ -46,14 +119,14 @@ msgstr ""
 "documentação é esta?* ou *que tipo de documentação é necessária aqui?* - e "
 "nenhuma resposta óbvia ou intuitiva."
 
-#: ../../source/compass.rst:19
+#: ../../source/compass.rst:20
 msgid ""
 "Worse, sometimes intuition provides an immediate answer that is also wrong."
 msgstr ""
 "Pior, às vezes a intuição fornece uma resposta imediata que também está "
 "errada."
 
-#: ../../source/compass.rst:21
+#: ../../source/compass.rst:22
 msgid ""
 "A map is most powerful in unfamiliar territory when we also have a compass "
 "to guide us."
@@ -61,7 +134,7 @@ msgstr ""
 "Um mapa é mais poderoso em território desconhecido quando também temos uma "
 "bússola para nos guiar."
 
-#: ../../source/compass.rst:24
+#: ../../source/compass.rst:25
 msgid ""
 "The Diátaxis compass is something like a truth-table or decision-tree of "
 "documentation. It reduces a more complex, two-dimensional problem to its "
@@ -71,51 +144,51 @@ msgstr ""
 "de documentação. Ele reduz um problema bidimensional mais complexo às suas "
 "partes mais simples, e fornece ao autor uma ferramenta de correção de curso."
 
-#: ../../source/compass.rst:35
+#: ../../source/snippets/compass.rst:7
 msgid "If the content..."
 msgstr "Se o conteúdo..."
 
-#: ../../source/compass.rst:36
+#: ../../source/snippets/compass.rst:8
 msgid "...and serves the user's..."
 msgstr "...e atende às necessidades do usuário..."
 
-#: ../../source/compass.rst:37
+#: ../../source/snippets/compass.rst:9
 msgid "...then it must belong to..."
 msgstr "...então deve pertencer a..."
 
-#: ../../source/compass.rst:38 ../../source/compass.rst:41
-msgid "informs action"
-msgstr "orienta a ação"
+#: ../../source/snippets/compass.rst:10 ../../source/snippets/compass.rst:13
+msgid "directs action"
+msgstr "direciona a ação"
 
-#: ../../source/compass.rst:39 ../../source/compass.rst:48
-msgid "acquisition of skill"
-msgstr "aquisição de habilidade"
+#: ../../source/snippets/compass.rst:11 ../../source/snippets/compass.rst:20
+msgid "development of skill"
+msgstr "desenvolvimento de habilidade"
 
-#: ../../source/compass.rst:40
+#: ../../source/snippets/compass.rst:12
 msgid "a tutorial"
 msgstr "um tutorial"
 
-#: ../../source/compass.rst:42 ../../source/compass.rst:45
+#: ../../source/snippets/compass.rst:14 ../../source/snippets/compass.rst:17
 msgid "application of skill"
 msgstr "aplicação de habilidade"
 
-#: ../../source/compass.rst:43
+#: ../../source/snippets/compass.rst:15
 msgid "a how-to guide"
 msgstr "um guia prático"
 
-#: ../../source/compass.rst:44 ../../source/compass.rst:47
-msgid "informs cognition"
-msgstr "embasa a cognição"
+#: ../../source/snippets/compass.rst:16 ../../source/snippets/compass.rst:19
+msgid "describes what is"
+msgstr "descreve o que é"
 
-#: ../../source/compass.rst:46
+#: ../../source/snippets/compass.rst:18
 msgid "reference"
 msgstr "referencia"
 
-#: ../../source/compass.rst:49
+#: ../../source/snippets/compass.rst:21
 msgid "explanation"
 msgstr "explicação"
 
-#: ../../source/compass.rst:51
+#: ../../source/compass.rst:31
 msgid ""
 "The compass can be applied equally to user situations that need "
 "documentation, or to documentation itself that perhaps needs to be moved or "
@@ -126,23 +199,23 @@ msgstr ""
 " movida ou aprimorada. Como muitas boas ferramentas, ela é "
 "surpreendentemente banal."
 
-#: ../../source/compass.rst:53
+#: ../../source/compass.rst:33
 msgid ""
-"To use the compass, just two questions need to be asked: *action or "
-"cognition?* *acquisition or application?*"
+"To use the compass, just two questions need to be asked: *direction or "
+"description?* *development or application of skill?*"
 msgstr ""
-"Para usar a bússola, basta fazer duas perguntas: *ação ou cognição?* "
-"*aquisição ou aplicação?*"
+"Para usar a bússola, basta fazer duas perguntas: *direção ou descrição?* "
+"*desenvolvimento ou aplicação de habilidade?*"
 
-#: ../../source/compass.rst:55
+#: ../../source/compass.rst:35
 msgid "And it yields the answer."
 msgstr "E ele fornece a resposta."
 
-#: ../../source/compass.rst:59
+#: ../../source/compass.rst:39
 msgid "Using the compass"
 msgstr "Usando a bússola"
 
-#: ../../source/compass.rst:61
+#: ../../source/compass.rst:41
 msgid ""
 "The compass is particularly effective when you think that you (or even the "
 "documentation in front of you) are doing one thing - but you are troubled by"
@@ -154,7 +227,7 @@ msgstr ""
 "sentimento de dúvida, ou por alguma dificuldade no trabalho. A bússola força"
 " você a parar e reconsiderar."
 
-#: ../../source/compass.rst:63
+#: ../../source/compass.rst:43
 msgid ""
 "Especially when you are trying to find your initial bearings, use the "
 "compass's terms flexibly; don't get fixated on the exact names."
@@ -162,44 +235,44 @@ msgstr ""
 "Especialmente quando estiver tentando encontrar seus rumos iniciais, use os "
 "termos da bússola de forma flexível; não se prenda aos nomes exatos."
 
-#: ../../source/compass.rst:65
-msgid "*action*: practical steps, doing"
-msgstr "*ação*: passos práticos, fazer"
+#: ../../source/compass.rst:45
+msgid "*directs action*: practical steps, doing"
+msgstr "*direciona a ação*: passos práticos, fazer"
 
-#: ../../source/compass.rst:66
-msgid "*cognition*: theoretical or propositional knowledge, thinking"
-msgstr "*cognição*: conhecimento teórico ou proposicional, pensamento"
+#: ../../source/compass.rst:46
+msgid "*describes what is*: theoretical or propositional knowledge, thinking"
+msgstr "*descreve o que é*: conhecimento teórico ou proposicional, pensamento"
 
-#: ../../source/compass.rst:67
-msgid "*acquisition*: study"
-msgstr "*aquisição*: estudo"
+#: ../../source/compass.rst:47
+msgid "*development of skill*: study, acquisition"
+msgstr "*desenvolvimento de habilidade*: estudo, aquisição"
 
-#: ../../source/compass.rst:68
-msgid "*application*: work"
-msgstr "*aplicação*: trabalho"
+#: ../../source/compass.rst:48
+msgid "*application of skill*: work"
+msgstr "*aplicação de habilidade*: trabalho"
 
-#: ../../source/compass.rst:70
+#: ../../source/compass.rst:50
 msgid "And the questions themselves can also be used in different ways:"
 msgstr ""
 "E as próprias perguntas também podem ser usadas de diferentes maneiras:"
 
-#: ../../source/compass.rst:72
-msgid "Do I think I am writing for *x* or *y*?"
-msgstr "Eu acho que estou escrevendo para *x* ou *y*?"
+#: ../../source/compass.rst:52
+msgid "Do I think I am writing for purpose *x* or *y*?"
+msgstr "Eu acho que estou escrevendo para o propósito *x* ou *y*?"
 
-#: ../../source/compass.rst:73
+#: ../../source/compass.rst:53
 msgid "Is this writing in front of me engaged in *x* or *y*?"
 msgstr "Este texto diante de mim trata de *x* ou *y*?"
 
-#: ../../source/compass.rst:74
+#: ../../source/compass.rst:54
 msgid "Does the user need *x* or *y*?"
 msgstr "O usuário precisa de *x* ou *y*?"
 
-#: ../../source/compass.rst:75
-msgid "Do I want to *x* or *y*?"
-msgstr "Eu quero *x* ou *y*?"
+#: ../../source/compass.rst:55
+msgid "Do I want to have the effect *x* or *y*?"
+msgstr "Eu quero ter o efeito *x* ou *y*?"
 
-#: ../../source/compass.rst:77
+#: ../../source/compass.rst:57
 msgid ""
 "And try applying them close-up, at the level of sentences and words, or from"
 " a wider perspective, considering an entire document."

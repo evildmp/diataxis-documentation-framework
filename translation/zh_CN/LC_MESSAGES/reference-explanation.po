@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -35,17 +35,56 @@ msgstr "解释与参考都属于 Diátaxis 地图中偏 *理论* 的那一侧 �
 #: ../../source/reference-explanation.rst:9
 msgid ""
 "The difference between them is - just as in the difference between tutorials"
-" and how-to guides - the difference between the *acquisition* of skill and "
+" and how-to guides - the difference between the *development* of skill and "
 "knowledge, and its *application*. In other words it's the distinction "
 "between *study* and *work*."
 msgstr ""
-"二者的区别，正如教程与操作指南之间的区别一样，亦是技能与知识的 *习得* 与 *运用* 之分。换言之，这便是 *学习* 与 *工作* 之间的区别。"
+"二者的区别，正如教程与操作指南之间的区别一样，亦是技能与知识的 *开发* 与 *运用* 之分。换言之，这便是 *学习* 与 *工作* 之间的区别。"
+
+#: ../../source/reference-explanation.rst:13
+msgid "Reference and explanation"
+msgstr "参考内容和解释说明"
+
+#: ../../source/reference-explanation.rst:13
+msgid ""
+"Reference and explanation both describe what is. Reference serves the "
+"application of skill, but explanation serves the development of skill. They "
+"are information-oriented and understanding-oriented respectively."
+msgstr "参考与解释都陈述事实。参考面向技能的运用，解释则面向技能的发展。前者是以信息为导向的，后者是以理解为导向的。"
+
+#: ../../source/reference-explanation.rst:13
+msgid "Reference"
+msgstr "参考内容"
+
+#: ../../source/reference-explanation.rst:14
+msgid "Explanation"
+msgstr "解释说明"
 
 #: ../../source/reference-explanation.rst:15
+msgid "Information-oriented"
+msgstr "信息导向"
+
+#: ../../source/reference-explanation.rst:16
+msgid "Understanding-oriented"
+msgstr "理解导向"
+
+#: ../../source/reference-explanation.rst:17
+msgid "Describes what is"
+msgstr "陈述事实"
+
+#: ../../source/reference-explanation.rst:18
+msgid "Serves development of skill"
+msgstr "面向技能开发"
+
+#: ../../source/reference-explanation.rst:19
+msgid "Serves application of skill"
+msgstr "面向技能运用"
+
+#: ../../source/reference-explanation.rst:27
 msgid "A straightforward distinction, *mostly*"
 msgstr "这一区分简单明了 —— *至少在大多数情况下如此*。"
 
-#: ../../source/reference-explanation.rst:17
+#: ../../source/reference-explanation.rst:29
 msgid ""
 "Mostly it's fairly straightforward to recognise whether you're dealing with "
 "one or the other. *Reference*, as a form of writing, is well understood; "
@@ -53,7 +92,7 @@ msgid ""
 msgstr ""
 "在多数情形下，要分辨你所面对的是参考还是解释，还是颇为直接了当的。*参考*，作为一种写作形式，其概念早已广为人知。我们从小就在对写作类型的区分中接触到它。"
 
-#: ../../source/reference-explanation.rst:21
+#: ../../source/reference-explanation.rst:33
 msgid ""
 "In addition, examples of writing are themselves often clearly one or the "
 "other. A tidal chart, with its tables of figures, is clearly reference "
@@ -63,28 +102,28 @@ msgstr ""
 "此外，示例的写作内容也常常清晰地属于二者之一。带有数据表格的潮汐图表，显然属于参考材料。而一篇解释潮汐 *为何* "
 "产生及其行为方式的文章，则毋庸置疑地属于解释。"
 
-#: ../../source/reference-explanation.rst:25
+#: ../../source/reference-explanation.rst:37
 msgid "There are good rules of thumb:"
 msgstr "一些行之有效的经验法则"
 
-#: ../../source/reference-explanation.rst:27
+#: ../../source/reference-explanation.rst:39
 msgid "**If it's boring and unmemorable** it's probably *reference*."
 msgstr "**如果内容枯燥乏味，难于记忆**，则多半属于 *参考*。"
 
-#: ../../source/reference-explanation.rst:29
+#: ../../source/reference-explanation.rst:41
 msgid ""
 "**Lists of things** (such as classes or methods or attributes), and **tables"
 " of information**, will generally turn out to belong in *reference*."
 msgstr "**清单类内容**（如类、方法或属性），以及 **信息表格**，通常应归入 *参考*。"
 
-#: ../../source/reference-explanation.rst:31
+#: ../../source/reference-explanation.rst:43
 msgid ""
 "On the other hand **if you can imagine reading something in the bath**, "
 "probably, it's *explanation* (even if really there is no accounting for what"
 " people might read in the bath)."
 msgstr "反之，**如果某样内容让你觉得可以在泡澡时阅读**，那它多半属于 *解释*（尽管人们泡澡时到底会阅读什么，属实难以预料）。"
 
-#: ../../source/reference-explanation.rst:33
+#: ../../source/reference-explanation.rst:45
 msgid ""
 "Imagine asking a friend, while out for a walk or over a drink, **Can you "
 "tell me more about <topic>?** - the answer or discussion that follows is "
@@ -92,18 +131,18 @@ msgid ""
 msgstr ""
 "试想你在散步或小酌时问朋友，**你能再给我多讲讲这个吗 <topic>?** —— 随后获得的回答或随之而展开的讨论，多半便是对它的 *解释*。"
 
-#: ../../source/reference-explanation.rst:39
+#: ../../source/reference-explanation.rst:51
 msgid "... but intuition isn't reliable enough"
 msgstr "…… 然而，直觉并不足够可靠。"
 
-#: ../../source/reference-explanation.rst:41
+#: ../../source/reference-explanation.rst:53
 msgid ""
 "Mostly we can rely safely on intuition to manage the distinction between "
-"reference and explanations. But only *mostly* - because it's also quite easy"
-" to slip between one form and the other."
+"reference and explanation. But only *mostly* - because it's also quite easy "
+"to slip between one form and the other."
 msgstr "在大多数情况下，我们可以依赖直觉可靠地区分参考和解释。但也仅仅是 *大多数时候* —— 因为很容易从一种形式向另一种形式滑落。"
 
-#: ../../source/reference-explanation.rst:45
+#: ../../source/reference-explanation.rst:57
 msgid ""
 "It usually happens while writing reference material that starts to become "
 "expansive. For example, it's perfectly reasonable to include illustrative "
@@ -115,7 +154,7 @@ msgstr ""
 "这种情况通常发生在撰写参考材料，内容开始变得平铺直叙之时。例如，在参考中纳入说明性示例是完全合理的（正如百科全书可能包含插图一样）—— "
 "但示例是引人入胜的东西，很容易让人忍不住将其发展成解释（用它们来说明 *为什么*，或展示 *可能性*，或解释其成因）。"
 
-#: ../../source/reference-explanation.rst:50
+#: ../../source/reference-explanation.rst:62
 msgid ""
 "As a result one often finds explanatory material sprinkled into reference. "
 "This is bad for the reference, interrupted and obscured by digressions. But "
@@ -124,11 +163,11 @@ msgid ""
 msgstr ""
 "于是，参考中常常夹杂着零散的解释性文字。这对参考本身是一种损害，它被离题内容打断，意图被模糊。对解释同样不利，因为它无法充分展开，发挥自己应有的作用。"
 
-#: ../../source/reference-explanation.rst:56
+#: ../../source/reference-explanation.rst:68
 msgid "Work and study"
 msgstr "工作和学习"
 
-#: ../../source/reference-explanation.rst:58
+#: ../../source/reference-explanation.rst:70
 msgid ""
 "The real test, though, if we're in doubt about whether something is supposed"
 " to be reference or explanation is: is this something someone would turn to "
@@ -138,30 +177,30 @@ msgid ""
 msgstr ""
 "然而，若我们难以判断某内容应归入参考还是解释，真正的检验标准在于：这是否是用户在工作过程中会查阅的内容。也就是说，这是在完成某项任务、执行某个操作时会用到的东西？还是说，这是用户需要暂时放下手头的工作之后，回过头来思考的内容？"
 
-#: ../../source/reference-explanation.rst:64
+#: ../../source/reference-explanation.rst:76
 msgid ""
 "These are two very fundamentally different *needs* of the reader, that "
 "reflect how, at that moment, the reader stands in relation to the craft in "
 "question, in a relationship of *work* or *study*."
 msgstr "这两种 *需求* 在本质上截然不同，它们反映了读者在那一刻与所涉及的技艺之间的关系，也就是读者处于 *工作* 还是 *学习* 之中。"
 
-#: ../../source/reference-explanation.rst:69
+#: ../../source/reference-explanation.rst:81
 msgid "To help avoid being misled by intuition, see :ref:`compass`."
 msgstr "为了避免被直觉所误导，可参见 :ref:`compass`。"
 
-#: ../../source/reference-explanation.rst:71
+#: ../../source/reference-explanation.rst:83
 msgid ""
-"**Reference** is what a user needs in order help *apply* knowledge and "
+"**Reference** is what a user needs in order to help *apply* knowledge and "
 "skill, while they are working."
-msgstr "**参考文档** 是用户在工作中 *运用* 知识和技能所需的内容。"
+msgstr "**参考** 是用户在工作中 *运用* 知识和技能所需的内容。"
 
-#: ../../source/reference-explanation.rst:74
+#: ../../source/reference-explanation.rst:86
 msgid ""
-"**Explanation** is what someone will turn to to help them *acquire* "
+"**Explanation** is what someone will turn to to help them *develop* "
 "knowledge and skill - \"study\"."
-msgstr "**解释** 则是人们为了 *习得* 知识和技能而查阅的内容，也就是“学习”。"
+msgstr "**解释** 则是人们为了 *开发* 知识和技能而查阅的内容，也就是“学习”。"
 
-#: ../../source/reference-explanation.rst:78
+#: ../../source/reference-explanation.rst:90
 msgid ""
 "Understanding those two relationships and responding to the needs in them is"
 " the key to creating effective reference and explanation."

@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -38,20 +38,62 @@ msgstr ""
 #: ../../source/reference-explanation.rst:9
 msgid ""
 "The difference between them is - just as in the difference between tutorials"
-" and how-to guides - the difference between the *acquisition* of skill and "
+" and how-to guides - the difference between the *development* of skill and "
 "knowledge, and its *application*. In other words it's the distinction "
 "between *study* and *work*."
 msgstr ""
 "A diferença entre eles é - assim como na diferença entre tutoriais e guias "
-"práticos - a diferença entre a *aquisição* de habilidade e conhecimento, e "
-"sua *aplicação*. Em outras palavras, é a distinção entre *estudo* e "
-"*trabalho*."
+"práticos - a diferença entre o *desenvolvimento* de habilidade e "
+"conhecimento, e sua *aplicação*. Em outras palavras é a distinção entre "
+"*estudo* e *trabalho*."
+
+#: ../../source/reference-explanation.rst:13
+msgid "Reference and explanation"
+msgstr "Referência e explicação"
+
+#: ../../source/reference-explanation.rst:13
+msgid ""
+"Reference and explanation both describe what is. Reference serves the "
+"application of skill, but explanation serves the development of skill. They "
+"are information-oriented and understanding-oriented respectively."
+msgstr ""
+"Referência e explicação descrevem o que é. A referência serve à aplicação da"
+" habilidade, mas a explicação serve ao desenvolvimento da habilidade. Elas "
+"são orientadas à informação e à compreensão, respectivamente."
+
+#: ../../source/reference-explanation.rst:13
+msgid "Reference"
+msgstr "Referência"
+
+#: ../../source/reference-explanation.rst:14
+msgid "Explanation"
+msgstr "Explicação"
 
 #: ../../source/reference-explanation.rst:15
+msgid "Information-oriented"
+msgstr "Orientado à informação"
+
+#: ../../source/reference-explanation.rst:16
+msgid "Understanding-oriented"
+msgstr "Orientado para a compreensão"
+
+#: ../../source/reference-explanation.rst:17
+msgid "Describes what is"
+msgstr "Descreve o que é"
+
+#: ../../source/reference-explanation.rst:18
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
+
+#: ../../source/reference-explanation.rst:19
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
+
+#: ../../source/reference-explanation.rst:27
 msgid "A straightforward distinction, *mostly*"
 msgstr "Uma distinção direta, *em grande parte*"
 
-#: ../../source/reference-explanation.rst:17
+#: ../../source/reference-explanation.rst:29
 msgid ""
 "Mostly it's fairly straightforward to recognise whether you're dealing with "
 "one or the other. *Reference*, as a form of writing, is well understood; "
@@ -61,7 +103,7 @@ msgstr ""
 " um ou outro. *Referência*, como forma de escrita, é bem compreendida; é "
 "usada nas distinções que fazemos sobre a escrita desde cedo."
 
-#: ../../source/reference-explanation.rst:21
+#: ../../source/reference-explanation.rst:33
 msgid ""
 "In addition, examples of writing are themselves often clearly one or the "
 "other. A tidal chart, with its tables of figures, is clearly reference "
@@ -73,15 +115,15 @@ msgstr ""
 " de referência. Um artigo que explica *por que* existem marés e como elas se"
 " comportam é, por si só, uma explicação."
 
-#: ../../source/reference-explanation.rst:25
+#: ../../source/reference-explanation.rst:37
 msgid "There are good rules of thumb:"
 msgstr "Existem boas regras práticas:"
 
-#: ../../source/reference-explanation.rst:27
+#: ../../source/reference-explanation.rst:39
 msgid "**If it's boring and unmemorable** it's probably *reference*."
 msgstr "**Se for entediante e esquecível** provavelmente é *referência*."
 
-#: ../../source/reference-explanation.rst:29
+#: ../../source/reference-explanation.rst:41
 msgid ""
 "**Lists of things** (such as classes or methods or attributes), and **tables"
 " of information**, will generally turn out to belong in *reference*."
@@ -89,7 +131,7 @@ msgstr ""
 "**Listas de coisas** (como classes, métodos ou atributos), e **tabelas de "
 "informações**, geralmente acabarão pertencendo à *referência*."
 
-#: ../../source/reference-explanation.rst:31
+#: ../../source/reference-explanation.rst:43
 msgid ""
 "On the other hand **if you can imagine reading something in the bath**, "
 "probably, it's *explanation* (even if really there is no accounting for what"
@@ -99,7 +141,7 @@ msgstr ""
 "provavelmente, é *explicação* (mesmo que, na verdade, não haja explicação "
 "para o que as pessoas podem ler na banheira)."
 
-#: ../../source/reference-explanation.rst:33
+#: ../../source/reference-explanation.rst:45
 msgid ""
 "Imagine asking a friend, while out for a walk or over a drink, **Can you "
 "tell me more about <topic>?** - the answer or discussion that follows is "
@@ -109,22 +151,21 @@ msgstr ""
 "**Você pode me contar mais sobre <topic>?** - a resposta ou discussão que se"
 " segue será, muito provavelmente, uma *explicação* sobre isso."
 
-#: ../../source/reference-explanation.rst:39
+#: ../../source/reference-explanation.rst:51
 msgid "... but intuition isn't reliable enough"
 msgstr "... mas a intuição não é confiável o suficiente"
 
-#: ../../source/reference-explanation.rst:41
+#: ../../source/reference-explanation.rst:53
 msgid ""
 "Mostly we can rely safely on intuition to manage the distinction between "
-"reference and explanations. But only *mostly* - because it's also quite easy"
-" to slip between one form and the other."
+"reference and explanation. But only *mostly* - because it's also quite easy "
+"to slip between one form and the other."
 msgstr ""
-"Na maioria das vezes podemos confiar com segurança na intuição para "
-"gerenciar a distinção entre referência e explicações. Mas apenas *na maioria"
-" das vezes* - porque também é bastante fácil deslizar entre uma forma e "
-"outra."
+"Na maioria das vezes, podemos confiar com segurança na intuição para "
+"gerenciar a distinção entre referência e explicação. Mas apenas *na maioria "
+"das vezes* - porque também é bem fácil deslizar entre uma forma e outra."
 
-#: ../../source/reference-explanation.rst:45
+#: ../../source/reference-explanation.rst:57
 msgid ""
 "It usually happens while writing reference material that starts to become "
 "expansive. For example, it's perfectly reasonable to include illustrative "
@@ -140,7 +181,7 @@ msgstr ""
 "pode ser tentador transformá-los em explicações (usando-os para dizer o "
 "*porquê*, ou mostrar o *e se*, ou como algo aconteceu)."
 
-#: ../../source/reference-explanation.rst:50
+#: ../../source/reference-explanation.rst:62
 msgid ""
 "As a result one often finds explanatory material sprinkled into reference. "
 "This is bad for the reference, interrupted and obscured by digressions. But "
@@ -152,11 +193,11 @@ msgstr ""
 "por digressões. Mas também é ruim para a explicação, pois não se permite que"
 " ela se desenvolva adequadamente e cumpra seu próprio papel."
 
-#: ../../source/reference-explanation.rst:56
+#: ../../source/reference-explanation.rst:68
 msgid "Work and study"
 msgstr "Trabalho e estudo"
 
-#: ../../source/reference-explanation.rst:58
+#: ../../source/reference-explanation.rst:70
 msgid ""
 "The real test, though, if we're in doubt about whether something is supposed"
 " to be reference or explanation is: is this something someone would turn to "
@@ -170,7 +211,7 @@ msgstr ""
 "tarefa? Ou é algo de que precisariam depois de terem se afastado do trabalho"
 " e quererem refletir sobre isso?"
 
-#: ../../source/reference-explanation.rst:64
+#: ../../source/reference-explanation.rst:76
 msgid ""
 "These are two very fundamentally different *needs* of the reader, that "
 "reflect how, at that moment, the reader stands in relation to the craft in "
@@ -180,29 +221,29 @@ msgstr ""
 "que refletem como, naquele momento, o leitor se posiciona em relação ao "
 "ofício em questão, em uma relação de *trabalho* ou *estudo*."
 
-#: ../../source/reference-explanation.rst:69
+#: ../../source/reference-explanation.rst:81
 msgid "To help avoid being misled by intuition, see :ref:`compass`."
 msgstr ""
 "Para ajudar a evitar ser induzido ao erro pela intuição, veja "
 ":ref:`compass`."
 
-#: ../../source/reference-explanation.rst:71
+#: ../../source/reference-explanation.rst:83
 msgid ""
-"**Reference** is what a user needs in order help *apply* knowledge and "
+"**Reference** is what a user needs in order to help *apply* knowledge and "
 "skill, while they are working."
 msgstr ""
 "**Referência** é o que um usuário precisa para ajudar a *aplicar* "
 "conhecimento e habilidade, enquanto trabalha."
 
-#: ../../source/reference-explanation.rst:74
+#: ../../source/reference-explanation.rst:86
 msgid ""
-"**Explanation** is what someone will turn to to help them *acquire* "
+"**Explanation** is what someone will turn to to help them *develop* "
 "knowledge and skill - \"study\"."
 msgstr ""
-"**Explicação** é o que alguém buscará para ajudá-lo a *adquirir* "
+"**Explicação** é o que alguém buscará para ajudá-lo a *desenvolver* "
 "conhecimento e habilidade - \"estudo\"."
 
-#: ../../source/reference-explanation.rst:78
+#: ../../source/reference-explanation.rst:90
 msgid ""
 "Understanding those two relationships and responding to the needs in them is"
 " the key to creating effective reference and explanation."

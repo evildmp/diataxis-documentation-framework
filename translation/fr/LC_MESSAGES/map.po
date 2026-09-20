@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
 "Language-Team: French (https://app.transifex.com/danieleprocida/teams/120528/fr/)\n"
@@ -29,6 +29,78 @@ msgstr ""
 msgid ""
 "One reason Diátaxis is effective as a guide to organising documentation is "
 "that it describes a **two-dimensional structure**, rather than a *list*."
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:15
+msgid "The Diátaxis map of documentation types"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:15
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+
+#: ../../source/map.rst:138 ../../source/map.rst:178
+#: ../../source/snippets/diagram.rst:15
+msgid "Tutorials"
+msgstr "Tutoriels"
+
+#: ../../source/map.rst:139 ../../source/map.rst:179
+#: ../../source/snippets/diagram.rst:16
+msgid "How-to guides"
+msgstr "Guides pratiques"
+
+#: ../../source/map.rst:140 ../../source/map.rst:180
+#: ../../source/snippets/diagram.rst:17
+msgid "Reference"
+msgstr "Référence"
+
+#: ../../source/map.rst:141 ../../source/map.rst:181
+#: ../../source/snippets/diagram.rst:18
+msgid "Explanation"
+msgstr "Explication"
+
+#: ../../source/map.rst:143 ../../source/map.rst:183
+#: ../../source/snippets/diagram.rst:20
+msgid "Learning-oriented"
+msgstr ""
+
+#: ../../source/map.rst:144 ../../source/map.rst:184
+#: ../../source/snippets/diagram.rst:21
+msgid "Goal-oriented"
+msgstr ""
+
+#: ../../source/map.rst:145 ../../source/map.rst:185
+#: ../../source/snippets/diagram.rst:22
+msgid "Information-oriented"
+msgstr ""
+
+#: ../../source/map.rst:146 ../../source/map.rst:186
+#: ../../source/snippets/diagram.rst:23
+msgid "Understanding-oriented"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:25
+msgid "Directs action"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:26
+msgid "Describes what is"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:27
+msgid "Serves development of skill"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:28
+msgid "Serves application of skill"
 msgstr ""
 
 #: ../../source/map.rst:14
@@ -247,20 +319,27 @@ msgid ""
 msgstr ""
 
 #: ../../source/map.rst:103
-msgid "Blur"
+msgid "Blur and collapse"
 msgstr ""
 
-#: ../../source/map.rst:105
+#: ../../source/map.rst:104
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
 msgstr ""
 
-#: ../../source/map.rst:108
+#: ../../source/map.rst:138
 msgid "Partial collapse of the structure"
 msgstr ""
 
-#: ../../source/map.rst:112
+#: ../../source/map.rst:138
+msgid ""
+"Concepts and intentions from adjacent quadrants blur and overlap with each "
+"other; the documentation's purposes and forms become confused and "
+"indistinct."
+msgstr ""
+
+#: ../../source/map.rst:124
 msgid ""
 "However, there is a kind of natural affinity between each of the different "
 "forms of documentation and its neighbours on the map, and a natural tendency"
@@ -268,39 +347,39 @@ msgid ""
 "documentation)."
 msgstr ""
 
-#: ../../source/map.rst:120
-msgid "guide action"
+#: ../../source/map.rst:132
+msgid "directs action"
 msgstr ""
 
-#: ../../source/map.rst:121 ../../source/map.rst:130
+#: ../../source/map.rst:133 ../../source/map.rst:142
 msgid "tutorials"
 msgstr ""
 
-#: ../../source/map.rst:122 ../../source/map.rst:125
+#: ../../source/map.rst:134 ../../source/map.rst:137
 msgid "how-to guides"
 msgstr ""
 
-#: ../../source/map.rst:123
-msgid "serve the application of skill"
+#: ../../source/map.rst:135
+msgid "serve the development of skill"
 msgstr ""
 
-#: ../../source/map.rst:124 ../../source/map.rst:127
+#: ../../source/map.rst:136 ../../source/map.rst:139
 msgid "reference"
 msgstr "référence"
 
-#: ../../source/map.rst:126
-msgid "contain propositional knowledge"
+#: ../../source/map.rst:138
+msgid "describe what is the case"
 msgstr ""
 
-#: ../../source/map.rst:128 ../../source/map.rst:131
+#: ../../source/map.rst:140 ../../source/map.rst:143
 msgid "explanation"
 msgstr "explication"
 
-#: ../../source/map.rst:129
-msgid "serve the acquisition of skill"
+#: ../../source/map.rst:141
+msgid "serves the development of skill"
 msgstr ""
 
-#: ../../source/map.rst:133
+#: ../../source/map.rst:145
 msgid ""
 "When these distinctions are allowed to blur, the different kinds of "
 "documentation bleed into each other. Writing style and content make their "
@@ -309,22 +388,27 @@ msgid ""
 "writing."
 msgstr ""
 
-#: ../../source/map.rst:135
+#: ../../source/map.rst:178
 msgid "Total collapse of the structure"
 msgstr ""
 
-#: ../../source/map.rst:139
+#: ../../source/map.rst:178
 msgid ""
-"In the worst case there is a complete or partial collapse of tutorials and "
-"how-to guides into each other, making it impossible to meet the needs served"
-" by either."
+"All structure breaks down; even the idea of purpose in writing is lost in "
+"the confusion."
 msgstr ""
 
-#: ../../source/map.rst:145
+#: ../../source/map.rst:163
+msgid ""
+"In the worst case there is a complete collapse of different forms into each "
+"other, making it impossible to meet the needs served by either."
+msgstr ""
+
+#: ../../source/map.rst:169
 msgid "The journey around the map"
 msgstr ""
 
-#: ../../source/map.rst:147
+#: ../../source/map.rst:171
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
@@ -332,7 +416,7 @@ msgstr ""
 "Diátaxis aide à rendre la documentation plus pertinente pour les "
 "utilisateurs dans leur *cycle d'interaction* avec un produit."
 
-#: ../../source/map.rst:149
+#: ../../source/map.rst:173
 msgid ""
 "This phrase should not be understood too literally. It is not the case that "
 "a user must encounter the different kinds of documentation in the order "
@@ -342,42 +426,42 @@ msgid ""
 "from moment to moment as they use your documentation."
 msgstr ""
 
-#: ../../source/map.rst:154
+#: ../../source/map.rst:178
 msgid ""
 "However, the idea of a cycle of documentation needs, that proceeds through "
 "different phases, is sound and corresponds to the way that people actually "
 "do become expert in a craft. There is a sense and meaning to this ordering."
 msgstr ""
 
-#: ../../source/map.rst:157
+#: ../../source/map.rst:181
 msgid "Moving around the map"
 msgstr ""
 
-#: ../../source/map.rst:162
+#: ../../source/map.rst:186
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
 "lucky."
 msgstr ""
 
-#: ../../source/map.rst:164
+#: ../../source/map.rst:188
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr ""
 
-#: ../../source/map.rst:165
+#: ../../source/map.rst:189
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
 msgstr ""
 
-#: ../../source/map.rst:167
+#: ../../source/map.rst:191
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
 msgstr ""
 
-#: ../../source/map.rst:170
+#: ../../source/map.rst:194
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."

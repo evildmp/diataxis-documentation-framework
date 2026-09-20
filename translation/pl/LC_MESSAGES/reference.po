@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Piotr Nawrot, 2026
+# Aleksandra Pawlik, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: Piotr Nawrot, 2026\n"
+"Last-Translator: Aleksandra Pawlik, 2026\n"
 "Language-Team: Polish (https://app.transifex.com/danieleprocida/teams/120528/pl/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -21,7 +22,7 @@ msgstr ""
 "Language: pl\n"
 "Plural-Forms: nplurals=4; plural=(n==1 ? 0 : (n%10>=2 && n%10<=4) && (n%100<12 || n%100>14) ? 1 : n!=1 && (n%10>=0 && n%10<=1) || (n%10>=5 && n%10<=9) || (n%100>=12 && n%100<=14) ? 2 : 3);\n"
 
-#: ../../source/reference.rst:4
+#: ../../source/reference.rst:4 ../../source/reference.rst:18
 msgid "Reference"
 msgstr "Referencje"
 
@@ -45,23 +46,29 @@ msgstr ""
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
 "possible, and in an orderly way. Whereas the content of tutorials and how-to"
-" guides are led by needs of the user, reference material is led by the "
+" guides is led by the needs of the user, reference material is led by the "
 "product it describes."
 msgstr ""
-"Jedynym celem przewodnika referencyjnego jest opisanie, w sposób jak "
-"najbardziej zwięzły i uporządkowany. Podczas gdy treść tutoriali i "
-"przewodników krok po kroku jest prowadzona przez potrzeby użytkownika, "
-"materiał referencyjny jest prowadzony przez produkt, który opisuje."
 
-#: ../../source/reference.rst:16
+#: ../../source/reference.rst:18
 msgid ""
-"Reference - information oriented, theoretical knowledge, that serves our "
-"work"
+"Reference describes what is, and serves the application of skill. It is "
+"information-oriented."
 msgstr ""
-"Referencja - zorientowana na informację, wiedza teoretyczna, która służy "
-"naszej pracy"
+
+#: ../../source/reference.rst:19
+msgid "Information-oriented"
+msgstr ""
 
 #: ../../source/reference.rst:20
+msgid "Describes what is"
+msgstr "Opisuje czym jest"
+
+#: ../../source/reference.rst:21
+msgid "Serves application of skill"
+msgstr ""
+
+#: ../../source/reference.rst:27
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
@@ -69,22 +76,19 @@ msgstr ""
 "W przypadku oprogramowania, przewodniki referencyjne opisują samo "
 "oprogramowanie - API, klasy, funkcje itp. - i jak ich używać."
 
-#: ../../source/reference.rst:23
+#: ../../source/reference.rst:30
 msgid ""
 "Your users need reference material because they need truth and certainty - "
-"firm platforms on which to stand while they work. Good technical reference "
-"is essential to provide users with the confidence to do their work."
+"firm platforms on which to stand while they apply their skill. Good "
+"technical reference is essential to provide users with the confidence to do "
+"their work."
 msgstr ""
-"Twoi użytkownicy potrzebują materiału referencyjnego, ponieważ potrzebują "
-"prawdy i pewności - solidnych platform, na których mogą stać podczas pracy. "
-"Dobra dokumentacja techniczna jest niezbędna, aby dostarczyć użytkownikom "
-"pewności siebie w wykonywaniu ich pracy."
 
-#: ../../source/reference.rst:29
+#: ../../source/reference.rst:36
 msgid "Reference as description"
 msgstr "Referencja jako opis"
 
-#: ../../source/reference.rst:31
+#: ../../source/reference.rst:38
 msgid ""
 "Reference material describes the machinery. It should be **austere**. One "
 "hardly *reads* reference material; one *consults* it."
@@ -92,7 +96,7 @@ msgstr ""
 "Materiał referencyjny opisuje mechanizmy. Powinien być **surowy**. Trudno "
 "*czyta się* materiał referencyjny; *konsultuje się* go."
 
-#: ../../source/reference.rst:34
+#: ../../source/reference.rst:41
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
@@ -100,7 +104,7 @@ msgstr ""
 "Nie powinno być żadnej wątpliwości lub niejednoznaczności w referencji; "
 "powinna być w pełni autorytatywna."
 
-#: ../../source/reference.rst:36
+#: ../../source/reference.rst:43
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
 "about the territory, without having to go out and check the territory for "
@@ -112,7 +116,7 @@ msgstr ""
 "samodzielnie; przewodnik referencyjny pełni tę samą funkcję dla produktu i "
 "jego wewnętrznego mechanizmu."
 
-#: ../../source/reference.rst:40
+#: ../../source/reference.rst:47
 msgid ""
 "Although reference should not attempt to show how to perform tasks, it can "
 "and often needs to include a description of how something works or the "
@@ -122,7 +126,7 @@ msgstr ""
 "może i często musi zawierać opis tego, jak coś działa lub właściwy sposób "
 "użycia tego."
 
-#: ../../source/reference.rst:45
+#: ../../source/reference.rst:52
 msgid ""
 "Unfortunately, too many software developers think that auto-generated "
 "reference material is all the documentation required."
@@ -130,7 +134,7 @@ msgstr ""
 "Niestety, zbyt wielu programistów uważa, że automatycznie generowany "
 "materiał referencyjny jest całą dokumentacją wymaganą."
 
-#: ../../source/reference.rst:48
+#: ../../source/reference.rst:55
 msgid ""
 "Some reference material (such as API documentation) can be generated "
 "automatically by the software it describes, which is a powerful way of "
@@ -141,31 +145,31 @@ msgstr ""
 "potężnym sposobem zapewnienia, że pozostaje ono wiernie dokładne w stosunku "
 "do kodu."
 
-#: ../../source/reference.rst:56
+#: ../../source/reference.rst:63
 msgid "Key principles"
 msgstr "Kluczowe zasady"
 
-#: ../../source/reference.rst:59
+#: ../../source/reference.rst:66
 msgid "Describe and only describe"
 msgstr "Opisywać i tylko opisywać"
 
-#: ../../source/reference.rst:61
+#: ../../source/reference.rst:68
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr "*Neutralny opis* jest kluczowym nakazem dokumentacji technicznej."
 
-#: ../../source/reference.rst:65
+#: ../../source/reference.rst:72
 msgid "austere and uncompromising"
 msgstr "surowy i nieustępliwy"
 
-#: ../../source/reference.rst:66
+#: ../../source/reference.rst:73
 msgid "neutrality, objectivity, factuality"
 msgstr "neutralność, obiektywność, faktyczność"
 
-#: ../../source/reference.rst:67
+#: ../../source/reference.rst:74
 msgid "structured according to the structure of the machinery itself"
 msgstr "uporządkowany zgodnie ze strukturą samego mechanizmu"
 
-#: ../../source/reference.rst:69
+#: ../../source/reference.rst:76
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
 "neutrally. It's not a natural way of communicating. What's natural on the "
@@ -179,7 +183,7 @@ msgstr ""
 "te rzeczy stoją w sprzeczności z potrzebami dokumentacji technicznej, która "
 "zamiast tego wymaga dokładności, precyzji, kompletności i jasności."
 
-#: ../../source/reference.rst:71
+#: ../../source/reference.rst:78
 msgid ""
 "It can be tempting to introduce instruction and explanation, simply because "
 "description can seem too inadequate to be useful, and because we do indeed "
@@ -191,11 +195,11 @@ msgstr ""
 "że rzeczywiście potrzebujemy tych innych rzeczy. Zamiast tego, linkuj do "
 "przewodników krok po kroku, wyjaśnień i wprowadzających tutoriali."
 
-#: ../../source/reference.rst:75
+#: ../../source/reference.rst:82
 msgid "Adopt standard patterns"
 msgstr "Przyjmij standardowe wzorce"
 
-#: ../../source/reference.rst:77
+#: ../../source/reference.rst:84
 msgid ""
 "**Reference material is useful when it is consistent.** Standard patterns "
 "are what allow us to use reference material effectively. Your job is to "
@@ -208,7 +212,7 @@ msgstr ""
 "potrzebuje Twój użytkownik, tam, gdzie się go spodziewa, w formacie, który "
 "jest mu znany."
 
-#: ../../source/reference.rst:79
+#: ../../source/reference.rst:86
 msgid ""
 "There are many opportunities in writing to delight your readers with your "
 "extensive vocabulary and command of multiple styles, but reference material "
@@ -218,11 +222,11 @@ msgstr ""
 " słownictwem i znajomością wielu stylów, ale materiał referencyjny "
 "zdecydowanie nie jest jednym z nich."
 
-#: ../../source/reference.rst:85
+#: ../../source/reference.rst:92
 msgid "Respect the structure of the machinery"
 msgstr "Szanuj strukturę mechanizmu"
 
-#: ../../source/reference.rst:87
+#: ../../source/reference.rst:94
 msgid ""
 "The way a map corresponds to the territory it represents helps us use the "
 "former to find our way through the latter. It should be the same with "
@@ -235,7 +239,7 @@ msgstr ""
 "z dokumentacją: **struktura dokumentacji powinna odzwierciedlać strukturę "
 "produktu**, aby użytkownik mógł przechodzić przez nie jednocześnie."
 
-#: ../../source/reference.rst:92
+#: ../../source/reference.rst:99
 msgid ""
 "It doesn't mean forcing the documentation into an unnatural structure. "
 "What's important is that the logical, conceptual arrangement of and "
@@ -245,11 +249,11 @@ msgstr ""
 " aby logiczne, koncepcyjne uporządkowanie i relacje w kodzie pomagały nadać "
 "sens dokumentacji."
 
-#: ../../source/reference.rst:98
+#: ../../source/reference.rst:105
 msgid "Provide examples"
 msgstr "Dostarczaj przykłady"
 
-#: ../../source/reference.rst:100
+#: ../../source/reference.rst:107
 msgid ""
 "**Examples** are valuable ways of providing illustration that helps readers "
 "understand reference, while avoiding the risk of becoming distracted from "
@@ -263,11 +267,11 @@ msgstr ""
 "sposobem zilustrowania go i jego kontekstu, bez wpadania w pułapkę próby "
 "wyjaśnienia lub instruowania."
 
-#: ../../source/reference.rst:106
+#: ../../source/reference.rst:113
 msgid "The language of reference guides"
 msgstr "Język przewodników referencyjnych"
 
-#: ../../source/reference.rst:108
+#: ../../source/reference.rst:115
 msgid ""
 "Django's default logging configuration inherits Python's defaults. It's "
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
@@ -277,15 +281,15 @@ msgstr ""
 "Pythona. Jest dostępna jako ``django.utils.log.DEFAULT_LOGGING`` i "
 "zdefiniowana w ``django/utils/log.py``"
 
-#: ../../source/reference.rst:109
+#: ../../source/reference.rst:116
 msgid "State facts about the machinery and its behaviour."
 msgstr "Stwierdzaj fakty dotyczące mechanizmu i jego zachowania."
 
-#: ../../source/reference.rst:110
+#: ../../source/reference.rst:117
 msgid "Sub-commands are: a, b, c, d, e, f."
 msgstr "Podkomendy to: a, b, c, d, e, f."
 
-#: ../../source/reference.rst:111
+#: ../../source/reference.rst:118
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
@@ -293,19 +297,19 @@ msgstr ""
 "Wymieniaj komendy, opcje, operacje, funkcje, flagi, ograniczenia, komunikaty"
 " błędów itp."
 
-#: ../../source/reference.rst:112
+#: ../../source/reference.rst:119
 msgid "You must use a. You must not apply b unless c. Never d."
 msgstr "Musisz użyć a. Nie możesz stosować b, chyba że c. Nigdy nie używaj d."
 
-#: ../../source/reference.rst:113
+#: ../../source/reference.rst:120
 msgid "Provide warnings where appropriate."
 msgstr "Podawaj ostrzeżenia, gdy jest to właściwe."
 
-#: ../../source/reference.rst:118
+#: ../../source/reference.rst:125
 msgid "Applied to food and cooking"
 msgstr "Zastosowane do jedzenia i gotowania"
 
-#: ../../source/reference.rst:120
+#: ../../source/reference.rst:127
 msgid ""
 "You might check the information on a packet of food, in order to help you "
 "make a decision about what to do."
@@ -313,7 +317,7 @@ msgstr ""
 "Możesz sprawdzić informacje na opakowaniu żywności, aby pomóc sobie w "
 "podjęciu decyzji, co zrobić."
 
-#: ../../source/reference.rst:122
+#: ../../source/reference.rst:129
 msgid ""
 "When you're looking for information - relevant facts - you do not want to be"
 " confronted by opinions, speculation, instructions or interpretation."
@@ -321,11 +325,11 @@ msgstr ""
 "Kiedy szukasz informacji - istotnych faktów - nie chcesz być konfrontowany z"
 " opiniami, spekulacjami, instrukcjami lub interpretacją."
 
-#: ../../source/reference.rst:124
+#: ../../source/reference.rst:131
 msgid "Information on the back of a packet of lasagne"
 msgstr "Informacje na odwrocie opakowania lasagne"
 
-#: ../../source/reference.rst:129
+#: ../../source/reference.rst:136
 msgid ""
 "You also expect that information to be presented in standard ways, so that "
 "you - when you need to know about something's nutritional properties, how it"
@@ -337,7 +341,7 @@ msgstr ""
 "przechowywania, składnikach, potencjalnych implikacjach zdrowotnych - mógł "
 "je szybko znaleźć i wiedzieć, że możesz na nich polegać."
 
-#: ../../source/reference.rst:131
+#: ../../source/reference.rst:138
 msgid ""
 "So you expect to see for example: *May contain traces of wheat*. Or: *Net "
 "weight: 1000g*."
@@ -345,7 +349,7 @@ msgstr ""
 "Dlatego oczekujesz na przykład: *Może zawierać śladowe ilości pszenicy*. "
 "Lub: *Waga netto: 1000g*."
 
-#: ../../source/reference.rst:133
+#: ../../source/reference.rst:140
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
@@ -354,7 +358,7 @@ msgstr ""
 "marketingowych zmieszanych z tymi informacjami; to mogłoby być dosłownie "
 "niebezpieczne."
 
-#: ../../source/reference.rst:135
+#: ../../source/reference.rst:142
 msgid ""
 "The way reference material is presented on food products is so important "
 "that it's usually governed by law, and the same kind of seriousness should "

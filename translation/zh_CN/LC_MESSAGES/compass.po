@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+# yms, 2026
 # Yufei Li <yufeiminds@gmail.com>, 2026
 # 
 #, fuzzy
@@ -11,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -25,14 +26,79 @@ msgstr ""
 msgid "The compass"
 msgstr "指南针"
 
-#: ../../source/compass.rst:10
-msgid ""
-"The Diátaxis map is an effective reminder of the different kinds of "
-"documentation and their relationship, and it accords well with intuitions "
-"about documentation."
-msgstr "Diátaxis 地图有效地提示我们文档的不同类型及其相互之间的关系，这与人们对于文档的直觉高度契合。"
+#: ../../source/snippets/diagram.rst:12
+msgid "The Diátaxis map of documentation types"
+msgstr "Diátaxis 文档类型地图"
 
-#: ../../source/compass.rst:14
+#: ../../source/snippets/diagram.rst:12
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"这张地图以两条轴线为基准，划分成四个象限。纵向来看，代表了指导行动与陈述事实的文档之间的区别；横向来看，则是面向技能开发和技能运用的文档之间的区别。由此得出四种文档类型：左上为面向学习导向的教程，右上为目标导向的操作指南，右下为信息导向的参考，左下为理解导向的解释。"
+
+#: ../../source/snippets/diagram.rst:12
+msgid "Tutorials"
+msgstr "教程"
+
+#: ../../source/snippets/diagram.rst:13
+msgid "How-to guides"
+msgstr "操作指南"
+
+#: ../../source/snippets/diagram.rst:14
+msgid "Reference"
+msgstr "参考内容"
+
+#: ../../source/snippets/diagram.rst:15
+msgid "Explanation"
+msgstr "解释说明"
+
+#: ../../source/snippets/diagram.rst:17
+msgid "Learning-oriented"
+msgstr "学习导向"
+
+#: ../../source/snippets/diagram.rst:18
+msgid "Goal-oriented"
+msgstr "目标导向"
+
+#: ../../source/snippets/diagram.rst:19
+msgid "Information-oriented"
+msgstr "信息导向"
+
+#: ../../source/snippets/diagram.rst:20
+msgid "Understanding-oriented"
+msgstr "理解导向"
+
+#: ../../source/snippets/diagram.rst:22
+msgid "Directs action"
+msgstr "指导行动"
+
+#: ../../source/snippets/diagram.rst:23
+msgid "Describes what is"
+msgstr "陈述事实"
+
+#: ../../source/snippets/diagram.rst:24
+msgid "Serves development of skill"
+msgstr "面向技能开发"
+
+#: ../../source/snippets/diagram.rst:25
+msgid "Serves application of skill"
+msgstr "面向技能运用"
+
+#: ../../source/compass.rst:11
+msgid ""
+":doc:`The Diátaxis map <map>` is an effective reminder of the different "
+"kinds of documentation and their relationship, and it accords well with "
+"intuitions about documentation."
+msgstr ":doc:`Diátaxis 地图 <map>` 能有效提醒我们注意文档有哪些不同类型、彼此关系如何，这与人们对于文档的直觉高度契合。"
+
+#: ../../source/compass.rst:15
 msgid ""
 "However intuition is not always to be relied upon. Often when working with "
 "documentation, an author is faced with the question: *what form of "
@@ -42,90 +108,90 @@ msgstr ""
 "然而，直觉并非总是可靠的。在处理文档时，作者常常面临这样的问题：*这是哪种形式的文档？* 或者 *这里需要哪种形式的文档？* —— "
 "却往往没有明显而直观的答案。"
 
-#: ../../source/compass.rst:19
+#: ../../source/compass.rst:20
 msgid ""
 "Worse, sometimes intuition provides an immediate answer that is also wrong."
 msgstr "更糟的是，有时直觉会立即给出答案，但却是错误的。"
 
-#: ../../source/compass.rst:21
+#: ../../source/compass.rst:22
 msgid ""
 "A map is most powerful in unfamiliar territory when we also have a compass "
 "to guide us."
 msgstr "在陌生的领域中，当我们有指南针指引方向时，地图的效用最为显著。"
 
-#: ../../source/compass.rst:24
+#: ../../source/compass.rst:25
 msgid ""
 "The Diátaxis compass is something like a truth-table or decision-tree of "
 "documentation. It reduces a more complex, two-dimensional problem to its "
 "simpler parts, and provides the author with a course-correction tool."
 msgstr "Diátaxis 指南针类似于文档领域的真值表或决策树。它将更复杂的二维问题简化为更简单的组成部分，并为作者提供航向校正工具。"
 
-#: ../../source/compass.rst:35
+#: ../../source/snippets/compass.rst:7
 msgid "If the content..."
 msgstr "如果这个内容 ……"
 
-#: ../../source/compass.rst:36
+#: ../../source/snippets/compass.rst:8
 msgid "...and serves the user's..."
 msgstr "…… 并服务于用户的 ……"
 
-#: ../../source/compass.rst:37
+#: ../../source/snippets/compass.rst:9
 msgid "...then it must belong to..."
 msgstr "那么它一定属于 ……"
 
-#: ../../source/compass.rst:38 ../../source/compass.rst:41
-msgid "informs action"
-msgstr "影响行动"
+#: ../../source/snippets/compass.rst:10 ../../source/snippets/compass.rst:13
+msgid "directs action"
+msgstr "指导行动"
 
-#: ../../source/compass.rst:39 ../../source/compass.rst:48
-msgid "acquisition of skill"
-msgstr "技能习得"
+#: ../../source/snippets/compass.rst:11 ../../source/snippets/compass.rst:20
+msgid "development of skill"
+msgstr "开发技能"
 
-#: ../../source/compass.rst:40
+#: ../../source/snippets/compass.rst:12
 msgid "a tutorial"
 msgstr "教程"
 
-#: ../../source/compass.rst:42 ../../source/compass.rst:45
+#: ../../source/snippets/compass.rst:14 ../../source/snippets/compass.rst:17
 msgid "application of skill"
 msgstr "技能运用"
 
-#: ../../source/compass.rst:43
+#: ../../source/snippets/compass.rst:15
 msgid "a how-to guide"
 msgstr "操作指南"
 
-#: ../../source/compass.rst:44 ../../source/compass.rst:47
-msgid "informs cognition"
-msgstr "影响认知"
+#: ../../source/snippets/compass.rst:16 ../../source/snippets/compass.rst:19
+msgid "describes what is"
+msgstr "陈述事实"
 
-#: ../../source/compass.rst:46
+#: ../../source/snippets/compass.rst:18
 msgid "reference"
 msgstr "参考"
 
-#: ../../source/compass.rst:49
+#: ../../source/snippets/compass.rst:21
 msgid "explanation"
 msgstr "解释"
 
-#: ../../source/compass.rst:51
+#: ../../source/compass.rst:31
 msgid ""
 "The compass can be applied equally to user situations that need "
 "documentation, or to documentation itself that perhaps needs to be moved or "
 "improved. Like many good tools, it's surprisingly banal."
 msgstr "指南针既适用于需要文档的用户场景，也适用于可能需要调整或改进的文档本身。和许多优秀的工具一样，它平凡得出奇。"
 
-#: ../../source/compass.rst:53
+#: ../../source/compass.rst:33
 msgid ""
-"To use the compass, just two questions need to be asked: *action or "
-"cognition?* *acquisition or application?*"
-msgstr "想要使用这个指南针，只需要问两个问题：*行动还是认知？* *习得还是运用？*"
+"To use the compass, just two questions need to be asked: *direction or "
+"description?* *development or application of skill?*"
+msgstr "想要使用这个指南针，只需问两个问题：*要指引还是描述？* *要开发还是运用技能？*"
 
-#: ../../source/compass.rst:55
+#: ../../source/compass.rst:35
 msgid "And it yields the answer."
 msgstr "由此即可得出答案。"
 
-#: ../../source/compass.rst:59
+#: ../../source/compass.rst:39
 msgid "Using the compass"
 msgstr "使用指南针"
 
-#: ../../source/compass.rst:61
+#: ../../source/compass.rst:41
 msgid ""
 "The compass is particularly effective when you think that you (or even the "
 "documentation in front of you) are doing one thing - but you are troubled by"
@@ -133,49 +199,49 @@ msgid ""
 " to stop and reconsider."
 msgstr "当你认为自己正在做某件事（或是阅读眼前的文档）时有所疑虑，乃至在工作中遇到困难时，指南针尤为有效。它将促使你停下来重新思考。"
 
-#: ../../source/compass.rst:63
+#: ../../source/compass.rst:43
 msgid ""
 "Especially when you are trying to find your initial bearings, use the "
 "compass's terms flexibly; don't get fixated on the exact names."
 msgstr "尤其是在你试图确定初步方向时，应灵活运用指南针中的术语，而不必拘泥于确切的名称。"
 
-#: ../../source/compass.rst:65
-msgid "*action*: practical steps, doing"
-msgstr "*行动*：实际步骤，即操作、执行。"
+#: ../../source/compass.rst:45
+msgid "*directs action*: practical steps, doing"
+msgstr "*指引行动*：实际步骤，即动手执行。"
 
-#: ../../source/compass.rst:66
-msgid "*cognition*: theoretical or propositional knowledge, thinking"
-msgstr "*认知*：理论性或命题性知识，即思考。"
+#: ../../source/compass.rst:46
+msgid "*describes what is*: theoretical or propositional knowledge, thinking"
+msgstr "*陈述事实*：理论性或命题性知识，即思考。"
 
-#: ../../source/compass.rst:67
-msgid "*acquisition*: study"
-msgstr "*习得*：即学习"
+#: ../../source/compass.rst:47
+msgid "*development of skill*: study, acquisition"
+msgstr "*技能开发*：即学习，习得"
 
-#: ../../source/compass.rst:68
-msgid "*application*: work"
-msgstr "*运用*：即工作"
+#: ../../source/compass.rst:48
+msgid "*application of skill*: work"
+msgstr "*技能运用*：即工作"
 
-#: ../../source/compass.rst:70
+#: ../../source/compass.rst:50
 msgid "And the questions themselves can also be used in different ways:"
 msgstr "这些问题本身也有诸多不同的用法："
 
-#: ../../source/compass.rst:72
-msgid "Do I think I am writing for *x* or *y*?"
-msgstr "我认为我在为 *x* 还是 *y* 写作？"
+#: ../../source/compass.rst:52
+msgid "Do I think I am writing for purpose *x* or *y*?"
+msgstr "我这是在为 *x* 而写，还是为 *y* 而写？"
 
-#: ../../source/compass.rst:73
+#: ../../source/compass.rst:53
 msgid "Is this writing in front of me engaged in *x* or *y*?"
 msgstr "眼前的这段文字，属于 *x* 还是 *y*？"
 
-#: ../../source/compass.rst:74
+#: ../../source/compass.rst:54
 msgid "Does the user need *x* or *y*?"
 msgstr "用户需要 *x* 还是 *y*？"
 
-#: ../../source/compass.rst:75
-msgid "Do I want to *x* or *y*?"
-msgstr "我想要 *x* 还是 *y*？"
+#: ../../source/compass.rst:55
+msgid "Do I want to have the effect *x* or *y*?"
+msgstr "我想达到的是 *x* 的效果，还是 *y* 的效果？"
 
-#: ../../source/compass.rst:77
+#: ../../source/compass.rst:57
 msgid ""
 "And try applying them close-up, at the level of sentences and words, or from"
 " a wider perspective, considering an entire document."

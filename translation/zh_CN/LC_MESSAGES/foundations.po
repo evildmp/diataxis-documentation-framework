@@ -4,6 +4,7 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
+# yms, 2026
 # Yufei Li <yufeiminds@gmail.com>, 2026
 # 
 #, fuzzy
@@ -11,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -21,227 +22,570 @@ msgstr ""
 "Language: zh-Hans\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
 
-#: ../../source/foundations.rst:2
+#: ../../source/foundations.rst:4
 msgid "Foundations"
 msgstr "基础"
 
-#: ../../source/foundations.rst:4
+#: ../../source/foundations.rst:8
 msgid ""
-"Diátaxis is successful because it *works* - both users and creators have a "
-"better experience of documentation as a result. It makes sense and it feels "
-"right."
-msgstr "Diátaxis 的成功之处在于它 *行之有效*。无论是用户还是创作者，都会由此获得更好的文档体验。它既合乎情理，又符合直觉。"
+"You don't need to read a single word of this page to use Diátaxis "
+"effectively or even to understand it properly."
+msgstr "你无须阅读本页的哪怕一个字，就能有效地使用 Diátaxis，甚至准确地理解它。"
 
-#: ../../source/foundations.rst:6
+#: ../../source/foundations.rst:10
+msgid ""
+"The only reason for reading it is to have a better appreciation of some of "
+"the thinking and theorising behind Diátaxis – *why* it works, not how it "
+"works."
+msgstr "阅读本页的唯一理由，是为了更好地领会 Diátaxis 背后的某些思考与理论 —— 即它 *为什么* 有效，而不是如何运作。"
+
+#: ../../source/foundations.rst:12
+msgid ""
+"Diátaxis is successful because it *works* – it gives both users and creators"
+" a better experience of documentation. It makes sense and it feels right."
+msgstr "Diátaxis 之所以成功，源于它 *行之有效* —— 无论用户还是创作者，都能因此获得更好的文档体验。它既合乎逻辑，又符合直觉。"
+
+#: ../../source/foundations.rst:14
 msgid ""
 "However, that's not enough to be confident in Diátaxis as a theory of "
-"documentation. As a theory, it needs to show *why* it works. It needs to "
-"show that there is actually some reason why there are exactly four kinds of "
-"documentation, not three or five. It needs to demonstrate rigorous thinking "
-"and analysis, and that it stands on a sound theoretical foundation."
+"documentation. As a theory, it needs to show why it works. It needs to show "
+"that there is actually some reason why there are exactly four kinds of "
+"documentation for example, and not three or five. It needs to demonstrate "
+"rigorous thinking and analysis, and that it stands on a sound theoretical "
+"foundation."
 msgstr ""
-"然而，仅凭这些，尚不足以让人树立对 Diátaxis 作为文档理论的信心。作为理论，它需要阐明自己 *为何* "
-"行之有效。它需要展示，文档之所以恰好分为四类，既不是三类，也不是五类，背后到底存在何种缘由。它还需展现缜密的思辨与剖析，并证明自身立于坚实的理论基础之上。"
+"然而，仅凭这些，还不足以确立 Diátaxis "
+"作为文档理论的可靠性。作为一种理论，它必须阐明自己为何有效，必须说明为什么文档恰好分为四种，而不是三种或五种 —— "
+"这背后必定有其缘由。它还必须展现缜密的思辨与分析，并表明自己建立在坚实的理论基础之上。"
 
-#: ../../source/foundations.rst:8
+#: ../../source/foundations.rst:16
 msgid ""
 "Otherwise, it will be just another useful heuristic approach, and the "
 "strongest claim we can make for it is that \"it seems to work quite well\"."
 msgstr "否则，它便不过是另一种可资借鉴的方法，我们最多只能称其为“看起来行之有效”。"
 
-#: ../../source/foundations.rst:12
-msgid "Two dimensions of craft"
-msgstr "技艺的两个维度"
-
-#: ../../source/foundations.rst:14
-msgid ""
-"Diátaxis is based on the principle that documentation must serve the needs "
-"of its users. Knowing how to do that means understanding what the needs of "
-"users are."
-msgstr "Diátaxis 基于这样一项原则：文档必须服务于用户的需求。要知道如何做到这一点，便需要理解用户的需求是什么。"
-
-#: ../../source/foundations.rst:16
-msgid ""
-"The user whose needs Diátaxis serves is *the practitioner in a domain of "
-"skill*. A domain of skill is defined by a craft - the use of a tool or "
-"product is a craft. So is an entire discipline or profession. Using a "
-"programming language is a craft, as is flying a particular aircraft, or even"
-" being a pilot in general."
-msgstr ""
-"Diátaxis 所服务的用户，是 "
-"*技能领域中的实践者*。技能领域由一门技艺所界定——工具或产品的使用即是一门技艺。整个学科或专业皆是如此。使用编程语言是一门技艺，驾驶特定型号的飞机亦然，乃至广义上担任一名飞行员亦是如此。"
-
-#: ../../source/foundations.rst:18
-msgid ""
-"Understanding the needs of these users means in turn understanding the "
-"essential characteristics of craft or skill."
-msgstr "要理解这些用户的需求，便须进而把握技艺或技能的基本特性。"
+#: ../../source/foundations.rst:20
+msgid "The underlying principle"
+msgstr "底层原理"
 
 #: ../../source/foundations.rst:22
-msgid "Action/cognition"
-msgstr "行动 / 认知"
-
-#: ../../source/foundations.rst:24
 msgid ""
-"A skill or craft or practice contains both **action** (practical knowledge, "
-"knowing *how*, what we do) and **cognition** (theoretical knowledge, knowing"
-" *that*, what we think). The two are completely bound up with each other, "
-"but they are counterparts, wholly distinct from each other, two different "
-"aspects of the same thing."
-msgstr ""
-"一项技能、技艺或实践活动，都兼具 **行动**（实践知识，即知道如何做，也就是我们所做的）与 "
-"**认知**（理论知识，即知道是什么，也就是我们所想的）两个层面。两者紧密交织，却交相辉映，彼此之间截然不同，一体两面。"
+"Diátaxis is based on an understanding of the nature of the structure of "
+"skill. That allows us to understand something about the practitioner of a "
+"skill, and then have something to say about what guidance is appropriate to "
+"their needs."
+msgstr "Diátaxis 建立在对技能结构本质的理解之上。由此，我们能够理解技能实践者的特点，进而判断什么样的指导才符合他们的需求。"
+
+#: ../../source/foundations.rst:26
+msgid ""
+"On this page I will refer to \"guidance\", rather than to \"documentation\"."
+" Documentation is guidance in written form, and what I have to say here "
+"applies to all guidance for skill."
+msgstr "在本页中，我将使用 \"指导\" 这一说法，而不是文档。文档是书面形式的指导；这里要讲的内容，适用于一切针对于技能的指导。"
 
 #: ../../source/foundations.rst:28
-msgid "Acquisition/application"
-msgstr "习得 / 运用"
+msgid ""
+"The key claim of Diátaxis is that skill has certain characteristics, that we"
+" can lay out structurally."
+msgstr "Diátaxis 的核心主张是，技能具备某些特征，我们可以将这些特征以结构化的方式呈现出来。"
 
 #: ../../source/foundations.rst:30
 msgid ""
-"Similarly, the relationship of a practitioner with their practice is that it"
-" is something that needs to be both **acquired**, and **applied**. Being "
-"\"at work\" (concerned with applying the skill and knowledge of their craft)"
-" and being \"at study\" (concerned with acquiring them) are once again "
-"counterparts, distinct but bound up with each other."
-msgstr ""
-"同样，实践者与其实践的关系，体现为实践本身既要 **习得**，也要 **运用**。所谓 “工作状态”（关注于运用技艺的知识与技能）与 "
-"“学习状态”（关注于习得这些知识与技能）同样是相互对应的关系，彼此截然不同，却又紧密交织。"
+"Skill contains particular structures and relationships. At any given time, "
+"where a practitioner of skill finds themselves within those structures and "
+"relationships points at the corresponding characteristics appropriate and "
+"effective guidance will have."
+msgstr "技能由特定的结构与关系构成。在任何给定时刻，技能实践者在这些结构与关系中所处的位置，决定了适当而有效的指导应具有怎样的特征。"
 
-#: ../../source/foundations.rst:34
+#: ../../source/foundations.rst:32
+msgid ""
+"Skill and guidance can be overlaid upon each other to the extent that the "
+"same structure is able to describe both. This page shows how we can work "
+"from an understanding of skill to the characteristics that documentation "
+"must have, and why there are four distinct kinds, and why they exist in a "
+"particular relationship to each other."
+msgstr ""
+"技能与指导可以彼此叠加，因为同一套结构能够同时描述两者。本页展示的是：如何从对技能的理解入手，推演出文档应具备的特征；为什么文档有四种截然不同的类型；以及这些类型之间为何存在特定的相互关系。"
+
+#: ../../source/foundations.rst:36
+msgid "The nature of craft"
+msgstr "技艺的本质"
+
+#: ../../source/foundations.rst:38
+msgid ""
+"Let's start with *craft*. (A craft defines a domain of skill, and for most "
+"practical purposes in this discussion we can use words like *practice*, "
+"*craft* and *skill* fairly interchangeably.)"
+msgstr "我们先从 *技艺* 说起（一门技艺界定一个技能领域。在本次讨论中，为实际方便起见，“实践”、“技艺”、“技能”这些词大体可以互换使用）。"
+
+#: ../../source/foundations.rst:40
+msgid ""
+"The use of a tool or product is a craft. So is an entire discipline or "
+"profession. Using a programming language is a craft, and so is flying a "
+"particular aircraft, or simply being a pilot in general."
+msgstr "工具或产品的使用即是一门技艺。整个学科或专业皆是如此。使用编程语言是一门技艺，驾驶特定型号的飞机亦然，乃至广义上担任一名飞行员亦是如此。"
+
+#: ../../source/foundations.rst:44
+msgid "Practical expression and conceptual grasp"
+msgstr "实际表达和概念把握"
+
+#: ../../source/foundations.rst:46
+msgid "Two halves of the map, practical expression and conceptual grasp"
+msgstr "地图的两半：实践表达和概念掌握"
+
+#: ../../source/foundations.rst:46
+msgid ""
+"Above: practical expression, correct action, execution, doing Below: truth, "
+"knowing, conception"
+msgstr "上方：实践表达、正确行动、执行、做事情 下方：真理、认知、概念"
+
+#: ../../source/foundations.rst:46
+msgid "manual"
+msgstr "手册"
+
+#: ../../source/foundations.rst:46
+msgid "correct action"
+msgstr "正确行动"
+
+#: ../../source/foundations.rst:46
+msgid "**practical expression**"
+msgstr "**实践表达**"
+
+#: ../../source/foundations.rst:46
+msgid "execution"
+msgstr "执行"
+
+#: ../../source/foundations.rst:46
+msgid "doing"
+msgstr "做事情"
+
+#: ../../source/foundations.rst:47
+msgid "truth"
+msgstr "真理"
+
+#: ../../source/foundations.rst:47
+msgid "knowing"
+msgstr "认知"
+
+#: ../../source/foundations.rst:47
+msgid "**conceptual grasp**"
+msgstr "**概念掌握**"
+
+#: ../../source/foundations.rst:47
+msgid "conception"
+msgstr "概念"
+
+#: ../../source/foundations.rst:47
+msgid "mental"
+msgstr "智力上的"
+
+#: ../../source/foundations.rst:55
+msgid ""
+"Any skill (or craft or practice) contains both **practical expression** and "
+"**conceptual grasp**."
+msgstr "任何技能（无论是技艺还是实践），都兼具 **实践表达** 与 **概念把握**。"
+
+#: ../../source/foundations.rst:57
+msgid ""
+"Skill contains both, and they are enmeshed in each other, but at any given "
+"moment, one of these is the key concern."
+msgstr "技能兼具这两方面，且彼此紧密交织；然而在任一时刻，总有一方面是主要关注所在。"
+
+#: ../../source/foundations.rst:59
+msgid ""
+"Sometimes what matters is what the pilot *does* (practices or executes an "
+"operation) and sometimes it's what the pilot *knows* (the correct heading, "
+"what a certain cloud formation indicates). In the fluid realities of any "
+"skill – and aviation is no different – the two conditions ceaselessly "
+"succeed each other, but they remain clearly distinct: sometimes what matters"
+" in skill belongs to the upper half of the diagram, and sometimes to the "
+"lower."
+msgstr ""
+"有时重要的是飞行员 *做* 了什么（比如练习或执行某项操作），有时则是飞行员 *知道* "
+"什么（比如正确的航向，某种云层形态预示着什么）。任何技能都处于流动的现实之中，航空亦然。这两种状态不断交替出现，但始终泾渭分明：技能中紧要之事，有时落在图的上半部分，有时则落在下半部分。"
+
+#: ../../source/foundations.rst:61
+msgid ""
+"It doesn't matter very much how we express the distinction between the two "
+"domains; there are multiple pairs of ideas that can do the work. Different "
+"ways of articulating it might fit better with a particular case."
+msgstr "至于如何表达这两个领域之间的区别，其实并不十分重要；能够承担这一任务的概念组合不止一种。针对具体情形，不同的表达方式可能更为贴切。"
+
+#: ../../source/foundations.rst:65
+msgid "Development and application of skill"
+msgstr "开发和运用技能"
+
+#: ../../source/foundations.rst:67
+msgid "Two halves of the map, development and application of skill"
+msgstr "地图的两半，开发和运用技能"
+
+#: ../../source/foundations.rst:67
+msgid ""
+"Left: developing skill, becoming good at, being at study Right: applying "
+"skill, being good at, being at work"
+msgstr "左：技能开发，日渐精通，处于学习状态 右：技能运用，已然精通，处于工作状态"
+
+#: ../../source/foundations.rst:67
+msgid "being at study"
+msgstr "处于学习状态"
+
+#: ../../source/foundations.rst:67
+msgid "acquiring potential"
+msgstr "积累潜能"
+
+#: ../../source/foundations.rst:67
+msgid "**development of skill**"
+msgstr "**开发技能**"
+
+#: ../../source/foundations.rst:67
+msgid "becoming good at"
+msgstr "日渐精通"
+
+#: ../../source/foundations.rst:67
+msgid "practitioner focus"
+msgstr "聚焦实践者"
+
+#: ../../source/foundations.rst:68
+msgid "being at work"
+msgstr "处于工作状态"
+
+#: ../../source/foundations.rst:68
+msgid "exercising potential"
+msgstr "发挥潜能"
+
+#: ../../source/foundations.rst:68
+msgid "**application of skill**"
+msgstr "**运用技能**"
+
+#: ../../source/foundations.rst:68
+msgid "being good at"
+msgstr "已然精通"
+
+#: ../../source/foundations.rst:68
+msgid "results-focus"
+msgstr "聚焦结果"
+
+#: ../../source/foundations.rst:76
+msgid ""
+"Skill is something someone has. A practitioner stands in relation to their "
+"practice."
+msgstr "技能为人所拥有，而实践者则与其实践处于某种关联之中。"
+
+#: ../../source/foundations.rst:78
+msgid ""
+"We acquire and use skill. A practice is something that needs to be both "
+"**developed**, and **applied**. Sometimes we are \"at work\" and sometimes "
+"we are \"at study\", and so on."
+msgstr "我们习得并运用技能。而一种实践，既需要 **开发**，也需要 **运用**。我们有时“在工作”，有时“在学习”，以此类推。"
+
+#: ../../source/foundations.rst:80
+msgid ""
+"Once again these are two distinct conditions of the practitioner. In any "
+"kind of reality, they are bound up with each other, but that doesn't mean "
+"that we can't identify them clearly."
+msgstr "这同样是实践者所处的两种不同状态。无论现实情形如何，二者都紧密相连，但这并不妨碍我们清晰地识别它们。"
+
+#: ../../source/foundations.rst:82
+msgid ""
+"For example, a student pilot who is learning to fly is indeed also actually "
+"flying the plane, applying the skills they have acquired so far. But what "
+"matters, what we really care about at these times, is the *development* of "
+"their skill. When a pilot is performing their job, what matters is the "
+"correct, successful *application* of their skill. That's what the point of "
+"that activity is (even though it would be a disappointing pilot, however "
+"experienced, who failed to develop their skills through their flying)."
+msgstr ""
+"例如，一名正在学习飞行的飞行学员，运用自己迄今为止所习得的技能，确实也在实际驾驶飞机。但此时重要的是，我们真正关心的，是他们技能的开发。而当一名飞行员在执行工作任务时，重要的是正确而成功地"
+" *运用* 他的技能。这才是该项活动的意义所在（尽管无论一名飞行员经验多么丰富，若不能通过飞行来开发自己的技能，终究是令人失望的）。"
+
+#: ../../source/foundations.rst:84
+msgid ""
+"As for the other axis, we can quickly identify multiple counterparts that "
+"represent this relationship. The particular choice of pair or form of words "
+"matters much less than the distinction that they maintain."
+msgstr "至于另一条轴线，我们可以很快找出多组对应概念来体现这一关系。具体选用哪一对概念、采用何种措辞，远不如它们所维持的区分来得重要。"
+
+#: ../../source/foundations.rst:88
 msgid "The map of the territory"
 msgstr "领域地图"
 
-#: ../../source/foundations.rst:36
+#: ../../source/foundations.rst:90
 msgid ""
-"This gives us two dimensions of skill, that we can lay out on a map - a map "
-"of the territory of craft:"
-msgstr "由此我们得到技能的两个维度，我们可将其呈现于一张地图之上——即技艺领域的地图："
+"The distinctions and the counterparts that describe them give us two axes, "
+"on which we can lay out a map of the territory of craft."
+msgstr "这些区分及其所对应的概念，构成了两条轴线，我们据此可以绘制出一幅关于技艺领域的地图。"
 
-#: ../../source/foundations.rst:38 ../../source/foundations.rst:51
+#: ../../source/foundations.rst:92
+msgid ""
+"I've chosen labels that I hope have the most general application, but it "
+"should be possible to substitute any of the counterparts suggested above, or"
+" find others, and make as much sense."
+msgstr "我尽量选用了最具通用性的标签。不过，你完全可以用前面提到的任何一组对应概念来替换，或另找其他说法，效果同样成立。"
+
+#: ../../source/foundations.rst:94 ../../source/foundations.rst:139
 msgid "The territory of craft as a two-dimensional map"
 msgstr "技艺领域的二维地图"
 
-#: ../../source/foundations.rst:41
+#: ../../source/foundations.rst:94
 msgid ""
-"This is a *complete* map. There are only two dimensions, and they don't just"
-" cover the entire territory, they define it. This is why there are "
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, practical expression versus conceptual grasp. Left and right, the "
+"development of skill versus application of skill."
+msgstr "这张地图以两条轴线为基准，分为四个象限。纵轴上下，分别为对实践的表达和概念的把握；横轴左右，分别为对技能的开发和技能的运用。"
+
+#: ../../source/foundations.rst:94 ../../source/foundations.rst:152
+msgid "Practical expression"
+msgstr "实践表达"
+
+#: ../../source/foundations.rst:95 ../../source/foundations.rst:153
+msgid "Conceptual grasp"
+msgstr "概念掌握"
+
+#: ../../source/foundations.rst:96 ../../source/foundations.rst:154
+msgid "Development of skill"
+msgstr "技能开发"
+
+#: ../../source/foundations.rst:97 ../../source/foundations.rst:155
+msgid "Application of skill"
+msgstr "技能运用"
+
+#: ../../source/foundations.rst:107
+msgid ""
+"The vertical axis concerns the nature of skill itself. The horizontal axis "
+"concerns our relation to skill."
+msgstr "纵轴涉及技能本身的性质，横轴则涉及我们与技能之间的关系。"
+
+#: ../../source/foundations.rst:109
+msgid ""
+"It's a *complete* map. There are only two dimensions, and they don't just "
+"cover the entire territory, they define it. This is why there are "
 "necessarily four quarters to it, and there could not be three, or five. It "
 "is not an arbitrary number."
 msgstr ""
 "这是一张 *完整* "
 "的地图。它所包含的维度仅有这两个，但它们不仅覆盖了整个领域，更界定了领域本身。这便是为何它必然划分为四个象限，而非三个或五个。这个数字并非随意而定。"
 
-#: ../../source/foundations.rst:43
+#: ../../source/foundations.rst:113
+msgid "What the map can tell us"
+msgstr "地图能告诉我们什么"
+
+#: ../../source/foundations.rst:115
 msgid ""
-"It also shows us the *qualities* of craft that define each of them. When the"
-" idea that documentation must serve the needs of craft is applied to this "
-"map, it reveals in turn what documentation must be and do to fulfil those "
-"obligations - in four distinct ways."
+"If these axes represent a good map of the territory of craft, then what can "
+"we say about the guidance or documentation that is appropriate to what we "
+"find in it?"
+msgstr "倘若这两条轴线能够很好地描绘技艺领域的地图，那么，对于其中呈现的内容，与之相配的指导或文档又该是怎样的？我们对此能说些什么？"
+
+#: ../../source/foundations.rst:117
+msgid ""
+"In reality, there is little that we can read *directly* from the map. For "
+"the horizontal axis, we can say for example that *development of skill* "
+"demands guidance that *serves the development of skill*. Which is true, but "
+"it's not exactly informative."
 msgstr ""
-"它也向我们展示了技艺的 "
-"*特质*，这些特质定义了每一个象限。当“文档必须服务于技艺需求”这一理念被运用于这张地图时，它便反过来昭示出，文档必须以四种各异的途径成其所是，行其所为，方能践行这一理念。"
+"现实中，我们几乎无法从地图上 *直接* 读出什么。就横轴而言，我们可以说，例如，*技能开发* 需要有 *面向技能开发* "
+"的指导。这话固然不假，但实在谈不上有多少信息量。"
 
-#: ../../source/foundations.rst:47
-msgid "Serving needs"
-msgstr "服务于需求"
+#: ../../source/foundations.rst:121
+msgid "It's not even the kind of thing we should *want* to read off a map."
+msgstr "这甚至不是那种，我们本应 *想要* 从地图上直接读出的东西。"
 
-#: ../../source/foundations.rst:49
+#: ../../source/foundations.rst:123
+msgid ""
+"We get a little further with the vertical axis. We can sense strongly and "
+"clearly that guidance that *directs action* is appropriate to *doing*, and "
+"that guidance that *describes what is the case* is appropriate to thinking. "
+"We can see immediately what *form* they must have to serve the corresponding"
+" axes of skill – so that's a little more than we get for the other axis, but"
+" it's still not very much."
+msgstr ""
+"就纵轴而言，我们能稍进一步，并且能够强烈而清晰地感受到，**指向性行动** 的指导适用于 **做事情**，而 *陈述事实* "
+"的指导，则更适合思考。我们一眼就能看出，它们必须采用怎样的形式，才能服务于技能中相应的轴线。这比另一条轴线给我们的信息稍多一些，但依然很有限。"
+
+#: ../../source/foundations.rst:125
+msgid ""
+"**We shouldn't expect more.** That's not the point of the map at all. To "
+"discover and understand what forms of guidance or documentation are "
+"appropriate and effective is work we have to do, based on our understanding "
+"of human beings. We'll never close the book on the subject."
+msgstr ""
+"**我们本就不该期待更多**，地图的用意根本不在这里。要发现什么样的指导或文档形式才恰切而有效，需要我们自己探索和领会，而这种探索必须建立在对人的理解之上。在这个课题上，我们永远无法画上句号。"
+
+#: ../../source/foundations.rst:127
+msgid ""
+"What the map does point out is how the practitioner of skill finds "
+"themselves in four fundamentally distinct conditions, in the four quadrants "
+"described by the two axes. And, they are not just four distinct conditions: "
+"they have a structural relationship to each other. This is indeed new, "
+"interesting and informative."
+msgstr ""
+"这张地图真正指出的，是技能实践者如何置身于两条轴线所描述的四个象限中，面对四种根本不同的状态。而且，这四种状态并非只是彼此不同，它们之间还存在结构性的关联。这一点确实新颖、有趣，也颇具启发性。"
+
+#: ../../source/foundations.rst:129
+msgid ""
+"In turn, even though we can't directly discover precisely what the guidance "
+"that fits must do, we can see the combination of characteristics that "
+"belongs to each quadrant. We can see that the quadrants indicate four "
+"fundamentally different kinds of guidance to address these conditions of the"
+" practitioner. And, we can see how the structural relationships that hold "
+"for skill also hold for guidance, and that they map on to each other."
+msgstr ""
+"反过来，虽然我们无法直接、精确地确定合适的指导究竟该做什么，但可以看到每个象限各自所对应的特征组合。我们还可以看到，这四个象限指向四种根本不同的指导类型，分别应对实践者的不同状态。同时也能看到，技能中所具有的结构关系同样存在于指导之中，并且二者彼此对应。"
+
+#: ../../source/foundations.rst:133
+msgid "Documentation that answers to needs"
+msgstr "回应需求的文档"
+
+#: ../../source/foundations.rst:135
 msgid ""
 "The map of the territory of craft is what gives us the familiar Diátaxis map"
-" of documentation. The map is in effect an answer to the question: what must"
-" documentation do to align with these qualities of skill, and to what need "
-"is it oriented in each case?"
+" of documentation. We can see what kind of guidance belongs in each "
+"quadrant, and from that we can identify clearly the documentation that can "
+"provide it."
 msgstr ""
-"我们熟悉的 Diátaxis "
-"文档地图，便源自这张技艺领域的地图。它实质上是对以下问题的回应：文档必须做到什么，才能与技能的这些性质相协调，而针对每一种情况，它又需要服务于何种需求？"
+"我们熟悉的 Diátaxis 文档地图，便源自这张技艺领域的地图。从每个象限中可以看出它对应何种指导，进而明确辨认出能够提供这种指导的文档。"
 
-#: ../../source/foundations.rst:54
+#: ../../source/foundations.rst:137
 msgid ""
-"We can see how the map of documentation addresses *needs* across those two "
-"dimensions, each need also defined by the characteristics of its quarter of "
-"the map."
-msgstr "我们可以看出，在这两个维度上，文档处理的需求是如何分布的。而每个需求也同样由其所在象限的特征所界定。"
+"What belongs is what fits, what aligns with the characteristics of skill."
+msgstr "属于某个象限的，便是与之相契合、与技能特征相一致的内容。"
 
-#: ../../source/foundations.rst:61
-msgid "need"
-msgstr "需求"
+#: ../../source/foundations.rst:139
+msgid "Different forms of guidance fit into each quadrant."
+msgstr "不同的指导形式，分别适用于各个象限。"
 
-#: ../../source/foundations.rst:62
-msgid "addressed in"
-msgstr "涉及"
+#: ../../source/foundations.rst:147
+msgid "a guided learning experience"
+msgstr "在指导下的学习体验"
 
-#: ../../source/foundations.rst:63
-msgid "the user"
-msgstr "用户"
+#: ../../source/foundations.rst:148
+msgid "expert guidance and direction"
+msgstr "专家指导与引领"
 
-#: ../../source/foundations.rst:64
-msgid "the documentation"
-msgstr "文档"
+#: ../../source/foundations.rst:149
+msgid "reliable information"
+msgstr "可靠的信息"
 
-#: ../../source/foundations.rst:65
-msgid "learning"
-msgstr "学习"
+#: ../../source/foundations.rst:150
+msgid "discussion that offers insight"
+msgstr "富有洞见的讨论"
 
-#: ../../source/foundations.rst:66
-msgid "tutorials"
-msgstr "教程"
-
-#: ../../source/foundations.rst:67 ../../source/foundations.rst:79
-msgid "acquires their craft"
-msgstr "习得他们的技艺"
-
-#: ../../source/foundations.rst:68 ../../source/foundations.rst:72
-msgid "informs action"
+#: ../../source/foundations.rst:157
+msgid "Directs action"
 msgstr "指导行动"
 
-#: ../../source/foundations.rst:69
-msgid "goals"
-msgstr "目标"
+#: ../../source/foundations.rst:158
+msgid "Describes what is"
+msgstr "陈述事实"
 
-#: ../../source/foundations.rst:70
-msgid "how-to guides"
+#: ../../source/foundations.rst:159
+msgid "Serves development of skill"
+msgstr "面向技能开发"
+
+#: ../../source/foundations.rst:160
+msgid "Serves application of skill"
+msgstr "面向技能运用"
+
+#: ../../source/foundations.rst:162
+msgid "Tutorials"
+msgstr "教程"
+
+#: ../../source/foundations.rst:163
+msgid "How-to guides"
 msgstr "操作指南"
 
-#: ../../source/foundations.rst:71 ../../source/foundations.rst:75
-msgid "applies their craft"
-msgstr "运用他们的技艺"
+#: ../../source/foundations.rst:164
+msgid "Reference"
+msgstr "参考内容"
 
-#: ../../source/foundations.rst:73
-msgid "information"
-msgstr "信息"
+#: ../../source/foundations.rst:165
+msgid "Explanation"
+msgstr "解释说明"
 
-#: ../../source/foundations.rst:74
-msgid "reference"
-msgstr "参考"
+#: ../../source/foundations.rst:167
+msgid "Learning-oriented"
+msgstr "学习导向"
 
-#: ../../source/foundations.rst:76 ../../source/foundations.rst:80
-msgid "informs cognition"
-msgstr "影响认知"
+#: ../../source/foundations.rst:168
+msgid "Goal-oriented"
+msgstr "目标导向"
 
-#: ../../source/foundations.rst:77
-msgid "understanding"
-msgstr "理解"
+#: ../../source/foundations.rst:169
+msgid "Information-oriented"
+msgstr "信息导向"
 
-#: ../../source/foundations.rst:78
-msgid "explanation"
-msgstr "解释"
+#: ../../source/foundations.rst:170
+msgid "Understanding-oriented"
+msgstr "理解导向"
 
-#: ../../source/foundations.rst:83
+#: ../../source/foundations.rst:178
+msgid "Working with clusters of meaning"
+msgstr "处理意义集群"
+
+#: ../../source/foundations.rst:180
 msgid ""
-"The Diátaxis map of documentation is a memorable and approachable idea. But,"
-" a map is only reliable if it adequately describes a reality. Diátaxis is "
-"underpinned by a systematic description and analysis of generalised **user "
-"needs**."
-msgstr ""
-"Diátaxis 文档地图是一个令人难忘且易于理解的概念。不过，一张地图只有在能够充分描述现实情况时才具有可靠性。Diátaxis "
-"这一概念基于对通用用户需求的系统化描述与分析而建立起来。"
+"In most languages, words tend to fall quite awkwardly across some of the "
+"boundaries we are trying to work with."
+msgstr "在大多数语言中，词语往往难以整齐地落在我们试图处理的那些界限之内，而是不自然地横跨其间。"
 
-#: ../../source/foundations.rst:85
+#: ../../source/foundations.rst:182
 msgid ""
-"This is why the tutorials, how-to guides, reference and explanation of "
-"Diátaxis are a complete enumeration of the types of documentation that serve"
-" practitioners in a craft. This is why there are four and only four types of"
-" documentation. There is simply no other territory to cover."
+"For example, Diátaxis refers to \"practical expression\" as an aspect of "
+"skill that's opposed to \"conceptual grasp\". But theory and concept are "
+"*part of* practice, not opposed to it. Their counterpart is *action*, and "
+"the truth is that if it were not so hideous, \"actional expression\" would "
+"be more accurate than \"practical expression\"."
 msgstr ""
-"正因如此，关于 Diátaxis "
-"的教程、操作指南、参考资料以及解释等内容，作为服务于技艺实践者的文档类型，已经尽善尽美了。也正因如此，文档类型有且仅有四种，除此之外，别无其它领域可及。"
+"举例来说，Diátaxis 把“实践表达”当作技能的一个方面，与“概念把握”相对。然而，理论与概念本就属于实践的 "
+"*一部分*，并不与实践相排斥。真正与它们对应的，是 *行动*。说实话，要不是 *行动性表达* 这个词太拗口，它会比 *实践表达* 更准确。"
+
+#: ../../source/foundations.rst:184
+msgid ""
+"But rather than reaching for strained and ugly ways of speaking to avoid "
+"natural language's ambiguities and shades of meaning, it's better to allow "
+"clusters of meaning and association to do the work."
+msgstr "与其为了回避自然语言中的歧义与语义细微差别，而诉诸生硬难看的表达方式，不如让意义集群与联想来承担这项工作。"
+
+#: ../../source/foundations.rst:186
+msgid ""
+"That's why we use so many different words, metaphors and images in Diátaxis "
+"to express this rather small collection of ideas. They form *clusters of "
+"meaning*. It's not just more accessible to the intuition and imagination "
+"than any pinned-down set of rigidly precise terms could ever be, but also "
+"genuinely more useful."
+msgstr ""
+"正因如此，Diátaxis "
+"中才会使用这么多不同的词语、隐喻和意象，来表达这为数不多的一组理念。它们形成了意义集群。相比任何一套钉死的、精确的术语，它不仅更容易被直觉和想象所接受，也确实更加实用。"
+
+#: ../../source/foundations.rst:188
+msgid ""
+"*Practical expression* versus *conceptual grasp*, *action* versus *theory*, "
+"*doing* versus *thinking* – they're not precisely the same pairs, but they "
+"place us in the same territory; similarly, *development* versus "
+"*application* of skill, *being at \"study\"* rather than *being at work* and"
+" so on."
+msgstr ""
+"*实践表达* 与 *概念把握*，*行动* 与 *理论*，*执行* 与 *思考* —— 它们并非严格相同的配对，但都将我们置于同一领域；类似地， 技能的 "
+"*开发* 与 *运用*，以及 *处于“学习”* 而非 *处于“工作”* 状态等，也是如此。"
+
+#: ../../source/foundations.rst:190
+msgid ""
+"We need to be able to reach for multiple different ways of articulating "
+"these meanings, because different ones will be right for the case or "
+"perspective we're speaking of."
+msgstr "我们需要能够采用多种不同的方式来释义，因为针对我们所讨论的具体情形或视角，不同的方式各有其适用之处。"
+
+#: ../../source/foundations.rst:192
+msgid ""
+"There might be shades of meaning around the clusters and the words in them, "
+"but their centre of gravity is clear. People are intelligent and "
+"imaginative. They will find their own connections and anchors in them, and "
+"that is much more valuable than having precise terms for every idea."
+msgstr ""
+"这些意义集群以及其中的词语，或许存在语义上的细微差异，但它们的核心指向是明确的。人是有智慧、有想象力的，他们会从中找到自己的联系与立足点，而这远比为每个概念都规定一套精确术语，要有价值得多。"
+
+#: ../../source/foundations.rst:194
+msgid ""
+"With that in mind, you should find your own connections and related meaning "
+"in these diagrams."
+msgstr "有鉴于此，你应当在这些图中自行发现其中的关联与相关意义。"

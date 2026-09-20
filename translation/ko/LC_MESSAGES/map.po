@@ -5,15 +5,16 @@
 # 
 # Translators:
 # tii, 2026
+# Jiwon Kwak, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: tii, 2026\n"
+"Last-Translator: Jiwon Kwak, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -31,6 +32,78 @@ msgid ""
 "that it describes a **two-dimensional structure**, rather than a *list*."
 msgstr ""
 "Diátaxis가 문서를 조직하는 지침으로 효과적인 이유 중 하나는, 단순한 *목록*이 아니라 **2차원 구조**를 서술하기 때문입니다."
+
+#: ../../source/snippets/diagram.rst:15
+msgid "The Diátaxis map of documentation types"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:15
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+
+#: ../../source/map.rst:138 ../../source/map.rst:178
+#: ../../source/snippets/diagram.rst:15
+msgid "Tutorials"
+msgstr "튜토리얼"
+
+#: ../../source/map.rst:139 ../../source/map.rst:179
+#: ../../source/snippets/diagram.rst:16
+msgid "How-to guides"
+msgstr "하우투 가이드"
+
+#: ../../source/map.rst:140 ../../source/map.rst:180
+#: ../../source/snippets/diagram.rst:17
+msgid "Reference"
+msgstr "레퍼런스"
+
+#: ../../source/map.rst:141 ../../source/map.rst:181
+#: ../../source/snippets/diagram.rst:18
+msgid "Explanation"
+msgstr "설명"
+
+#: ../../source/map.rst:143 ../../source/map.rst:183
+#: ../../source/snippets/diagram.rst:20
+msgid "Learning-oriented"
+msgstr ""
+
+#: ../../source/map.rst:144 ../../source/map.rst:184
+#: ../../source/snippets/diagram.rst:21
+msgid "Goal-oriented"
+msgstr ""
+
+#: ../../source/map.rst:145 ../../source/map.rst:185
+#: ../../source/snippets/diagram.rst:22
+msgid "Information-oriented"
+msgstr ""
+
+#: ../../source/map.rst:146 ../../source/map.rst:186
+#: ../../source/snippets/diagram.rst:23
+msgid "Understanding-oriented"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:25
+msgid "Directs action"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:26
+msgid "Describes what is"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:27
+msgid "Serves development of skill"
+msgstr ""
+
+#: ../../source/snippets/diagram.rst:28
+msgid "Serves application of skill"
+msgstr ""
 
 #: ../../source/map.rst:14
 msgid ""
@@ -262,20 +335,27 @@ msgid ""
 msgstr "각각의 콘텐츠는 저마다 맡은 하나의 일이 있습니다. 그리고 그 일은 문서의 다른 기능들과 분명히 구별되고 대비됩니다."
 
 #: ../../source/map.rst:103
-msgid "Blur"
-msgstr "흐려지는 경계"
+msgid "Blur and collapse"
+msgstr ""
 
-#: ../../source/map.rst:105
+#: ../../source/map.rst:104
 msgid ""
 "Most documentation systems and authors recognise at least some of these "
 "distinctions and try to observe them in practice."
 msgstr "대부분의 문서 체계와 저자는 이런 구분을 적어도 일부는 알아보며, 실무에서 지키려고 노력합니다."
 
-#: ../../source/map.rst:108
+#: ../../source/map.rst:138
 msgid "Partial collapse of the structure"
 msgstr "구조의 부분적 붕괴"
 
-#: ../../source/map.rst:112
+#: ../../source/map.rst:138
+msgid ""
+"Concepts and intentions from adjacent quadrants blur and overlap with each "
+"other; the documentation's purposes and forms become confused and "
+"indistinct."
+msgstr ""
+
+#: ../../source/map.rst:124
 msgid ""
 "However, there is a kind of natural affinity between each of the different "
 "forms of documentation and its neighbours on the map, and a natural tendency"
@@ -285,39 +365,39 @@ msgstr ""
 "그러나 지도 위의 각 문서 형태들은 저마다 이웃한 것과 자연스럽게 가까워지는 성질이 있습니다. 그래서 구분이 흐려지는 경향도 자연스럽게 "
 "나타나며, 실제 문서 사례에서 이런 모습을 거듭 확인할 수 있습니다."
 
-#: ../../source/map.rst:120
-msgid "guide action"
-msgstr "행동을 안내합니다"
+#: ../../source/map.rst:132
+msgid "directs action"
+msgstr ""
 
-#: ../../source/map.rst:121 ../../source/map.rst:130
+#: ../../source/map.rst:133 ../../source/map.rst:142
 msgid "tutorials"
 msgstr "튜토리얼"
 
-#: ../../source/map.rst:122 ../../source/map.rst:125
+#: ../../source/map.rst:134 ../../source/map.rst:137
 msgid "how-to guides"
 msgstr "하우투 가이드"
 
-#: ../../source/map.rst:123
-msgid "serve the application of skill"
-msgstr "기술의 적용을 지원합니다"
+#: ../../source/map.rst:135
+msgid "serve the development of skill"
+msgstr ""
 
-#: ../../source/map.rst:124 ../../source/map.rst:127
+#: ../../source/map.rst:136 ../../source/map.rst:139
 msgid "reference"
 msgstr "레퍼런스"
 
-#: ../../source/map.rst:126
-msgid "contain propositional knowledge"
-msgstr "명제적 지식을 담습니다"
+#: ../../source/map.rst:138
+msgid "describe what is the case"
+msgstr ""
 
-#: ../../source/map.rst:128 ../../source/map.rst:131
+#: ../../source/map.rst:140 ../../source/map.rst:143
 msgid "explanation"
 msgstr "설명"
 
-#: ../../source/map.rst:129
-msgid "serve the acquisition of skill"
-msgstr "기술의 습득을 지원합니다"
+#: ../../source/map.rst:141
+msgid "serves the development of skill"
+msgstr ""
 
-#: ../../source/map.rst:133
+#: ../../source/map.rst:145
 msgid ""
 "When these distinctions are allowed to blur, the different kinds of "
 "documentation bleed into each other. Writing style and content make their "
@@ -328,31 +408,34 @@ msgstr ""
 "이런 구분이 흐려지도록 놔두면 문서들이 서로 번져 들어갑니다. 문체와 내용이 있어서는 안 될 자리에까지 흘러들어 가고, 나아가 구조적인 "
 "문제까지 일으켜, 알맞게 쓰는 원칙을 지키기가 더욱 어려워집니다."
 
-#: ../../source/map.rst:135
+#: ../../source/map.rst:178
 msgid "Total collapse of the structure"
 msgstr "구조의 완전한 붕괴"
 
-#: ../../source/map.rst:139
+#: ../../source/map.rst:178
 msgid ""
-"In the worst case there is a complete or partial collapse of tutorials and "
-"how-to guides into each other, making it impossible to meet the needs served"
-" by either."
+"All structure breaks down; even the idea of purpose in writing is lost in "
+"the confusion."
 msgstr ""
-"최악의 경우 튜토리얼과 하우투 가이드가 서로에게 완전히, 혹은 부분적으로 무너져 내리고, 각각 충족하던 필요의 어느 쪽도 채울 수 없게 "
-"됩니다."
 
-#: ../../source/map.rst:145
+#: ../../source/map.rst:163
+msgid ""
+"In the worst case there is a complete collapse of different forms into each "
+"other, making it impossible to meet the needs served by either."
+msgstr ""
+
+#: ../../source/map.rst:169
 msgid "The journey around the map"
 msgstr "지도를 따라가는 여정"
 
-#: ../../source/map.rst:147
+#: ../../source/map.rst:171
 msgid ""
 "Diátaxis is intended to help documentation better serve users in their "
 "*cycle of interaction* with a product."
 msgstr ""
 "Diátaxis는 사용자가 제품과 맺는 *상호작용의 순환* 속에서 문서가 사용자를 더 잘 지원하도록 돕는 것을 목표로 합니다."
 
-#: ../../source/map.rst:149
+#: ../../source/map.rst:173
 msgid ""
 "This phrase should not be understood too literally. It is not the case that "
 "a user must encounter the different kinds of documentation in the order "
@@ -365,7 +448,7 @@ msgstr ""
 "순서대로 각 문서 유형을 거쳐야 한다는 뜻이 아닙니다. 실제로 사용자는 특정 주제에 대한 안내를 찾아 문서의 어느 지점으로든 들어올 수 "
 "있습니다. 그리고 문서를 사용하는 동안 읽고 싶은 내용은 시시각각 달라집니다."
 
-#: ../../source/map.rst:154
+#: ../../source/map.rst:178
 msgid ""
 "However, the idea of a cycle of documentation needs, that proceeds through "
 "different phases, is sound and corresponds to the way that people actually "
@@ -374,11 +457,11 @@ msgstr ""
 "그렇더라도 여러 단계를 거쳐 진행되는 문서 필요의 순환이라는 개념 자체는 타당합니다. 사람이 실제로 어떤 일에 능숙해지는 과정과도 "
 "들어맞습니다. 이 순서에는 나름의 이치와 의미가 있습니다."
 
-#: ../../source/map.rst:157
+#: ../../source/map.rst:181
 msgid "Moving around the map"
 msgstr "지도 위를 이동하기"
 
-#: ../../source/map.rst:162
+#: ../../source/map.rst:186
 msgid ""
 "*learning-oriented phase*: We begin by learning, and learning a skill means "
 "diving straight in to do it - under the guidance of a teacher, if we're "
@@ -387,24 +470,24 @@ msgstr ""
 "*학습 지향 단계*: 우리는 배우는 것에서 시작합니다. 그리고 기술을 배운다는 것은 곧바로 뛰어들어 직접 해 보는 것을 뜻합니다. 운이 "
 "좋다면 교사의 안내를 받으면서 말입니다."
 
-#: ../../source/map.rst:164
+#: ../../source/map.rst:188
 msgid "*goal-oriented phase*: Next we want to put the skill to work."
 msgstr "*목표 지향 단계*: 다음으로 우리는 그 기술을 실제 업무에 쓰고 싶어집니다."
 
-#: ../../source/map.rst:165
+#: ../../source/map.rst:189
 msgid ""
 "*information-oriented phase*: As soon as our work calls upon knowledge that "
 "we don't already have in our head, it requires us to consult technical "
 "reference."
 msgstr "*정보 지향 단계*: 업무 중 머릿속에 없는 지식이 필요해지는 순간, 우리는 기술 레퍼런스를 찾아보게 됩니다."
 
-#: ../../source/map.rst:167
+#: ../../source/map.rst:191
 msgid ""
 "*explanation-oriented phase*: Finally, away from the work, we reflect on our"
 " practice and knowledge to understand the whole."
 msgstr "*설명 지향 단계*: 마지막으로 업무에서 물러나, 우리는 자신의 실무와 지식을 성찰하며 전체를 이해합니다."
 
-#: ../../source/map.rst:170
+#: ../../source/map.rst:194
 msgid ""
 "And then it's back to the beginning, perhaps for a new thing to grasp, or to"
 " penetrate deeper."

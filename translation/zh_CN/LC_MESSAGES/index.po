@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -30,19 +30,19 @@ msgstr "主页"
 msgid "Start here"
 msgstr "从这里起步"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:38
 msgid "Tutorials"
 msgstr "教程"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:39
 msgid "How-to guides"
 msgstr "操作指南"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:40
 msgid "Reference"
 msgstr "参考内容"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:41
 msgid "Explanation"
 msgstr "解释说明"
 
@@ -70,9 +70,9 @@ msgstr "Diátaxis 是一种被广泛采用、务实且系统化的方法论，�
 
 #: ../../source/index.rst-1
 msgid "documentation, four, kinds, architecture"
-msgstr ""
+msgstr "文档，四，分类，架构"
 
-#: ../../source/index.rst:9 ../../source/index.rst:33
+#: ../../source/index.rst:9
 msgid "Diátaxis"
 msgstr "Diátaxis"
 
@@ -104,6 +104,55 @@ msgid ""
 msgstr ""
 "Diátaxis "
 "区分了四种不同需求，并相应地给出四种文档形式，即：教程、操作指南、技术参考和解释。它把这四种形式系统化地关联起来，主张文档应该直接围绕用户需求的结构来构建。"
+
+#: ../../source/snippets/diagram.rst:38
+msgid "The Diátaxis map of documentation types"
+msgstr "Diátaxis 文档类型地图"
+
+#: ../../source/snippets/diagram.rst:38
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"这张地图以两条轴线为基准，划分成四个象限。纵向来看，代表了指导行动与陈述事实的文档之间的区别；横向来看，则是面向技能开发和技能运用的文档之间的区别。由此得出四种文档类型：左上为面向学习导向的教程，右上为目标导向的操作指南，右下为信息导向的参考，左下为理解导向的解释。"
+
+#: ../../source/snippets/diagram.rst:43
+msgid "Learning-oriented"
+msgstr "学习导向"
+
+#: ../../source/snippets/diagram.rst:44
+msgid "Goal-oriented"
+msgstr "目标导向"
+
+#: ../../source/snippets/diagram.rst:45
+msgid "Information-oriented"
+msgstr "信息导向"
+
+#: ../../source/snippets/diagram.rst:46
+msgid "Understanding-oriented"
+msgstr "理解导向"
+
+#: ../../source/snippets/diagram.rst:48
+msgid "Directs action"
+msgstr "指导行动"
+
+#: ../../source/snippets/diagram.rst:49
+msgid "Describes what is"
+msgstr "陈述事实"
+
+#: ../../source/snippets/diagram.rst:50
+msgid "Serves development of skill"
+msgstr "面向技能开发"
+
+#: ../../source/snippets/diagram.rst:51
+msgid "Serves application of skill"
+msgstr "面向技能运用"
 
 #: ../../source/index.rst:39
 msgid ""

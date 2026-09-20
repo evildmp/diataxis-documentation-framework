@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
@@ -21,7 +21,7 @@ msgstr ""
 "Language: ru\n"
 "Plural-Forms: nplurals=4; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : n%10==0 || (n%10>=5 && n%10<=9) || (n%100>=11 && n%100<=14)? 2 : 3);\n"
 
-#: ../../source/reference.rst:4
+#: ../../source/reference.rst:4 ../../source/reference.rst:18
 msgid "Reference"
 msgstr "Справочник"
 
@@ -46,22 +46,29 @@ msgstr ""
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
 "possible, and in an orderly way. Whereas the content of tutorials and how-to"
-" guides are led by needs of the user, reference material is led by the "
+" guides is led by the needs of the user, reference material is led by the "
 "product it describes."
 msgstr ""
-"Задача справочника — кратко и последовательно описать предмет. Уроки и "
-"инструкции строятся вокруг задач пользователя, а справочник — вокруг самого "
-"продукта."
 
-#: ../../source/reference.rst:16
+#: ../../source/reference.rst:18
 msgid ""
-"Reference - information oriented, theoretical knowledge, that serves our "
-"work"
+"Reference describes what is, and serves the application of skill. It is "
+"information-oriented."
 msgstr ""
-"Справочник — факты и технические сведения, к которым мы обращаемся во время "
-"работы"
+
+#: ../../source/reference.rst:19
+msgid "Information-oriented"
+msgstr ""
 
 #: ../../source/reference.rst:20
+msgid "Describes what is"
+msgstr ""
+
+#: ../../source/reference.rst:21
+msgid "Serves application of skill"
+msgstr ""
+
+#: ../../source/reference.rst:27
 msgid ""
 "In the case of software, reference guides describe the software itself - "
 "APIs, classes, functions and so on - and how to use them."
@@ -69,21 +76,19 @@ msgstr ""
 "В случае с программным обеспечением справочник описывает сам продукт — API, "
 "классы, функции и другие его части — и то, как ими пользоваться."
 
-#: ../../source/reference.rst:23
+#: ../../source/reference.rst:30
 msgid ""
 "Your users need reference material because they need truth and certainty - "
-"firm platforms on which to stand while they work. Good technical reference "
-"is essential to provide users with the confidence to do their work."
+"firm platforms on which to stand while they apply their skill. Good "
+"technical reference is essential to provide users with the confidence to do "
+"their work."
 msgstr ""
-"Пользователю нужен справочник, потому что во время работы нужны точные и "
-"однозначные ответы — надёжная опора. Хороший технический справочник даёт "
-"уверенность, что можно действовать дальше."
 
-#: ../../source/reference.rst:29
+#: ../../source/reference.rst:36
 msgid "Reference as description"
 msgstr "Справочник как описание"
 
-#: ../../source/reference.rst:31
+#: ../../source/reference.rst:38
 msgid ""
 "Reference material describes the machinery. It should be **austere**. One "
 "hardly *reads* reference material; one *consults* it."
@@ -91,7 +96,7 @@ msgstr ""
 "Справочник описывает систему. Он должен быть **строгим и без лишнего**. "
 "Справочник почти никогда не *читают* — с ним *сверяются*."
 
-#: ../../source/reference.rst:34
+#: ../../source/reference.rst:41
 msgid ""
 "There should be no doubt or ambiguity in reference; it should be wholly "
 "authoritative."
@@ -99,7 +104,7 @@ msgstr ""
 "Справочник не должен оставлять места сомнениям или двусмысленности: на его "
 "сведения должно быть можно полностью положиться."
 
-#: ../../source/reference.rst:36
+#: ../../source/reference.rst:43
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
 "about the territory, without having to go out and check the territory for "
@@ -110,7 +115,7 @@ msgstr ""
 "приходится каждый раз проверять всё на месте. Справочник делает то же самое "
 "для продукта и его внутреннего устройства."
 
-#: ../../source/reference.rst:40
+#: ../../source/reference.rst:47
 msgid ""
 "Although reference should not attempt to show how to perform tasks, it can "
 "and often needs to include a description of how something works or the "
@@ -119,7 +124,7 @@ msgstr ""
 "Справочник не должен учить выполнять задачи, но ему часто нужно описывать, "
 "как что-то работает или как этим правильно пользоваться."
 
-#: ../../source/reference.rst:45
+#: ../../source/reference.rst:52
 msgid ""
 "Unfortunately, too many software developers think that auto-generated "
 "reference material is all the documentation required."
@@ -127,7 +132,7 @@ msgstr ""
 "К сожалению, слишком многие разработчики считают, что автоматически "
 "сгенерированного справочника достаточно и другой документации не нужно."
 
-#: ../../source/reference.rst:48
+#: ../../source/reference.rst:55
 msgid ""
 "Some reference material (such as API documentation) can be generated "
 "automatically by the software it describes, which is a powerful way of "
@@ -137,31 +142,31 @@ msgstr ""
 "генерировать автоматически из самого программного обеспечения. Это хороший "
 "способ поддерживать их в точном соответствии с кодом."
 
-#: ../../source/reference.rst:56
+#: ../../source/reference.rst:63
 msgid "Key principles"
 msgstr "Основные принципы"
 
-#: ../../source/reference.rst:59
+#: ../../source/reference.rst:66
 msgid "Describe and only describe"
 msgstr "Описывайте — и только"
 
-#: ../../source/reference.rst:61
+#: ../../source/reference.rst:68
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr "Главное правило технического справочника — *нейтрально описывать*."
 
-#: ../../source/reference.rst:65
+#: ../../source/reference.rst:72
 msgid "austere and uncompromising"
 msgstr "строгий и бескомпромиссный"
 
-#: ../../source/reference.rst:66
+#: ../../source/reference.rst:73
 msgid "neutrality, objectivity, factuality"
 msgstr "нейтральность, объективность, факты"
 
-#: ../../source/reference.rst:67
+#: ../../source/reference.rst:74
 msgid "structured according to the structure of the machinery itself"
 msgstr "структура повторяет устройство самого продукта"
 
-#: ../../source/reference.rst:69
+#: ../../source/reference.rst:76
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
 "neutrally. It's not a natural way of communicating. What's natural on the "
@@ -173,7 +178,7 @@ msgstr ""
 "общаемся иначе: объясняем, учим, обсуждаем, высказываем мнение. Для "
 "справочника всё это лишнее. Здесь важны точность, полнота и ясность."
 
-#: ../../source/reference.rst:71
+#: ../../source/reference.rst:78
 msgid ""
 "It can be tempting to introduce instruction and explanation, simply because "
 "description can seem too inadequate to be useful, and because we do indeed "
@@ -184,11 +189,11 @@ msgstr ""
 " инструкций и объяснений. Они действительно нужны — но в других местах. "
 "Лучше поставить ссылки на инструкции, объяснения и вводные уроки."
 
-#: ../../source/reference.rst:75
+#: ../../source/reference.rst:82
 msgid "Adopt standard patterns"
 msgstr "Используйте стандартные шаблоны"
 
-#: ../../source/reference.rst:77
+#: ../../source/reference.rst:84
 msgid ""
 "**Reference material is useful when it is consistent.** Standard patterns "
 "are what allow us to use reference material effectively. Your job is to "
@@ -199,7 +204,7 @@ msgstr ""
 "быстро находить нужное. Размещайте информацию там, где пользователь ожидает "
 "её увидеть, и оформляйте привычным для него способом."
 
-#: ../../source/reference.rst:79
+#: ../../source/reference.rst:86
 msgid ""
 "There are many opportunities in writing to delight your readers with your "
 "extensive vocabulary and command of multiple styles, but reference material "
@@ -208,11 +213,11 @@ msgstr ""
 "В других текстах можно блистать словарным запасом и стилем. В справочнике "
 "лучше не надо."
 
-#: ../../source/reference.rst:85
+#: ../../source/reference.rst:92
 msgid "Respect the structure of the machinery"
 msgstr "Сохраняйте структуру продукта"
 
-#: ../../source/reference.rst:87
+#: ../../source/reference.rst:94
 msgid ""
 "The way a map corresponds to the territory it represents helps us use the "
 "former to find our way through the latter. It should be the same with "
@@ -225,7 +230,7 @@ msgstr ""
 "должна повторять структуру продукта**, чтобы пользователь мог одновременно "
 "ориентироваться и там, и там."
 
-#: ../../source/reference.rst:92
+#: ../../source/reference.rst:99
 msgid ""
 "It doesn't mean forcing the documentation into an unnatural structure. "
 "What's important is that the logical, conceptual arrangement of and "
@@ -235,11 +240,11 @@ msgstr ""
 "кода. Важно, чтобы логика, основные сущности и связи в коде помогали понять,"
 " как устроена документация."
 
-#: ../../source/reference.rst:98
+#: ../../source/reference.rst:105
 msgid "Provide examples"
 msgstr "Добавляйте примеры"
 
-#: ../../source/reference.rst:100
+#: ../../source/reference.rst:107
 msgid ""
 "**Examples** are valuable ways of providing illustration that helps readers "
 "understand reference, while avoiding the risk of becoming distracted from "
@@ -251,11 +256,11 @@ msgstr ""
 "инструкцию. Например, короткий пример использования команды покажет, как она"
 " выглядит в контексте, и при этом не потребует длинных объяснений."
 
-#: ../../source/reference.rst:106
+#: ../../source/reference.rst:113
 msgid "The language of reference guides"
 msgstr "Язык справочников"
 
-#: ../../source/reference.rst:108
+#: ../../source/reference.rst:115
 msgid ""
 "Django's default logging configuration inherits Python's defaults. It's "
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
@@ -265,15 +270,15 @@ msgstr ""
 "доступна как ``django.utils.log.DEFAULT_LOGGING`` и определена в "
 "``django/utils/log.py``."
 
-#: ../../source/reference.rst:109
+#: ../../source/reference.rst:116
 msgid "State facts about the machinery and its behaviour."
 msgstr "Фиксируйте факты о системе и её поведении."
 
-#: ../../source/reference.rst:110
+#: ../../source/reference.rst:117
 msgid "Sub-commands are: a, b, c, d, e, f."
 msgstr "Доступные подкоманды: a, b, c, d, e, f."
 
-#: ../../source/reference.rst:111
+#: ../../source/reference.rst:118
 msgid ""
 "List commands, options, operations, features, flags, limitations, error "
 "messages, etc."
@@ -281,20 +286,20 @@ msgstr ""
 "Перечисляйте команды, параметры, операции, возможности, флаги, ограничения, "
 "сообщения об ошибках и т. д."
 
-#: ../../source/reference.rst:112
+#: ../../source/reference.rst:119
 msgid "You must use a. You must not apply b unless c. Never d."
 msgstr ""
 "Нужно использовать a. Не применяйте b, если нет c. Никогда не используйте d."
 
-#: ../../source/reference.rst:113
+#: ../../source/reference.rst:120
 msgid "Provide warnings where appropriate."
 msgstr "Добавляйте предупреждения там, где они нужны."
 
-#: ../../source/reference.rst:118
+#: ../../source/reference.rst:125
 msgid "Applied to food and cooking"
 msgstr "На примере готовки"
 
-#: ../../source/reference.rst:120
+#: ../../source/reference.rst:127
 msgid ""
 "You might check the information on a packet of food, in order to help you "
 "make a decision about what to do."
@@ -302,7 +307,7 @@ msgstr ""
 "Иногда мы читаем информацию на упаковке продукта, чтобы решить, что с ним "
 "делать."
 
-#: ../../source/reference.rst:122
+#: ../../source/reference.rst:129
 msgid ""
 "When you're looking for information - relevant facts - you do not want to be"
 " confronted by opinions, speculation, instructions or interpretation."
@@ -310,11 +315,11 @@ msgstr ""
 "Когда вам нужны сведения — конкретные факты — вы не хотите продираться через"
 " мнения, догадки, инструкции и трактовки."
 
-#: ../../source/reference.rst:124
+#: ../../source/reference.rst:131
 msgid "Information on the back of a packet of lasagne"
 msgstr "Информация на упаковке лазаньи"
 
-#: ../../source/reference.rst:129
+#: ../../source/reference.rst:136
 msgid ""
 "You also expect that information to be presented in standard ways, so that "
 "you - when you need to know about something's nutritional properties, how it"
@@ -325,7 +330,7 @@ msgstr ""
 "пищевую ценность, условия хранения, состав и предупреждения о здоровье можно"
 " быстро найти и понять, что им можно доверять."
 
-#: ../../source/reference.rst:131
+#: ../../source/reference.rst:138
 msgid ""
 "So you expect to see for example: *May contain traces of wheat*. Or: *Net "
 "weight: 1000g*."
@@ -333,7 +338,7 @@ msgstr ""
 "Поэтому мы ожидаем увидеть, например: *Может содержать следы пшеницы*. Или: "
 "*Масса нетто: 1000 г*."
 
-#: ../../source/reference.rst:133
+#: ../../source/reference.rst:140
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
@@ -341,7 +346,7 @@ msgstr ""
 "Вы точно не ждёте увидеть среди этих сведений рецепты или рекламные "
 "обещания. Такое смешение может быть в буквальном смысле опасным."
 
-#: ../../source/reference.rst:135
+#: ../../source/reference.rst:142
 msgid ""
 "The way reference material is presented on food products is so important "
 "that it's usually governed by law, and the same kind of seriousness should "

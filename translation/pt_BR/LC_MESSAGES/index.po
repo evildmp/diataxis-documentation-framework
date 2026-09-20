@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -30,19 +30,19 @@ msgstr "Início"
 msgid "Start here"
 msgstr "Comece aqui"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:38
 msgid "Tutorials"
 msgstr "Tutoriais"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:39
 msgid "How-to guides"
 msgstr "Guias práticos"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:40
 msgid "Reference"
 msgstr "Referência"
 
-#: ../../source/index.rst:78
+#: ../../source/index.rst:78 ../../source/snippets/diagram.rst:41
 msgid "Explanation"
 msgstr "Explicação"
 
@@ -74,7 +74,7 @@ msgstr ""
 msgid "documentation, four, kinds, architecture"
 msgstr "documentação, quatro, tipos, arquitetura"
 
-#: ../../source/index.rst:9 ../../source/index.rst:33
+#: ../../source/index.rst:9
 msgid "Diátaxis"
 msgstr "Diátaxis"
 
@@ -112,6 +112,62 @@ msgstr ""
 " técnica* e *explicação*. Ele as coloca em uma relação sistemática e propõe "
 "que a própria documentação deve ser organizada em torno das estruturas "
 "dessas necessidades."
+
+#: ../../source/snippets/diagram.rst:38
+msgid "The Diátaxis map of documentation types"
+msgstr "O mapa Diátaxis de tipos de documentação"
+
+#: ../../source/snippets/diagram.rst:38
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"O mapa é definido por dois eixos que o dividem em quatro quadrantes. Acima e"
+" abaixo, documentação que direciona ações versus documentação que descreve o"
+" que é o caso. Esquerda e direita, documentação que serve ao desenvolvimento"
+" de habilidade versus documentação que serve à aplicação de habilidade. Isso"
+" nos dá quatro tipos de documentação. Superior esquerdo: tutoriais "
+"orientados ao aprendizado. Superior direito: guias práticos orientados a "
+"objetivos. Inferior direito: referência orientada à informação. Inferior "
+"esquerdo: explicação orientada à compreensão."
+
+#: ../../source/snippets/diagram.rst:43
+msgid "Learning-oriented"
+msgstr "Orientado para o aprendizado"
+
+#: ../../source/snippets/diagram.rst:44
+msgid "Goal-oriented"
+msgstr "Orientado a objetivos"
+
+#: ../../source/snippets/diagram.rst:45
+msgid "Information-oriented"
+msgstr "Orientado à informação"
+
+#: ../../source/snippets/diagram.rst:46
+msgid "Understanding-oriented"
+msgstr "Orientado para a compreensão"
+
+#: ../../source/snippets/diagram.rst:48
+msgid "Directs action"
+msgstr "Direciona a ação"
+
+#: ../../source/snippets/diagram.rst:49
+msgid "Describes what is"
+msgstr "Descreve o que é"
+
+#: ../../source/snippets/diagram.rst:50
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
+
+#: ../../source/snippets/diagram.rst:51
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
 
 #: ../../source/index.rst:39
 msgid ""

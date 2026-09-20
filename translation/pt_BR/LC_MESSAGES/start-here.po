@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -81,7 +81,7 @@ msgstr ""
 " e *explicação*. Cada um tem um propósito diferente e precisa ser escrito de"
 " uma maneira diferente."
 
-#: ../../source/start-here.rst:26
+#: ../../source/start-here.rst:26 ../../source/snippets/diagram.rst:109
 msgid "Tutorials"
 msgstr "Tutoriais"
 
@@ -141,7 +141,7 @@ msgstr ""
 "instrutor deve, de alguma forma, encontrar um modo de estar presente apenas "
 "por meio de instruções escritas."
 
-#: ../../source/start-here.rst:43
+#: ../../source/start-here.rst:43 ../../source/snippets/diagram.rst:110
 msgid "How-to guides"
 msgstr "Guias práticos"
 
@@ -162,11 +162,13 @@ msgstr ""
 msgid ""
 "A how-to guide always addresses an already-competent user, who is expected "
 "to be able to use the guide to help them get their work done. In contrast to"
-" a tutorial, a how-to guide is concerned with *work* rather than *study*."
+" a tutorial, a how-to guide is concerned with the development of skill "
+"rather than its application – with *work* rather than *study*."
 msgstr ""
-"Um guia prático sempre se dirige a um usuário já competente, que se espera "
-"que seja capaz de usar o guia para ajudá-lo a realizar seu trabalho. Em "
-"contraste com um tutorial, um guia prático preocupa-se com o *trabalho* em "
+"Um guia prático sempre se dirige a um usuário já competente, do qual se "
+"espera que seja capaz de usar o guia para ajudá-lo a realizar seu trabalho. "
+"Em contraste com um tutorial, um guia prático preocupa-se com o "
+"desenvolvimento de habilidade em vez de sua aplicação – com o *trabalho* em "
 "vez do *estudo*."
 
 #: ../../source/start-here.rst:53
@@ -179,7 +181,7 @@ msgstr ""
 "fotografia cinematográfica) ou *Como configurar o perfilamento de quadros* "
 "(em software). Ou até mesmo: *Resolução de problemas de implantação*."
 
-#: ../../source/start-here.rst:57
+#: ../../source/start-here.rst:57 ../../source/snippets/diagram.rst:111
 msgid "Reference"
 msgstr "Referência"
 
@@ -191,23 +193,25 @@ msgstr ":ref:`Referência com mais detalhes <reference>`"
 msgid ""
 "**Reference guides contain the technical description** - facts - that a user"
 " needs in order to do things correctly: accurate, complete, reliable "
-"information, free of distraction and interpretation. They contain "
-"*propositional or theoretical knowledge*, not guides to action."
+"information, free of distraction and interpretation. They describe *what is "
+"the case*. They contain propositional or theoretical knowledge, not guides "
+"to action."
 msgstr ""
 "**Guias de referência contêm a descrição técnica** - fatos - que um usuário "
-"precisa para fazer as coisas corretamente: informações precisas, completas, "
-"confiáveis, livres de distrações e interpretações. Eles contêm *conhecimento"
-" proposicional ou teórico*, não guias de ação."
+"precisa para fazer as coisas corretamente: informação precisa, completa, "
+"confiável, livre de distração e interpretação. Eles descrevem *o que é o "
+"caso*. Eles contêm conhecimento proposicional ou teórico, não guias para a "
+"ação."
 
 #: ../../source/start-here.rst:65
 msgid ""
-"Like a how-to guide, reference documentation serves the user who is at "
-"*work*, and it's up to the user to be sufficiently competent to interpret "
-"and use it correctly."
+"Like a how-to guide, reference documentation serves the user who is "
+"*applying skill*, and it's up to the user to be sufficiently competent to "
+"interpret and use it correctly."
 msgstr ""
 "Como um guia prático, a documentação de referência serve ao usuário que está"
-" *trabalhando*, e cabe ao usuário ser suficientemente competente para "
-"interpretá-la e usá-la corretamente."
+" *aplicando habilidade*, e cabe ao usuário ser suficientemente competente "
+"para interpretá-la e usá-la corretamente."
 
 #: ../../source/start-here.rst:67
 msgid ""
@@ -232,7 +236,7 @@ msgstr ""
 "determinado módulo, então devemos esperar ver a mesma relação na "
 "documentação também."
 
-#: ../../source/start-here.rst:73
+#: ../../source/start-here.rst:73 ../../source/snippets/diagram.rst:112
 msgid "Explanation"
 msgstr "Explicação"
 
@@ -269,12 +273,13 @@ msgstr ""
 #: ../../source/start-here.rst:85
 msgid ""
 "Like reference, explanation belongs to the realm of propositional knowledge "
-"rather than action. However its purpose is to serve the user's study - as "
-"tutorials do - and not their work."
+"rather than action. However its purpose is to serve the user's study or "
+"development of skill - as tutorials do - and not their work."
 msgstr ""
-"Assim como a referência, a explicação pertence ao reino do conhecimento "
+"Como a referência, a explicação pertence ao reino do conhecimento "
 "proposicional, em vez da ação. No entanto, seu propósito é servir ao estudo "
-"do usuário - como fazem os tutoriais - e não ao seu trabalho."
+"ou ao desenvolvimento de habilidade do usuário - como fazem os tutoriais - e"
+" não ao seu trabalho."
 
 #: ../../source/start-here.rst:87
 msgid ""
@@ -326,70 +331,123 @@ msgstr ""
 "Cruzar ou borrar as fronteiras descritas no mapa está no cerne de um vasto "
 "número de problemas na documentação."
 
-#: ../../source/start-here.rst:105
-msgid "Diátaxis"
-msgstr "Diátaxis"
+#: ../../source/snippets/diagram.rst:109
+msgid "The Diátaxis map of documentation types"
+msgstr "O mapa Diátaxis de tipos de documentação"
 
-#: ../../source/start-here.rst:112
+#: ../../source/snippets/diagram.rst:109
+msgid ""
+"The map is defined by two axes that divide it into four quadrants. Above and"
+" below, documentation that directs actions versus documentation that "
+"describes what is the case. Left and right, documentation that serves "
+"development of skill versus documentation that serves application of skill. "
+"This gives us four kinds of documentation. Top left: learning-oriented "
+"tutorials. Top right: goal-oriented how-to guides. Bottom right: "
+"information-oriented reference. Bottom left: understanding-oriented "
+"explanation."
+msgstr ""
+"O mapa é definido por dois eixos que o dividem em quatro quadrantes. Acima e"
+" abaixo, documentação que direciona ações versus documentação que descreve o"
+" que é o caso. Esquerda e direita, documentação que serve ao desenvolvimento"
+" de habilidade versus documentação que serve à aplicação de habilidade. Isso"
+" nos dá quatro tipos de documentação. Superior esquerdo: tutoriais "
+"orientados ao aprendizado. Superior direito: guias práticos orientados a "
+"objetivos. Inferior direito: referência orientada à informação. Inferior "
+"esquerdo: explicação orientada à compreensão."
+
+#: ../../source/snippets/diagram.rst:114
+msgid "Learning-oriented"
+msgstr "Orientado para o aprendizado"
+
+#: ../../source/snippets/diagram.rst:115
+msgid "Goal-oriented"
+msgstr "Orientado a objetivos"
+
+#: ../../source/snippets/diagram.rst:116
+msgid "Information-oriented"
+msgstr "Orientado à informação"
+
+#: ../../source/snippets/diagram.rst:117
+msgid "Understanding-oriented"
+msgstr "Orientado para a compreensão"
+
+#: ../../source/snippets/diagram.rst:119
+msgid "Directs action"
+msgstr "Direciona a ação"
+
+#: ../../source/snippets/diagram.rst:120
+msgid "Describes what is"
+msgstr "Descreve o que é"
+
+#: ../../source/snippets/diagram.rst:121
+msgid "Serves development of skill"
+msgstr "Serve ao desenvolvimento de habilidade"
+
+#: ../../source/snippets/diagram.rst:122
+msgid "Serves application of skill"
+msgstr "Serve para aplicação de habilidade"
+
+#: ../../source/start-here.rst:111
 msgid "The Diátaxis compass"
 msgstr "A bússola Diátaxis"
 
-#: ../../source/start-here.rst:114
+#: ../../source/start-here.rst:113
 msgid "As you can see from the map:"
 msgstr "Como você pode ver pelo mapa:"
 
-#: ../../source/start-here.rst:116
+#: ../../source/start-here.rst:115
 msgid ""
 "tutorials and how-to guides are concerned with what the user *does* "
 "(**action**)"
 msgstr "tutoriais e guias práticos tratam do que o usuário *faz* (**ação**)"
 
-#: ../../source/start-here.rst:117
+#: ../../source/start-here.rst:116
 msgid ""
-"reference and explanation are about what the user *knows* (**cognition**)"
+"reference and explanation are about what the user *knows* (**what is the "
+"case**)"
 msgstr ""
-"referência e explicação dizem respeito ao que o usuário *sabe* "
-"(**cognição**)"
+"referência e explicação são sobre o que o usuário *sabe* (**o que é o "
+"caso**)"
 
-#: ../../source/start-here.rst:119
+#: ../../source/start-here.rst:118
 msgid "On the other hand:"
 msgstr "Por outro lado:"
 
+#: ../../source/start-here.rst:120
+msgid ""
+"tutorials and explanation serve *study* (the user's **development** of "
+"skill)"
+msgstr ""
+"tutoriais e explicação servem ao *estudo* (o **desenvolvimento** de "
+"habilidade do usuário)"
+
 #: ../../source/start-here.rst:121
 msgid ""
-"tutorials and explanation serve the *acquisition* of skill (the user's "
-"**study**)"
+"how-to guides and reference serve *work* (the user's **application** of "
+"skill)"
 msgstr ""
-"tutoriais e explicações servem para a *aquisição* de habilidade (o "
-"**estudo** do usuário)"
+"guias práticos e referência servem ao *trabalho* (a **aplicação** de "
+"habilidade do usuário)"
 
-#: ../../source/start-here.rst:122
+#: ../../source/start-here.rst:123
 msgid ""
-"how-to guides and reference serve the *application* of skill (the user's "
-"**work**)"
-msgstr ""
-"guias práticos e de referência servem à *aplicação* de habilidade (o "
-"**trabalho** do usuário)"
-
-#: ../../source/start-here.rst:124
-msgid ""
-"But a map doesn't tell you what to *do* - it's reference. To guide your "
+"But a map doesn't tell you what to *do* - it's reference. To guide *your* "
 "action you need a different sort of tool, in this case, a kind of Diátaxis "
 "compass."
 msgstr ""
-"Mas um mapa não diz o que *fazer* - é uma referência. Para guiar sua ação, "
-"você precisa de um tipo diferente de ferramenta, neste caso, uma espécie de "
+"Mas um mapa não diz o que *fazer* - é referência. Para guiar *sua* ação você"
+" precisa de um tipo diferente de ferramenta, neste caso, uma espécie de "
 "bússola Diátaxis."
 
-#: ../../source/start-here.rst:128
+#: ../../source/start-here.rst:127
 msgid ":ref:`The compass in more detail <compass>`"
 msgstr ":ref:`A bússola em mais detalhes <compass>`"
 
-#: ../../source/start-here.rst:130
+#: ../../source/start-here.rst:129
 msgid "The compass is useful in two different ways."
 msgstr "A bússola é útil de duas maneiras diferentes."
 
-#: ../../source/start-here.rst:132
+#: ../../source/start-here.rst:131
 msgid ""
 "When creating documentation, it helps clarify your own intentions, and helps"
 " make sure you're actually doing what you think you're doing."
@@ -398,7 +456,7 @@ msgstr ""
 "ajuda a garantir que você está realmente fazendo o que pensa que está "
 "fazendo."
 
-#: ../../source/start-here.rst:134
+#: ../../source/start-here.rst:133
 msgid ""
 "When looking at documentation, it helps understand what's going on in it, "
 "and makes problems stand out."
@@ -406,7 +464,7 @@ msgstr ""
 "Ao analisar a documentação, ajuda a entender o que está acontecendo nela e "
 "faz com que os problemas se destaquem."
 
-#: ../../source/start-here.rst:136
+#: ../../source/start-here.rst:135
 msgid ""
 "The compass is not nearly as eye-catching as the map, but when you're at "
 "work puzzling over a documentation problem it's what will help you move "
@@ -416,63 +474,63 @@ msgstr ""
 "está trabalhando, tentando resolver um problema de documentação, é o que o "
 "ajudará a seguir em frente."
 
-#: ../../source/start-here.rst:144
+#: ../../source/snippets/compass.rst:7
 msgid "If the content..."
 msgstr "Se o conteúdo..."
 
-#: ../../source/start-here.rst:145
+#: ../../source/snippets/compass.rst:8
 msgid "...and serves the user's..."
 msgstr "...e atende às necessidades do usuário..."
 
-#: ../../source/start-here.rst:146
+#: ../../source/snippets/compass.rst:9
 msgid "...then it must belong to..."
 msgstr "...então deve pertencer a..."
 
-#: ../../source/start-here.rst:147 ../../source/start-here.rst:150
-msgid "informs action"
-msgstr "orienta a ação"
+#: ../../source/snippets/compass.rst:10 ../../source/snippets/compass.rst:13
+msgid "directs action"
+msgstr "direciona a ação"
 
-#: ../../source/start-here.rst:148 ../../source/start-here.rst:157
-msgid "acquisition of skill"
-msgstr "aquisição de habilidade"
+#: ../../source/snippets/compass.rst:11 ../../source/snippets/compass.rst:20
+msgid "development of skill"
+msgstr "desenvolvimento de habilidade"
 
-#: ../../source/start-here.rst:149
+#: ../../source/snippets/compass.rst:12
 msgid "a tutorial"
 msgstr "um tutorial"
 
-#: ../../source/start-here.rst:151 ../../source/start-here.rst:154
+#: ../../source/snippets/compass.rst:14 ../../source/snippets/compass.rst:17
 msgid "application of skill"
 msgstr "aplicação de habilidade"
 
-#: ../../source/start-here.rst:152
+#: ../../source/snippets/compass.rst:15
 msgid "a how-to guide"
 msgstr "um guia prático"
 
-#: ../../source/start-here.rst:153 ../../source/start-here.rst:156
-msgid "informs cognition"
-msgstr "embasa a cognição"
+#: ../../source/snippets/compass.rst:16 ../../source/snippets/compass.rst:19
+msgid "describes what is"
+msgstr "descreve o que é"
 
-#: ../../source/start-here.rst:155
+#: ../../source/snippets/compass.rst:18
 msgid "reference"
 msgstr "referencia"
 
-#: ../../source/start-here.rst:158
+#: ../../source/snippets/compass.rst:21
 msgid "explanation"
 msgstr "explicação"
 
-#: ../../source/start-here.rst:165
+#: ../../source/start-here.rst:143
 msgid "Working"
 msgstr "Trabalhando"
 
-#: ../../source/start-here.rst:167
+#: ../../source/start-here.rst:145
 msgid "There is a very simple workflow for Diátaxis."
 msgstr "Existe um fluxo de trabalho muito simples para o Diátaxis."
 
-#: ../../source/start-here.rst:171
+#: ../../source/start-here.rst:149
 msgid ":ref:`how-to-use-diataxis`"
 msgstr ":ref:`how-to-use-diataxis`"
 
-#: ../../source/start-here.rst:173
+#: ../../source/start-here.rst:151
 msgid ""
 "Consider what you see in the documentation, in front of you right now (which"
 " might be literally nothing, if you haven't started yet)."
@@ -480,11 +538,11 @@ msgstr ""
 "Considere o que você vê na documentação, diante de você agora mesmo (o que "
 "pode ser literalmente nada, se você ainda não começou)."
 
-#: ../../source/start-here.rst:175
+#: ../../source/start-here.rst:153
 msgid "Ask: *is there any way in which it could be improved?*"
 msgstr "Pergunte: *existe alguma maneira de isso ser melhorado?*"
 
-#: ../../source/start-here.rst:177
+#: ../../source/start-here.rst:155
 msgid ""
 "Decide on *one* thing you could do to it right now, however small, that "
 "would improve it."
@@ -492,23 +550,23 @@ msgstr ""
 "Decida *uma* coisa que você poderia fazer com isso agora mesmo, por menor "
 "que seja, que o melhoraria."
 
-#: ../../source/start-here.rst:179
+#: ../../source/start-here.rst:157
 msgid "Do that thing."
 msgstr "Faça aquela coisa."
 
-#: ../../source/start-here.rst:181
+#: ../../source/start-here.rst:159
 msgid "And then repeat."
 msgstr "E então repita."
 
-#: ../../source/start-here.rst:183
+#: ../../source/start-here.rst:161
 msgid "That's it."
 msgstr "E é isso."
 
-#: ../../source/start-here.rst:189
+#: ../../source/start-here.rst:167
 msgid "Do what you like"
 msgstr "Faça o que você quiser"
 
-#: ../../source/start-here.rst:191
+#: ../../source/start-here.rst:169
 msgid ""
 "You can do what you like with Diátaxis. You don't have to believe in it and "
 "there is no exam. It is a wholly pragmatic approach. I think it's *true*, "
@@ -522,7 +580,7 @@ msgstr ""
 "uma documentação melhor. Se você encontrar uma ideia ou insight nele que "
 "pareça valer a pena, aproveite-a."
 
-#: ../../source/start-here.rst:193
+#: ../../source/start-here.rst:171
 msgid ""
 "There is an extensively elaborated theory around Diátaxis, but you don't "
 "need to subscribe to it, or even read about it. Diátaxis doesn't require a "
@@ -532,7 +590,7 @@ msgstr ""
 "precisa aderir a ela, nem mesmo ler sobre ela. O Diátaxis não exige o "
 "compromisso de segui-lo até um fim último."
 
-#: ../../source/start-here.rst:195
+#: ../../source/start-here.rst:173
 msgid ""
 "You can do just one thing, right now, and even if you do nothing else ever "
 "after, you will at least have made that one improvement. (In practice what "
@@ -545,18 +603,18 @@ msgstr ""
 " pista sobre a próxima coisa a fazer - você só precisa continuar fazendo-"
 "as.)"
 
-#: ../../source/start-here.rst:199
+#: ../../source/start-here.rst:177
 msgid "Get started"
 msgstr "Comece agora"
 
-#: ../../source/start-here.rst:201
+#: ../../source/start-here.rst:179
 msgid ""
 "At this point, you have read everything you need to get started with "
 "Diátaxis."
 msgstr ""
 "A esta altura, você já leu tudo o que precisa para começar com o Diátaxis."
 
-#: ../../source/start-here.rst:203
+#: ../../source/start-here.rst:181
 msgid ""
 "You can read more if you want, and eventually you probably should, but *you "
 "will get the most value from the guidance in this website when you turn to "

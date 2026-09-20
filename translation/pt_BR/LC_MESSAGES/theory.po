@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Rodrigo de Avila <rdeavila@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
@@ -85,25 +85,21 @@ msgstr ""
 "Diátaxis."
 
 #: ../../source/theory.rst:27
-msgid ":doc:`foundations` - *why* Diátaxis works"
-msgstr ":doc:`foundations` - *por que* Diátaxis funciona"
-
-#: ../../source/theory.rst:28
 msgid ":doc:`map` - documentation in two dimensions"
 msgstr ":doc:`map` - documentação em duas dimensões"
 
-#: ../../source/theory.rst:29
+#: ../../source/theory.rst:28
 msgid ":doc:`quality`"
 msgstr ":doc:`quality`"
 
-#: ../../source/theory.rst:31
+#: ../../source/theory.rst:30
 msgid "Common problems explored:"
 msgstr "Problemas comuns explorados:"
 
-#: ../../source/theory.rst:33
+#: ../../source/theory.rst:32
 msgid ":doc:`tutorials-how-to`"
 msgstr ":doc:`tutorials-how-to`"
 
-#: ../../source/theory.rst:34
+#: ../../source/theory.rst:33
 msgid ":doc:`reference-explanation`"
 msgstr ":doc:`reference-explanation`"
