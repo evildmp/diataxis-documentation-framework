@@ -36,7 +36,7 @@ covering:
 - Latin-1 Supplement (U+00A0–00FF) — accents for fr/it/de/pt_BR
 - Latin Extended-A (U+0100–017F) — Polish ą ć ę ł ń ó ś ź ż and uppercase
 - Apostrophes U+0027 (straight) and U+2019 (typographic)
-- A few punctuation marks (U+2014 em dash, U+2018–201F quotes)
+- A few punctuation marks (U+2013 en dash, U+2014 em dash, U+2018–201F quotes)
 
 The ``wdth`` axis is **pinned to 1.0** during the build (see
 ``build_subset.sh``). The diagram only ever uses ``wdth=1.0``, so

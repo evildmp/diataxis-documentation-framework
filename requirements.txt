@@ -1,8 +1,9 @@
-Sphinx==8.2.3
+Sphinx==9.1.0
+docutils==0.22.4
 furo==2025.12.19
 sphinx-autobuild==2025.8.25
-sphinx-reredirects==0.1.2
+sphinx-reredirects==1.1.0
 sphinx_design==0.7.0
-sphinx-intl==2.3.2
-sphinxcontrib-spelling==8.0.1
+sphinx-intl==2.4.0
+sphinxcontrib-spelling==8.0.2
 pyenchant==3.3.0

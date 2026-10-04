@@ -27,12 +27,13 @@ SUBSET_TTF="$TMPDIR_LOCAL/skia_subset.ttf"
 INSTANCED_TTF="$TMPDIR_LOCAL/skia_instanced.ttf"
 
 # Character set: Basic Latin, Latin-1 Supplement, Latin Extended-A, plus
-# straight apostrophe (U+0027, already in Basic Latin) and typographic
-# apostrophe (U+2019). pyftsubset silently omits codepoints the source
-# font doesn't have (e.g. many Latin Extended-A breve/overdot forms, Greek).
+# straight apostrophe (U+0027, already in Basic Latin), typographic
+# apostrophe (U+2019), en dash (U+2013) and em dash (U+2014). pyftsubset
+# silently omits codepoints the source font doesn't have (e.g. many Latin
+# Extended-A breve/overdot forms, Greek).
 pyftsubset "$SYSTEM_FONT" \
   --output-file="$SUBSET_TTF" \
-  --unicodes="U+0020-007F,U+00A0-00FF,U+0100-017F,U+2014,U+2018-201F" \
+  --unicodes="U+0020-007F,U+00A0-00FF,U+0100-017F,U+2013-2014,U+2018-201F" \
   --layout-features='*' \
   --no-subset-tables+=fvar,cvar,bsln,prop \
   --drop-tables+=DSIG \

@@ -12,6 +12,8 @@ from urllib.parse import urljoin, urlparse
 from docutils import nodes
 from docutils.parsers.rst import Directive, directives
 
+from sphinx.util.docutils import new_document
+
 __version__ = "0.1.0"
 
 
@@ -278,16 +280,11 @@ def render_fragment_html(app, body_nodes) -> str:
         return ""
 
     builder = app.builder
-    # Seed a fresh document with the writer's configured settings + reporter
-    # so the HTML translator has everything it expects.
-    src_doc = getattr(builder.docwriter, "document", None)
-    if src_doc is None:
-        # Should not happen for StandaloneHTMLBuilder at build-finished, but
-        # guard anyway: render nothing rather than crash.
-        return ""
-    document = nodes.document(src_doc.settings, src_doc.reporter)
-    document["source"] = src_doc.get("source", "")
-    document["title"] = src_doc.get("title", "")
+    # Seed a fresh document with the builder's configured settings + reporter
+    # so the HTML translator has everything it expects. Sphinx 9 removed
+    # ``builder.docwriter``; ``docsettings`` (created in ``prepare_writing``)
+    # is the settings object the builder itself uses in ``write_doc``.
+    document = new_document("<atom feed fragment>", builder.docsettings)
     # Attach the body nodes as children of the document so that
     # visit_document/depart_document fire and populate the fragment.
     document.extend(body_nodes)

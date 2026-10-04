@@ -38,7 +38,12 @@ print()
 
 
 def instantiate_and_measure(font, wght):
-    f2 = instantiateVariableFont(font, {"wght": wght, "wdth": 1.0}, inplace=False)
+    # Pin only axes the font actually has: the embedded subset keeps wght
+    # but has wdth instanced out, while the system font has both.
+    limits = {"wght": wght}
+    if any(a.axisTag == "wdth" for a in font["fvar"].axes):
+        limits["wdth"] = 1.0
+    f2 = instantiateVariableFont(font, limits, inplace=False)
     glyf = f2["glyf"]
     gname = "I"
     g = glyf[gname]

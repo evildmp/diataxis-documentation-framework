@@ -10,17 +10,18 @@ scales with its container. The scoped ``<style>`` block consumes them via
 ``font-size: var(--type-font)`` etc.
 
 Typography values are resolved as a three-layer merge: the extension's
-built-in ``DEFAULT_TYPOGRAPHY``, then the ``default`` key in
-``diataxis_diagram`` (site-wide override), then the per-locale
+built-in ``DEFAULT_TYPOGRAPHY``, then the mandatory ``default`` key in
+``diataxis_diagram`` (site-wide override), then the optional per-locale
 entry. Locales may omit any key; the resolved value falls back through the
-chain. A locale entirely absent from ``diataxis_diagram`` is a
-fatal error (protects against a language being added without a typography
-entry).
+chain. A missing ``default`` key is a fatal error (protects against a
+language being added without a typography entry).
 
-This test pins that behaviour and guards the failure mode:
+This test pins that behaviour and guards the failure modes:
 
-* a locale missing from ``diataxis_diagram`` must fail the build
-  (fatal), not silently fall back;
+* a config lacking the ``default`` key must fail the build (fatal),
+  not silently fall back;
+* a locale absent from ``diataxis_diagram`` must fall back through
+  ``default`` and then the built-in defaults, not raise;
 * a locale entry missing one of the size keys must fall back through
   ``default`` and then the built-in defaults, not raise.
 
@@ -135,7 +136,10 @@ def test_font_sizes_substituted_into_style_for_configured_language(tmp_path: Pat
     out = _build(
         tmp_path,
         "it",
-        {"it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}}},
+        {
+            "default": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+            "it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+        },
     )
     block = _diagram_block(_html(out))
     assert f"--type-font: {_cqw(100)}" in block, block
@@ -152,6 +156,7 @@ def test_other_language_not_affected(tmp_path: Path):
         tmp_path,
         "en",
         {
+            "default": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
             "en": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
             "fr": {"font-sizes": {"type": 80, "purpose": 30, "axis": 20}, "offsets": {"axis-y": 119}},
         },
@@ -166,7 +171,10 @@ def test_partial_override_still_substitutes_all_three(tmp_path: Path):
     out = _build(
         tmp_path,
         "pl",
-        {"pl": {"font-sizes": {"type": 57, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}}},
+        {
+            "default": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+            "pl": {"font-sizes": {"type": 57, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+        },
     )
     block = _diagram_block(_html(out))
     assert f"--type-font: {_cqw(57)}" in block, block
@@ -174,15 +182,29 @@ def test_partial_override_still_substitutes_all_three(tmp_path: Path):
     assert f"--axis-font: {_cqw(44)}" in block, block
 
 
-def test_missing_locale_entry_is_fatal(tmp_path: Path):
-    # Build language "de" has no typography entry: must raise, not silently
+def test_missing_default_entry_is_fatal(tmp_path: Path):
+    # The config lacks the mandatory "default" key: must raise, not silently
     # fall back to the built-in defaults.
     with pytest.raises(ExtensionError):
         _build(
             tmp_path,
-            "de",
+            "en",
             {"en": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}}},
         )
+
+
+def test_locale_absent_from_config_falls_back_to_default(tmp_path: Path):
+    # Build language "de" has no per-locale entry: the "default" key supplies
+    # the sizes. Must build, not raise.
+    out = _build(
+        tmp_path,
+        "de",
+        {"default": {"font-sizes": {"type": 90, "purpose": 40, "axis": 40}, "offsets": {"axis-y": 119}}},
+    )
+    block = _diagram_block(_html(out))
+    assert f"--type-font: {_cqw(90)}" in block, block
+    assert f"--purpose-font: {_cqw(40)}" in block, block
+    assert f"--axis-font: {_cqw(40)}" in block, block
 
 
 def test_missing_size_key_falls_back_to_default(tmp_path: Path):
@@ -191,7 +213,10 @@ def test_missing_size_key_falls_back_to_default(tmp_path: Path):
     out = _build(
         tmp_path,
         "it",
-        {"it": {"font-sizes": {"type": 100, "axis": 44}, "offsets": {"axis-y": 119}}},
+        {
+            "default": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+            "it": {"font-sizes": {"type": 100, "axis": 44}, "offsets": {"axis-y": 119}},
+        },
     )
     block = _diagram_block(_html(out))
     # type and axis came from the locale entry; purpose fell back to
@@ -228,6 +253,7 @@ def test_y_axis_rotation_key_does_not_become_a_font_size(tmp_path: Path):
         tmp_path,
         "zh_CN",
         {
+            "default": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
             "zh_CN": {
                 "font-sizes": {"type": 104, "purpose": 44, "axis": 80},
                 "offsets": {"axis-y": 119},
@@ -248,7 +274,10 @@ def test_font_sizes_are_not_msgids(tmp_path: Path):
     out = _build(
         tmp_path,
         "it",
-        {"it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}}},
+        {
+            "default": {"font-sizes": {"type": 104, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+            "it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}, "offsets": {"axis-y": 119}},
+        },
     )
     html = _html(out)
     for s in EXPECTED_MSGIDS:

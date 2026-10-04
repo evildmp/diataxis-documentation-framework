@@ -29,6 +29,10 @@ for cp in sorted(cmap):
     print(f"  U+{cp:04X} {ch!r} -> {gname} (outline={has_outline})")
 print()
 
+# Space glyphs legitimately have zero contours (nothing to draw), so they
+# must not be flagged as missing.
+WHITESPACE = {0x20, 0xA0}
+
 texts = {
     "TUTORIALS": "Tutorials",
     "EXPLANATION": "Explanation",
@@ -50,7 +54,11 @@ for label, src in texts.items():
             gname = cmap[cp]
             try:
                 g = font["glyf"][gname]
-                if hasattr(g, "numberOfContours") and g.numberOfContours == 0:
+                if (
+                    hasattr(g, "numberOfContours")
+                    and g.numberOfContours == 0
+                    and cp not in WHITESPACE
+                ):
                     missing.append(f"{ch!r}(U+{cp:04X} -> {gname} EMPTY)")
             except KeyError:
                 missing.append(f"{ch!r}(U+{cp:04X} -> {gname} GLYPH MISSING)")

@@ -46,7 +46,7 @@ language = {language!r}
 master_doc = "index"
 exclude_patterns = []
 diataxis_diagram = {{
-    "en": {{"font-sizes": {{"type": 104, "purpose": 44, "axis": 44}}, "offsets": {{"axis-y": 119}}}},
+    "default": {{"font-sizes": {{"type": 104, "purpose": 44, "axis": 44}}, "offsets": {{"axis-y": 119}}}},
 }}
 """
 
@@ -131,15 +131,15 @@ def _conf_py(language: str = "en", *, typography: dict | None = None) -> str:
     """A minimal ``conf.py`` enabling the extension with an optional
     ``diataxis_diagram`` config.
 
-    When ``typography`` is None a bare ``en`` entry with the built-in default
-    sizes/offsets is supplied, so the build resolves typography without the
-    site's real ``conf.py``. When ``typography`` is given it is rendered
+    When ``typography`` is None a bare ``default`` entry with the built-in
+    default sizes/offsets is supplied, so the build resolves typography
+    without the site's real ``conf.py``. When ``typography`` is given it is rendered
     verbatim as the ``diataxis_diagram`` value (callers pass a dict literal
     already shaped like the real config).
     """
     if typography is None:
         typography = {
-            "en": {
+            "default": {
                 "font-sizes": {"type": 104, "purpose": 44, "axis": 44},
                 "offsets": {"axis-y": 119},
             }
@@ -165,7 +165,7 @@ def _build_html(
     """Build a one-page Sphinx project from a caller-supplied ``index.rst``.
 
     Returns the ``outdir``; the rendered HTML is at ``outdir / "index.html"``.
-    ``typography`` overrides the default minimal ``en`` typography entry; pass
+    ``typography`` overrides the default minimal ``default`` typography entry; pass
     a dict shaped like the real ``diataxis_diagram`` config (with a ``default``
     key and/or per-locale entries, including ``guides`` if needed).
     """
