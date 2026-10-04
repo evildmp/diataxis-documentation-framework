@@ -5,6 +5,7 @@
 # 
 # Translators:
 # evildmp <daniele@vurt.org>, 2026
+# Giorgio Pasotti, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Last-Translator: Giorgio Pasotti, 2026\n"
 "Language-Team: Italian (https://app.transifex.com/danieleprocida/teams/120528/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -27,7 +28,7 @@ msgstr ""
 
 #: ../../source/snippets/diagram.rst:12
 msgid "The Diátaxis map of documentation types"
-msgstr ""
+msgstr "La mappa dei tipi di documentazione Diátaxis"
 
 #: ../../source/snippets/diagram.rst:12
 msgid ""
@@ -40,6 +41,14 @@ msgid ""
 "information-oriented reference. Bottom left: understanding-oriented "
 "explanation."
 msgstr ""
+"La mappa consiste in due assi che la divdono in quattro quadranti. Sopra la "
+"documentazione che mette in pratica e sotto la documentazione che descrive "
+"quale è il caso, A sinistra la documentazione che serve a sviluppare una "
+"competenza e a destra la documentazione che serve ad applicare la "
+"competenza. Questo ci lascia con quattro tipi di documentazione. In alto a "
+"sinistra: Tutoriali per imparare. In alto a destra: Guide pratiche per "
+"raggiungere obbiettivi. In basso a destra: Informazioni di Riferimento. In "
+"basso a sinistra: Spiegazioni per comprendere."
 
 #: ../../source/snippets/diagram.rst:12
 msgid "Tutorials"
@@ -59,35 +68,35 @@ msgstr "Spiegazione"
 
 #: ../../source/snippets/diagram.rst:17
 msgid "Learning-oriented"
-msgstr ""
+msgstr "Orientato all'apprendimento"
 
 #: ../../source/snippets/diagram.rst:18
 msgid "Goal-oriented"
-msgstr ""
+msgstr "Orientato all'obbiettivo"
 
 #: ../../source/snippets/diagram.rst:19
 msgid "Information-oriented"
-msgstr ""
+msgstr "Orientato all'informazione"
 
 #: ../../source/snippets/diagram.rst:20
 msgid "Understanding-oriented"
-msgstr ""
+msgstr "Orientato alla comprensione"
 
 #: ../../source/snippets/diagram.rst:22
 msgid "Directs action"
-msgstr ""
+msgstr "Suggerisce l'azione"
 
 #: ../../source/snippets/diagram.rst:23
 msgid "Describes what is"
-msgstr ""
+msgstr "Descrive cosa è"
 
 #: ../../source/snippets/diagram.rst:24
 msgid "Serves development of skill"
-msgstr ""
+msgstr "Sviluppa la competenza"
 
 #: ../../source/snippets/diagram.rst:25
 msgid "Serves application of skill"
-msgstr ""
+msgstr "Applica la competenza"
 
 #: ../../source/compass.rst:11
 msgid ""
@@ -136,11 +145,11 @@ msgstr "...allora appartiene a..."
 
 #: ../../source/snippets/compass.rst:10 ../../source/snippets/compass.rst:13
 msgid "directs action"
-msgstr ""
+msgstr "Dirige l'azione"
 
 #: ../../source/snippets/compass.rst:11 ../../source/snippets/compass.rst:20
 msgid "development of skill"
-msgstr ""
+msgstr "Sviluppa la competenza"
 
 #: ../../source/snippets/compass.rst:12
 msgid "a tutorial"
@@ -156,7 +165,7 @@ msgstr "una guida pratica"
 
 #: ../../source/snippets/compass.rst:16 ../../source/snippets/compass.rst:19
 msgid "describes what is"
-msgstr ""
+msgstr "descrive cosa è"
 
 #: ../../source/snippets/compass.rst:18
 msgid "reference"

@@ -4,17 +4,17 @@
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
 # Translators:
-# Yufei Li <yufeiminds@gmail.com>, 2026
 # Y.D.X., 2026
+# Yufei Li <yufeiminds@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: Y.D.X., 2026\n"
+"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -36,9 +36,7 @@ msgid ""
 "Diátaxis is underpinned by :doc:`systematic theoretical principles "
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
-msgstr ""
-"Diátaxis 以 :doc:`systematic theoretical principles<theory>` "
-"为基础，但要想有效使用该系统，并不需要先理解他们。"
+msgstr "Diátaxis 以 :doc:`系统性的理论原则<theory>` 为基础，但要想有效使用该系统，并不需要先理解它们。"
 
 #: ../../source/application.rst:11
 msgid ""
@@ -53,35 +51,33 @@ msgid ""
 "practice. Not only do you not need to understand it all to make use of it, "
 "you will not understand it until you have started using it (this itself is a"
 " Diátaxis principle)."
-msgstr ""
-"不必等到理解了 Diátaxis 之后才开始尝试付诸实践。你不仅不需要完全理解它才能使用它，而且只有开始使用之后，你才能真正理解它（这本身正是 "
-"Diátaxis 的一条原则）。"
+msgstr "要运用它，并不需要先彻底理解它；甚至可以说，不付诸实践，就永远不会真正理解它（这本身正是 Diátaxis 的一条原则）。"
 
 #: ../../source/application.rst:15
 msgid ""
 "As soon as you feel you have picked up an idea that seems worth applying to "
 "your work, try applying it. Come back here when you need more clarity or "
 "reassurance. Iterate between your work and reflecting on your work."
-msgstr "一旦你觉得某个想法值得应用到工作中，那就去付诸行动。当你需要更清晰的思路或更坚定的信念时，再回头看。在实践和反思之间不断迭代。"
+msgstr "一旦你觉得某个想法值得应用到工作中，那就去付诸行动。需要更明确的指引或更多把握时，随时回到这里查阅，在实践和反思之间不断迭代。"
 
 #: ../../source/application.rst:20
 msgid "In this section"
-msgstr "在这个部分"
+msgstr "本节内容"
 
 #: ../../source/application.rst:22
 msgid ""
 "At the core of Diátaxis are the four different kinds of documentation it "
 "identifies. If you're encountering Diátaxis for the first time, start with "
 "these pages."
-msgstr "Diátaxis 的核心在于它所定义的四种截然不同的文档类型。如果您是第一次接触 Diátaxis，请从这些页面起步。"
+msgstr "Diátaxis 的核心，是它所定义的四种不同的文档类型。如果你是第一次接触 Diátaxis，请从这些页面起步。"
 
 #: ../../source/application.rst:24
 msgid ":doc:`tutorials` - learning-oriented experiences"
-msgstr ":doc:`tutorials` ——以学习为导向的经验之谈"
+msgstr ":doc:`tutorials` —— 以学习为导向的体验"
 
 #: ../../source/application.rst:25
 msgid ":doc:`how-to-guides` - goal-oriented directions"
-msgstr ":doc:`how-to-guides` ——以目标为导向的方向指引"
+msgstr ":doc:`how-to-guides` —— 以目标为导向的指引"
 
 #: ../../source/application.rst:26
 msgid ":doc:`reference` - information-oriented technical description"
@@ -89,7 +85,7 @@ msgstr ":doc:`reference` ——以信息为导向的技术性描述"
 
 #: ../../source/application.rst:27
 msgid ":doc:`explanation` - understanding-oriented discussion"
-msgstr ":doc:`explanation` ——以理解为导向的讨论"
+msgstr ":doc:`explanation` —— 以理解为导向的讨论"
 
 #: ../../source/application.rst:29
 msgid ""
@@ -102,8 +98,8 @@ msgstr ""
 
 #: ../../source/application.rst:31
 msgid ":doc:`compass` - a simple tool for direction-finding"
-msgstr ":doc:`compass` —— 一种用于寻找方向的简单工具"
+msgstr ":doc:`compass` —— 一件辨别方向的简单工具"
 
 #: ../../source/application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"
-msgstr "Diátaxis 中的 :doc:`Workflow <how-to-use-diataxis>`"
+msgstr "Diátaxis 中的 :doc:`工作流程 <how-to-use-diataxis>`"

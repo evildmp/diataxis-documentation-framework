@@ -6,15 +6,16 @@
 # Translators:
 # Rodrigo de Avila <rdeavila@gmail.com>, 2026
 # evildmp <daniele@vurt.org>, 2026
+# Rafael Fontenelle <rffontenelle@gmail.com>, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Last-Translator: Rafael Fontenelle <rffontenelle@gmail.com>, 2026\n"
 "Language-Team: Portuguese (Brazil) (https://app.transifex.com/danieleprocida/teams/120528/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -71,7 +72,7 @@ msgid ""
 "reassurance. Iterate between your work and reflecting on your work."
 msgstr ""
 "Assim que você sentir que pegou uma ideia que parece valer a pena aplicar ao"
-" seu trabalho, tente aplicá-la.V enha aqui quando você precisar de mais "
+" seu trabalho, tente aplicá-la. Venha aqui quando você precisar de mais "
 "clareza ou tranquilidade. Itere entre o seu trabalho e refletir sobre o seu "
 "trabalho."
 

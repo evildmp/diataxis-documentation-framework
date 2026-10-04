@@ -5,15 +5,16 @@
 # 
 # Translators:
 # Miguel Galán, 2026
+# Adolfo Jayme Barrientos, 2026
 # 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: Miguel Galán, 2026\n"
+"Last-Translator: Adolfo Jayme Barrientos, 2026\n"
 "Language-Team: Spanish (https://app.transifex.com/danieleprocida/teams/120528/es/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -23,7 +24,7 @@ msgstr ""
 
 #: ../../source/application.rst:2
 msgid "Applying Diátaxis"
-msgstr "Aplicando Diátaxis"
+msgstr "Aplicación de Diátaxis"
 
 #: ../../source/application.rst:5
 msgid ""
@@ -115,7 +116,7 @@ msgstr ""
 
 #: ../../source/application.rst:31
 msgid ":doc:`compass` - a simple tool for direction-finding"
-msgstr ""
+msgstr ":doc:`compass`: una herramienta sencilla para encontrar direcciones"
 
 #: ../../source/application.rst:32
 msgid ":doc:`Workflow <how-to-use-diataxis>` in Diátaxis"

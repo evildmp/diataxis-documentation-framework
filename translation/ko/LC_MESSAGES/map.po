@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-04 23:10+0100\n"
+"POT-Creation-Date: 2026-10-04 21:15+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Jiwon Kwak, 2026\n"
 "Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
@@ -87,7 +87,7 @@ msgstr ""
 #: ../../source/map.rst:146 ../../source/map.rst:186
 #: ../../source/snippets/diagram.rst:23
 msgid "Understanding-oriented"
-msgstr ""
+msgstr "이해지향적"
 
 #: ../../source/snippets/diagram.rst:25
 msgid "Directs action"
@@ -95,11 +95,11 @@ msgstr ""
 
 #: ../../source/snippets/diagram.rst:26
 msgid "Describes what is"
-msgstr ""
+msgstr "사실 그대로 기술"
 
 #: ../../source/snippets/diagram.rst:27
 msgid "Serves development of skill"
-msgstr ""
+msgstr "실무 기술 발달 지원"
 
 #: ../../source/snippets/diagram.rst:28
 msgid "Serves application of skill"
@@ -186,10 +186,6 @@ msgid ""
 msgstr ""
 "자료를 이렇게 정리하면 분명한 이점이 있습니다. 독자에게는 명확한 *기대*를, 저자에게는 명확한 *지침*을 준다는 것입니다. 각각의 "
 "콘텐츠가 어떤 목적을 지니는지 분명해지고, 어떻게 써야 하는지도 정해지며, 어디에 두어야 하는지도 드러납니다."
-
-#: ../../source/map.rst:62
-msgid "\\"
-msgstr "\\"
 
 #: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"

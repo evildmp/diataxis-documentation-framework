@@ -117,7 +117,10 @@ diataxis_diagram = {
     # "it": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}},
     # "fr": {"font-sizes": {"type": 100, "purpose": 44, "axis": 44}},
     # "zh_CN": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
-    # "pt_BR": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
+    "pt_BR": {
+      "font-sizes": {"type": 105, "purpose": 42, "axis": 42, "annotation": 140, "need": 60},
+
+    },
     # "ko": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
     # "ja": {"font-sizes": {"type": 104, "purpose": 44, "axis": 80}, "layout": {"y-axis-rotation": "stacked"}},
 

@@ -3,13 +3,17 @@
 # This file is distributed under the same license as the Diátaxis package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 # 
+# Translators:
+# Giorgio Pasotti, 2026
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-08-01 12:29+0200\n"
+"POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
+"Last-Translator: Giorgio Pasotti, 2026\n"
 "Language-Team: Italian (https://app.transifex.com/danieleprocida/teams/120528/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -19,12 +23,12 @@ msgstr ""
 
 #: ../../source/application.rst:2
 msgid "Applying Diátaxis"
-msgstr ""
+msgstr "Applicare Diátaxis"
 
 #: ../../source/application.rst:5
 msgid ""
 "The pages in this section are concerned with putting Diátaxis into practice."
-msgstr ""
+msgstr "Le pagine di questa sezione servono a mettere in pratica Diátaxis."
 
 #: ../../source/application.rst:9
 msgid ""
@@ -32,6 +36,8 @@ msgid ""
 "<theory>`, but understanding them is not necessary to make effective use of "
 "the system."
 msgstr ""
+"Diátaxis è sostenuto da  :doc:`systematic theoretical principles <theory>`, "
+"comunque non è necessaria la loro comprensione per utilizzare il sistema."
 
 #: ../../source/application.rst:11
 msgid ""
@@ -39,6 +45,9 @@ msgid ""
 " documentation. Most of the key principles required to put it into practice "
 "successfully can be grasped intuitively."
 msgstr ""
+"Diátaxis deve essere inteso come un'approccio pragmatico per chi sta "
+"lavorado a della documentazione. La maggior parte dei principi chiave da "
+"mettere in pratica possono essere facilmente intuiti."
 
 #: ../../source/application.rst:13
 msgid ""
@@ -47,6 +56,10 @@ msgid ""
 "you will not understand it until you have started using it (this itself is a"
 " Diátaxis principle)."
 msgstr ""
+"Non serve comprendere Diátaxis prima di iniziare a metterlo in pratica. Non "
+"solo non c'è bisogno di capirlo per utilizzarlo, anzi non lo capirai a pieno"
+" fino a quando avrai iniziato ad utilizzarlo (questo è appunto uno dei "
+"principi Diátaxis)."
 
 #: ../../source/application.rst:15
 msgid ""

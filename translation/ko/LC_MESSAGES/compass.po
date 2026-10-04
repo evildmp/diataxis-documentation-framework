@@ -72,7 +72,7 @@ msgstr ""
 
 #: ../../source/snippets/diagram.rst:20
 msgid "Understanding-oriented"
-msgstr ""
+msgstr "이해지향적"
 
 #: ../../source/snippets/diagram.rst:22
 msgid "Directs action"
@@ -80,11 +80,11 @@ msgstr ""
 
 #: ../../source/snippets/diagram.rst:23
 msgid "Describes what is"
-msgstr ""
+msgstr "사실 그대로 기술"
 
 #: ../../source/snippets/diagram.rst:24
 msgid "Serves development of skill"
-msgstr ""
+msgstr "실무 기술 발달 지원"
 
 #: ../../source/snippets/diagram.rst:25
 msgid "Serves application of skill"

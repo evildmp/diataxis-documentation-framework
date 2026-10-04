@@ -1,26 +1,27 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) Daniele Procida
 # This file is distributed under the same license as the Diátaxis package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2026.
+#
 # Translators:
 # Jiwon Kwak, 2026
 # tii, 2026
-# 
 #, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: Diátaxis\n"
+"Project-Id-Version:  Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-04 23:10+0100\n"
+"POT-Creation-Date: 2026-10-04 21:15+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: tii, 2026\n"
-"Language-Team: Korean (https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
-"MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
 "Language: ko\n"
+"Language-Team: Korean "
+"(https://app.transifex.com/danieleprocida/teams/120528/ko/)\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.18.0\n"
 
 #: ../../source/reference.rst:4 ../../source/reference.rst:18
 msgid "Reference"
@@ -28,22 +29,22 @@ msgstr "레퍼런스"
 
 #: ../../source/reference.rst:7
 msgid ""
-"Reference guides are **technical descriptions** of the machinery and how to "
-"operate it. Reference material is **information-oriented**."
+"Reference guides are **technical descriptions** of the machinery and how "
+"to operate it. Reference material is **information-oriented**."
 msgstr "레퍼런스 가이드는 시스템과 그 조작 방법에 대한 **기술적 서술**입니다. 레퍼런스 자료는 **정보 지향적**입니다."
 
 #: ../../source/reference.rst:10
 msgid ""
-"Reference material contains *propositional or theoretical* knowledge that a "
-"user looks to in their *work*."
+"Reference material contains *propositional or theoretical* knowledge that"
+" a user looks to in their *work*."
 msgstr "레퍼런스 자료는 사용자가 *실무*에서 참고하는 *명제적 혹은 이론적* 지식을 담고 있습니다."
 
 #: ../../source/reference.rst:12
 msgid ""
 "The only purpose of a reference guide is to describe, as succinctly as "
-"possible, and in an orderly way. Whereas the content of tutorials and how-to"
-" guides is led by the needs of the user, reference material is led by the "
-"product it describes."
+"possible, and in an orderly way. Whereas the content of tutorials and "
+"how-to guides is led by the needs of the user, reference material is led "
+"by the product it describes."
 msgstr ""
 
 #: ../../source/reference.rst:18
@@ -72,10 +73,10 @@ msgstr "소프트웨어의 경우 레퍼런스 가이드는 API, 클래스, 함�
 
 #: ../../source/reference.rst:30
 msgid ""
-"Your users need reference material because they need truth and certainty - "
-"firm platforms on which to stand while they apply their skill. Good "
-"technical reference is essential to provide users with the confidence to do "
-"their work."
+"Your users need reference material because they need truth and certainty "
+"- firm platforms on which to stand while they apply their skill. Good "
+"technical reference is essential to provide users with the confidence to "
+"do their work."
 msgstr ""
 
 #: ../../source/reference.rst:36
@@ -84,10 +85,9 @@ msgstr "서술로서의 레퍼런스"
 
 #: ../../source/reference.rst:38
 msgid ""
-"Reference material describes the machinery. It should be **austere**. One "
-"hardly *reads* reference material; one *consults* it."
-msgstr ""
-"레퍼런스 자료는 시스템을 서술합니다. **군더더기가 없어야 합니다**. 레퍼런스 자료는 *읽는* 것이라기보다 *찾아보는* 것입니다."
+"Reference material describes the machinery. It should be **austere**. One"
+" hardly *reads* reference material; one *consults* it."
+msgstr "레퍼런스 자료는 시스템을 서술합니다. **군더더기가 없어야 합니다**. 레퍼런스 자료는 *읽는* 것이라기보다 *찾아보는* 것입니다."
 
 #: ../../source/reference.rst:41
 msgid ""
@@ -98,21 +98,21 @@ msgstr "레퍼런스에는 의심이나 모호함이 없어야 합니다. 전적
 #: ../../source/reference.rst:43
 msgid ""
 "Reference material is like a map. A map tells you what you need to know "
-"about the territory, without having to go out and check the territory for "
-"yourself; a reference guide serves the same purpose for the product and its "
-"internal machinery."
+"about the territory, without having to go out and check the territory for"
+" yourself; a reference guide serves the same purpose for the product and "
+"its internal machinery."
 msgstr ""
 "레퍼런스 자료는 지도와 같습니다. 지도는 직접 나가서 지형을 확인하지 않아도 그 지형에 대해 알아야 할 것을 알려줍니다. 레퍼런스 "
 "가이드는 제품과 그 내부 시스템에 대해 같은 역할을 합니다."
 
 #: ../../source/reference.rst:47
 msgid ""
-"Although reference should not attempt to show how to perform tasks, it can "
-"and often needs to include a description of how something works or the "
-"correct way to use it."
+"Although reference should not attempt to show how to perform tasks, it "
+"can and often needs to include a description of how something works or "
+"the correct way to use it."
 msgstr ""
-"레퍼런스는 작업을 수행하는 방법을 보여주려 해서는 안 됩니다. 다만 무언가가 어떻게 작동하는지, 또는 올바른 사용법이 무엇인지에 대한 "
-"서술은 포함할 수 있으며, 실제로 포함해야 할 때도 많습니다."
+"레퍼런스는 작업을 수행하는 방법을 보여주려 해서는 안 됩니다. 다만 무언가가 어떻게 작동하는지, 또는 올바른 사용법이 무엇인지에 "
+"대한 서술은 포함할 수 있으며, 실제로 포함해야 할 때도 많습니다."
 
 #: ../../source/reference.rst:52
 msgid ""
@@ -126,8 +126,8 @@ msgid ""
 "automatically by the software it describes, which is a powerful way of "
 "ensuring that it remains faithfully accurate to the code."
 msgstr ""
-"API 문서처럼 일부 레퍼런스 자료는 그것이 서술하는 소프트웨어가 직접 자동 생성할 수 있습니다. 이는 문서가 코드와 정확히 일치하도록 "
-"유지하는 강력한 방법입니다."
+"API 문서처럼 일부 레퍼런스 자료는 그것이 서술하는 소프트웨어가 직접 자동 생성할 수 있습니다. 이는 문서가 코드와 정확히 "
+"일치하도록 유지하는 강력한 방법입니다."
 
 #: ../../source/reference.rst:63
 msgid "Key principles"
@@ -140,6 +140,10 @@ msgstr "서술, 오직 서술만 하십시오"
 #: ../../source/reference.rst:68
 msgid "*Neutral description* is the key imperative of technical reference."
 msgstr "*중립적 서술*은 기술 레퍼런스가 반드시 지켜야 할 핵심입니다."
+
+#: ../../source/reference.rst:70
+msgid "Style and form"
+msgstr ""
 
 #: ../../source/reference.rst:72
 msgid "austere and uncompromising"
@@ -156,24 +160,24 @@ msgstr "시스템 자체의 구조를 따라 구성할 것"
 #: ../../source/reference.rst:76
 msgid ""
 "Unfortunately one of the hardest things to do is to describe something "
-"neutrally. It's not a natural way of communicating. What's natural on the "
-"other hand is to explain, instruct, discuss, opine, and all these things run"
-" counter to the needs of technical reference, which instead demands "
+"neutrally. It's not a natural way of communicating. What's natural on the"
+" other hand is to explain, instruct, discuss, opine, and all these things"
+" run counter to the needs of technical reference, which instead demands "
 "accuracy, precision, completeness and clarity."
 msgstr ""
-"안타깝게도 무언가를 중립적으로 서술하는 일은 가장 어려운 일 중 하나입니다. 자연스러운 소통 방식이 아니기 때문입니다. 오히려 자연스러운"
-" 것은 설명하고, 지시하고, 논의하고, 의견을 내는 일입니다. 그러나 이 모두는 기술 레퍼런스가 요구하는 바와 정반대입니다. 기술 "
-"레퍼런스가 요구하는 것은 정확성과 정밀성, 완전성과 명료성입니다."
+"안타깝게도 무언가를 중립적으로 서술하는 일은 가장 어려운 일 중 하나입니다. 자연스러운 소통 방식이 아니기 때문입니다. 오히려 "
+"자연스러운 것은 설명하고, 지시하고, 논의하고, 의견을 내는 일입니다. 그러나 이 모두는 기술 레퍼런스가 요구하는 바와 "
+"정반대입니다. 기술 레퍼런스가 요구하는 것은 정확성과 정밀성, 완전성과 명료성입니다."
 
 #: ../../source/reference.rst:78
 msgid ""
-"It can be tempting to introduce instruction and explanation, simply because "
-"description can seem too inadequate to be useful, and because we do indeed "
-"need these other things. Instead, link to how-to guides, explanation and "
-"introductory tutorials."
+"It can be tempting to introduce instruction and explanation, simply "
+"because description can seem too inadequate to be useful, and because we "
+"do indeed need these other things. Instead, link to how-to guides, "
+"explanation and introductory tutorials."
 msgstr ""
-"서술만으로는 너무 부족해 쓸모없어 보이고, 실제로 다른 것들도 필요하기 때문에 지시와 설명을 끌어들이고 싶은 유혹이 생깁니다. 대신, "
-"하우투 가이드와 설명, 그리고 입문용 튜토리얼로 링크를 걸어 주십시오."
+"서술만으로는 너무 부족해 쓸모없어 보이고, 실제로 다른 것들도 필요하기 때문에 지시와 설명을 끌어들이고 싶은 유혹이 생깁니다. "
+"대신, 하우투 가이드와 설명, 그리고 입문용 튜토리얼로 링크를 걸어 주십시오."
 
 #: ../../source/reference.rst:82
 msgid "Adopt standard patterns"
@@ -181,19 +185,19 @@ msgstr "표준 패턴을 따르십시오"
 
 #: ../../source/reference.rst:84
 msgid ""
-"**Reference material is useful when it is consistent.** Standard patterns "
-"are what allow us to use reference material effectively. Your job is to "
-"place the material that your user needs where they expect to find it, in a "
-"format that they are familiar with."
+"**Reference material is useful when it is consistent.** Standard patterns"
+" are what allow us to use reference material effectively. Your job is to "
+"place the material that your user needs where they expect to find it, in "
+"a format that they are familiar with."
 msgstr ""
-"**레퍼런스 자료는 일관성이 있을 때 쓸모가 있습니다.** 표준 패턴이 있어야 레퍼런스 자료를 효과적으로 활용할 수 있습니다. 여러분이 "
-"할 일은 사용자에게 필요한 자료를, 사용자가 있으리라 기대하는 자리에, 익숙한 형식으로 놓아 두는 것입니다."
+"**레퍼런스 자료는 일관성이 있을 때 쓸모가 있습니다.** 표준 패턴이 있어야 레퍼런스 자료를 효과적으로 활용할 수 있습니다. "
+"여러분이 할 일은 사용자에게 필요한 자료를, 사용자가 있으리라 기대하는 자리에, 익숙한 형식으로 놓아 두는 것입니다."
 
 #: ../../source/reference.rst:86
 msgid ""
-"There are many opportunities in writing to delight your readers with your "
-"extensive vocabulary and command of multiple styles, but reference material "
-"is definitely not one of them."
+"There are many opportunities in writing to delight your readers with your"
+" extensive vocabulary and command of multiple styles, but reference "
+"material is definitely not one of them."
 msgstr ""
 "글을 쓰다 보면 풍부한 어휘와 다양한 문체를 구사해 독자를 즐겁게 할 기회가 많습니다. 그러나 레퍼런스 자료는 결코 그런 자리가 "
 "아닙니다."
@@ -204,14 +208,14 @@ msgstr "시스템의 구조를 존중하십시오"
 
 #: ../../source/reference.rst:94
 msgid ""
-"The way a map corresponds to the territory it represents helps us use the "
-"former to find our way through the latter. It should be the same with "
+"The way a map corresponds to the territory it represents helps us use the"
+" former to find our way through the latter. It should be the same with "
 "documentation: **the structure of the documentation should mirror the "
-"structure of the product**, so that the user can work their way through them"
-" at the same time."
+"structure of the product**, so that the user can work their way through "
+"them at the same time."
 msgstr ""
-"지도가 그것이 나타내는 지형과 대응하기 때문에, 우리는 지도를 보고 지형 속에서 길을 찾을 수 있습니다. 문서도 마찬가지여야 합니다. "
-"**문서의 구조는 제품의 구조를 그대로 비춰야 합니다**. 그래야 사용자가 둘을 동시에 짚어 나갈 수 있습니다."
+"지도가 그것이 나타내는 지형과 대응하기 때문에, 우리는 지도를 보고 지형 속에서 길을 찾을 수 있습니다. 문서도 마찬가지여야 "
+"합니다. **문서의 구조는 제품의 구조를 그대로 비춰야 합니다**. 그래야 사용자가 둘을 동시에 짚어 나갈 수 있습니다."
 
 #: ../../source/reference.rst:99
 msgid ""
@@ -219,8 +223,8 @@ msgid ""
 "What's important is that the logical, conceptual arrangement of and "
 "relations within the code should help make sense of the documentation."
 msgstr ""
-"그렇다고 문서를 부자연스러운 구조에 억지로 끼워 맞추라는 뜻은 아닙니다. 중요한 것은 코드의 논리적, 개념적 배치와 그 안의 관계가 "
-"문서를 이해하는 데 도움이 되어야 한다는 점입니다."
+"그렇다고 문서를 부자연스러운 구조에 억지로 끼워 맞추라는 뜻은 아닙니다. 중요한 것은 코드의 논리적, 개념적 배치와 그 안의 관계가"
+" 문서를 이해하는 데 도움이 되어야 한다는 점입니다."
 
 #: ../../source/reference.rst:105
 msgid "Provide examples"
@@ -228,14 +232,14 @@ msgstr "예시를 제공하십시오"
 
 #: ../../source/reference.rst:107
 msgid ""
-"**Examples** are valuable ways of providing illustration that helps readers "
-"understand reference, while avoiding the risk of becoming distracted from "
-"the job of describing. For example, an example of usage of a command can be "
-"a succinct way of illustrating it and its context, without falling into the "
-"trap of trying to explain or instruct."
+"**Examples** are valuable ways of providing illustration that helps "
+"readers understand reference, while avoiding the risk of becoming "
+"distracted from the job of describing. For example, an example of usage "
+"of a command can be a succinct way of illustrating it and its context, "
+"without falling into the trap of trying to explain or instruct."
 msgstr ""
-"**예시**는 서술이라는 본분에서 벗어날 위험 없이 독자가 레퍼런스를 이해하도록 돕는 좋은 방법입니다. 예를 들어 어떤 명령의 사용 "
-"예시는 설명 또는 지시라는 함정에 빠지지 않으면서 그 명령과 쓰임새를 간결하게 보여줄 수 있습니다."
+"**예시**는 서술이라는 본분에서 벗어날 위험 없이 독자가 레퍼런스를 이해하도록 돕는 좋은 방법입니다. 예를 들어 어떤 명령의 사용"
+" 예시는 설명 또는 지시라는 함정에 빠지지 않으면서 그 명령과 쓰임새를 간결하게 보여줄 수 있습니다."
 
 #: ../../source/reference.rst:113
 msgid "The language of reference guides"
@@ -247,8 +251,9 @@ msgid ""
 "available as ``django.utils.log.DEFAULT_LOGGING`` and defined in "
 "``django/utils/log.py``"
 msgstr ""
-"Django의 기본 로깅 설정은 Python의 기본값을 상속합니다. ``django.utils.log.DEFAULT_LOGGING``으로"
-" 사용할 수 있으며 ``django/utils/log.py``에 정의되어 있습니다"
+"Django의 기본 로깅 설정은 Python의 기본값을 상속합니다. "
+"``django.utils.log.DEFAULT_LOGGING``으로 사용할 수 있으며 ``django/utils/log.py``에"
+" 정의되어 있습니다"
 
 #: ../../source/reference.rst:116
 msgid "State facts about the machinery and its behaviour."
@@ -278,14 +283,14 @@ msgstr "음식과 요리에 적용하기"
 
 #: ../../source/reference.rst:127
 msgid ""
-"You might check the information on a packet of food, in order to help you "
-"make a decision about what to do."
+"You might check the information on a packet of food, in order to help you"
+" make a decision about what to do."
 msgstr "무엇을 할지 결정하는 데 도움을 얻으려고 식품 포장에 적힌 정보를 확인할 때가 있습니다."
 
 #: ../../source/reference.rst:129
 msgid ""
-"When you're looking for information - relevant facts - you do not want to be"
-" confronted by opinions, speculation, instructions or interpretation."
+"When you're looking for information - relevant facts - you do not want to"
+" be confronted by opinions, speculation, instructions or interpretation."
 msgstr "정보, 즉 필요한 사실을 찾을 때는 의견이나 추측, 지시나 해석과 마주치고 싶지 않습니다."
 
 #: ../../source/reference.rst:131
@@ -294,32 +299,33 @@ msgstr "라자냐 포장 뒷면의 정보"
 
 #: ../../source/reference.rst:136
 msgid ""
-"You also expect that information to be presented in standard ways, so that "
-"you - when you need to know about something's nutritional properties, how it"
-" should be stored, its ingredients, what health implications it might have -"
-" can find them quickly, and know you can rely on them."
+"You also expect that information to be presented in standard ways, so "
+"that you - when you need to know about something's nutritional "
+"properties, how it should be stored, its ingredients, what health "
+"implications it might have - can find them quickly, and know you can rely"
+" on them."
 msgstr ""
-"또한 그 정보가 표준적인 방식으로 제시되기를 기대합니다. 영양 성분이나 보관 방법, 원재료, 건강에 미칠 영향을 알아야 할 때 빠르게 "
-"찾을 수 있고, 그 내용을 믿어도 된다고 확신할 수 있어야 하기 때문입니다."
+"또한 그 정보가 표준적인 방식으로 제시되기를 기대합니다. 영양 성분이나 보관 방법, 원재료, 건강에 미칠 영향을 알아야 할 때 "
+"빠르게 찾을 수 있고, 그 내용을 믿어도 된다고 확신할 수 있어야 하기 때문입니다."
 
 #: ../../source/reference.rst:138
 msgid ""
-"So you expect to see for example: *May contain traces of wheat*. Or: *Net "
-"weight: 1000g*."
+"So you expect to see for example: *May contain traces of wheat*. Or: *Net"
+" weight: 1000g*."
 msgstr "그래서 예를 들면 *밀이 미량 포함되어 있을 수 있음*, *순중량: 1000g* 같은 문구를 기대합니다."
 
 #: ../../source/reference.rst:140
 msgid ""
 "You will certainly not expect to find for example recipes or marketing "
 "claims mixed up with this information; that could be literally dangerous."
-msgstr ""
-"반면 레시피나 마케팅 문구가 이 정보에 뒤섞여 있으리라고는 결코 기대하지 않습니다. 그런 일은 말 그대로 위험할 수 있습니다."
+msgstr "반면 레시피나 마케팅 문구가 이 정보에 뒤섞여 있으리라고는 결코 기대하지 않습니다. 그런 일은 말 그대로 위험할 수 있습니다."
 
 #: ../../source/reference.rst:142
 msgid ""
 "The way reference material is presented on food products is so important "
-"that it's usually governed by law, and the same kind of seriousness should "
-"apply to all reference documentation."
+"that it's usually governed by law, and the same kind of seriousness "
+"should apply to all reference documentation."
 msgstr ""
-"식품에 레퍼런스 자료가 제시되는 방식은 매우 중요해서 대개 법으로 규정됩니다. 모든 레퍼런스 문서에도 같은 수준의 엄정함이 적용되어야 "
-"합니다."
+"식품에 레퍼런스 자료가 제시되는 방식은 매우 중요해서 대개 법으로 규정됩니다. 모든 레퍼런스 문서에도 같은 수준의 엄정함이 "
+"적용되어야 합니다."
+

@@ -65,15 +65,15 @@ msgstr ""
 
 #: ../../source/reference-explanation.rst:16
 msgid "Understanding-oriented"
-msgstr ""
+msgstr "이해지향적"
 
 #: ../../source/reference-explanation.rst:17
 msgid "Describes what is"
-msgstr ""
+msgstr "사실 그대로 기술"
 
 #: ../../source/reference-explanation.rst:18
 msgid "Serves development of skill"
-msgstr ""
+msgstr "실무 기술 발달 지원"
 
 #: ../../source/reference-explanation.rst:19
 msgid "Serves application of skill"

@@ -457,11 +457,11 @@ msgstr ""
 
 #: ../../source/foundations.rst:158
 msgid "Describes what is"
-msgstr ""
+msgstr "사실 그대로 기술"
 
 #: ../../source/foundations.rst:159
 msgid "Serves development of skill"
-msgstr ""
+msgstr "실무 기술 발달 지원"
 
 #: ../../source/foundations.rst:160
 msgid "Serves application of skill"
@@ -497,7 +497,7 @@ msgstr ""
 
 #: ../../source/foundations.rst:170
 msgid "Understanding-oriented"
-msgstr ""
+msgstr "이해지향적"
 
 #: ../../source/foundations.rst:178
 msgid "Working with clusters of meaning"

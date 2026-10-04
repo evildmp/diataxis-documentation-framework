@@ -5,6 +5,7 @@
 # 
 # Translators:
 # evildmp <daniele@vurt.org>, 2026
+# Giorgio Pasotti, 2026
 # 
 #, fuzzy
 msgid ""
@@ -13,7 +14,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
+"Last-Translator: Giorgio Pasotti, 2026\n"
 "Language-Team: Italian (https://app.transifex.com/danieleprocida/teams/120528/it/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -453,19 +454,19 @@ msgstr ""
 
 #: ../../source/foundations.rst:157
 msgid "Directs action"
-msgstr ""
+msgstr "Suggerisce l'azione"
 
 #: ../../source/foundations.rst:158
 msgid "Describes what is"
-msgstr ""
+msgstr "Descrive cosa è"
 
 #: ../../source/foundations.rst:159
 msgid "Serves development of skill"
-msgstr ""
+msgstr "Sviluppa la competenza"
 
 #: ../../source/foundations.rst:160
 msgid "Serves application of skill"
-msgstr ""
+msgstr "Applica la competenza"
 
 #: ../../source/foundations.rst:162
 msgid "Tutorials"
@@ -485,19 +486,19 @@ msgstr "Spiegazione"
 
 #: ../../source/foundations.rst:167
 msgid "Learning-oriented"
-msgstr ""
+msgstr "Orientato all'apprendimento"
 
 #: ../../source/foundations.rst:168
 msgid "Goal-oriented"
-msgstr ""
+msgstr "Orientato all'obbiettivo"
 
 #: ../../source/foundations.rst:169
 msgid "Information-oriented"
-msgstr ""
+msgstr "Orientato all'informazione"
 
 #: ../../source/foundations.rst:170
 msgid "Understanding-oriented"
-msgstr ""
+msgstr "Orientato alla comprensione"
 
 #: ../../source/foundations.rst:178
 msgid "Working with clusters of meaning"

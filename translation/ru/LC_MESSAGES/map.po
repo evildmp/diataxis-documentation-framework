@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-04 23:10+0100\n"
+"POT-Creation-Date: 2026-10-04 21:15+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Ian Corvin <dev.darkside@gmail.com>, 2026\n"
 "Language-Team: Russian (https://app.transifex.com/danieleprocida/teams/120528/ru/)\n"
@@ -197,10 +197,6 @@ msgstr ""
 "У карты Diátaxis есть важное преимущество: читатель понимает, *чего ждать* "
 "от материала, а автор — *как его писать*. У каждого типа есть понятная "
 "задача, свои правила и своё место в документации."
-
-#: ../../source/map.rst:62
-msgid "\\"
-msgstr "\\"
 
 #: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"

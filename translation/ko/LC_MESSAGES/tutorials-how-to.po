@@ -78,7 +78,7 @@ msgstr ""
 
 #: ../../source/tutorials-how-to.rst:22
 msgid "Serves development of skill"
-msgstr ""
+msgstr "실무 기술 발달 지원"
 
 #: ../../source/tutorials-how-to.rst:23
 msgid "Serves application of skill"

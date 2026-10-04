@@ -40,11 +40,11 @@ msgstr "操作指南"
 
 #: ../../source/index.rst:78 ../../source/snippets/diagram.rst:40
 msgid "Reference"
-msgstr "参考内容"
+msgstr "参考"
 
 #: ../../source/index.rst:78 ../../source/snippets/diagram.rst:41
 msgid "Explanation"
-msgstr "解释说明"
+msgstr "解释"
 
 #: ../../source/index.rst:78
 msgid "Workflow"
@@ -60,7 +60,7 @@ msgstr "教程和操作指南"
 
 #: ../../source/index.rst:98
 msgid "Reference and explanation"
-msgstr "参考内容和解释说明"
+msgstr "参考和解释"
 
 #: ../../source/index.rst-1
 msgid ""
@@ -86,13 +86,13 @@ msgstr "Diátaxis 是一种关于文档编写的思考与实践方式。"
 
 #: ../../source/index.rst:26
 msgid ":doc:`Help translate Diátaxis <translation>` into your language."
-msgstr ":doc:`Help translate Diátaxis` 到你所使用的语言"
+msgstr ":doc:`帮助翻译 Diátaxis <translation>` 到你所使用的语言。"
 
 #: ../../source/index.rst:28
 msgid ""
 "It prescribes approaches to content, architecture and form that emerge from "
 "a systematic approach to understanding the needs of documentation users."
-msgstr "它从系统化理解文档用户需求出发，提出了内容、架构和形式方面的具体方法。"
+msgstr "它从系统化地理解文档用户的需求出发，提出了内容、架构和形式方面的具体方法。"
 
 #: ../../source/index.rst:31
 msgid ""
@@ -103,7 +103,7 @@ msgid ""
 " needs."
 msgstr ""
 "Diátaxis "
-"区分了四种不同需求，并相应地给出四种文档形式，即：教程、操作指南、技术参考和解释。它把这四种形式系统化地关联起来，主张文档应该直接围绕用户需求的结构来构建。"
+"区分了四种不同的需求，并相应地给出四种文档形式，即：教程、操作指南、参考和解释。它把这四种形式系统化地关联起来，主张文档应该直接围绕用户需求的结构来构建。"
 
 #: ../../source/snippets/diagram.rst:38
 msgid "The Diátaxis map of documentation types"
@@ -120,7 +120,7 @@ msgid ""
 "information-oriented reference. Bottom left: understanding-oriented "
 "explanation."
 msgstr ""
-"这张地图以两条轴线为基准，划分成四个象限。纵向来看，代表了指导行动与陈述事实的文档之间的区别；横向来看，则是面向技能开发和技能运用的文档之间的区别。由此得出四种文档类型：左上为面向学习导向的教程，右上为目标导向的操作指南，右下为信息导向的参考，左下为理解导向的解释。"
+"这张地图以两条轴线为基准，划分成四个象限。纵向来看，代表了指导行动与陈述事实的文档之间的区别；横向来看，则是面向技能开发和技能运用的文档之间的区别。由此得出四种文档类型：左上为以学习为导向的教程，右上为以目标为导向的操作指南，右下为以信息为导向的参考，左下为以理解为导向的解释。"
 
 #: ../../source/snippets/diagram.rst:43
 msgid "Learning-oriented"
@@ -197,13 +197,13 @@ msgstr "这些页面将帮助您快速、具体地理解这一方法。"
 msgid ""
 "This section explores the theory and principles of Diátaxis more deeply, and"
 " sets forth the understanding of needs that underpin it."
-msgstr "本节将进一步深入 Diátaxis 的理论与原则，并阐明其背后的需求认知。"
+msgstr "本节将更深入地探讨 Diátaxis 的理论与原则，并阐明对需求的理解是如何支撑起它的。”"
 
 #: ../../source/index.rst:111
 msgid ""
 "Diátaxis is proven in practice. Its principles have been adopted "
 "successfully in hundreds of documentation projects."
-msgstr "Diátaxis 已在实践中得到验证。其原则已成功应用于数百个文档项目中。"
+msgstr "Diátaxis 历经实战检验，它的原理已在数百个文档项目中成功落地。"
 
 #: ../../source/index.rst:116
 msgid ""
@@ -224,9 +224,9 @@ msgid ""
 "framework, we made it easier for users to discover the resources that they "
 "need when they need them."
 msgstr ""
-"在 Gatsby，我们近期重新组织了开源文档，Diátaxis "
-"框架作为我们的首要参考，贯穿整个项目始终。四象限帮助我们针对每种文档类型，优先考虑用户的目标。通过围绕 Diátaxis "
-"框架重构文档，我们让用户能够更轻松地在需要时找到所需的资源。"
+"在 Gatsby，我们最近重新组织了开源文档，而 Diátaxis "
+"框架成为了我们的首选参考，贯穿整个项目始终。它的四象限帮助我们理清了每种文档类型中所对应的用户目标。通过围绕 Diátaxis "
+"框架重构文档，我们让用户在需要时，能够更轻松地找到他们所需的资源。"
 
 #: ../../source/index.rst:127
 msgid "`Megan Sullivan <https://hachyderm.io/@meganesulli>`_"

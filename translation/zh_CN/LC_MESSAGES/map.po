@@ -12,7 +12,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Diátaxis\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2026-09-04 23:10+0100\n"
+"POT-Creation-Date: 2026-10-04 21:15+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
 "Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
@@ -175,11 +175,7 @@ msgid ""
 "clear what the purpose of any particular piece of content is, it specifies "
 "how it should be written and it shows where it should be placed."
 msgstr ""
-"以这种方式组织材料的一个明显优势在于，它既为读者设定了清晰的预期，也向作者提供了明确的指引。任何具体内容的用途都一目了然，它规定了该内容的写作方式，也指明了它应该放置的位置。"
-
-#: ../../source/map.rst:62
-msgid "\\"
-msgstr "\\"
+"以这种方式组织材料的一个明显优势在于，它既设定了清晰的预期（为读者），也提供了明确的指引（向作者）。任何具体内容的用途都一目了然，它规定了该内容的写作方式，也指明了它应该放置的位置。"
 
 #: ../../source/map.rst:63
 msgid ":ref:`Tutorials <tutorials>`"
