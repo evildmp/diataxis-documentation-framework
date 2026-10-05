@@ -6,6 +6,7 @@
 # Translators:
 # yms, 2026
 # Yufei Li <yufeiminds@gmail.com>, 2026
+# evildmp <daniele@vurt.org>, 2026
 # 
 #, fuzzy
 msgid ""
@@ -14,7 +15,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2026-09-04 23:10+0100\n"
 "PO-Revision-Date: 2026-07-06 20:18+0000\n"
-"Last-Translator: Yufei Li <yufeiminds@gmail.com>, 2026\n"
+"Last-Translator: evildmp <daniele@vurt.org>, 2026\n"
 "Language-Team: Chinese Simplified (https://app.transifex.com/danieleprocida/teams/120528/zh-Hans/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -330,13 +331,13 @@ msgstr "从地图中可以看出："
 msgid ""
 "tutorials and how-to guides are concerned with what the user *does* "
 "(**action**)"
-msgstr "教程和操作指南所关注的，是用户做 *什么*（即 **行动**）。"
+msgstr "教程和操作指南所关注的，是用户做 *什么*\\ （即 **行动**）。"
 
 #: ../../source/start-here.rst:116
 msgid ""
 "reference and explanation are about what the user *knows* (**what is the "
 "case**)"
-msgstr "参考和解释所涉及的，是用户 *知道什么*（即 **实际情况**）。"
+msgstr "参考和解释所涉及的，是用户 *知道什么*\\ （即 **实际情况**）。"
 
 #: ../../source/start-here.rst:118
 msgid "On the other hand:"
@@ -352,7 +353,7 @@ msgstr "教程和解释面向 *学习* (也就是用户的技能 **开发**)"
 msgid ""
 "how-to guides and reference serve *work* (the user's **application** of "
 "skill)"
-msgstr "操作指南和参考面向 *工作*（也就是用户的技能 **运用**）"
+msgstr "操作指南和参考面向 *工作*\\ （也就是用户的技能 **运用**）"
 
 #: ../../source/start-here.rst:123
 msgid ""
