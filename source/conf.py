@@ -9,7 +9,7 @@ author = "Daniele Procida"
 
 # -- General configuration ---------------------------------------------------
 
-extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed", "diataxis_diagram"]
+extensions = ["sphinx_design", "sphinx_reredirects", "atomfeed", "diataxis_diagram", "cjkspace"]
 
 templates_path = ["../_templates"]
 
